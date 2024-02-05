@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "87738dd0ac7f3934",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e6b006927769385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f3bbc85466573d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4bd2773aa8a0ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7ccb219b016c3f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bced553c8d178d7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d7af5abfcf92a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1b3eafb559c3579",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ad513e539ef50ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a78da6d2e287ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3027c64ad6a6caeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41cbd6a3a8d48f27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "580e55dd3e99a478",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b71aa01294745fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "d5f3bbc85466573d",
+  "lastOpenFiles": [
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Curso de Oracle One/Curso de Oracle One.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Untitled.canvas",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Notas De La Universidad/Comunicación de Datos",
+    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Programación Competitiva/Pasted image 20240120110529.png",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
+    "Programación Competitiva/Programación Dinámica/Recursión.md",
+    "2024-01-31.md",
+    "Programación Competitiva/Programación Dinámica/desktop.ini",
+    "Programación Competitiva/Programación Dinámica/Untitled.md",
+    "Programación Competitiva/Programación Dinámica",
+    "Entradas Para El Blog/Por qué usar Obsidian.md",
+    "Entradas Para El Blog/Entradas Para El Blog.md",
+    "Curso de Oracle One/GitHub/Comandos de GitHub.md",
+    "Curso de Oracle One/GitHub/Cómo Funciona.md",
+    "Curso de Oracle One/GitHub/Ramas En Github.md",
+    "Curso de Oracle One/GitHub/GitHub.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Un Equilibrio en la Vida.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Multitasking.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/La Ilusión de Ser Multitarea..md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Enfoque.md",
+    "Curso de Oracle One/Desarrollo Personal/Foco/El poder de la Voluntad.md",
+    "Entradas Para El Blog/desktop.ini",
+    "Entradas Para El Blog",
+    "Astro/desktop.ini",
+    "Astro",
+    "Notas De La Universidad/desktop.ini",
+    "Notas De La Universidad",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 1.png",
+    "Curso de Oracle One/GitHub/desktop.ini",
+    "Pasted image 20240120110529.png",
+    "meme.jpeg",
+    "Comparation.png"
+  ]
+}
