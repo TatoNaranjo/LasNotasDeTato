@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiImageFill",
       "RiJavascriptLine",
       "RiFlag2Line",
       "RiRocketFill",
-      "RiArticleFill",
-      "RiBarChartFill"
+      "RiArticleFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
   "Programación Competitiva": "RiBarChartFill",
   "Astro": "RiRocketFill",
   "Programación Competitiva/Repasos con Juan": "RiFlag2Line",
-  "Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine"
+  "Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
+  "Notas De La Universidad/Comunicación de Datos/Imagenes": "RiImageFill"
 }

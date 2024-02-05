@@ -1,9 +1,15 @@
 La [[Comunicación de Datos]] es una forma de pasar información a través de un medio (Transferir Datos). No solo se remonta al ámbito tecnológico, pues los datos se transfieren en todo el mundo partiendo desde una escala natural.
 
+```table-of-contents
+```
+
+
 Los sonidos **graves** con frecuencias altas tienden a llegar más lejos porque pueden esquivar los obstáculos. A diferencia de los **agudos**, que tratan de atravesar el objeto a toda costa.
 # Cómo se transfiere la información ahora?
 
-La comunicación de datos se basa en la intencionalidad de la transmisión. ¿Cuál es el sentido de lo que queremos comunicar?. La comunicación de datos se basa en crear una necesidad de enviar un mensaje. Antes, era posicionado como un ámbito global, aunque con el paso del tiempo se fue transformando hasta lo que en la actualidad se conocen como Aldeas. 
+La comunicación de datos se basa en la intencionalidad de la transmisión. ¿Cuál es el sentido de lo que queremos comunicar? Debido a esta pregunta se genera una necesidad que debe de ser contestada. Antes, el hecho de comunicarse o adquirir un conocimiento se remontaba a un ámbito global en el que las personas debían viajar si querían descubrir nuevas cosas, pero con el paso del tiempo, ese concepto se fue transformando hasta lo que en la actualidad se conocen como Aldeas. 
+
+## ¿Qué son las Aldeas?
 
 Las aldeas son pequeños espacios en donde se rompe la barrera del espacio y el tiempo, pues para saber más información sobre el mundo que nos rodea ya no es necesario viajar debido a que existe el internet.
 Sin embargo gracias a la llegada masiva de diferentes herramientas y los recursos que tenemos hoy en día al alcance de un click, la comunicación se ha vuelto uno de los eslabones más fáciles de crearse así como también de destruirse.
@@ -13,10 +19,16 @@ Sin embargo gracias a la llegada masiva de diferentes herramientas y los recurso
 ### Automatización 
 
 La información es el bien más importante que existe en la actualidad, y la automatización es la parte más esencial en cualquier tipo de proceso.
+
+## Tipos de Señales
+
+![[tiposDeSeñales.png]]
 #### Señales Análogas
-Podemos medir una señal, y tendría diferentes números y señales en el mismo momento.
+
+Es aquel tipo de señal que al medirse en el momento exacto pero con diferentes dispositivos, presenta una variación en sus respuestas sin efectuar cambios bruscos en su valor. Imagina el ejemplo de un fluviómetro o un medidor de voltaje, pues al momento de medir la energía o el nivel del mar no podemos definir un número exacto y estático en el margen del tiempo, así mismo estas mediciones no cambian de manera abrupta debido a que oscilan dentro de un rango específico a diferencia de las señales digitales.
 #### Señales Digitales
-Están basadas en unos y ceros. 
+
+Son señales análogas que entregan sus resultados basados en unos o ceros. Es decir, que lo que en un principio se concibe como una señal análoga, se transforma a partir de una necesidad de entregar un resultado preciso, exacto y medible. Imagina el ejemplo de una grabación de audio: al principio cuando una voz o un instrumento producen el sonido que va a ser grabado, se genera una señal análoga ya que el sonido depende de una frecuencia y una amplitud que varía con el tiempo; sin embargo al momento de almacenar ese sonido se hace una conversión a una señal analógica representada por bits de estados conformados por unos y ceros.
 
 # Actividad
 
