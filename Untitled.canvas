@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"f171437652081683","x":240,"y":1220,"width":250,"height":60,"type":"text","text":"Notas de La Universidad"},
+		{"id":"2486e43644059443","x":-365,"y":1400,"width":420,"height":260,"type":"file","file":"Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md"},
+		{"id":"fe6c058c05f39a6b","x":-840,"y":1800,"width":400,"height":400,"type":"file","file":"Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md"}
+	],
+	"edges":[
+		{"id":"0fea8f9879d9cd7d","fromNode":"f171437652081683","fromSide":"bottom","toNode":"2486e43644059443","toSide":"top"},
+		{"id":"48412dcf5f04268c","fromNode":"2486e43644059443","fromSide":"bottom","toNode":"fe6c058c05f39a6b","toSide":"top"}
+	]
+}

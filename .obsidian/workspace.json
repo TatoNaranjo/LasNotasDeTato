@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6b006927769385",
+        "id": "3373ec2379688c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f3bbc85466573d",
+            "id": "f4abe0cac904df05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md"
+              }
             }
           }
         ]
@@ -141,15 +149,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5f3bbc85466573d",
+  "active": "f4abe0cac904df05",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Curso de Oracle One/Curso de Oracle One.md",
-    "Programación Competitiva/Programación Competitiva.md",
-    "Untitled.canvas",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Comunicación de Datos",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
@@ -175,7 +183,6 @@
     "Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
     "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
     "Curso de Oracle One/Desarrollo Personal/Foco/Enfoque.md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/El poder de la Voluntad.md",
     "Entradas Para El Blog/desktop.ini",
     "Entradas Para El Blog",
     "Astro/desktop.ini",
