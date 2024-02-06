@@ -1,3 +1,4 @@
+Estructura básica y pautas para el proyecto de [[Ingeniería de Software II]]
 ### Ciclo de vida del software / Estructura del Proyecto
 En el proyecto a realizar, debemos seguir las diferentes fases del ciclo de Vida del Software.
 
@@ -18,5 +19,10 @@ Backend -> ***API REST, .NET Core 4.6***
 Front-End -> ***.NET, Angular, Laravel, React***
 
 Equipos máximos de 4 personas.
+
+## Ideas de Tecnologías para el proyecto:
+
+- Base de Datos -> MongoDB
+- Creación de API -> NodeJS con Express
 
 

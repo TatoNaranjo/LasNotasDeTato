@@ -3,6 +3,7 @@ tags:
   - Apuntes
   - Materias
 ---
+Parte de mis [[Notas De La Universidad]]
 # Profesor: Oscar Gomez
 
 3138582047

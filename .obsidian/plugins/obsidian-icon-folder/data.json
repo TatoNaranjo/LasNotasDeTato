@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiPenNibFill",
+      "RiListCheck",
       "RiComputerFill",
       "RiQuestionMark",
-      "RiCouponFill",
-      "RiImageFill",
-      "RiJavascriptLine"
+      "RiCouponFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,7 @@
   "Notas De La Universidad/Comunicación de Datos/Imagenes": "RiImageFill",
   "Curso de Oracle One": "RiCouponFill",
   "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md": "RiQuestionMark",
-  "Notas De La Universidad/Ingeniería de Software II": "RiComputerFill"
+  "Notas De La Universidad/Ingeniería de Software II": "RiComputerFill",
+  "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md": "RiListCheck",
+  "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill"
 }

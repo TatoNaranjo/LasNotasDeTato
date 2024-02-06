@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Qué es Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,12 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Qué es Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Qué es Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Qué es Ingeniería de Software II.md"
+                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md"
               }
             }
           }
@@ -146,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,15 +163,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b71aa01294745fff",
+  "active": "63dedf53029f093f",
   "lastOpenFiles": [
+    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
+    "A.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Ingeniería de Software II/Qué es Ingeniería de Software II.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Ingeniería de Software II",
     "piecesdb.json",
     "Curso de Oracle One/Curso de Oracle One.md",
@@ -200,8 +202,6 @@
     "Programación Competitiva/Programación Dinámica",
     "Entradas Para El Blog/Por qué usar Obsidian.md",
     "Curso de Oracle One/GitHub/Comandos de GitHub.md",
-    "Curso de Oracle One/GitHub/Cómo Funciona.md",
-    "Curso de Oracle One/GitHub/Ramas En Github.md",
     "Entradas Para El Blog/desktop.ini",
     "Entradas Para El Blog",
     "Astro/desktop.ini",

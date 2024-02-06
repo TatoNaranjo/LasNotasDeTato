@@ -1,4 +1,4 @@
-# Comunicación de Datos
+# [[Comunicación de Datos]]
 
 Es el proceso de intercambio de información entre dos dispositivos a través de un medio de transmisión involucra la transmisión. Involucra la transmisión, recepción y procesamiento de datos para lograr la transferencia de información.
 
