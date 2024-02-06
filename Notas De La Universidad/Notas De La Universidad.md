@@ -4,5 +4,3 @@ tags:
   - Estudio
   - Apuntes
 ---
-```folder-index-content
-```
