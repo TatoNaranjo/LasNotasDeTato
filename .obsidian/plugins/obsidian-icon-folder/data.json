@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiQuestionMark",
+      "RiCouponFill",
       "RiImageFill",
       "RiJavascriptLine",
-      "RiFlag2Line",
-      "RiRocketFill",
-      "RiArticleFill"
+      "RiFlag2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,7 @@
   "Astro": "RiRocketFill",
   "Programación Competitiva/Repasos con Juan": "RiFlag2Line",
   "Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
-  "Notas De La Universidad/Comunicación de Datos/Imagenes": "RiImageFill"
+  "Notas De La Universidad/Comunicación de Datos/Imagenes": "RiImageFill",
+  "Curso de Oracle One": "RiCouponFill",
+  "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md": "RiQuestionMark"
 }
