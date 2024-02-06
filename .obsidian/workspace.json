@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md"
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md"
               }
             }
           }
@@ -146,11 +147,14 @@
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "91eec3f7ecf1515c",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Curso de Oracle One/Curso de Oracle One.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
@@ -158,7 +162,6 @@
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Astro/Astro.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Programación Competitiva/Programación Competitiva.md",
@@ -185,7 +188,6 @@
     "Curso de Oracle One/GitHub/Ramas En Github.md",
     "Curso de Oracle One/GitHub/GitHub.md",
     "Curso de Oracle One/Desarrollo Personal/Foco/Un Equilibrio en la Vida.md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/Multitasking.md",
     "Entradas Para El Blog/desktop.ini",
     "Entradas Para El Blog",
     "Astro/desktop.ini",
