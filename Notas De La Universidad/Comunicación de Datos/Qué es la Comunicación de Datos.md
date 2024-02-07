@@ -3,7 +3,7 @@
 
 La [[Comunicación de Datos]] es una forma de pasar información a través de un medio (Transferir Datos). No solo se remonta al ámbito tecnológico, pues los datos se transfieren en todo el mundo partiendo desde una escala natural.
 
-**Índice**
+***Índice***
 
 ```table-of-contents
 ```

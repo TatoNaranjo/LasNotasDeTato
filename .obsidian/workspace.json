@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91eec3f7ecf1515c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63dedf53029f093f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md"
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md"
               }
             }
           }
@@ -163,54 +150,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "63dedf53029f093f",
+  "active": "b71aa01294745fff",
   "lastOpenFiles": [
+    "Notas De La Universidad/Networking/Networking.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Networking/Qué es el Internet.md",
+    "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
+    "Notas De La Universidad/Networking/Fundamentos del Networking.md",
+    "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Networking/Imagenes",
+    "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
+    "Curso de Oracle One/Desarrollo Personal/Aprender a Aprender/MindSet.md",
+    "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
+    "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Networking",
+    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
     "A.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Notas De La Universidad/Ingeniería de Software II",
     "piecesdb.json",
-    "Curso de Oracle One/Curso de Oracle One.md",
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Herramientas Útiles.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
-    "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Astro/Astro.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Programación Competitiva/Programación Competitiva.md",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/Imagenes.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
     "Untitled.canvas",
     "Notas De La Universidad/Comunicación de Datos",
     "Programación Competitiva/Pasted image 20240120110529.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
-    "Programación Competitiva/Programación Dinámica/Recursión.md",
-    "2024-01-31.md",
     "Programación Competitiva/Programación Dinámica/desktop.ini",
-    "Programación Competitiva/Programación Dinámica/Untitled.md",
     "Programación Competitiva/Programación Dinámica",
-    "Entradas Para El Blog/Por qué usar Obsidian.md",
-    "Curso de Oracle One/GitHub/Comandos de GitHub.md",
     "Entradas Para El Blog/desktop.ini",
     "Entradas Para El Blog",
-    "Astro/desktop.ini",
-    "Astro",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 1.png",
-    "Pasted image 20240120110529.png",
-    "meme.jpeg"
+    "Pasted image 20240120110529.png"
   ]
 }
