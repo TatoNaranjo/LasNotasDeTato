@@ -5,9 +5,50 @@ Hay dos formas de definir este concepto, la primera es hablando de la capa de ha
 
 El Internet es una red de computadores que interconecta a millones de dispositivos informáticos a través del mundo. Al inicio, estos dispositivos se limitaban a ser computadoras de escritorio, estaciones de trabajo de Linux y los servidores cuyo trabajo radica en almacenar y transmitir información como páginas web y correos electrónicos. Sin embargo hoy en día podemos decir que cada vez hay más dispositivos no tradicionales conectándose, como electrodomésticos, gafas, vehículos, relojes, etc. Todo dispositivo que se conecte a internet, acuña el término de **Host** o **Sistema Terminal**.
 
+### ¿Cómo se conectan los Sistemas Terminales entre sí?
+
 Un **Sistema Terminal** se conecta con otro por medio de una red de **Enlaces de Comunicaciones** y **conmutadores de paquetes**. Los enlaces de comunicaciones se componen de diferentes medios físicos como lo pueden ser el cable coaxial, el hilo de cobre, la fibra óptica o el espectro de radio. Estos enlaces pueden transmitir datos a diferentes velocidades, y la **Velocidad de Transmisión** de un enlace se mide en bits/segundo. Cuando un sistema terminal tiene que enviar datos a otro sistema terminal, el emisor segmenta la información y añade bytes de cabecera a cada segmento. Los paquetes de información resultante, conocidos como **paquetes** se envían a través de la red hasta que llegan al sistema terminal receptor, en donde este último realiza un proceso de conversión para volver a ensamblar los datos y obtener los datos originales.
 
 Los encargados de recibir y enviar esta información son los **conmutadores de paquetes**, cuyo proceso consiste en tomar un paquete que recibe por medio de uno de sus enlaces de comunicaciones de entrada, y reenviarlo a través de uno de sus enlaces de comunicaciones de salida. Normalmente los conmutadores de paquetes suelen venir en muchos modelos, pero los más conocidos suelen ser los **Routers** y los **Switches de Capa de Enlace**.
 
 ![[componentesDeInternet.png]]
 
+La secuencia de enlaces de comunicaciones y conmutadores de paquetes que atraviesa una red desde un sistema terminal emisor hasta un sistema terminal receptor se conoce como **ruta** a través de la red.
+
+### Las redes son un sistema de mensajería
+
+Las redes de comunicación de paquetes (que transforman paquetes) se puede definir como una analogía de una red de transporte formada por autopistas, intersecciones y camiones que deben enviar un elemento hacia algún lado.
+
+Imagina que una empresa/fábrica necesita transportar un cargamento de mercancía a un almacén de destino que se encuentra a miles de kilómetros. En esta fábrica, cada cargamento se divide y se carga en flotas de camiones. Cada camión lleva la información de forma independiente a través de las autopistas y las intersecciones siguiendo su propia ruta. Cuando todos llegan al almacén de destino, la mercancía se vuelve a juntar con el resto del cargamento correspondiente al lote de envío. De cierta forma, los paquetes son como los camiones, los enlaces de comunicaciones son como las autopistas o las carreteras, los dispositivos de conmutación son como las intersecciones y los sistemas terminales son el equivalente de las empresas/fábricas. Al igual que un camion sigue una ruta a través de una carretera, un paquete sigue una ruta a través de una red de computadores
+
+### ¿Cómo accede un Sistema Terminal a Internet?
+
+Los sistemas terminales acceden a por medio de un **Proveedor de Servicios de Internet**, o **ISP** (***Internet Service Provider***). Los ISP se pueden dividir en diferentes categorías según el medio al cual le prestan un servicio. Por ejemplo, están los ISP residenciales, ISP corporativos, ISP universitarios, ISP que proporcionan acceso inalámbrico en lugares públicos como aeropuertos, cafeterías, hoteles, o los ISP de datos móviles, que proporcionan acceso móvil a nuestros teléfonos inteligentes y otros dispositivos.
+
+Cada ISP es en sí mismo una red de conmutadores de paquetes y enlaces de comunicaciones. Los ISP ofrecen una amplia variedad de tipos de acceso a la red, como pueden ser algunos: El acceso de ancho de banda residencial mediante modem o cable DSL, el acceso LAN (***Local Area Network***, o ***Red de Area Local***) de alta velocidad, y el acceso inalámbrico para dispositivos móviles. 
+
+> Los ISP también proporcionan una conexión a internet a los proveedores de contenido que ofrecen un servicio, permitiendo conectar su sitio web y sus servidores de video directamente a la internet. 
+
+El objetivo de Internet es conectar a los diferentes Sistemas Terminales entre sí, y debido a que los ISP son en sí un sistema terminal, necesitan interconectarse los unos a los otros entre sí. Todos estos ISP mencionados anteriormente son de un nivel inferior, por lo que se conectan a una ISP de nivel superior a escala nacional e internacional, como Level 3 Communications AT&T, Sprint y NTT. Los ISP de niveles superiores están conformados por routers de alta velocidad interconectados a través de enlaces de fibra óptica de alta velocidad. La red de cada ISP, ya sea de nivel inferior o superior, se administra de forma independiente, ejecuta el protocolo **IP** y se ajusta a determinados convenios de denominación y asignación de direcciones.
+
+### ¿Cuál es el estándar que sigue un Sistema Terminal para la transmisión de datos?
+
+Los sistemas terminales, los conmutadores de paquetes y otros dispositivos ejecutan **protocolos** que controlan el envío y la recepción de información dentro de internet. El protocolo **TCP** (***cTransmission Control Protocol***,  o ***Protocolo de Control de transmisión***) y el protocolo **IP** (***Internet Protocol***, o ***Protocolo de Internet***) son dos de los más importantes protocolos de internet.
+
+> *El protocolo **IP** especifica el formato en el que los paquetes se envían y se reciben entre los routers y los sistemas terminales. Los principales protocolos de internet se conocen de manera colectiva como **TCP/IP**.*
+
+Gracias a la importancia de los protocolos, es necesario que todo el mundo se ponga de acuerdo respecto a la forma en la que funcionan, para que la gente pueda crear productos y sistemas capaces de interoperar. Es aquí donde entran en juego los **Estándares**. Los **Estándares** de internet son desarrollados por el IETF (***Internet Engineering Task Force,*** o ***Grupo De Trabajo de Ingeniería de Internet***). Los documentos designados para estos estándares se conocen como documentos **RFC** (***Requests for Comments***, o ***Solicitud de Comentarios***). Los RFC nacieron como solicitudes de comentarios para solucionar los problemas de diseño de la red y de los protocolos a los que se enfrentó el precursor de internet.
+
+## Descripción de los servicios
+
+También se puede describir a la Internet como ***Una Infraestructura que proporciona servicios a las aplicaciones***. Además de aplicaciones tradicionales como el correo electrónico y la navegación web, las aplicaciones de internet abarcan aplicaciones para tabletas, y teléfonos móviles inteligentes, incluyendo la mensajería por Internet, mapas con información de Tráfico en tiempo real, reproducción de música desde la nube, reproducción de películas y programas de televisión a través de internet por medio del streaming, redes sociales en línea, videoconferencias, juegos en línea y sistemas de recomendación basados en la ubicación del dispositivo. 
+
+Se dice que estas aplicaciones son **Aplicaciones Distribuidas** porque implican a varios sistemas terminales que envían datos entre sí. También es relevante aclarar que las aplicaciones distribuidas se ejecutan en los sistemas terminales, no en los conmutadores de paquetes que forman el núcleo de la red. Aunque los conmutadores de paquetes faciliten la transmisión de información entre sistemas terminales, no se preocupan por la aplicación o sistema que esté actuando como origen o destino de dicha información.
+
+### La relación entre una Aplicación Distribuida y el Envío de Datos a Internet
+
+Al momento de crear una aplicación distribuida de internet, tenemos una finalidad que nos llevará por el camino de construir la herramienta. Sin embargo, si pensamos compartir datos entre diferentes sistemas terminales tenemos que hacer que nuestra aplicación se comunique por medio de algún método, ¿no?. Es aquí donde llegamos a la forma alternativa de describir a la internet como una infraestructura que proporciona servicios a nuestra aplicación, una plataforma de aplicaciones.
+
+#### ¿Cómo hace un programa que se ejecuta en un sistema terminal para ordenar a Internet que entregue datos a otro programa que se ejecuta en otro sistema terminal?
+
+Los sistemas conectados a internet proporcionan una **Interfaz de Sockets** que especifica la manera en la que un programa de software que se ejecuta en un sistema terminal, pide a la infraestructura de internet que suministre datos a un programa de destino específico que se está ejecutando en otra terminal.
