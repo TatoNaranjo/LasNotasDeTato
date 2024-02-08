@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e1e1b58edc8d73d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md"
+                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md"
               }
             }
           },
@@ -158,12 +166,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bced553c8d178d7b",
+  "active": "a7b85fd9813cfb38",
   "lastOpenFiles": [
+    "Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Emprendimiento e Innovación I",
+    "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
     "Notas De La Universidad/Networking/Networking.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "2024-02-07.md",
     "Programación Competitiva/Programación Competitiva.md",
@@ -190,7 +201,6 @@
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
     "Astro/Astro.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
     "Untitled.canvas",
@@ -201,11 +211,9 @@
     "Programación Competitiva/Programación Dinámica/desktop.ini",
     "Programación Competitiva/Programación Dinámica",
     "Entradas Para El Blog/desktop.ini",
-    "Entradas Para El Blog",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 1.png",
-    "Pasted image 20240120110529.png"
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 1.png"
   ]
 }
