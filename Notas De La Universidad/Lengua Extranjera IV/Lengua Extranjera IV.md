@@ -16,5 +16,7 @@ Present in oral ways, and in writing ways.
 Be efficient with the time, cause there are many activities during the day.
 he assign the labors, and pick the paper on the days assigned
 
-## Platforms: Teams & Moodle
-
+## Platforms
+Teams & Moodle
+## Build Work Teams
+Maximum 3 or 4.
