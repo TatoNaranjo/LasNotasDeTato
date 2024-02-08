@@ -51,4 +51,24 @@ Al momento de crear una aplicación distribuida de internet, tenemos una finalid
 
 #### ¿Cómo hace un programa que se ejecuta en un sistema terminal para ordenar a Internet que entregue datos a otro programa que se ejecuta en otro sistema terminal?
 
-Los sistemas conectados a internet proporcionan una **Interfaz de Sockets** que especifica la manera en la que un programa de software que se ejecuta en un sistema terminal, pide a la infraestructura de internet que suministre datos a un programa de destino específico que se está ejecutando en otra terminal.
+Los sistemas terminales conectados a internet proporcionan una **Interfaz de Sockets** que especifica la manera en la que un programa de software que se ejecuta en un sistema terminal, pide a la infraestructura de internet que suministre datos a un programa de destino específico que se está ejecutando en otra terminal. La interfaz de sockets es un conjunto de reglas que el programa debe de cumplir para que Internet pueda entregar esos datos al programa de destino.
+
+#### Es como enviar una carta
+
+Supongamos que quieres enviar una carta a otra persona o usando el servicio postal. No puedes simplemente escribir la carta (los datos) y lanzarla por la ventana. En lugar de eso, el servicio postal exige que introduzcas la carta en un sobre, introduzcas el nombre completo del receptor y pegues un sello en la esquina superior del sobre. por último, deberás introducir ese sobre en un buzón oficial del servicio postal. Por lo tanto, esa oficina tiene un conjunto de reglas, o *"Interfaz de Servicio Postal"* que debes de seguir si es que quieres enviar la información de manera correcta, y que llegue de manera correcta.
+
+Así mismo, Internet tiene una interfaz de sockets que el programa que envía los datos debe seguir, para que Internet entregue los datos al programa que debe recibirlos.
+
+## ¿Qué es un protocolo?
+### Explicación usando una Analogía Humana
+
+Es sencillo explicar la definición de un protocolo usando una analogía humana, ya que nosotros usamos analogías todo el tiempo para comunicarnos. Pensemos en lo que debemos hacer para por ejemplo, preguntarle la hora a alguien. El protocolo entre personas dicta que para iniciar un proceso de comunicación con alguien lo primero que se debe hacer es saludar. La respuesta típica a este saludo también será *"hola"*. Implícitamente, el saludo se toma como señal de si se debe continuar la conversación o no.
+![[protocolo Humano y de Red.png]]
+
+Una respuesta diferente a un *"Hola"*, como por ejemplo un "*No me moleste*" *o un "No Hablo su Idioma"* puede indicar una falta de disposición o una incapacidad para comunicarse. En ese caso, el protocolo de comunicaciones indica que no debe preguntarse la hora. O a veces, simplemente no tendremos respuesta alguna, por lo que a simple vista podemos optar por renunciar a preguntar a esa persona qué hora es. En los protocolos entre personas *existen ciertos mensajes específicos que enviamos y acciones específicas que recibimos como respuesta a los mensajes de contestación recibidos o a otros sucesos.* Esta idea es aplicable a las redes de un igual modo, para que una tarea se lleve a cabo hacen falta dos entidades comunicándose bajo un mismo protocolo.
+
+### Protocolos de Red
+
+Un protocolo de red es similar a un protocolo humano, excepto porque las entidades que intercambian mensajes y llevan a cabo las acciones son componentes de hardware o software de cierto dispositivo. Cualquier actividad de internet que implique a dos o más entidades remotas que se comunican está gobernada por un protocolo. Por ejemplo, los protocolos implementados por el hardware en las tarjetas de interfaz de red de dos computadoras conectadas físicamente controlan el flujo de bits a través del "cable" conectado entre las dos tarjetas de interfaz de red. Los protocolos de control de congestión de los sistemas terminales controlan la velocidad de transmisión de los paquetes entre el emisor y el receptor; los protocolos de los routers determinan la ruta que seguirá un paquete desde el origen hasta el destino.
+
+>***Un protocolo define el formato y el orden de los mensajes intercambiados entre dos o más entidades que se comunican, así como las acciones tomadas al producirse la transmisión y/o recepción de un mensaje u otro suceso.***

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37c7efb8b1f39818",
+        "id": "3b2cd08b89d95f62",
         "type": "tabs",
         "children": [
           {
-            "id": "63dedf53029f093f",
+            "id": "a7b85fd9813cfb38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,12 +158,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "63dedf53029f093f",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
-    "Notas De La Universidad/Networking/Qué es el Internet.md",
-    "2024-02-07.md",
+    "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
     "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Networking/Qué es el Internet.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "2024-02-07.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
@@ -174,7 +176,6 @@
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Networking",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
@@ -190,7 +191,6 @@
     "Astro/Astro.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
     "Untitled.canvas",
