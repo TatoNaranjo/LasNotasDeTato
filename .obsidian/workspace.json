@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2cd08b89d95f62",
+        "id": "7c2c4e7f246dde65",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b85fd9813cfb38",
+            "id": "5140dd82c7fd21e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,14 +20,19 @@
             }
           },
           {
-            "id": "e1e1b58edc8d73d5",
+            "id": "ba68d44ec5a9ca27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md"
+                "file": "Notas De La Universidad/Networking/Qué es el Internet.md"
               }
             }
           },
@@ -166,41 +171,41 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a7b85fd9813cfb38",
+  "active": "ba68d44ec5a9ca27",
   "lastOpenFiles": [
+    "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Curso de Oracle One/Curso de Oracle One.md",
     "Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Entradas Para El Blog/Entradas Para El Blog.md",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
     "Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Emprendimiento e Innovación I",
     "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
-    "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "2024-02-07.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
     "Notas De La Universidad/Networking/Imagenes",
     "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
     "Curso de Oracle One/Desarrollo Personal/Aprender a Aprender/MindSet.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
-    "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Networking",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
     "A.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Entradas Para El Blog/Entradas Para El Blog.md",
     "Notas De La Universidad/Ingeniería de Software II",
     "piecesdb.json",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Herramientas Útiles.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
     "Astro/Astro.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
     "Untitled.canvas",

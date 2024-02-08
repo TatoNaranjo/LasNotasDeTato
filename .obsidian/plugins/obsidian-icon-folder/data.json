@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGitRepositoryPrivateLine",
+      "RiMoneyDollarCircleLine",
       "RiSignalWifiFill",
       "RiSingleQuotesL",
-      "RiRemoteControlLine",
-      "RiPenNibFill",
-      "RiListCheck"
+      "RiRemoteControlLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,7 @@
   "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill",
   "Notas De La Universidad/Networking": "RiRemoteControlLine",
   "Notas De La Universidad": "RiSingleQuotesL",
-  "Notas De La Universidad/Networking/Qué es el Internet.md": "RiSignalWifiFill"
+  "Notas De La Universidad/Networking/Qué es el Internet.md": "RiSignalWifiFill",
+  "Emprendimiento e Innovación I": "RiMoneyDollarCircleLine",
+  "Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine"
 }
