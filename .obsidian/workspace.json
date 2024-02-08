@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2c4e7f246dde65",
+        "id": "7c221c59838cec82",
         "type": "tabs",
         "children": [
           {
-            "id": "5140dd82c7fd21e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emprendimiento e Innovación I/Silabus y Metodología.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba68d44ec5a9ca27",
+            "id": "62824fe3ddcf2128",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dcda2c3bc8cc21e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Estudio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,30 +166,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "62824fe3ddcf2128",
   "lastOpenFiles": [
+    "Notas De La Universidad/Networking/Networking.md",
+    "Untitled.canvas",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "copilot-conversations/copilot-conversations.md",
     "Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "copilot-conversations/copilot-conversations.md",
     "Notas De La Universidad/Lengua Extranjera IV",
     "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
     "copilot-conversations/Chat-2024_02_08-12_47_54.md",
     "copilot-conversations",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Networking/Networking.md",
     "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Curso de Oracle One/Curso de Oracle One.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
     "Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Emprendimiento e Innovación I",
     "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
     "2024-02-07.md",
-    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
     "Notas De La Universidad/Networking/Imagenes",
     "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
@@ -206,12 +201,10 @@
     "Notas De La Universidad/Networking",
     "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
     "A.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Ingeniería de Software II",
     "piecesdb.json",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
-    "Untitled.canvas",
     "Notas De La Universidad/Comunicación de Datos",
     "Programación Competitiva/Pasted image 20240120110529.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",

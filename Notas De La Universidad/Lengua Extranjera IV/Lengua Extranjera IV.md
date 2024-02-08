@@ -1,11 +1,14 @@
 ---
-tags: MOCs
+tags:
+  - Estudio
+  - Apuntes
+  - Materias
 ---
-Parte de mis [[Notas De La Universidad]]
+Parte de mis [[Notas De La Universidad]].
 # Professor: Daniel Arturo Quecán Castellanos
-dquecan@ucundinamarca.edu.co
+**Correo:** dquecan@ucundinamarca.edu.co
 
-it is about cultural aspects and representation about of this topics.
+it's about cultural aspects and representation about of this topics.
 
 **I have 2 be the monitor of this subject.**
 
@@ -19,4 +22,6 @@ he assign the labors, and pick the paper on the days assigned
 ## Platforms
 Teams & Moodle
 ## Build Work Teams
-Maximum 3 or 4.
+Maximum 3 or 4, only one person submit the tasks.
+
+If there are virtual classes, it will be announced one day before. He'll communicate me if the class cancels or if it is on teams platform.
