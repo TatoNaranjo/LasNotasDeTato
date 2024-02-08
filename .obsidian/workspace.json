@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md",
+                "file": "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Networking/Qué es el Internet.md"
+                "file": "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,25 +172,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba68d44ec5a9ca27",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "copilot-conversations/copilot-conversations.md",
+    "Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Notas De La Universidad/Lengua Extranjera IV",
+    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "copilot-conversations/Chat-2024_02_08-12_47_54.md",
+    "copilot-conversations",
+    "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Curso de Oracle One/Curso de Oracle One.md",
-    "Emprendimiento e Innovación I/Silabus y Metodología.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
     "Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Emprendimiento e Innovación I",
-    "Notas De La Universidad/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "2024-02-07.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
-    "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Networking/Imagenes",
     "Curso de Oracle One/Desarrollo Personal/Foco/Éxito y Disciplina.md",
     "Curso de Oracle One/Desarrollo Personal/Aprender a Aprender/MindSet.md",
@@ -200,12 +207,8 @@
     "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
     "A.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Ingeniería de Software II",
     "piecesdb.json",
-    "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Herramientas Útiles.md",
-    "Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
-    "Astro/Astro.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
     "Untitled.canvas",
@@ -214,8 +217,6 @@
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
     "Programación Competitiva/Programación Dinámica/desktop.ini",
-    "Programación Competitiva/Programación Dinámica",
-    "Entradas Para El Blog/desktop.ini",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",

@@ -3,14 +3,14 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiLanguage",
       "RiGitRepositoryPrivateLine",
       "RiMoneyDollarCircleLine",
       "RiSignalWifiFill",
-      "RiSingleQuotesL",
-      "RiRemoteControlLine"
+      "RiSingleQuotesL"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Notas De La Universidad": "RiSingleQuotesL",
   "Notas De La Universidad/Networking/Qué es el Internet.md": "RiSignalWifiFill",
   "Emprendimiento e Innovación I": "RiMoneyDollarCircleLine",
-  "Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine"
+  "Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine",
+  "Notas De La Universidad/Lengua Extranjera IV": "TiLanguage"
 }
