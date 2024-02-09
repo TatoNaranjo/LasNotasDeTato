@@ -12,11 +12,11 @@ Tipo de Búsqueda usado en [[Programación Competitiva]] para elementos organiza
 int numbers[] = {1,2,3,4,5,6,7,8,9,10};
 int n = numbers.size()-1;
 int k; // La variable que queremos buscar en el array.
-int left = 0; int right = n;
-while(left<=right){
+int left = -1; int right = n;
+while(right-left>1){
 	int mid = (left+right)/2;
-		if(numbers[mid]>k)r = mid-1;
-		else l = mid+1;
+		if(numbers[mid]>k)r = mid;
+		else l = mid;
 }
 ```
 
@@ -52,8 +52,16 @@ while left <= right:
  - El problema se resuelve de la misma manera en todas las posibilidades hasta el punto en el que ya no se puede más.
 
 Imagina que tienes un conjunto de elementos, y estás buscando que se cumpla una condición. Esa condición tiene un rango en el se puede cumplir, y otro rango en el que no.
+#### Generalización de la Propiedad Binaria
 
-La manera de pensarlo es, si tienes un índice en el que la condición de ``mid`` se cumple, puedes iterar sobre los demás elementos porque la condición puede cumplirse desde la posición `mid` hasta `n`, en donde `n` es el límite del rango que queremos buscar.
+Un punto a favor sobre la búsqueda binaria es que es una herramienta que no solo se puede utilizar para satisfacer una búsqueda sino también, para satisfacer un problema de este tipo:
+
+Teniendo un espacio de búsqueda en un rango determinado por $l$ y $r$ donde $l$ es el límite inferior y $r$ es el límite superior, y una expresión booleana  $f(x)$ que satisface una propiedad; si $f(y)$ no se cumple, entonces $f(y-1)$ tampoco lo hará. Deseamos encontrar el valor mínimo de $z$ teniendo en cuenta que la expresión $f(z)$ se cumple.
+
+La idea general de la propiedad binaria es que si una condición se cumple para un elemento $x$, para todos los elementos adelante de el también se cumplirán debido a que los elementos están organizados de forma ascendente. La generalización se puede representar por medio de la siguiente gráfica:
+
+ ![[binaryProperty.png]]
+
 
 #### Un ejemplo de la vida cotidiana:
 
@@ -113,9 +121,9 @@ En caso de que `max < min`, nos daremos cuenta de que el elemento que buscamos n
 
 #### Entendiendo la Complejidad Algorítmica:
 
-Una *Búsqueda Lineal* de un arreglo de `n` elementos puede tomar hasta `n` intentos, así que como ya sabemos, la búsqueda binaria hace menos intentos que una búsqueda lineal.
+Una *Búsqueda Lineal* de un arreglo de $n$ elementos puede tomar hasta $n$ intentos, así que como ya sabemos, la búsqueda binaria hace menos intentos que una búsqueda lineal.
 
-La idea base de este concepto es que si la búsqueda hace un intento incorrecto, la porción del arreglo que contiene los intentos razonables se reduce a la mitad, omitiendo todos los elementos que no pueden ser  posibles. Si la porción razonable tenía un tamaño de `32` elementos y la búsqueda produce un resultado incorrecto, la búsqueda pasa a ser en un tamaño de `16` y así sucesivamente.
+La idea base de este concepto es que si la búsqueda hace un intento incorrecto, la porción del arreglo que contiene los intentos razonables se reduce a la mitad, omitiendo todos los elementos que no pueden ser  posibles. Si la porción razonable tenía un tamaño de $32$ elementos y la búsqueda produce un resultado incorrecto, la búsqueda pasa a ser en un tamaño de $16$ y así sucesivamente.
 
 Interpretando esta división como una formula matemática podemos decir que el proceso de llevar una búsqueda binaria a cabo se vuelve $log_2(n)$.
 
@@ -137,7 +145,7 @@ Para que tengas una idea más sencilla de cuantos ciclos van a hacerse, te dejo 
 | 1,048,576 | 20 |
 | 2,097,152 | 21 |
 
-Y aquí una comparación de `n` con `log_2(n)` 
+Y aquí una comparación de $n$ con $log_2(n)$
 
 ![[Comparation.png]]
 

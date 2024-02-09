@@ -70,5 +70,5 @@
   "prefix": "",
   "suffix": " ({{lang}})",
   "template": "---\n# {{notice}}\naliases: [\"{{word}}\"]\n---\n\n# {{word}}\n\n## {{pronunciationHeader}}\n\n{{phoneticList}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n\n## {{originHeader}}\n\n{{origin}}\n",
-  "languageSpecificSubFolders": false
+  "languageSpecificSubFolders": true
 }

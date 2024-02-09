@@ -12,7 +12,12 @@ it's about cultural aspects and representation about of this topics.
 
 **I have 2 be the monitor of this subject.**
 
-1. Culture of a native speaking country: task 1 -> Select one country that we will have to take during this semester. Culture food, etc. But all related to country selected.
+1. Culture of a native speaking country: task 1 -> Select one country that we will have to take during this semester. Culture food, etc. But all related to country selected. In the class we're going to create a Canva presentation in class to upload 
+   
+   A paper that summarize this information of the country.
+   
+   # Country Chosen: Deutschland
+
 
 Present in oral ways, and in writing ways.
 

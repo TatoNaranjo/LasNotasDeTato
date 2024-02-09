@@ -9,14 +9,16 @@
     "tags-created:10",
     "heading-levels:1",
     "internal-links-created:100",
-    "command-palette:open"
+    "command-palette:open",
+    "notes-created:100",
+    "heading-levels:3"
   ],
-  "notesCreated": 80,
-  "notesDeleted": 1,
-  "internalLinksCreated": 100,
-  "commandPaletteOpened": 16,
+  "notesCreated": 314,
+  "notesDeleted": 2,
+  "internalLinksCreated": 405,
+  "commandPaletteOpened": 20,
   "quickSwitcherOpened": 0,
   "calloutsCreated": 0,
-  "headingLevelsCreated": 2,
-  "tagsCreated": 34
+  "headingLevelsCreated": 3,
+  "tagsCreated": 130
 }
