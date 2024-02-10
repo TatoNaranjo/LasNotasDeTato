@@ -1,5 +1,7 @@
 `Por: Santiago Naranjo Herrera`
 
+Investigación hecha como preparación para la creación de trabajos de la materia de [[Comunicación de Datos]]
+
 ```table-of-contents
 ```
 # ¿Qué es un Informe Técnico?
