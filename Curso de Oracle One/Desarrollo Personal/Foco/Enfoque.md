@@ -1,5 +1,3 @@
-Tercer [[Curso de Oracle One]] que tomé.
-
 
 Imagina que tienes varias cosas en mente por hacer, como por ejemplo:
 
@@ -13,4 +11,4 @@ Imagina que tienes varias cosas en mente por hacer, como por ejemplo:
 - #### Aprende a decir No.
 	- Tienes que aprender a percibir cuál es el momento en el que puedes ayudar a la gente, y cuando tienes que decir no.
 - ##### Lo Más Importante es lo Principal
-	- Pregunta si tus [[Contactos]] te necesitan en ese momento, y aprende a priorizar las tareas. Establece horas en las que puedes ayudar.
+	- Pregunta si tus contactos te necesitan en ese momento, y aprende a priorizar las tareas. Establece horas en las que puedes ayudar.

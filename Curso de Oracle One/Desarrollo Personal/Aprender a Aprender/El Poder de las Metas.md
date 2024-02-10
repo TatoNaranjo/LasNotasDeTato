@@ -1,4 +1,4 @@
-Necesarias para [[Aprender a Aprender]]
+Necesarias para Aprender. Parte del curso [[Aprender a Aprender]]
 
 Al momento de querer hacer algo tenemos que enfocarnos y preguntar:
 

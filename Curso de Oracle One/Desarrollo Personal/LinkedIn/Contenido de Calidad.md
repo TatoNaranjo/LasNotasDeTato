@@ -2,7 +2,7 @@
 
 ##### **Técnicas para crear publicaciones y destacarte en tu red de LinkedIn**
 
-Importantes para hacer [[Contactos]]
+Importantes para hacer contactos
 
 - Llamar la atención
 - Generar Curiosidad
@@ -11,7 +11,7 @@ Importantes para hacer [[Contactos]]
 ##### ¿Qué puedo hacer para llamar la atención?
 - Hacer publicaciones que no tengan un link a afuera de la red ya que tienen un alcance menor.
 - Hacer preguntas interesantes.
-- Contenido relevante por medio de las [[Herramientas de LinkedIn]] que se relacionen con las tendencias.
+- Contenido relevante por medio de las herramientas de [[LinkedIn]] que se relacionen con las tendencias.
 - Compartir Consejos.
 - Reconocer / Mencionar a mis compañeros de Universidad / Trabajo.
 - Utilizar Call to Action (Llamadas a la Acción)

@@ -1,6 +1,4 @@
-Cuarto [[Curso de Oracle One]] que tomé.
-
-Algunas veces tenemos muchas cosas planeadas pero casi nunca se cumplen o se vuelven un hábito porque terminamos desechando esas ideas y no dejamos que se conviertan en [[Hábitos]], es por eso que es necesario plantearnos unos objetivos y conocer [[El Poder de las Metas]] que nos ayudarán a cumplirlos.
+Algunas veces tenemos muchas cosas planeadas pero casi nunca se cumplen o se vuelven un hábito porque terminamos desechando esas ideas y no dejamos que se conviertan en [[Hábitos]], es por eso que es necesario plantearnos unos objetivos y conocer el poder de las metas que nos ayudarán a cumplirlos.
 
 ##### Objetivo
 Es todo lo que yo quiero lograr en el futuro.
@@ -32,11 +30,11 @@ Cuando empezamos a crear metas con objetivos específicos, sobrellevar las tarea
 
 ##### ¿Cómo puedo hacer un seguimiento del rendimiento?
 
-- Puedes seguir una meta **SMART**, (Véase [[El Poder de las Metas]])
+- Puedes seguir una meta **SMART**.
 - Ten en cuenta que generar un hábito no es un juego de todo o nada. Puedes medir la meta que creaste y flexibilizarla para saber qué cosas puedes hacer y qué cosas no.
 - Entender cual es mi ciclo de sueño, puede ayudar a tener más rendimiento.
 - La autoestima no puede caer, y si cae, necesitas recuperarla inmediatamente.
-- La vida personal debe estar en equilibrio con la vida profesional. (Véase [[Un Equilibrio en la Vida]])
+- La vida personal debe estar en equilibrio con la vida profesional.
 #### Características de la dilación.
 
 Algunas señales de que estás dejando las cosas importantes para otro momento:

@@ -1,6 +1,7 @@
+Parte del curso [[Aprender a Aprender]]
 #### **MINDSET**
 
-Existen dos tipos de mindset, que pueden ayudarnos, o no a [[Aprender a Aprender]]:
+Existen dos tipos de mindset, que pueden ayudarnos, o no a aprender:
 
 **MINDSET FIJO**
 En el las personas suelen creer que:

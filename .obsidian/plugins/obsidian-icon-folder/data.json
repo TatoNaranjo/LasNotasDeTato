@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMentalHealthLine",
+      "RaHealth",
+      "TiBrandGithubFilled",
       "📫",
-      "TiLanguage",
-      "RiGitRepositoryPrivateLine",
-      "RiMoneyDollarCircleLine",
-      "RiSignalWifiFill"
+      "TiLanguage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,7 @@
   "Notas De La Universidad/Lengua Extranjera IV": "TiLanguage",
   "Notas De La Universidad/Emprendimiento e Innovación I": "RiMoneyDollarCircleLine",
   "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine",
-  "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md": "📫"
+  "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md": "📫",
+  "Curso de Oracle One/GitHub": "TiBrandGithubFilled",
+  "Curso de Oracle One/Desarrollo Personal": "RiMentalHealthLine"
 }

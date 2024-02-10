@@ -14,7 +14,7 @@ Nunca te has preguntado:
 
 ##### Distracciones:
 Hay que pensar en cuantas de las horas que trabajamos, se van en más de una distracción.
-Para cumplir [[La Ilusión de Ser Multitarea.]] podríamos seguir estos consejos:
+Para cumplir la ilusión de ser multitarea podríamos seguir estos consejos:
 
 - ##### Enfocarse en una cosa a la vez.
 - ##### El cerebro tiene canales, por lo que podemos procesar diferentes tipos de información en diferentes partes de el.

@@ -1,5 +1,7 @@
+Parte del curso [[Aprender a Aprender]]
+
 Todos los formatos de aprendizaje son buenos, pero son muy efectivos cuando se mezclan.
-Es por eso que para [[Aprender a Aprender]] tenemos que ver qué formatos de aprendizaje existen.
+Es por eso que para aprender tenemos que ver qué formatos de aprendizaje existen.
 
 #### **¿CÓMO APRENDE MÁS LA GENTE?**
 - **10%** Leyendo.

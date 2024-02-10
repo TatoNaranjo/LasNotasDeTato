@@ -2,7 +2,7 @@
 ##### Razones por las que podemos perder el [[Foco]]
 
 - Repetir una rutina, puede conllevar al estrés que nos hace sentir que no tenemos nada de descanso.
-- Un pensamiento negativo puede hacernos desistir de hacer las cosas y perder el [[Enfoque]].
+- Un pensamiento negativo puede hacernos desistir de hacer las cosas y perder el enfoque.
 - Esperar a un momento de inspiración puede llevar a postergar las cosas.
 
 #### Fuerza de Voluntad.

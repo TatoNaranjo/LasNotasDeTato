@@ -2,5 +2,4 @@
 tags:
   - MOCs
 ---
-```folder-index-content
-```
+Parte del módulo de [[Desarrollo Personal]] de Oracle Next Education.

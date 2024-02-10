@@ -1,6 +1,8 @@
+Parte del curso [[Aprender a Aprender]]
+
 Normalmente, es normal olvidar que hemos estudiado el día anterior, o decir: **"Eso lo vi en alguna parte pero ya no recuerdo."** y es debido a que solo estudiamos el tema una vez. 
 
-Debido a esto hay que realizar repasos constantes del tema que aprendimos, conforme más repasamos menos cosas se nos van olvidando a lo largo del tiempo. Así sabemos como [[Aprender a Aprender]] realmente.
+Debido a esto hay que realizar repasos constantes del tema que aprendimos, conforme más repasamos menos cosas se nos van olvidando a lo largo del tiempo. Así sabemos como aprender realmente.
 
 **Hacer una Práctica Distribuida**
 Distribuir los estudios para que la curva de aprendizaje se mantenga de forma regular.

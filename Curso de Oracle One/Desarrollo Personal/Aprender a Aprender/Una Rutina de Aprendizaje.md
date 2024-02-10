@@ -1,3 +1,4 @@
+Parte del curso [[Aprender a Aprender]]
 #### **PASOS DE LA PROCRASTINACION**
 
 1. Falsa seguridad : **"Aún Tengo Tiempo para hacerlo"**
@@ -8,7 +9,7 @@
 Nuestro cerebro está programado para ahorrar energía, hay que repetir patrones conocidos.
 Si tengo que aprender algo, lo hago.
 
-Para pasar por el proceso de aprendizaje es necesario tener una rutina. Repetir esa rutina crea un hábito. Para mejorar esos hábitos puedes crear  [[Una Rutina de Aprendizaje]]
+Para pasar por el proceso de aprendizaje es necesario tener una rutina. Repetir esa rutina crea un hábito. Para mejorar esos hábitos puedes crear una rutina de aprendizaje
 
 #### **GESTIÓN DEL ESPACIO Y EL TIEMPO**
 
@@ -16,8 +17,7 @@ Para pasar por el proceso de aprendizaje es necesario tener una rutina. Repetir 
 - Definir (y respetar) el tiempo por dia.
 - Busca los mejores Horarios y Lugares.
 
-**RECUERDA:** Para salir de la zona de confort, debo pasar por el estrés y llegar a la zona de aprendizaje. Cuida tu [[MindSet]]
-
+**RECUERDA:** Para salir de la zona de confort, debo pasar por el estrés y llegar a la zona de aprendizaje. Cuida tu mindset.
 #### **EJERCITAR CUERPO Y MENTE:**
 
 Hacer actividad física (Aunque sea por poco tiempo) auxilia las conexiones entre neuronas del hipocampo, región cerebral dedicada al aprendizaje y a la memoria.
@@ -27,7 +27,7 @@ Dormir crea nuevos caminos y mejora el modo difuso.
 
 #### **HERRAMIENTAS DE ESTUDIO**
 
-Ideal para saber [[Cómo Retener El Conocimiento]]
+Ideal para saber cómo retener el conocimiento.
 
 - ##### **Google Alerts:** Puedes definir alertas que te aparecerán cuando salga alguna noticia de un tema específico que estés estudiando.
 - ##### **LinkedIn:** 

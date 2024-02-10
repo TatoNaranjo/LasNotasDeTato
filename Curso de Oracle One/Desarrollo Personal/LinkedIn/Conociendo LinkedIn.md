@@ -1,6 +1,6 @@
-Segundo [[Curso de Oracle One]] que tomé.
+Parte del Curso de [[LinkedIn]].
 
-#### **[[LinkedIn]] no es un sitio:**
+#### LinkedIn no es un sitio:
 
 - Estático
 - Repositorio de Curriculums.

@@ -2,7 +2,7 @@
 
 Normalmente solemos decir que no queda tiempo para nada, y nos agobiamos por ello. Otras veces vemos a las personas que se sienten más relajadas incluso cuando hacen más que nosotros, y deseamos ser esa persona. Sin embargo, un punto importante para mantener un [[Foco]] que no estamos considerando es la manera en la que nos organizamos.
 
-Hay que saber lidiar con la frustración y trabajarla para mantener un buen [[MindSet]]
+Hay que saber lidiar con la frustración y trabajarla para mantener un buen mindset.
 
 #### ¿Por qué es imposible desconectarse del trabajo?
 
@@ -30,8 +30,8 @@ La respuesta es sencilla: Sentimos culpa. Para trabajar esa parte podemos simple
 - ##### Calma tu mente.
 - ##### Aprende a aislar preocupaciones.
 	- Espera a que el cuerpo se calme y sienta que disminuye la presión y la intensidad de adrenalina.
-	- Establece objetivos a corto plazo. Véase [[El Poder de las Metas]].
-- ##### Genera preguntas con [[Enfoque]]
+	- Establece objetivos a corto plazo.
+- ##### Genera preguntas con enfoque.
 	- ¿Qué es lo más importante que puedes hacer para que, al hacerlo, el resto se vuelva más fácil o innecesario?
 - ##### Cada semana o mes, toma un día para ti.
 	

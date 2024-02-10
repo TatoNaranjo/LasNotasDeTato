@@ -45,6 +45,6 @@ Vamos a borrar todo lo que venga después del .com de LinkedIn.com. Dejamos sola
 
 3. **Comprométete con las ideas**
 	- **¿Compartes contenido e interactúas con el contenido proporcionado por tus conexiones de [[LinkedIn]]?**
-	- Comparte [[Contenido de Calidad]].
+	- Comparte contenido de calidad.
 	- Platica con contactos de primer nivel.
 	- Utiliza información relevante al enviar una invitación de correo.

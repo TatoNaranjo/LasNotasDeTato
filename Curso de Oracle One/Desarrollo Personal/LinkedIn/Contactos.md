@@ -1,10 +1,10 @@
 - [[LinkedIn]] tiene 740 millones de usuarios mensuales, y cada segundo se registran dos nuevos miembros.
 - 30 millones de compañías utilizan LinkedIn
-- El 97% de los mercadólogos B2B utilizan LinkedIn para hacer marketing de su [[Contenido de Calidad]].
+- El 97% de los mercadólogos B2B utilizan LinkedIn para hacer marketing de su contenido de calidad.
 - El 89% de los mercadólogos B2B utilizan LinkedIn para generar ganancias potenciales.
 - En el plan gratuito se pueden agregar hasta 3000 personas.
   
-  #### **Buenas Prácticas Para Generar [[Contactos]]**
+  #### **Buenas Prácticas Para Generar Contactos**
 
 - ##### Al enviar la solicitud de contacto:
 	- Escribe un mensaje para presentarte de forma objetiva.

@@ -1,32 +1,5 @@
 
-Parte de las [[Entradas Para El Blog]]
-
-
----
-
-layout: "../../layouts/BlogPostLayout.astro"
-
-title: ¿Por qué Obsidian es mi editor de texto favorito?
-
-date: 2024-01-31
-
-author: TatoNaranjo
-
-image:
-
-  src: "/postImages/Obsidian/obsidianFrontImage.webp"
-
-  alt: "Editor Obsidian"
-
-description: ¿Alguna vez has deseado tener una mente organizada, donde cada idea se conecta de forma fluida y natural? Bueno, Obsidian es como tener ese sueño hecho realidad, pero en forma de una aplicación de escritura digital.
-
-draft: false
-
-category: Herramientas
-
----
-
-  
+Parte de las [[Entradas Para El Blog]]  
 
 ## ¿Qué es Obsidian?
 
