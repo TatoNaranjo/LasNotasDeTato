@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📫",
       "TiLanguage",
       "RiGitRepositoryPrivateLine",
       "RiMoneyDollarCircleLine",
-      "RiSignalWifiFill",
-      "RiSingleQuotesL"
+      "RiSignalWifiFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Notas De La Universidad/Networking/Qué es el Internet.md": "RiSignalWifiFill",
   "Notas De La Universidad/Lengua Extranjera IV": "TiLanguage",
   "Notas De La Universidad/Emprendimiento e Innovación I": "RiMoneyDollarCircleLine",
-  "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine"
+  "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine",
+  "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md": "📫"
 }

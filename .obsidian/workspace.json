@@ -20,15 +20,14 @@
             }
           },
           {
-            "id": "f2a5f86d8c3c0e92",
+            "id": "fc4ed585b9d030bb",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md"
+              }
             }
           },
           {
@@ -151,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,19 +172,24 @@
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2a5f86d8c3c0e92",
+  "active": "921b318593ef2fb0",
   "lastOpenFiles": [
+    "[LEY.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
-    "Untitled.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Lengua Extranjera IV/My Country's Investigation.md",
+    "Excalidraw/Drawing 2024-02-09 20.09.07.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Lengua Extranjera IV/My Country's Investigation.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
@@ -197,9 +206,6 @@
     "Curso de Oracle One/Desarrollo Personal/Hábitos/Técnica Pomodoro.md",
     "Curso de Oracle One/Desarrollo Personal/Hábitos/Hábitos.md",
     "Curso de Oracle One/Desarrollo Personal/Foco/Multitasking.md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/La Ilusión de Ser Multitarea..md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/El poder de la Voluntad.md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",
     "Untitled.canvas",
     "Notas De La Universidad/Lengua Extranjera IV",
@@ -217,7 +223,6 @@
     "Programación Competitiva/Pasted image 20240120110529.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
-    "Programación Competitiva/Programación Dinámica/desktop.ini",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png"
   ]
