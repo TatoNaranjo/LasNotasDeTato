@@ -6,7 +6,7 @@ A Research about a country's culture for [[Lengua Extranjera IV]] subject.
 
 The official languages of Malta's country are Maltese and English.
 
-==Even though== Maltese is the national language of malta, their people ==used== to speak in English with fluency, so... for that reason and another historical fact, if you speak in English and you want to go to Malta, you don't have to learn Maltese necessarily.
+Even though Maltese is the national language of malta, their people used to speak in English with fluency, so... for that reason and another historical fact, if you speak in English and you want to go to Malta, you don't have to learn Maltese necessarily.
 
 But, if you want to learn how to speak Maltese, many schools teach courses to non-native speakers.
 # ¿What's Malta's typical food?
@@ -54,6 +54,16 @@ They often wear an adorn that consists of a long wool bag, hanging down and dyed
 
 ## Women's native Dress
 The head covering is called "faldetta" or "ghonnella", and another head covering is called 'cuqlana'. They wear a bodice and a skirt called 'gezwira'. It is made of multicolored warp yarns in red, green, green, yellow, brown, and black, joined together by green, yellow, brown, and black joined by undyed and black undyed cotton, and black.
+
+# Famous Celebrities of Malta:
+## Marc Storace
+Mark Storace is a Maltesse-born Swiss musician. His career in music started in the 1960s but he is most known as the lead singer of the hard rock band "Krokus" from 1980. He has been compared with singers such as Bon Scott of "AC/DC" or Robert Plant of "Led Zeppelin" in terms of vocal style.
+
+## Edward De Bono
+Edward De Bono was a Maltese physician and commentator. He created the term "Lateral Thinking" which is a manner of solving problems that consists of making approaches in a creative way via reasoning that is not immediately obvious. He wrote 85 books with translations into 46 languages. He taught his thinking methods to government agencies, corporate clients, organizations, and individuals, privately or publicly in group sessions. He promoted the World Center for New Thinking (2004–2011), based in Malta, which applied Thinking Tools to solution and policy design on the geopolitical level.
+
+## Joe Camilleri
+Joe Vincent Camilleri Aka Jo Jo Zep is a Maltese Australian singer, songwriter, and musician. He has recorded a lot of singles as a formal member of Jo Jo Zep & The Falcons and The Black Sorrows. Jo Jo Zep & The Falcons' highest-charting single was "Hit & Run" from June 1979, which peaked at #12; Jo Jo Zep's "Taxi Mary" peaked at No. 11 in September 1982; and 'The Black Sorrows' top single, "Chained to the Wheel", peaked at No. 9 in March 1989.
 # References
 
 - [Official Malta Language](https://www.visitmalta.com/en/a/language/#:~:text=The%20official%20languages%20of%20Malta,Italian%20is%20also%20widely%20spoken.)
@@ -61,7 +71,9 @@ The head covering is called "faldetta" or "ghonnella", and another head covering
 - [II-Kantilena](https://en.wikipedia.org/wiki/Il-Kantilena)
 - [Music of Malta](https://en.wikipedia.org/wiki/Music_of_Malta#:~:text=6%20External%20links-,History,in%20the%20Eurovision%20Song%20Contest.)
 - [Traditional Maltese Clothes](https://msclaudineyear1sunflowers.files.wordpress.com/2012/01/traditional-maltese-clothes.pdf)
-
+- [Marc Storace](https://en.wikipedia.org/wiki/Marc_Storace)
+- [Edward De Bono](https://en.wikipedia.org/wiki/Edward_de_Bono)
+- [Joe Camilleri](https://en.wikipedia.org/wiki/Joe_Camilleri)
 
 
 
