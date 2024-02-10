@@ -2,6 +2,7 @@
 tags:
   - Apuntes
   - Materias
+  - Estudio
 ---
 Parte de mis [[Notas De La Universidad]]
 # Profesor: Oscar Gomez

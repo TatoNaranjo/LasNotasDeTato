@@ -2,6 +2,7 @@
 tags:
   - Materias
   - Apuntes
+  - Estudio
 ---
 Parte de mis [[Notas De La Universidad]]
 # Profesor

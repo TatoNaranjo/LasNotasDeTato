@@ -13,21 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae956b58a28d7742",
+            "id": "f7b9fbae418e48e8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -93,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,22 +167,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4bb6a0cda684bd6c",
+  "active": "f7b9fbae418e48e8",
   "lastOpenFiles": [
-    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
+    "Notas De La Universidad/Ingeniería de Software II/Proyecto de Gestión del Conocimiento.md",
+    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Networking/Networking.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Programación Competitiva/Pasted image 20240120110529.png",
+    "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
+    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Ingeniería de Software II/Hola/Hola.md",
+    "Notas De La Universidad/Ingeniería de Software II/Hola",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/transistor.png",
+    "Pasted image 20240210085040.png",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/puenteDeDiodos.png",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/Imagenes.md",
     "Notas De La Universidad/Lengua Extranjera IV/Sources/Sources.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes",
@@ -196,15 +209,6 @@
     "Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
     "Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Curso de Oracle One/GitHub/Cómo Funciona.md",
-    "Curso de Oracle One/GitHub/Comandos de GitHub.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/Tipos de Perfiles.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/LinkedIn.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/La Importancia de LinkedIn.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/Herramientas de LinkedIn.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/Contenido de Calidad.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/Contactos.md",
-    "Curso de Oracle One/Desarrollo Personal/LinkedIn/Conociendo LinkedIn.md",
-    "Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
     "Notas De La Universidad/Lengua Extranjera IV/Sources",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes",
@@ -217,12 +221,7 @@
     "Notas De La Universidad/Emprendimiento e Innovación I",
     "Notas De La Universidad/Networking/Imagenes/protocolo Humano y de Red.png",
     "Notas De La Universidad/Networking/Imagenes/componentesDeInternet.png",
-    "Notas De La Universidad/Networking/Imagenes",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/tiposDeSeñales.png",
-    "Programación Competitiva/Pasted image 20240120110529.png",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/meme.jpeg",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 3.png"
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/tiposDeSeñales.png",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Comparation.png"
   ]
 }
