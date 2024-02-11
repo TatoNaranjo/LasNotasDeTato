@@ -113,4 +113,14 @@ Del product backlog se definen cuántas palabras van para el sprint especificado
 ### Backlog Refinement
 El equipo discute ítems del backlog con el fin de aclarar dudas, definir sub-tareas, dependencias, Etc. Cuando se definen las características del proyecto se procede a definir lo que se necesita para dar comienzo al proyecto.
 ### Sprint Planning
-Ya teniendo el product backlog listo, especializado y charlado; se define lo que se va a hacer en el Sprint. El equipo, junto con el product owner determinan qué features se completarán dentro de un sprint.
+Ya teniendo el product backlog listo, especializado y charlado; se define lo que se va a hacer en el *Sprint*. El equipo, junto con el *Product Owner* determinan qué features se completarán dentro de un sprint.
+### Daily Stand Up
+El equipo, justo con el *Scrum Master* se reúne durante 15 minutos cada día a responder 3 preguntas:
+
+- *¿Qué hice ayer?*
+- *¿Qué voy a hacer hoy?*
+- *¿Tengo algún Impedimento?*
+### Sprint Review
+El equipo comparte con el *Product Owner* el trabajo entregado en el *Sprint*, y se promueve su uso para recibir feedback.
+### Sprint Retrospective
+El equipo se reúne para analizar lecciones aprendidas durante el sprint y definen accionables para la mejora continua.

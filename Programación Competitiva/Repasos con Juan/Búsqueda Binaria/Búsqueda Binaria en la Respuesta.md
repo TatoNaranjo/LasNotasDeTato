@@ -74,3 +74,6 @@ int main() {
     return 0;
 }
 ```
+
+## Referencias
+- [Codeforces - Cursos de la ITMO](https://codeforces.com/edu/course/2/lesson/6/1/practice)
