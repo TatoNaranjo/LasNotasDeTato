@@ -1,6 +1,6 @@
 Entendiendo las diferentes herramientas básicas que conforman [[Go]].
-
 **Tabla de Contenido**
+	`Por: Santiago Naranjo Herrera`
 ```table-of-contents
 ```
 
