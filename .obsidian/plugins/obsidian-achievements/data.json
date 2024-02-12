@@ -11,14 +11,18 @@
     "internal-links-created:100",
     "command-palette:open",
     "notes-created:100",
-    "heading-levels:3"
+    "heading-levels:3",
+    "internal-links-created:1000",
+    "notes-deleted:10",
+    "notes-created:1000",
+    "switcher:open"
   ],
-  "notesCreated": 671,
-  "notesDeleted": 8,
-  "internalLinksCreated": 797,
-  "commandPaletteOpened": 66,
-  "quickSwitcherOpened": 0,
+  "notesCreated": 1040,
+  "notesDeleted": 10,
+  "internalLinksCreated": 1216,
+  "commandPaletteOpened": 70,
+  "quickSwitcherOpened": 2,
   "calloutsCreated": 0,
   "headingLevelsCreated": 4,
-  "tagsCreated": 300
+  "tagsCreated": 469
 }

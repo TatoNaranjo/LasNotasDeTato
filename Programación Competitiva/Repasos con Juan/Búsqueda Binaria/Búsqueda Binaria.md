@@ -1,4 +1,4 @@
-###### Por: TatoNaranjo
+**Por:** *TatoNaranjo*
 
 Tipo de Búsqueda usado en [[Programación Competitiva]] para elementos organizados.
 #### Índice.

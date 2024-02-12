@@ -1,5 +1,7 @@
 Conjunto de leyes que velan por el emprendimiento. Primera lectura en la materia de [[Emprendimiento e Innovación I]]
 
+**Por:** *Santiago Naranjo Herrera*
+
 ```table-of-contents
 ```
 

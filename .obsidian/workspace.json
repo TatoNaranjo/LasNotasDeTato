@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46e7e5a38171e2d6",
+        "id": "9bf9caa2e4f40d3e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6eb0278b057a7d",
+            "id": "007045fa8c3e814b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md"
+                "file": "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md"
               }
             }
           },
@@ -168,12 +168,29 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0e6eb0278b057a7d",
+  "active": "007045fa8c3e814b",
   "lastOpenFiles": [
+    "Notas De La Universidad/Ingeniería de Software II/Rest API/Qué es una REST API.md",
+    "Notas De La Universidad/Ingeniería de Software II/Rest API/Rest API.md",
+    "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
+    "Notas De La Universidad/Ingeniería de Software II/Rest API",
+    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Ingeniería de Software II/Go/Paquetes, Variables y Fuciones.md",
+    "Notas De La Universidad/Ingeniería de Software II/Go/Instalación de Go.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Aprender GO.md",
+    "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
+    "Notas De La Universidad/Ingeniería de Software II/Go/Go.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Ingeniería de Software II/Go",
+    "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
     "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Imagenes.md",
-    "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaOctal.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaHexadecimal.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaBinario.png",
@@ -182,28 +199,14 @@
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Untitled.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
-    "Notas De La Universidad/Ingeniería de Software II/Proyecto de Gestión del Conocimiento.md",
-    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Programación Competitiva/Pasted image 20240120110529.png",
-    "Notas De La Universidad/Ingeniería de Software II/Hola/Hola.md",
     "Notas De La Universidad/Ingeniería de Software II/Hola",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/transistor.png",
     "Pasted image 20240210085040.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/puenteDeDiodos.png",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Ingeniería de Software II/Imagenes/Imagenes.md",
-    "Notas De La Universidad/Lengua Extranjera IV/Sources/Sources.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes",
     "Notas De La Universidad/Matemáticas Especiales",
     "Notas De La Universidad/Lengua Extranjera IV/Sources",
@@ -213,8 +216,6 @@
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/binaryProperty.png",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Binary Search Explanation 2.png",
     "Untitled.canvas",
-    "Notas De La Universidad/Lengua Extranjera IV",
-    "copilot-conversations",
-    "Notas De La Universidad/Emprendimiento e Innovación I"
+    "Notas De La Universidad/Lengua Extranjera IV"
   ]
 }
