@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2523ad8e614e70e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ad03f2b38f487601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +23,12 @@
             "id": "60310cf497d31184",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md"
+                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md"
               }
             }
           },
@@ -189,25 +181,33 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ad03f2b38f487601",
+  "active": "60310cf497d31184",
   "lastOpenFiles": [
+    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
+    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/desfaseyCorrimientoGrafica.png",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/sumatoriadeSen(15)Completa.png",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/sumatoriaSeñales.png",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/graficaSumatoriaSeñales.png",
+    "Notas De La Universidad/Comunicación de Datos/Imagenes/dominioFrecuencia.png",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
-    "Programación Competitiva/Programación Competitiva.md",
     "Proyecto de Camilo/Proyecto de Camilo.md",
     "Proyecto de Camilo",
-    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/divisorDeVoltaje.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/Imagenes.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/diagramaTransformador.png",
     "Notas De La Universidad/Ingeniería de Software II/Go/Entendiendo un proyecto de Go.md",
     "Notas De La Universidad/Ingeniería de Software II/Go/Go.md",
@@ -215,23 +215,15 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/prefijosMétricos.png",
     "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
-    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API/Qué es una REST API.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API",
     "Aprender GO.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Ingeniería de Software II/Go",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaOctal.png",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaHexadecimal.png",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaBinario.png",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/sistemaDecimal.png",
     "Notas De La Universidad/Ingeniería de Software II/Hola",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/transistor.png",
-    "Pasted image 20240210085040.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes",
     "Notas De La Universidad/Matemáticas Especiales",
     "Notas De La Universidad/Lengua Extranjera IV/Sources",

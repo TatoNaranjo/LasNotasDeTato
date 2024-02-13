@@ -124,3 +124,6 @@ El equipo, justo con el *Scrum Master* se reúne durante 15 minutos cada día a 
 El equipo comparte con el *Product Owner* el trabajo entregado en el *Sprint*, y se promueve su uso para recibir feedback.
 ### Sprint Retrospective
 El equipo se reúne para analizar lecciones aprendidas durante el sprint y definen accionables para la mejora continua.
+
+# Recursos
+- [Fases de la metodología SCRUM](https://blog.comparasoftware.com/fases-metodologia-scrum/)

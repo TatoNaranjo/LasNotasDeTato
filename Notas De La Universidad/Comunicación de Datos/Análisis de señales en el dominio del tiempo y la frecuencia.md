@@ -88,6 +88,8 @@ Define los límites de voltaje de entrada que el convertidor puede manejar. Este
 La potencia del primario debe de ser igual a la potencia del secundario, es decir que si el voltaje baja la corriente debe de subir para que haya un equilibrio dentro del sistema. Adicionalmente existe una relación de transformación que está dada por la siguiente fórmula. 
 **Relación de Transformación de un transformador eléctrico:** $\frac{v1}{v2}= \frac{I1}{I2}= n$
 
+> Nota de tato, imagina que quieres regular un voltaje y las reglas de 3 son ese regulador.
+
 Matemáticamente la fórmula me elimina todos los valores de voltaje y corriente por lo que la magnitud de la relación de Transformación es adimensional. Lo que nos está indicando es el numero de veces que se reduce el valor de lo que ingresa.
 
 Otra manera de lograr reducir el voltaje es a traves de un *divisor de voltaje*. Tomamos dos resistencias de un valor muy alto, en el orden de los Mega Ohms, las conectamos en serie y nos aseguramos que la relación entre las resistencias sea tal que el voltaje en el nodo formado por las dos resistencias sea una fracción de voltaje total.
@@ -95,3 +97,54 @@ Otra manera de lograr reducir el voltaje es a traves de un *divisor de voltaje*.
 ![[divisorDeVoltaje.png]]
 
 **Relación de Transformación de un divisor de voltaje:** $Vx = \frac{Vf*R1}{R1+R2}$
+
+> $VF = VR1 + VR2$ La sumatoria de los voltajes de energía debe ser igual al de voltaje de entrada. Esto debido a que no se puede perder energía ni sacar una energía mayor a la de la fuente de entrada.
+
+> En un circuito en serie, el voltaje cambia pero la intensidad permanece. 
+> En un circuito en paralelo el voltaje permanece pero la intensidad cambia.
+
+## Dominio de la Frecuencia
+
+![[dominioFrecuencia.png]]**Representación de una señal senoidal periódica en el dominio de la frecuencia**
+
+- $periodo = \frac {1} {frecuencia}$
+
+Al momento de sumar dos señales se forma una nueva señal rica, cuando jugamos con las señales senoidales de diferente periodo y frecuencia y las combinamos formamos un concepto llamado *Harmónicos*.
+
+> Fourier: Toda señal que tenemos en el ámbito sonido, video o sensorial está basada en la suma de diversas señales senoidales.
+
+Partimos de una señal fundamental en la que tenemos un cierto grado de energía que utilizamos para aumentar la frecuencia. Entre más aumenta la frecuencia, más se disminuye el voltaje. Las señales de tipo cuadrado son formadas por un conjunto de señales senoidales, y para poder formar estas señales se requiere un numero infinito de señales senoidales.
+
+> Las frecuencias son capaces de alterar el comportamiento de una persona.
+
+### Actividad
+Sumar esas dos señales
+$f(x)=sen(x)$
+$f(x)=sen(2x)$
+
+$x = 2*PI*t$
+
+![[sumatoriaSeñales.png]]
+
+![[graficaSumatoriaSeñales.png]]
+
+En este momento, gracias a la combinación de dos señales, la señal toma otra forma por lo que ya se le considera ruido.
+
+![[sumatoriadeSen(15)Completa.png]]
+	Sumatorias desde sen(x) hasta sen(15x)
+
+Un desfasamiento de una señal con otra indica que tiene un corrimiento, es decir que una señal inicia desde un punto diferente de la otra.
+
+![[desfaseyCorrimientoGrafica.png]]
+**15 funciones de seno cuando se les aplica un corrimiento y un cambio de frecuencia**
+
+> Anotación de tato: a una precisión mas grande en el cambio de frecuencia, la calidad de la señal aumenta en el inicio a costa de un mayor amortiguamiento de la señal al final.
+
+
+### Entendiendo la formula
+$f(x)=A*sen(x+y)+z$
+
+El primer dígito que tenemos siempre corresponde a la amplitud de la señal. 
+
+$sen(x+y)$ -> $x$ representa el periodo de la señal, $y$ representa el corrimiento
+$z$ -> Representa la posición de la señal.
