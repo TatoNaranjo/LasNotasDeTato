@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👓",
+      "TiDeviceAnalytics",
       "FiImage",
       "TiMathSymbols",
-      "RiMentalHealthLine",
-      "RaHealth",
-      "TiBrandGithubFilled"
+      "RiMentalHealthLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,6 @@
   "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md": "RiQuestionMark",
   "Notas De La Universidad/Ingeniería de Software II": "RiComputerFill",
   "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md": "RiListCheck",
-  "Notas De La Universidad/Comunicación de Datos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill",
   "Notas De La Universidad/Networking": "RiRemoteControlLine",
   "Notas De La Universidad": "RiSingleQuotesL",
   "Notas De La Universidad/Networking/Qué es el Internet.md": "RiSignalWifiFill",
@@ -53,5 +52,8 @@
   "Notas De La Universidad/Lengua Extranjera IV/Sources": "FiImage",
   "Notas De La Universidad/Networking/Imagenes": "FiImage",
   "Notas De La Universidad/Ingeniería de Software II/Imagenes": "FiImage",
-  "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes": "FiImage"
+  "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes": "FiImage",
+  "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md": "TiDeviceAnalytics",
+  "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md": "👓",
+  "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill"
 }

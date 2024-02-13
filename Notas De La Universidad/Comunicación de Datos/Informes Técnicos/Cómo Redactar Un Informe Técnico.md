@@ -1,6 +1,6 @@
 `Por: Santiago Naranjo Herrera`
 
-Investigación hecha como preparación para la creación de trabajos de la materia de [[Comunicación de Datos]]
+Investigación hecha como preparación para la creación de trabajos por medio de un [[Informes Técnicos]].
 
 ```table-of-contents
 ```

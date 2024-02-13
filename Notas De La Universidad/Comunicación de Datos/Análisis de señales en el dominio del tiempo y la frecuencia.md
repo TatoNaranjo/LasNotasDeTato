@@ -1,4 +1,9 @@
 Segunda clase de [[Comunicación de Datos]]
+	`Por: TatoNaranjo`
+
+```table-of-contents
+```
+
 # Definición
 Es un conjunto de técnicas par la caracterización y manipulación de señales cuyas estadísticas varían en el tiempo. Cuándo hablamos del análisis del tiempo nos referimos a una conversión Analógica-Digital.
 # Dominio del tiempo
@@ -53,7 +58,7 @@ Ejemplo: Cuál es la variación de voltaje de una señal que tiene como pico de 
 $5/256 = 19.5mv$ 
 
 ### Ejercicios
-Hallar la variación de los siguientes parámetros, todos con un pico máximo de 5 voltios.
+Hallar la variación de los voltajes con siguientes parámetros, todos con un pico máximo de 5 voltios.
 
 1. 8bits de resolución, F3.
 2. 10 bits de resolución,145
@@ -75,7 +80,7 @@ Por ejemplo, un microcontrolador controla las tasas de muestreo por medio de el 
 Se refiere al número de señales analógicas que el convertidor puede procesar simultáneamente. Los convertidores pueden ser de un solo canal o multicanal, dependiendo de las necesidades de la aplicación. El numero de canales depende del microprocesador con el que estemos trabajando. Cuando se trabaja con Arduino o Raspberries podemos estar hablando de hasta 20 canales, en los que cada uno de ellos me permite realizar una tarea diferente.
 
 ## Rango de Voltaje
-Define los límites de voltaje de entrada que el convertidor puede manejar. Este rango debe ser adecuado para la señal que se pretende medir para evitar la saturación o la pérdida de datos. Siempre debemos llevar una información a este limite de voltaje para evitar daños en el los canales de un dispositivo. Para llevar una señal análoga al limite de voltaje se debe de usar un *transformador*, el cual permite disminuir o aumentar el voltaje de una señal en caso de que sea necesario.
+Define los límites de voltaje de entrada que el convertidor puede manejar. Este rango debe ser adecuado para la señal que se pretende medir para evitar la saturación o la pérdida de datos. Siempre debemos llevar una información a este limite de voltaje para evitar daños en los canales de un dispositivo. Para llevar una señal análoga al limite de voltaje se debe de usar un *transformador*, el cual permite disminuir o aumentar el voltaje de una señal en caso de que sea necesario.
 
 ![[diagramaTransformador.png]]
 **Diagrama de un transformador eléctrico**
@@ -85,6 +90,8 @@ La potencia del primario debe de ser igual a la potencia del secundario, es deci
 
 Matemáticamente la fórmula me elimina todos los valores de voltaje y corriente por lo que la magnitud de la relación de Transformación es adimensional. Lo que nos está indicando es el numero de veces que se reduce el valor de lo que ingresa.
 
-Otra manera de lograr reducir el voltaje es a traves de un *divisor de voltaje*. Tomamos dos resistencias de un valor muy alto, en el orden de los Mega Ohms, las conectamos en serie y nos aseguramos que la relación entre las resistencia sea tal que el voltaje en el nodo formado por las dos resistencias sea una fracción de voltaje total.
+Otra manera de lograr reducir el voltaje es a traves de un *divisor de voltaje*. Tomamos dos resistencias de un valor muy alto, en el orden de los Mega Ohms, las conectamos en serie y nos aseguramos que la relación entre las resistencias sea tal que el voltaje en el nodo formado por las dos resistencias sea una fracción de voltaje total.
+
+![[divisorDeVoltaje.png]]
 
 **Relación de Transformación de un divisor de voltaje:** $Vx = \frac{Vf*R1}{R1+R2}$

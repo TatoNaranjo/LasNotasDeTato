@@ -33,7 +33,7 @@ La diferencia, es que ya no estamos comparando una posición dentro de un arregl
 Un ejemplo puede ser:
 
 Tienes el siguiente rectángulo y el siguiente cuadrado:
-![[Pasted image 20240120110529.png]]
+![[BusquedaBinariaEnRespuesta.png]]
 
 Y quieres saber cual es el tamaño mínimo que debe tener x para que todos los n rectángulos quepan en el cuadrado.
 
