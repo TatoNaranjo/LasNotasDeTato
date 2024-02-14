@@ -8,9 +8,10 @@ Recursos de investigación para la maquetación del primer trabajo que usa [[Inf
 - ¿Qué es una señal? :FiCheck:
 - ¿Cuáles son los diferentes tipos de señales? :FiCheck:
 - ¿Cómo funciona la transmisión de datos entre dispositivos? :FiCheck:
-- ¿En qué difiere la seguridad de la transmisión de un dato digital vs un dato análogo?
-- ¿De qué formas se puede perder la calidad de una señal?
-- ¿Cómo se puede regenerar una señal?
+- ¿En qué difiere la seguridad de la transmisión de un dato digital vs un dato análogo? :FiCheck:
+- ¿De qué forma se puede perder la calidad de transmisión en una señal? :FiCheck:
+- ¿Cómo se puede detectar una señal? :FiCheck:
+- ¿Cómo se puede regenerar una señal? :FiCheck:
 - ¿Cuáles son las ventajas de un tipo de señal con respecto a la otra? (No Lo Generalices, todos los dispositivos funcionan de acuerdo a la necesidad de una señal digital o análoga)
 - Comparaciones entre diferentes sistemas que usan señales digitales o analógicas.
 - Tendencias y futuras aplicaciones de las señales digitales y analógicas.
@@ -137,10 +138,91 @@ Un sistema que hace uso de una señal digital puede intercambiar información en
 Debido a que la información contenida en una señal digital ya está procesada, puede aplicar diferentes métodos de detección de errores para corregir posibles degradaciones en la señal por medio de métodos como la amplificación, la ecualización y el filtrado.
 
 4. El procesamiento de una señal digital requiere menos potencia eléctrica, tiene componentes más pequeños y puede llegar a tener un precio menos costoso.
+
 5. Son sensibles a la sincronía entre elementos conectados.
 
 Todos los elementos conectados deben estar funcionando en un mismo tiempo. Es decir que por ejemplo, cuando hablamos de un sistema de transferencias interconectado por medio de computadoras todas las computadoras deben tener sincronizado su reloj interno, pues de lo contrario los datos pueden llegar en el momento equivocado y provocar errores.
 
+# ¿En qué difiere la seguridad de la transmisión de un dato digital vs un dato análogo?
+
+1. Inmunidad al ruido
+
+Las señales digitales suelen tener mayor inmunidad al ruido y las interferencias del ambiente, esto debido a que el bit del ruido solo puede tener dos estados, 0 o 1, que cambian entre si sin afectar de una forma significativa a la información general.
+
+Por el contrario, en una señal analógica se puede notar una mayor distorsión, que degrada la calidad de la información y por lo tanto la hace más susceptible a presentar errores.
+
+2. Corrección de Errores
+
+En una señal digital los datos se pueden identificar fácilmente para corregir posibles errores al momento de la transmisión, sin embargo, cuando se trata de corregir errores en una señal de tipo analógica se evidencia un proceso más complejo y menos efectivo.
+
+3. Encriptación de datos
+
+Una señal de tipo digital permite encriptar los datos de una forma más sencilla para enviarlos por un medio más seguro como lo pueden ser los cables de fibra óptica o redes privadas, lo que los hace más difíciles de interceptar y descifrar. En una señal analógica el proceso de encriptación se vuelve más complejo y no tiene la misma efectividad debido a que como las señales se transmiten por el espacio tienden a interceptarse con mucha más facilidad.
+
+
+# ¿Cómo se puede detectar una señal?
+La detección de una señal consiste en identificar la presencia de una señal en un medio de transmisión, teniendo en cuenta la distinción del ruido de fondo en la señal y otros tipos de interferencias. Hay diferentes formas de detectar una señal, entre las cuales se encuentran:
+
+- La detección por umbral
+
+En este método de detección de señales se establece un umbral o mínimo de comparación. Si la energía o radiación de la señal supera el umbral se considera presente.
+
+Un ejemplo puede ser la detección de un pulso cardiaco en un electrocardiograma. El umbral se define como un valor mínimo de voltaje que representa la actividad eléctrica del corazón.
+
+- La detección por Correlación
+
+En este método de detección de señales se compara la señal con una plantilla que representa a una señal conocida. Si la señal coincide con la plantilla se considera presente.
+
+Un ejemplo puede ser el método utilizado por un reconocimiento facial. Una plantilla se genera a partir de una imagen del rostro del usuario y se compara con imágenes capturadas en tiempo real.
+
+- La detección de Energía
+
+En este método de detección de señales se calcula la energía de una señal en un intervalo de tiempo y se compara con un umbral.
+
+Un ejemplo puede ser el sistema de supresión de diferentes sistemas de comunicación en una aplicación. La energía de la señal aumenta cuando hay una presencia de voz, de lo contrario el micrófono reduce su sensibilidad suprimiendo todo el ruido de fondo.
+
+- Detección por Análisis Espectral
+
+En este método de detección de señales una señal se descompone por sus componentes de frecuencia y se analiza la distribución de energía en el espectro.
+
+Un ejemplo puede ser la detección de interferencias en una señal de radio. El análisis espectral permite identificar las frecuencias afectadas por la interferencia.
+
+# ¿De qué forma se puede perder la calidad de transmisión en una señal?
+
+Una pérdida de calidad en una señal se debe a las perturbaciones en la transmisión de una señal eléctrica que puede desembocar en la perdida de información en el trayecto de la señal desde el emisor hasta el receptor. Normalmente los diferentes factores que hacen que la calidad de la transmisión en una señal se pierda son inevitables debido a las variables establecidas dentro de un espacio de transmisión. Para contrarrestar la pérdida de información se pueden detectar los errores que puede presentar una señal para tratar de devolverla a un estado inicial puro.
+
+Los diferentes factores que pueden perturbar una señal se definen como:
+- Ruido
+
+Se conoce como ruido a toda señal no deseada que interfiera con una señal que se desea transmitir. El ruido se debe a múltiples causas en las que se pueden encontrar los componentes eléctricos, el ruido térmico de un resistor, una interferencia con una señal externa... etcétera.
+
+- Atenuación
+
+Se conoce como atenuación de una señal a la pérdida de potencia sufrida por la misma al pasar por cualquier medio de comunicación. Normalmente el concepto de atenuación depende de las condiciones del entorno en el que se transmite una señal, un ejemplo pueden ser las condiciones atmosféricas. Para que una señal se pueda transmitir de un punto A a un punto B, debe contar con un nivel de energía suficiente.
+
+- Distorsión de Retardo
+
+Es un fenómeno que ocurre cuando diferentes componentes de una frecuencia de una señal se propagan a diferentes velocidades a través de un medio de transmisión, causando que la forma original de la señal se vea afectada debido a que las diferentes frecuencias llegan en diferentes instantes de tiempo al destinatario.
+
+# ¿Cómo se puede regenerar una señal?
+
+Cuando una señal es degradada por medio de una interferencia por ruido o una distorsión se puede intentar restaurar a su forma original. El proceso que se debe seguir para regenerar una señal consta de tres fases:
+
+- La detección
+
+La fase de detección consiste en identificar la presencia de una señal en el medio de transmisión. Se analiza la energía presente en un medio diferenciar por medio de las ondas a la señal del ruido.
+
+- El Procesamiento
+
+Cuando se detecta la señal, se extrae la información que contiene. El procesamiento de una señal conlleva eliminar el ruido y la distorsión que se haya colado en la transmisión. Existen diferentes técnicas de procesamiento de una señal y cada una de ellas se enfoca en corregir un tipo de error diferente:
+
+1. Amplificación: Consiste en aumentar la amplitud de la señal sin alterar su forma original.
+2. Ecualización: Consiste en corregir la distorsiones de frecuencia en una señal.
+3. Filtrado: Consiste en reducir el ruido en una señal.
+
+- Reconstrucción
+
+La fase de reconstrucción consiste en recrear la señal original a partir de las correcciones hechas en la fase de procesamiento. Frecuentemente se utilizan técnicas de interpolación para rellenar los huecos o brechas que pueden existir en la señal debido al proceso de muestreo y a la distorsión del canal. Lo que se busca en la fase de reconstrucción es obtener una señal lo más similar posible a la transmitida originalmente.
 
 # ¿Cómo funciona la transmisión de datos entre dispositivos?
 
@@ -160,7 +242,6 @@ Están constituidos por cables que se encargan de conducir las señales que cont
 
 - El cable de par trenzado y el Cable Coaxial: Permiten la transmisión de señales eléctricas.
 - La Fibra Óptica: Utiliza pulsos de luz para transmitir la información.
-
 
 
 - Medios de Transmisión no Guiados (o Inalámbricos)
@@ -183,6 +264,15 @@ Los datos ya decodificados se transfieren a la aplicación o servicio que hace u
 - [¿Qué es el Internet de las Cosas?](https://www.redhat.com/es/topics/internet-of-things/what-is-iot#:~:text=El%20Internet%20de%20las%20cosas%20(IoT)%20es%20el%20proceso%20que,sistemas%20de%20las%20ciudades%20inteligentes.)
 - [¿Qué es una Señal?](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/824/mod_resource/content/5/contenido/index.html)
 - [Medio de Transmisión](https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n#:~:text=Los%20medios%20de%20transmisi%C3%B3n%20son,transmisi%C3%B3n%20no%20guiados%20o%20inal%C3%A1mbricos.)
+- [Conversión Analógica Digital](https://es.wikipedia.org/wiki/Conversi%C3%B3n_anal%C3%B3gica-digital#:~:text=La%20conversi%C3%B3n%20anal%C3%B3gico%2Ddigital%20consiste,m%C3%A1s%20sensibles%20las%20se%C3%B1ales%20anal%C3%B3gicas.)
+- [¿Qué es el ruido en comunicación?](https://es.wikipedia.org/wiki/Ruido_(comunicaci%C3%B3n)#:~:text=Cuando%20el%20ruido%20se%20a%C3%B1ade,naturaleza%20de%20informaci%C3%B3n%20que%20transporta.)
+- [¿Qué es atenuación?](https://es.wikipedia.org/wiki/Atenuaci%C3%B3n)
+- [Perturbaciones en la Red](https://microinstalaciones.com.ar/perturbaciones-en-la-red/#:~:text=La%20distorsi%C3%B3n%20de%20retardo%20es,los%20extremos%20de%20la%20banda.)
+- [Detección y Corrección de Errores](https://es.wikipedia.org/wiki/Detecci%C3%B3n_y_correcci%C3%B3n_de_errores#:~:text=Si%20se%20requiere%20detecci%C3%B3n%20de,alg%C3%BAn%20momento%20durante%20la%20transmisi%C3%B3n.)
+- [Detección de la Energía Por Medio de Señales de Voz](https://es.wikipedia.org/wiki/Se%C3%B1al_de_voz#:~:text=La%20variaci%C3%B3n%20de%20energ%C3%ADa%20en,sonoros%20respecto%20a%20los%20sordos.)
+- [Matlab: Análisis del Espectro Básico](https://la.mathworks.com/help/matlab/math/basic-spectral-analysis.html)
+- [Señales](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/824/mod_resource/content/5/contenido/index.html)
+- [¿Qué es un Regenerador?](https://es.wikipedia.org/wiki/Regenerador#:~:text=Cuando%20una%20se%C3%B1al%20digital%20atraviesa,mediante%20el%20uso%20del%20regenerador.)
 - [Las 10 prácticas de seguridad recomendadas para proteger las copias de seguridad en AWS](https://docs.aws.amazon.com/es_es/prescriptive-guidance/latest/security-best-practices/welcome.html)
 - [Análogo vs digital ¿cuál para transmisión inalámbrica?](https://www.avilatinoamerica.com/202012053484/articulos/integracion-comercial/analogo-vs-digital-cual-para-transmision-inalambrica.html "Análogo vs digital ¿cuál para transmisión inalámbrica?")
 - [Sistemas y componentes de transmisión por Fibra Óptica](https://www.thefoa.org/ESP/Sistemas.htm)

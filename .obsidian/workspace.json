@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "943307ca0eee78fd",
+        "id": "9dc533d8bf5045d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e792d55deff96b",
+            "id": "2f3ffbe656c87695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1096d40af14ca7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009aa1d242308c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Networking/Cisco Packet Tracer.md"
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md"
               }
             }
           },
@@ -168,10 +187,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c2e792d55deff96b",
+  "active": "2f3ffbe656c87695",
   "lastOpenFiles": [
-    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
     "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
+    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
     "Notas De La Universidad/Networking/Networking.md",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Networking/Qué es el Internet.md",
@@ -181,8 +202,6 @@
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
     "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
