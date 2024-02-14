@@ -3,7 +3,7 @@ Para llevar a cabo las sesiones de entrenamiento de [[Programación Competitiva]
 
 # Temario
 
-## Clase 1
+## Clase 1 *Ya Realizada*
 
 - ¿Qué es la Programación Competitiva?
 - Introducción a c++. (Tipos de datos y como mandar un ejercicio)
@@ -26,7 +26,6 @@ Para llevar a cabo las sesiones de entrenamiento de [[Programación Competitiva]
 - Introducción a las estructuras de datos.
 	- https://codeforces.com/contest/1579/problem/E1
 - Ejercicios de Simulación.
-- Geometría rectangular (Si alcanzamos)
 
 ## Clase 3
 
