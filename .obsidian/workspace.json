@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad03f2b38f487601",
+            "id": "c2e792d55deff96b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60310cf497d31184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md"
+                "file": "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md"
               }
             }
           },
@@ -181,13 +169,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "60310cf497d31184",
+  "active": "c2e792d55deff96b",
   "lastOpenFiles": [
-    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
-    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/desfaseyCorrimientoGrafica.png",
@@ -196,12 +188,8 @@
     "Notas De La Universidad/Comunicación de Datos/Imagenes/sumatoriaSeñales.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/graficaSumatoriaSeñales.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/dominioFrecuencia.png",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
     "Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Proyecto de Camilo/Proyecto de Camilo.md",
