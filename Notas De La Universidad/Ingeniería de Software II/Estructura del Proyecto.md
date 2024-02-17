@@ -31,9 +31,19 @@ Plataforma de Freelance para Enfermeros
 - Portal de pagos.
 - Sistema de Perfiles.
 - Sistema de propinas (BuyMeACoffee?)
+- Sistema de Registros por separados
+
+**Product Manager:** *Santiago Sierra*
+
 ## Ideas de Tecnologías para el proyecto:
 
 - Base de Datos -> SQL Server
-- Creación de API -> API REST
+- Creación de API -> Rest API & Go
 
-
+> Nota de Tato: Investigar Como hacer inicio de sesión y registro tokenizado en go.
+## Herramientas a Utilizar
+- Notion
+- Git 
+- Postman
+- NodeJS
+- Volta

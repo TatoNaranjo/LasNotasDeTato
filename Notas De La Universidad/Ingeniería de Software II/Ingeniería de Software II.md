@@ -34,3 +34,4 @@ Para los trabajos y las actividades se usará el Aula Virtual.
 - Documentación y Varios. 30%
 - Aplicativo Funcional. 50%
 - Proyecto de Gestión del Conocimiento. 20%
+

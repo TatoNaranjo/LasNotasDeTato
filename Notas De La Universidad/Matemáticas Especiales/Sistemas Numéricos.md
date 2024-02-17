@@ -1,4 +1,4 @@
-Como representar una secuencia de números de una forma diferente. Investigación para [[Matemáticas Especiales]]
+Como representar una secuencia de números de una forma diferente. Investigación para [[Matemáticas Especiales]].
 # Definición
 Un sistema numérico es un conjunto de símbolos y reglas que nos permiten representar un número de una forma ordenada y precisa. Hay diferentes sistemas numéricos y cada uno de ellos se caracteriza por su *base*. Lo que define a una *base* son los *símbolos* utilizados en ese sistema numérico. A su vez, estos *símbolos* se pueden combinar entre sí para formar cantidades o valores aún mayores de la representación de un número. Los sistemas de numeración actuales son *sistemas posicionales*, caracterizados por que cada *símbolo* tiene un valor diferente dependiendo de la posición en la que se encuentre.
 # Tipos de Sistemas Numéricos
@@ -36,12 +36,22 @@ Este sistema fue creado para facilitar la lectura de números especialmente gran
 ### Origen
 A diferencia de los sistemas decimales que hemos tratado en este documento, el sistema hexadecimal tiene una historia de origen relativamente cercana debido a que se introdujo en el ámbito de la computación en el año *1963* por la empresa *IBM*. Sin embargo cabe resaltar que antes de la implementación del sistema hexadecimal como la conocemos hoy en día, una implementación con dígitos del *0-9* y de *u-z* fue utilizada en *1956* por la computadora *Bendix G-15*.
 ## Sistema Octal
+
 ![[sistemaOctal.png]]
 Es un sistema de numeración posicional que tiene como *base aritmética* el número 8. Por lo tanto, el sistema octal hace uso de ocho símbolos en total: Cero (*0*), Uno (*1*), Dos(*2*), Tres(*3*), Cuatro(*4*), Cinco(*5*), Seis(*6*) y Siete(*7*). Normalmente se usa en informática para trabajar con un byte o con conjuntos de los mismos en vez de usar el sistema decimal.
+
+**Pasando 76 a Octal**
+
+| 1 | 4 2 1 | 4 2 1 |
+| ---- | ---- | ---- |
+| 1 | 0 0 1 | 1 0 0 |
+| 1 | 1 | 4 |
+
 ### Origen
 Fue introducido por primera vez por primera vez por el genio matemático y lógico británico *George Boole* en la década de 1840. George Boole fue el precursor que desarrolló el algebra booleana como una base para implementar el sistema binario en los diferentes componentes electrónicos que existen en el mundo. Sin embargo, el sistema octal es mencionado en este punto debido el papel que tiene en el álgebra booleana gracias a que es clave en la representación y manipulación de la información binaria.
 
 Cuando la informática y la electrónica digital apenas estaban surgiendo, las palabras de longitud fija utilizaban un almacenamiento de 12, 24 o 36 bits, por lo que lo que se hacía era dividir estas palabras en conjuntos de tres bits y se procedía a representar cada grupo con un dígito del sistema octal.
+
 
 ## Referencias
 - [Definición de Sistema Numérico - Blog](https://trabajoenequipoitq.wixsite.com/matematicas-discreta/11-sistemas-numricos)

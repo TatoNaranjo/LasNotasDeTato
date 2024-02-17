@@ -1,6 +1,4 @@
 [[Networking]] 
-
-
 # Conversiones De Bases Rápidas
 
 ## De Decimal a Binario

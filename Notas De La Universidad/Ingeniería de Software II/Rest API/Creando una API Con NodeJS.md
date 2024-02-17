@@ -208,8 +208,181 @@ Ahora, lo que veremos que el servidor nos responde con un archivo de tipo *JSON*
 }
 ```
 
+## Ordena Tus Rutas
 
-***TODO: Crear una nueva carpeta para separar las rutas y continuar el curso de API REST en NodeJS, minuto 28:40 del video***
+Debido a que vamos a añadir muchas más rutas en nuestros proyectos, es conveniente juntarlas a todas dentro de una carpeta por términos de organización. Para esto, crearemos una carpeta `routes` dentro del directorio `src`. Luego, dentro de la carpeta `routes` creamos un archivo `index.js` que será el que va a contener todas las rutas y las exportará para que otros archivos las puedan usar.
 
+Además, dentro del archivo `index.js` del directorio routes, modificaremos el código para llamar directamente al método `routes` de *Express*. El método permite crear nuevas rutas para el servidor. Con todos los cambios nuestro nuevo archivo quedaría de la Siguiente manera:
+
+```js
+const {Router} = require ('express');
+const Router = Router();
+router.get("/",(req,res)=>{
+    res.json({"Title":"Hello World"})
+})
+module.exports = router;
+```
+
+Ahora, en el `index.js` anterior, tendremos que llamar al documento que acabamos de crear...
+
+```js
+//Routes
+app.use(require('./routes/index'));
+```
+
+## Simulando el funcionamiento de una API para una página de Películas
+
+Debido a que el ejemplo a seguir no tiene una base de datos, la simularemos a partir de un archivo JSON que crearemos en la carpeta `src`. En este caso le pondremos el nombre `sample.json` debido a que es un archivo de prueba, y lo rellenaremos con información.
+
+```json
+[
+    {
+      "id":1,
+      "name": "Tenet",
+      "Director": "Christopher Nolan",
+      "Cast": "John David Washington, Robert Pattinson, Elizabeth Debicki"
+    },
+    {
+      "id":2,
+      "name": "The Trial of the Chicago 7",
+      "Director": "Aaron Sorkin",
+      "Cast": "Eddie Redmayne, Sacha Baron Cohen, Mark Rylance"
+    },
+    ]
+```
+
+Dentro de `routes` crearemos un archivo llamado `movies.js`, que será el encargado de acceder a la información del archivo *JSON* creado anteriormente, y que contendrá el mismo sistema de rutas que usamos en el archivo `index.js` de routes:
+
+```js
+const {Router} = require ("express");
+const router = Router();
+router.get("/movies",(req,res)=>{
+    res.send("Movies")
+})
+module.exports = router;
+```
+
+Luego, procederemos a importar la ruta en el archivo `index.js` de la carpeta `src`
+
+```js
+...
+//Routes
+app.use(require('./routes/index'));
+app.use(require("./routes/movies"));
+```
+
+### Siguiendo las prácticas REST
+
+Como queremos que la creación de nuestra API siga los principios REST, no podemos dejar una ruta tipo `http://localhost:3000/movies` debido a que el patrón que se suele seguir, es que antes de acceder a la información haya un directorio que indique que se está accediendo a una API. Por lo tanto, el directorio debe quedar de la forma `http://localhost:3000/api/movies`.
+
+Para esto, tenemos que acceder al archivo `.js` de nuestra ruta y modificar la siguiente linea:
+
+```js
+router.get("/movies",(req,res)=>{
+```
+
+por:
+
+```js
+router.get("/",(req,res)=>{
+```
+
+Posteriormente, en el `index.js` donde se importan todas las rutas tenemos que indicar que nuestra ruta comienza con la dirección `/api/nombredelarchivo`.
+
+```js
+//Routes
+// Forma sin prácticas REST
+app.use(require('./routes/index'));
+//Forma con Prácticas REST
+app.use('/api/movies',require("./routes/movies"));
+```
+
+### Obteniendo los datos del archivo .JSON
+ Para obtener los datos de nuestro *JSON* simplemente modificamos el archivo `movies.js` de la siguiente forma:
+
+```js
+const {Router} = require ("express");
+const router = Router();
+const movies = require("../sample.json");
+router.get("/",(req,res)=>
+    res.json(movies);
+})
+module.exports = router;
+```
+
+Si vamos a la dirección `http://localhost:3000/api/movies` veremos un arreglo con todos los datos de nuestro `sample.json`.
+
+### Agregando Contenido al JSON con Peticiones mediante Postman
+
+Debido a que no utilizamos una interfaz con HTML y JavaScript, tenemos que solventar las peticiones del proyecto usando Postman.
+
+En Postman podemos crear diferentes peticiones como *GET*, *PUT* o *POST* para administrar nuestra API REST, y nos daremos cuenta de que al momento de que el navegador ingresa a la ruta `http://localhost:3000/api/movies` hace una petición *GET* automáticamente.
+
+Para ingresar datos mediante una petición *POST* por medio de Postman, debemos de configurar las propiedades de nuestro archivo `movies.js` para otorgar la posibilidad de realizar ese tipo de peticiones.
+
+```js
+router.post("/",(req,res)=>{
+    console.log(req.body);  
+    res.send("Received");
+});
+```
+
+En este caso, estamos pidiendo que renderice todo el contenido del JSON a través de una propiedad llamada `req.body`, y para que la petición no se quede estancada imprimimos un mensaje que confirma que la información fue recibida por el servidor.
+
+![[postManHeaders.png]]
+
+A través de la key `Content-Type` definimos el tipo de contenido que vamos a enviar a través de la petición *POST*, y a través de la casilla `Value` definimos `application/json` para darle a entender al servidor que vamos a enviar un archivo en formato *JSON*.
+
+Para enviar la información, nos vamos a la opción `Body` y definimos el *JSON* que queremos enviar. Posteriormente, si ejecutamos la petición veremos el mensaje por consola que indica que la información se recibió correctamente, y si miramos la consola de nuestro VSCode notaremos que la información del *JSON* que enviamos a través de Postman se encuentra allí.
+
+![[postmanBody.png]]
+
+Si estuviéramos trabajando con una base de datos, estas peticiones tendrían que crear una inserción dentro de la base de datos. Sin embargo, como estamos trabajando con un archivo *JSON* para simular el proceso, vamos a crear un objeto nuevo que almacene los datos correspondientes.
+
+Como podemos notar, los datos se encuentran almacenados dentro de `req.body`, por lo que podemos crear constantes que almacenen cada uno de los valores que estamos recibiendo.
+
+```js
+const {name,Director,Cast} = req.body;
+```
+
+Para validar que si están llegando todos los tipos de datos basta con hacer una comprobación del tipo if, de la siguiente forma:
+
+```js
+router.post("/",(req,res)=>{
+    const {name,Director,Cast} = req.body;
+    if(name&&Director&&Cast){
+        res.json("saved");
+    } else{
+        res.send("Wrong Request");
+    }
+});
+```
+
+Ahora, si te diriges a postman e intentas quitar alguna de estas 4 claves para luego mandar una petición, el servidor te responderá con un mensaje tipo `Wrong Request`.
+
+En vez de enviar un mensaje `saved` cuando la validación es correcta, trataremos de guardar la información en el archivo *JSON* que tenemos. Para esto, debemos crear un objeto que almacene los datos de `req.body` de la siguiente manera:
+
+```js
+router.post("/",(req,res)=>{
+    const {name,Director,Cast} = req.body;
+    if(name&&Director&&Cast){
+    // Asignamos una ID automáticamente basándonos en el numero de objetos que tenemos.
+        const id = movies.length+1;
+
+// Creamos el objeto que tiene el contenido del JSON que mandamos por PostMan
+        const newMovie = {id,...req.body};
+// Enviamos los elementos al JSON que ya tenemos
+        movies.push(newMovie);
+// Mostramos la lista de Películas actualizada.
+        res.json(movies);
+    } else{
+        res.send("Wrong Request");
+    }
+});
+```
+
+> Recuerda que hasta este punto y por medio de esta simulación, solo estamos alterando el contenido del archivo en memoria, mas no estamos alterando el contenido del archivo original. Al momento en el que apaguemos el servidor, esta información agregada se perderá, a no ser que alteremos el archivo JSON de alguna forma.
+
+**TODO: Seguir con el video en el minuto 56:11. Petición DELETE**
 # Referencias
 - [Tu primer REST API usando Node.js - Fazt Code](https://www.youtube.com/watch?v=bK3AJfs7qNY)

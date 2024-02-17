@@ -1,20 +1,19 @@
 Recursos de investigación para la maquetación del primer trabajo que usa [[Informes Técnicos]]
 
->Informe técnico de no menos de 4 paginas en las cuales se establezca las diferencias entre la transmisión de señales análogas y digitales de acuerdo al medio que se emplee, además de cual es el recomendado para tal fin de acuerdo  los requerimientos, debe ser sustentado tiempo empleado para tal fin 5 minutos
+>Informe técnico de no menos de 4 paginas en las cuales se establezca las diferencias entre la transmisión de señales análogas y digitales de acuerdo al medio que se emplee, además de cual es el recomendado para tal fin de acuerdo los requerimientos, debe ser sustentado como tiempo empleado para tal fin 5 minutos
 
 # Desarrollo del Documento
 - ¿Qué es la comunicación de datos? :FiCheck:
 - ¿Qué tipo de dispositivos pueden comunicar un dato? :FiCheck:
 - ¿Qué es una señal? :FiCheck:
 - ¿Cuáles son los diferentes tipos de señales? :FiCheck:
-- ¿Cómo funciona la transmisión de datos entre dispositivos? :FiCheck:
 - ¿En qué difiere la seguridad de la transmisión de un dato digital vs un dato análogo? :FiCheck:
 - ¿De qué forma se puede perder la calidad de transmisión en una señal? :FiCheck:
 - ¿Cómo se puede detectar una señal? :FiCheck:
 - ¿Cómo se puede regenerar una señal? :FiCheck:
-- ¿Cuáles son las ventajas de un tipo de señal con respecto a la otra? (No Lo Generalices, todos los dispositivos funcionan de acuerdo a la necesidad de una señal digital o análoga)
-- Comparaciones entre diferentes sistemas que usan señales digitales o analógicas.
-- Tendencias y futuras aplicaciones de las señales digitales y analógicas.
+- ¿Cómo funciona la transmisión de datos entre dispositivos? :FiCheck:
+- Comparación entre señales en un sistema que usa señales digitales y analógicas a la vez. :FiCheck:
+- Tendencias y futuras aplicaciones de las señales digitales y analógicas. :FiCheck:
 
 # ¿Qué es la comunicación de datos?
 
@@ -94,7 +93,7 @@ El funcionamiento de los elementos IoT tradicionales consiste en enviar, recibir
 
 Para poder enviar y recibir la información necesitamos de un medio de energía que pueda portar estos datos y codificarlos mediante un proceso llamado modulación, a esta energía que viaja a través de un espacio determinado por sus medios de transmisión se le conoce como una señal. La energía que porta los datos puede venir en diferentes medios, ya sea por medio de la electricidad o por medio de la luminosidad, debido a que depende del medio de transmisión que se utilice para generar una señal. Las señales que se reciben, procesan y transmiten en un dispositivo pueden variar en su tipo para ser una digital o analógica, sin embargo la constante es que una señal siempre transmite algún tipo de información.
 
-# ¿Cuáles son los diferentes tipos de señales?
+# ¿Cómo se clasifica una señal?
 
 - Señales Analógicas
 
@@ -192,6 +191,7 @@ Un ejemplo puede ser la detección de interferencias en una señal de radio. El 
 Una pérdida de calidad en una señal se debe a las perturbaciones en la transmisión de una señal eléctrica que puede desembocar en la perdida de información en el trayecto de la señal desde el emisor hasta el receptor. Normalmente los diferentes factores que hacen que la calidad de la transmisión en una señal se pierda son inevitables debido a las variables establecidas dentro de un espacio de transmisión. Para contrarrestar la pérdida de información se pueden detectar los errores que puede presentar una señal para tratar de devolverla a un estado inicial puro.
 
 Los diferentes factores que pueden perturbar una señal se definen como:
+
 - Ruido
 
 Se conoce como ruido a toda señal no deseada que interfiera con una señal que se desea transmitir. El ruido se debe a múltiples causas en las que se pueden encontrar los componentes eléctricos, el ruido térmico de un resistor, una interferencia con una señal externa... etcétera.
@@ -260,6 +260,54 @@ El dispositivo que recibe los datos pasa por un proceso en el que decodifica los
 4. Entrega
 
 Los datos ya decodificados se transfieren a la aplicación o servicio que hace uso de los mismos dentro del dispositivo.
+
+# Comparación entre señales en un sistema que usa señales digitales y analógicas a la vez.
+
+Un amplificador de audio puede ser un sistema que usa señales digitales y analógicas a la vez. Este dispositivo puede recibir una señal de audio (Que puede ser una señal analógica o digital) y amplificarla para ser escuchada a través de un altavoz. Para analizar la diferencia de procesamiento y las ventajas de una señal sobre otra, se procederá a hacer una comparación entre las señales analógicas y digitales en un amplificador de audio.
+
+- Usando una señal analógica
+
+1. Es continua, es decir que varía en el tiempo real de una forma suave y constante, lo que permite imitar la forma del sonido original.
+2. Puede tomar un valor cualquiera dentro de un rango determinado.
+3. La señal es más susceptible al ruido o interferencias en el espacio que pueden afectar la calidad del sonido.
+4. Requiere más ancho de banda para transmitir la misma información que una señal digital.
+
+- Usando una señal digital
+
+1. Es discontinua debido a que representa el sonido en valores discretos definidos como Unos o Ceros.
+2. Solo puede tomar dos valores (0 o 1).
+3. Las interferencias no afectan la calidad del sonido, debido a la invulnerabilidad que ofrecen las señales digitales.
+4. Requiere menos ancho de banda para transmitir la misma información que una señal analógica.
+
+**Comparación:**
+
+|Característica|Señal analógica|Señal digital|
+|---|---|---|
+|Tipo de señal|Continua|Discontinua|
+|Rango de valores|Infinito|Finito|
+|Susceptibilidad al ruido|Alta|Baja|
+|Eficiencia en la transmisión|Baja|Alta|
+|Ejemplos|Vinilos, cintas de cassette, radio AM/FM|CDs, MP3, streaming de audio|
+
+- ¿Qué tipo de señal es mejor?
+
+La respuesta depende del usuario y sus necesidades. Cuando se busca una reproducción de sonido mas fiel a la original se usan señales analógicas debido a el reducido proceso de procesamiento por el que tienen que pasar para llegar a el producto final. Así mismo, cuando se busca cierta estabilidad en la calidad del audio mientras se transmite en vivo o se almacena en un dispositivo, es preferible usar señales analógicas que faciliten y hagan más cómodo el uso del amplificador de audio.
+
+# Tendencias y Aplicaciones Futuras de las Señales Digitales y Analógicas
+
+Ahora que conocemos un nuevo concepto sobre como se transmite la información a través de un medio, podemos entender una de las razones que facilitan el crecimiento del sector tecnológico en la actualidad. Aunque es importante analizar el entorno que nos rodea para determinar qué dispositivos pueden hacer uso de una señal digital o analógica, también se deben conocer las nuevas tendencias que surgen en la actualidad para proyectar un futuro en donde la humanidad en su totalidad esté conectada al alcance de un click. Algunas de las tendencias que permiten el mejoramiento de la comunicación de datos son:
+
+- Inteligencia Artificial: La IA se integrará cada vez más en los sistemas de procesamiento de señales para mejorar la detección y detección de errores, la eficiencia y la adaptabilidad de una señal digital.
+
+- Internet de las Cosas: Aunque el concepto como herramienta existe, es importante recalcar que cada día se busca automatizar un sector bajo el concepto de Sector Inteligente, por lo que el constante mejoramiento en la transmisión de señales se volverá un pilar importante la conexión global mediante el internet de las cosas.
+
+- Redes 5G: La mayor velocidad y capacidad de las redes 5G permitirá la transmisión de señales digitales de alta calidad en tiempo real, y gracias a ello se abren nuevas posibilidades para la implementación de aplicaciones como la realidad virtual y la realidad aumentada.
+
+- Blockchain: Hoy en día, la seguridad de la transmisión de información por medio de señales digitales es un pilar fundamental para la tecnología blockchain debido a que asegura la autenticidad y la integridad de su información. Algunas aplicaciones de esta tecnología son las cadenas de suministro de diferentes empresas así como también las finanzas.
+
+- Vehículos Autónomos: El sistema de un vehículo autónomo hace uso de las señales digitales para comunicarse con otros sistemas y con la infraestructura vial por lo que el constante mejoramiento de la transmisión de información será un factor clave en la búsqueda de una conducción automática segura y eficiente.
+
+
 # Referencias
 - [¿Qué es el Internet de las Cosas?](https://www.redhat.com/es/topics/internet-of-things/what-is-iot#:~:text=El%20Internet%20de%20las%20cosas%20(IoT)%20es%20el%20proceso%20que,sistemas%20de%20las%20ciudades%20inteligentes.)
 - [¿Qué es una Señal?](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/824/mod_resource/content/5/contenido/index.html)
