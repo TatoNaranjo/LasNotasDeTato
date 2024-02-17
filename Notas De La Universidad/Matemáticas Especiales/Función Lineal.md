@@ -1,7 +1,7 @@
 Parte del repaso inicial de la clase de [[Matemáticas Especiales]]
 
 ***Dados esos dos puntos Graficar y Hallar la Ecuación de la Recta.***
-**Formulas**
+**Formulas**}+
 *Ecuación de la Recta:* $y = mx+b$
 *Pendiente:* $m=\frac{y2-y1}{x2-x1}$
 
@@ -47,6 +47,39 @@ $\frac{11}{3}=b$
 
 **Gráfica:**
 ![[Ejercicio1.2FunciónLineal.png]]
+
+**Hallar los puntos de corte:**
+Tomamos la primera ecuación $y=3x$, y la segunda ecuación de la recta $y=-\frac{1}{3}x + \frac{11}{3}$
+
+Luego, tomamos el método que más nos convenga
+
+**Punto de Corte de la Recta Perpendicular:**
+**Igualación:**
+$3x=-\frac{1}{3}x+\frac{11}{3}$
+$3x+\frac{1}{3}x = \frac{11}{3}$
+$\frac{10}{3}x = \frac{11}{3}$
+$x=\frac{11}{10}$
+$y=3*\frac{11}{10}$
+
+Punto de Corte: $(1.1,3.3)$
+
+**Punto de Corte de la Recta Paralela:**
+Primera Ecuación de $y$ : $y=3x+11$
+Ecuación General de la Perpendicular: $y=-\frac{1}{3}x+\frac{11}{3}$
+
+$3x+11=-\frac{1}{3}x+\frac{11}{3}$
+$3x+\frac{1}{3}x = \frac{11}{3}-11$
+$\frac{10}{3}x = -\frac{22}{3}$
+$x = \frac{\frac{22}{3}}{-\frac{10}{3}}$
+$x=2.2 
+
+$y=-\frac{1}{3}*2.2+\frac{11}{3}$
+
+
+
+$(2.2,4.4)$
+
+
 
 
 
