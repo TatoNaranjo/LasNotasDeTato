@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+                "file": "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5961ec5a2d211361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -168,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,11 +200,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ea73c53e5203f879",
+  "active": "b280b3cebbd62e30",
   "lastOpenFiles": [
     "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "conflict-files-obsidian-git.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/normativasParaTCP.png",
@@ -227,7 +238,6 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/postmanBody.png",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",

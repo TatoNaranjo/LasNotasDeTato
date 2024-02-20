@@ -1,6 +1,6 @@
 Segunda clase de las [[Sesiones de estudio de UdeC]].
 ***Por:*** *Santiago Naranjo Herrera ([TatoNaranjo](https://codeforces.com/profile/TatoNaranjo)) && Felipe Salamanca ([FelipeOP](https://codeforces.com/profile/FelipeOP))*
-***Lenguaje Utilizado en los Ejemplos:*** *C++*
+***Lenguaje Utilizado en los Ejemplos:*** *C++*.
 
 ***Índice***
 ```table-of-contents
