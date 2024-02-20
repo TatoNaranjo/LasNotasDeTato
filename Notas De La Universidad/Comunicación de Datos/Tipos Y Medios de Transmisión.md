@@ -1,5 +1,10 @@
 Tercera clase de [[Comunicación de Datos]]
 
+***Tabla de Contenido***
+
+```table-of-contents
+```
+
 # Medios de Transmisión.
 Un medio de transmisión constituye el soporte físico a través del cual el emisor y el receptor van a enviar un mensaje en un sistema de transmisión de datos.
 
@@ -37,7 +42,7 @@ Los pares trenzados STP presentan mejores características de transmisión de lo
 
 ***Naranja Blanco/ Naranja***: *Recibe Datos*
 ***Verde Blanco/Verde:*** *Transmite Datos*
-##### **Diferencia Entre T568A y T568B**
+##### Diferencia Entre T568A y T568B
 
 - A partir de 2018, ANSI/TIA aún **recomienda T568A** para instalaciones residenciales para **compatibilidad** con versiones anteriores de tecnología antigua, como máquinas de fax o una base de conexión para teléfonos inalámbricos. Si no está utilizando ninguno de estos dispositivos, o no tiene la intención de conectar los antiguos enchufes RJ11 a los conectores de pared RJ45 , entonces vuelve a ser una preferencia personal. En realidad, ¿cuántas personas siguen usando este viejo fax o teléfono?
 
@@ -98,5 +103,28 @@ Existen múltiples tipos de cable coaxial, cada uno con un diámetro e impedanci
 
 - **RG-62:** Utilizado para redes de área local.
 ### La Fibra Óptica
+![[Pasted image 20240220084523.png]]
+![[Pasted image 20240220084529.png]]
+Consta de tres secciones concéntricas. La más interna, el núcleo, consiste en una o más hebras o fibras hechas de cristal o plástico. Cada una de ellas lleva un revestimiento de cristal o plástico con propiedades ópticas distintas a las del núcleo. La capa más exterior, que recubre una o más fibras, debe ser de un material opaco y resistente.
 
+No se puede dar un ángulo de 90° porque tanto el núcleo como el revestimiento se parten. Hay un problema de la refacción a nivel de la luz y la información se pierde por completo.
+
+#### Modos de Propagación
+
+##### Fibra Monomodo
+Solo se propaga un modo de luz a través de ella. Se logra reduciendo el diámetro del núcleo de la fibra hasta un tamaño (8,3 a 10 micrones) que solo permite un modo de propagación. Su transmisión es paralela al eje de la fibra. Es casi inmune al ruido electromagnético. Puede haber alteraciones cuando esta fibra se somete a frecuencias muy altas.
+
+Los costos de la fibra monomodo son extremadamente costosos, pero vale la pena debido a la velocidad de transferencia de archivos. Esta fibra debe ser de alta calidad, debido a que si en algún punto del revestimiento hay algún componente no deseado, destruye todo el sistema de fibra.
+
+Las fibras monomodo permiten alcanzar grandes distancias (hasta 400km máximo mediante un laser de alta intensidad) y transmitir elevadas tasas de información (Decenas de Gbits/s).
+##### Fibra Multimodo
+Se propagan múltiples modos de luz y señales a través de ella, debido a que tiene un núcleo de mayor diámetro dentro del cable; Esto significa que se transfieren más tipos de datos. 
+
+La fibra multimodo comprende una menor distancia a comparación de la monomodo, por lo que suele ser usada en un entorno de aplicaciones locales. Una fibra monomodo obtiene sus velocidades gracias a que al transmitir la luz en un solo modo, se anula el retardo de modo diferencial, que es un factor limitante del ancho de banda de una fibra multimodo.
+
+#### Tipos de Pulido
+Los extremos de la fibra necesitan un acabado específico en función de su forma de conexión. los acabados más habituales son:
+
+- Plano: Las fibras se terminan de forma plana perpendicular a su eje.
+- PC: las fibras son terminadas de forma convexa poniendo en contacto los nucleos de ambas fibras.
 ## Inalámbricos
