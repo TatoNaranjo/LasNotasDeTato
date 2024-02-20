@@ -158,14 +158,21 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "ba3bb3d24e3c29ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
