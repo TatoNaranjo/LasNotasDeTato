@@ -9,7 +9,9 @@ Segunda clase de las [[Sesiones de estudio de UdeC]].
 
 # Estructuras Básicas
 
-Una *Estructura de Datos* es una forma de almacenar datos en la memoria de un computador. Para nosotros es importante escoger una estructura adecuada para un problema, porque cada estructura de datos tiene sus propias ventajas y sus propias desventajas. La pregunta crucial es: Qué tipo de operaciones son más eficientes en las estructuras de datos elegida?
+Una *Estructura de Datos* es una forma de almacenar datos en la memoria de un computador. Para nosotros es importante escoger una estructura adecuada para un problema, porque cada estructura de datos tiene sus propias ventajas y sus propias desventajas. La pregunta crucial es: 
+
+>Qué tipo de operaciones son más eficientes en las estructuras de datos elegida?
 
 Este documento hace una introducción a las estructuras más importantes de la librería estándar de C++. Siempre es buena idea usar la librería estándar de c++ cuando sea posible, ya que nos va a ahorrar un montón de tiempo.
 
