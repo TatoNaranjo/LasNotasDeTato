@@ -19,7 +19,8 @@ Backend -> ***API REST, .NET Core 4.6***
 Front-End -> ***.NET, Angular, Laravel, React***
 
 Equipos máximos de 4 personas.
-	
+
+**Hay que tener un tablero virtual.**
 ## Idea del Proyecto
 **Nombre: *NightingCare*
 

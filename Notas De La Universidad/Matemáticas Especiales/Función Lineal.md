@@ -1,7 +1,7 @@
 Parte del repaso inicial de la clase de [[Matemáticas Especiales]]
 
 ***Dados esos dos puntos Graficar y Hallar la Ecuación de la Recta.***
-**Formulas**}+
+**Formulas**
 *Ecuación de la Recta:* $y = mx+b$
 *Pendiente:* $m=\frac{y2-y1}{x2-x1}$
 
