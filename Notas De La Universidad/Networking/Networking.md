@@ -13,5 +13,3 @@ Simulador a utilizar: **Cisco Packet Tracer**
 
 Trabajar sobre planos en **Cisco.**
 
-
-Replicar topologias, con 10 hosts

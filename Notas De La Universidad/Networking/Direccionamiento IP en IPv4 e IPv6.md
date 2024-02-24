@@ -83,11 +83,11 @@ los primeros bits de la dirección IP identifican la red a la que pertenece el d
 Es un número de 32 bits que se utiliza para dividir la dirección IP en dos partes: la parte de la red y la parte del host. La máscara de subred se expresa como cuatro números decimales separados por puntos, al igual que la dirección IP.
 Se identifican con respecto a una dirección IP debido a la estructura de arranque que tienen.
 
-| Máscara de Subred | Rango de direcciones IP | Numero de bits para la red | Numero de bits para el host |
-| ---- | ---- | ---- | ---- |
-| 255.0.0.0 | 0.0.0.0 - 127.255.255.255 | 8 | 24 |
-| 255.255.0.0 | 128.0.0.0 - 191.255.255.255 | 16 | 16 |
-| 255.255.255.0 | 192.0.0.0 - 223.255.255.255 | 24 | 8 |
+| Máscara de Subred | Rango de direcciones IP     | Numero de bits para la red | Numero de bits para el host |
+| ----------------- | --------------------------- | -------------------------- | --------------------------- |
+| 255.0.0.0         | 0.0.0.0 - 127.255.255.255   | 8                          | 24                          |
+| 255.255.0.0       | 128.0.0.0 - 191.255.255.255 | 16                         | 16                          |
+| 255.255.255.0     | 192.0.0.0 - 223.255.255.255 | 24                         | 8                           |
 
 
 # Como identificar la clase de una dirección IPv4

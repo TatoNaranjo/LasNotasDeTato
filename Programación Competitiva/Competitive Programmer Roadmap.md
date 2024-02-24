@@ -20,7 +20,7 @@ Para llevar a cabo las sesiones de entrenamiento de [[Programación Competitiva]
     - Multidimensional Arrays.
 - Hablar sobre recursos de Interés.
 
-## Clase 2
+## Clase 2 *Ya Realizada*
 
 - Complejidad Algorítmica.
 - Introducción a las estructuras de datos.

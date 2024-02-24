@@ -125,5 +125,10 @@ El equipo comparte con el *Product Owner* el trabajo entregado en el *Sprint*, y
 ### Sprint Retrospective
 El equipo se reúne para analizar lecciones aprendidas durante el sprint y definen accionables para la mejora continua.
 
+### Planning Poker
+Las historias de usuario deben de ser lo más pequeñas posibles.
+
+Es una técnica pequeña para calcular una estimación basada en el consenso. En su mayoría es utilizada para estimar el esfuerzo o el tamaño relativo de las tarea de desarrollo de software
+
 # Recursos
 - [Fases de la metodología SCRUM](https://blog.comparasoftware.com/fases-metodologia-scrum/)

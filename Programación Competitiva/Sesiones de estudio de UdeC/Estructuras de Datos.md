@@ -42,7 +42,7 @@ reverse(v.begin(), v.end());
 random_shuffle(v.begin(), v.end());
 ```
 
-## Arreglos Dinámicos
+ ## Arreglos Dinámicos
 
 > La forma más sencilla de almacenar los elementos que te pide un problema.
 
@@ -305,5 +305,7 @@ Si queremos crear una cola de prioridad que soporte encontrar y eliminar el elem
 priority_queue,greater> q;
 ```
 
-# Recursos
-- [Competitive Programmer's Handbook - Inglés](https://usaco.guide/CPH.pdf)
+# Recursos Útiles
+- [Competitive Programmer Handbook - Sección "Data Structures"](https://usaco.guide/CPH.pdf)
+- [Guía de la USACO - Introducción a las Estructuras de Datos](https://usaco.guide/bronze/intro-ds?lang=cpp)
+
