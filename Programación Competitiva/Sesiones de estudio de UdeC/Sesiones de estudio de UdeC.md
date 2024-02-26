@@ -1,5 +1,4 @@
 ---
 tags: MOCs
 ---
-```folder-index-content
-```
+Parte del estudio personal y grupal de [[Programación Competitiva]].

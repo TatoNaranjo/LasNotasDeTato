@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b644d1cce977a9c8",
+        "id": "70cd24c32798f1ba",
         "type": "tabs",
         "children": [
           {
-            "id": "9a239737a7fbed85",
+            "id": "5eee23e64d82f999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ae69f3eea875559",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md"
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md"
               }
             }
           },
@@ -158,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,28 +187,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9a239737a7fbed85",
+  "active": "7ae69f3eea875559",
   "lastOpenFiles": [
+    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Perspectivas Económicas Para el 2024.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/1200px-Ley_de_los_senos.svg.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
     "Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Triángulo Rectángulo.png",
     "Pasted image 20240220084523.png",
     "Pasted image 20240224072524.png",
     "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Pasted image 20240220084529.png",
     "Notas De La Universidad/Networking/Mapeado de Topología Mixto.md",
     "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
     "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Perspectivas Económicas Para el 2024.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
@@ -207,14 +224,8 @@
     "Notas De La Universidad/Comunicación de Datos/Imagenes/estructuraFibraÓptica.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/fibraÓptica.png",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
-    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/stpVsUtp.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/normatividadCablesTrenzados.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/normativasParaTCP.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/conectorRJ-45.png",
-    "conflict-files-obsidian-git.md",
     "Programación Competitiva/Sesiones de estudio de UdeC",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/Imagenes.md",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
     "Proyecto de Camilo",
