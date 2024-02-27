@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ae69f3eea875559",
+            "id": "ddfc414db28ec9f4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -95,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,17 +182,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7ae69f3eea875559",
+  "active": "ddfc414db28ec9f4",
   "lastOpenFiles": [
-    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+    "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Perspectivas Económicas Para el 2024.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/1200px-Ley_de_los_senos.svg.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
@@ -213,17 +214,11 @@
     "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
     "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
     "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
-    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
-    "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/estructuraFibraÓptica.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/fibraÓptica.png",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/stpVsUtp.png",
     "Programación Competitiva/Sesiones de estudio de UdeC",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",

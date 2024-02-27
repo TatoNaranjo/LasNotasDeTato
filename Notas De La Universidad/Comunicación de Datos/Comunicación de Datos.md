@@ -6,7 +6,8 @@ tags:
 ---
 Parte de mis [[Notas De La Universidad]]
 # Profesor
-*Rafael Jimenez.*
+*Ingeniero Juan Pablo Pedroche Q*
+3157988093
 
 # Metodología
 Evaluación formativa:  Tener oportunidad a base de correcciones.

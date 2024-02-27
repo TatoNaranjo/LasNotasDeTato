@@ -1,3 +1,5 @@
+
+Cuarta clase de [[Matemáticas Especiales]].
 # ***En El Triángulo Rectángulo***
 ![[Triángulo Rectángulo.png]]
 
