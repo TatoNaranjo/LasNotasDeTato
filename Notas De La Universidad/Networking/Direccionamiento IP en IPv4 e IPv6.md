@@ -93,11 +93,11 @@ Se identifican con respecto a una dirección IP debido a la estructura de arranq
 # Como identificar la clase de una dirección IPv4
 Las clases de direcciones IP v4 se pueden identificar por el valor del primer octeto de la dirección IP. la siguiente tabla muestra el rango de valores para cada clase
 
-| Clase | Rango de direcciones | Número de Bits para la red |
-| ---- | ---- | ---- |
-| A | 0.0.0.0 - 127.255.255.255 | 1 |
-| B | 128.0.0.0 - 191.255.255.255 | 2 |
-| C | 192.0.0.0 - 223.255.255.255 | 3 |
+| Clase | Rango de direcciones        | Número de Bits para la red |
+| ----- | --------------------------- | -------------------------- |
+| A     | 0.0.0.0 - 127.255.255.255   | 1                          |
+| B     | 128.0.0.0 - 191.255.255.255 | 2                          |
+| C     | 192.0.0.0 - 223.255.255.255 | 3                          |
 
 # Puerta de enlace predeterminada
 La puerta de enlace predeterminada, también conocida como *gateway* o *router*, es un dispositivo que actúa como un intermediario entre tu red local y otras sedes, como internet. Es el punto de salida para el tráfico de red que no se puede enviar directamente a otro dispositivo en la misma red.

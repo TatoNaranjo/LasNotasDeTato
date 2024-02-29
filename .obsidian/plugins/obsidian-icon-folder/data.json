@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiSeeding",
       "TiBulb",
       "👓",
       "TiDeviceAnalytics",
-      "FiImage",
-      "TiMathSymbols"
+      "FiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,6 @@
   "Notas De La Universidad/Lengua Extranjera IV": "TiLanguage",
   "Notas De La Universidad/Emprendimiento e Innovación I": "RiMoneyDollarCircleLine",
   "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md": "RiGitRepositoryPrivateLine",
-  "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md": "📫",
   "Curso de Oracle One/GitHub": "TiBrandGithubFilled",
   "Curso de Oracle One/Desarrollo Personal": "RiMentalHealthLine",
   "Notas De La Universidad/Matemáticas Especiales": "TiMathSymbols",
@@ -56,5 +55,7 @@
   "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md": "TiDeviceAnalytics",
   "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md": "👓",
   "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill",
-  "Notas De La Universidad/Ciencia Tecnología E Innovación II": "TiBulb"
+  "Notas De La Universidad/Ciencia Tecnología E Innovación II": "TiBulb",
+  "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md": "📫",
+  "Notas De La Universidad/Semillero de Investigación": "TiSeeding"
 }

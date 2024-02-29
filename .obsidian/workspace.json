@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "70cd24c32798f1ba",
+        "id": "795d7b212ff43e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "5eee23e64d82f999",
+            "id": "e13b3136b6be847e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddfc414db28ec9f4",
+            "id": "6c83ea15214db4e5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md"
+              }
             }
           },
           {
@@ -182,41 +185,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ddfc414db28ec9f4",
+  "active": "e13b3136b6be847e",
   "lastOpenFiles": [
+    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Perspectivas Económicas Para el 2024.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas",
+    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
+    "Notas De La Universidad/Networking/Qué es el Internet.md",
+    "Notas De La Universidad/Networking/Mapeado de Topología Mixto.md",
+    "Notas De La Universidad/Semillero de Investigación",
+    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
+    "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Ingeniería de Software II/Modernización de las Aplicaciones.md",
+    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
+    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
+    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
     "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
     "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Perspectivas Económicas Para el 2024.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Leyes del Emprendimiento.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/1200px-Ley_de_los_senos.svg.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
-    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Triángulo Rectángulo.png",
     "Pasted image 20240220084523.png",
     "Pasted image 20240224072524.png",
-    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
     "Pasted image 20240220084529.png",
-    "Notas De La Universidad/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
-    "Notas De La Universidad/Networking/Cisco Packet Tracer.md",
-    "Notas De La Universidad/Networking/Networking.md",
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/estructuraFibraÓptica.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/fibraÓptica.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/stpVsUtp.png",
@@ -228,8 +233,6 @@
     "Notas De La Universidad/Ingeniería de Software II/Go",
     "Notas De La Universidad/Ingeniería de Software II/Hola",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes",
-    "Notas De La Universidad/Matemáticas Especiales",
-    "Notas De La Universidad/Lengua Extranjera IV/Sources",
     "Untitled.canvas"
   ]
 }

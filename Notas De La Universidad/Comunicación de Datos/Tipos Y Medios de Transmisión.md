@@ -103,8 +103,7 @@ Existen múltiples tipos de cable coaxial, cada uno con un diámetro e impedanci
 
 - **RG-62:** Utilizado para redes de área local.
 ### La Fibra Óptica
-![[Pasted image 20240220084523.png]]
-![[Pasted image 20240220084529.png]]
+
 Consta de tres secciones concéntricas. La más interna, el núcleo, consiste en una o más hebras o fibras hechas de cristal o plástico. Cada una de ellas lleva un revestimiento de cristal o plástico con propiedades ópticas distintas a las del núcleo. La capa más exterior, que recubre una o más fibras, debe ser de un material opaco y resistente.
 
 No se puede dar un ángulo de 90° porque tanto el núcleo como el revestimiento se parten. Hay un problema de la refacción a nivel de la luz y la información se pierde por completo.

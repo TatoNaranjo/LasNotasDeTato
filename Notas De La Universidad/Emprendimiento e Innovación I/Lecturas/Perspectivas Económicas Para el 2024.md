@@ -1,4 +1,4 @@
-Lectura como parte de la tercera semana en la materia de [[Emprendimiento e Innovación I]].
+Segunda de las [[Lecturas]] hechas en la materia de Emprendimiento e Innovación I
 ***Por:*** *Santiago Naranjo Herrera*
 
 # Perspectivas Económicas
