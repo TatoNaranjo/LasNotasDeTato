@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6c83ea15214db4e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md"
+                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md"
               }
             }
           },
@@ -187,15 +179,23 @@
   },
   "active": "e13b3136b6be847e",
   "lastOpenFiles": [
-    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
+    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+    "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
+    "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
+    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Mercado Verde.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Perspectivas Económicas Para el 2024.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
     "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Perspectivas Económicas Para el 2024.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas",
     "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Networking/Qué es el Internet.md",
@@ -205,16 +205,9 @@
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Ingeniería de Software II/Modernización de las Aplicaciones.md",
     "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
-    "Notas De La Universidad/Comunicación de Datos/Análisis de señales en el dominio del tiempo y la frecuencia.md",
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
-    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/1200px-Ley_de_los_senos.svg.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
@@ -232,7 +225,6 @@
     "Notas De La Universidad/Ingeniería de Software II/Rest API",
     "Notas De La Universidad/Ingeniería de Software II/Go",
     "Notas De La Universidad/Ingeniería de Software II/Hola",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes",
     "Untitled.canvas"
   ]
 }

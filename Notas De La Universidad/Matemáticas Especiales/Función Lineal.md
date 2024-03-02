@@ -1,7 +1,7 @@
 Parte del repaso inicial de la clase de [[Matemáticas Especiales]]
 
 ***Dados esos dos puntos Graficar y Hallar la Ecuación de la Recta.***
-**Formulas**}+
+**Formulas**
 *Ecuación de la Recta:* $y = mx+b$
 *Pendiente:* $m=\frac{y2-y1}{x2-x1}$
 
@@ -71,7 +71,7 @@ $3x+11=-\frac{1}{3}x+\frac{11}{3}$
 $3x+\frac{1}{3}x = \frac{11}{3}-11$
 $\frac{10}{3}x = -\frac{22}{3}$
 $x = \frac{\frac{22}{3}}{-\frac{10}{3}}$
-$x=2.2 
+$x=2.2$ 
 
 $y=-\frac{1}{3}*2.2+\frac{11}{3}$
 
