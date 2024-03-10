@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "795d7b212ff43e2d",
+        "id": "d99448de21e38250",
         "type": "tabs",
         "children": [
           {
-            "id": "e13b3136b6be847e",
+            "id": "7da27c7403fe186d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "eb052249a933c6c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md"
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md"
               }
             }
           },
@@ -177,47 +186,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e13b3136b6be847e",
+  "active": "7da27c7403fe186d",
   "lastOpenFiles": [
-    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
-    "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
-    "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
-    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Mercado Verde.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Perspectivas Económicas Para el 2024.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Silabus y Metodología.md",
-    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas",
-    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Networking/Qué es el Internet.md",
-    "Notas De La Universidad/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Semillero de Investigación",
-    "Notas De La Universidad/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Networking/Subnetting Parte I.md",
+    "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
+    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Matemáticas Especiales/Funciones Cuadráticas.md",
     "Notas De La Universidad/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Ingeniería de Software II/Modernización de las Aplicaciones.md",
-    "Notas De La Universidad/Ingeniería de Software II/Metodologías Ágiles.md",
+    "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
+    "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
+    "Notas De La Universidad/Networking/Subnetting Parte II.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
+    "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
+    "Notas De La Universidad/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/1200px-Ley_de_los_senos.svg.png",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Triángulo Rectángulo.png",
-    "Pasted image 20240220084523.png",
-    "Pasted image 20240224072524.png",
-    "Pasted image 20240220084529.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/estructuraFibraÓptica.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/fibraÓptica.png",
-    "Notas De La Universidad/Comunicación de Datos/Imagenes/stpVsUtp.png",
+    "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
+    "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
+    "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingC.png",
+    "Notas De La Universidad/Networking/Imagenes/restaBitsHost.png",
+    "Notas De La Universidad/Networking/Networking.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "Notas De La Universidad/Semillero de Investigación/Deep Learning.md",
+    "Notas De La Universidad/Networking/Imagenes/SubredesMismoTamaño.png",
+    "Notas De La Universidad/Networking/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Networking/Imagenes/ConceptosSubnetting.png",
+    "Notas De La Universidad/Networking/Imagenes/requisitosSubnetting.png",
+    "Notas De La Universidad/Networking/Imagenes/Estructura de la dirección IP.png",
+    "Notas De La Universidad/Networking/Imagenes/Clases IPV4 y Máscaras de Subnet.png",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas",
+    "Notas De La Universidad/Semillero de Investigación",
     "Programación Competitiva/Sesiones de estudio de UdeC",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
