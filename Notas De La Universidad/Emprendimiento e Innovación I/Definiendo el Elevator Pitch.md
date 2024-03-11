@@ -4,7 +4,7 @@ Definiendo la estructura del video del Elevator Pitch para la materia de [[Empre
 
 ## ¿En qué consiste nuestro Producto?
 
-- Accesorios (sombreros, aretes, monederos, bolsos, collares.) creados con materiales reciclables.
+- Accesorios (En un principio Aretes) creados con materiales reciclables.
 ## ¿Cuál es nuestro Público Objetivo?
 
 - Personas amantes de lo artesanal.
@@ -27,7 +27,10 @@ La mayoría de los accesorios que llevamos carecen de una conexión emocional, e
 ### Explicar la Solución
 Nosotros queremos contar la historia de la gente trabajadora que está detrás del producto que vistes ahora mismo, esa persona que podría ser tu hermana, abuela, madre o padre; y que quiere que su legado no sea olvidado. Así mismo nos preocupamos por el medio ambiente, por lo que te ofrecemos una forma de vestir que no tan solo es creativa sino también reutilizable.
 ### Dejar en claro la Viabilidad y el beneficio del negocio
-Ofrecemos accesorios que no solo lucen bien sino que también cuentan una historia basada en la persona que hace el producto que vistes. La combinación de moda y sostenibilidad nos diferencia en el mercado y nos posiciona como una opción atractiva para aquellos que desean expresar sus valores y/o su forma de ser a través de sus compras. Nuestra empresa está comprometida con la innovación continua y la calidad. Dentro de un mercado saturado de opciones convencionales nuestros productos llegan como una solución creativa que rompe los esquemas de los accesorios tradicionales.
+
+Según las estadísticas que dejó la edición de Colombiamoda realizada en el año 2023 en Medellín, el sector textil ha tenido un crecimiento del 5.9% y hubo un crecimiento del 21.2% en el número de visitantes locales; rompiendo un record en cifras de negocios para la industria textil. A su vez, gracias a una encuesta realizada por la investigadora Katya Lopez, un 62% de las personas están dispuestas a cambiar su estilo de vida para no impactar tanto al medio ambiente. Este aumento se atribuye en gran medida a la creciente conciencia ambiental entre los consumidores colombianos y extranjeros, quienes cada vez más valoran la sostenibilidad y la transparencia en la cadena de suministro de moda.
+ 
+ Nosotros ofrecemos aretes que no solo lucen bien sino que también cuentan una historia basada en la persona que hace el producto que vistes. La combinación de moda y sostenibilidad nos diferencia en el mercado y nos posiciona como una opción atractiva para aquellos que desean expresar sus valores y/o su forma de ser a través de sus compras. Nuestra empresa está comprometida con la innovación continua y la calidad. Dentro de un mercado saturado de opciones convencionales nuestros productos llegan como una solución creativa que rompe los esquemas de los accesorios tradicionales.
 ### Incluir una frase como cierre con broche de oro
 - *Queremos contar nuestra historia, pero también que luzcas genial.*
 - *Transformando el pasado en el arte del futuro*.

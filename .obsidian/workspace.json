@@ -19,8 +19,12 @@
             "id": "591066db24eb7af0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md"
+              }
             }
           },
           {
@@ -177,15 +185,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "591066db24eb7af0",
   "lastOpenFiles": [
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Tecnologías.md",
+    "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Networking/Subnetting Parte I.md",
     "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
     "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
@@ -207,9 +218,6 @@
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingC.png",
     "Notas De La Universidad/Networking/Imagenes/restaBitsHost.png",
     "Notas De La Universidad/Networking/Networking.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Semillero de Investigación/Deep Learning.md",
     "Notas De La Universidad/Networking/Imagenes/SubredesMismoTamaño.png",
     "Notas De La Universidad/Networking/Imagenes/ConceptosSubnetting.png",
     "Notas De La Universidad/Networking/Imagenes/requisitosSubnetting.png",
