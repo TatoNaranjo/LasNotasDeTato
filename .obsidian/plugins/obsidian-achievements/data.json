@@ -15,14 +15,15 @@
     "internal-links-created:1000",
     "notes-deleted:10",
     "notes-created:1000",
-    "switcher:open"
+    "switcher:open",
+    "callouts:1"
   ],
-  "notesCreated": 6762,
+  "notesCreated": 6890,
   "notesDeleted": 15,
-  "internalLinksCreated": 8500,
-  "commandPaletteOpened": 186,
+  "internalLinksCreated": 8675,
+  "commandPaletteOpened": 190,
   "quickSwitcherOpened": 2,
-  "calloutsCreated": 0,
+  "calloutsCreated": 1,
   "headingLevelsCreated": 6,
-  "tagsCreated": 2873
+  "tagsCreated": 2922
 }
