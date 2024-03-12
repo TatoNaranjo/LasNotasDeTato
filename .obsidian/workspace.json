@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea936633b86c58f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md"
               }
             }
           },
@@ -198,12 +186,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ea936633b86c58f9",
+  "active": "591066db24eb7af0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
-    "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
+    "conflict-files-obsidian-git.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Entradas Para El Blog/Entradas Para El Blog.md",
@@ -225,12 +215,10 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
     "Notas De La Universidad/Ingeniería de Software II/Rest API/Rest API.md",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingC.png",
     "Notas De La Universidad/Networking/Imagenes/restaBitsHost.png",
-    "Notas De La Universidad/Networking/Networking.md",
     "Notas De La Universidad/Networking/Imagenes/SubredesMismoTamaño.png",
     "Notas De La Universidad/Networking/Imagenes/ConceptosSubnetting.png",
     "Notas De La Universidad/Networking/Imagenes/requisitosSubnetting.png",
