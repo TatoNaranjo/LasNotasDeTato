@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md"
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md"
               }
             }
           },
@@ -188,8 +188,11 @@
   },
   "active": "591066db24eb7af0",
   "lastOpenFiles": [
-    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
@@ -199,7 +202,6 @@
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Networking/Subnetting Parte I.md",
     "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
     "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
@@ -213,8 +215,6 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
-    "Notas De La Universidad/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
-    "Notas De La Universidad/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingC.png",
