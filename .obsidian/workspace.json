@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md"
+              }
             }
           },
           {
