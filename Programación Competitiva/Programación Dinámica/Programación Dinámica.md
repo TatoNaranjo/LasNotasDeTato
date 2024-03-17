@@ -49,7 +49,7 @@ ll fibonacci(ll x){
 if(x==1)return 1;
 if(x==0)return 0;
 // Si el calculo ya fue hecho y asignado a la posición que estamos visitando, simplemente retornamos el numero ya calculado.
-if(memo[x]!=1)return memo[x];
+if(memo[x]!=-1)return memo[x];
 // Asignamos el valor obtenido por primera vez a una posición del arreglo de memoización.
 else return memo[x]=(fibonacci(x-1)+fibonacci(x-2));
 }

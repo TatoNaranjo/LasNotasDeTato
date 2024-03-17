@@ -201,10 +201,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "59ef952d559b5fe3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programación Competitiva/Programación Competitiva.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Programación Competitiva/Combinatoria",
     "Programación Competitiva/Algebra.md",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Programación Competitiva/Programación Dinámica/Recursión.md",
@@ -228,8 +231,6 @@
     "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
     "Notas De La Universidad/Comunicación de Datos/Tecnologías.md",
     "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
@@ -248,7 +249,6 @@
     "Proyecto de Camilo",
     "Notas De La Universidad/Ingeniería de Software II/Rest API",
     "Notas De La Universidad/Ingeniería de Software II/Go",
-    "Notas De La Universidad/Ingeniería de Software II/Hola",
     "Untitled.canvas"
   ]
 }
