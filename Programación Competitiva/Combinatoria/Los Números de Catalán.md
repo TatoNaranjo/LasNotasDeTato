@@ -3,11 +3,9 @@ Una secuencia de números utilizada en problemas de [[Combinatoria]].
 Los números de catalán son una secuencia de números que son realmente útiles en problemas de combinatoria, a menudo involucrando objetos de forma recursiva.
 
 Los primeros números $C_n$ en la secuencia de catalán, iniciando desde 0 son:
-
 $1,1,2,5,14,42,132,429,1430,...$
 ## Aplicaciones
 El número de catalán $C_n$ puede ser la solución a algunos de estos problemas:
-
 - El número de expresiones con paréntesis válidas que consisten en $n$ paréntesis izquierdos y $n$ paréntesis derechos.
 	- **Por ejemplo, $C_3 = 5$ porque podemos construir las siguientes expresiones con paréntesis usando tres paréntesis izquierdos y tres paréntesis derechos:**
 		- ()()()
@@ -23,7 +21,6 @@ El número de catalán $C_n$ puede ser la solución a algunos de estos problemas
 
 ## Cómo calcularlos
 Hay dos formas para calcular los números catalanes, de la forma **recursiva** y de la forma **analítica**. Debido a que los problemas relacionados a los números de catalán suelen tener la misma solución en la mayoría de los casos, de momento solo lo explicaremos de la forma más sencilla de hacer, es decir, de manera recursiva.
-
 ### Fórmula Recursiva
 
 $C_0 = C_1 = 1$
@@ -38,7 +35,6 @@ Ahora, también puedes pensarlo de la siguiente forma. Por definición, $C_n$ de
 - ()(()) pueden dividirse en () y (()), pero no se pueden dividir en ()( y ()). De nuevo, sumando todas las $k's$ que son válidas, obtenemos una relación de ocurrencia en $C_n$.
 
 ## Implementación en C++
-
 ```cpp
 const int MOD = ....
 const int MAX = .... 
@@ -59,10 +55,26 @@ void init() {
 
 ### Ciclo for para construir la secuencia en $O(n)$
 Implementación utilizada para el ejercicio ***Safe Salutations***.
+
 ```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+
 vector<int>catalan(11);
 catalan[0] = catalan[1] = 1;
 for(int i = 2;i<11;i++){
     catalan[i] = 2*(2*i-1)*catalan[i-1]/(i+1);
 }
+int n;cin>>n;
+cout<<catalan[n]<<"\n";
+while(cin>>n){
+cout<<"\n"<<catalan[n]<<endl;
+}
+return 0;
+}
+
 ```
+
