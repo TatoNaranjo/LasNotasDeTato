@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md"
+                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md"
               }
             }
           },
@@ -201,14 +202,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "eb052249a933c6c0",
+  "active": "fa571b1e62ff0a53",
   "lastOpenFiles": [
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Programación Competitiva/Combinatoria",
+    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Programación Competitiva/Programación Dinámica/Recursión.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
@@ -222,14 +232,6 @@
     "Entradas Para El Blog/Entradas Para El Blog.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Subnetting Parte I.md",
-    "Notas De La Universidad/Matemáticas Especiales/Función Lineal.md",
-    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
-    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Matemáticas Especiales/Funciones Cuadráticas.md",
-    "Notas De La Universidad/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Matemáticas Especiales/Sistemas Numéricos.md",
-    "Notas De La Universidad/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
-    "Notas De La Universidad/Networking/Subnetting Parte II.md",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingC.png",
@@ -248,7 +250,6 @@
     "Proyecto de Camilo",
     "Notas De La Universidad/Ingeniería de Software II/Rest API",
     "Notas De La Universidad/Ingeniería de Software II/Go",
-    "Notas De La Universidad/Ingeniería de Software II/Hola",
     "Untitled.canvas"
   ]
 }
