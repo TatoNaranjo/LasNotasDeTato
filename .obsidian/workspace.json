@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "591066db24eb7af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "638ba4a5444f00ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ef952d559b5fe3",
+            "id": "eb052249a933c6c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "591066db24eb7af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Comunicación de Datos/Apuntes Sueltos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77faf569071e8b49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,36 +199,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "59ef952d559b5fe3",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
-    "Programación Competitiva/Combinatoria/Combinatoria.md",
-    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
-    "conflict-files-obsidian-git.md",
-    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
-    "Programación Competitiva/Combinatoria",
-    "Programación Competitiva/Algebra.md",
-    "Programación Competitiva/Programación Dinámica/Recursión.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
-    "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Semillero de Investigación/Deep Learning.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
+    "Programación Competitiva/Prácticas del CIMAT",
+    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Apuntes Sueltos.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Programación Competitiva/Algebra.md",
+    "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Programación Competitiva/Combinatoria",
+    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+    "Programación Competitiva/Programación Dinámica/Recursión.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Trabajo en Grupo.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Tecnologías.md",
-    "Notas De La Universidad/Comunicación de Datos/Tipos Y Medios de Transmisión.md",
+    "Notas De La Universidad/Comunicación de Datos/Qué es la Comunicación de Datos.md",
+    "Notas De La Universidad/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
@@ -240,6 +238,7 @@
     "Notas De La Universidad/Networking/Imagenes/ConceptosSubnetting.png",
     "Notas De La Universidad/Networking/Imagenes/requisitosSubnetting.png",
     "Notas De La Universidad/Networking/Imagenes/Estructura de la dirección IP.png",
+    "Notas De La Universidad/Networking/Imagenes/Clases IPV4 y Máscaras de Subnet.png",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas",
     "Notas De La Universidad/Semillero de Investigación",
@@ -248,7 +247,6 @@
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
     "Proyecto de Camilo",
     "Notas De La Universidad/Ingeniería de Software II/Rest API",
-    "Notas De La Universidad/Ingeniería de Software II/Go",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,5 @@
+Configurando un subnetteo en [[Networking]]
+
 - Al entrar en una configuración de Interfaz, aparecerá esto:
 
 ```

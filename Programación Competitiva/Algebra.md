@@ -1,3 +1,5 @@
+Componentes de Algebra necesarios o utilizados para [[Programación Competitiva]]
+
 # Exponenciación Binaria
 
 La exponenciación binaria nos permite calcular $a^n$ usando multiplicaciones en un tiempo de $O(log_n)$ en vez de las multiplicaciones tradicionales del $O(n)$
