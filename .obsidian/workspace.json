@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md"
+                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md"
               }
             }
           },
@@ -201,8 +200,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "59ef952d559b5fe3",
+  "active": "591066db24eb7af0",
   "lastOpenFiles": [
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
     "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
     "Programación Competitiva/Prácticas del CIMAT",
     "Notas De La Universidad/Comunicación de Datos/Apuntes Sueltos.md",
@@ -211,11 +212,9 @@
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
     "conflict-files-obsidian-git.md",
-    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
     "Programación Competitiva/Combinatoria",
     "Programación Competitiva/Algebra.md",
     "Programación Competitiva/Programación Dinámica/Recursión.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
     "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",

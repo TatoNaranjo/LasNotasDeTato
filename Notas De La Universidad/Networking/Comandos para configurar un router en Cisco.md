@@ -1,4 +1,4 @@
-Configurando un subnetteo en [[Networking]]
+Configurando un subneteo en [[Networking]]
 
 - Al entrar en una configuración de Interfaz, aparecerá esto:
 
