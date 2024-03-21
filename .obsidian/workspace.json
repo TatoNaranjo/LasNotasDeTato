@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "638ba4a5444f00ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md"
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md"
               }
             }
           },
@@ -202,7 +190,16 @@
   },
   "active": "591066db24eb7af0",
   "lastOpenFiles": [
+    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Curso de Oracle One/Curso de Oracle One.md",
+    "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
     "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
     "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
     "Programación Competitiva/Prácticas del CIMAT",
@@ -210,7 +207,6 @@
     "Programación Competitiva/Combinatoria/Combinatoria.md",
     "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
     "conflict-files-obsidian-git.md",
     "Programación Competitiva/Combinatoria",
     "Programación Competitiva/Algebra.md",
@@ -223,14 +219,6 @@
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Semillero de Investigación/Deep Learning.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
