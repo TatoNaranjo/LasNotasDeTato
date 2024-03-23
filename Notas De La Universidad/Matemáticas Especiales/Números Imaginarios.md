@@ -92,3 +92,132 @@ Recordar que $(a+b)(a-b)=a^2+b²$
 	$\frac{-42+32i}{68}$
 
 	$-\frac{21}{34} + \frac{8}{17}i$
+
+
+## Forma polar de un complejo
+Se representa de la siguiente manera
+$Z=R_\alpha$
+-> $Z=a+b_i$
+$r=\sqrt{a²+b^2}$
+$tan\alpha = \frac{b}{a}$
+$\alpha = tan^{⁻1}\frac{b}{a}$
+
+![[representacionFormaPolar.jpeg]]
+
+**Ejemplo:**
+Hallar la forma polar de 
+$Z = 3+4i$
+$r = \sqrt{3²+4²}$
+$r = \sqrt{25}$
+$\alpha = tan^{-1}\frac{4}{3}$
+$\alpha = 53.13°$
+
+Es necesario graficar los ejercicios para saber qué dirección tiene el ángulo
+**Ejemplo 2:**
+$Z = -2+2i$
+$r = \sqrt{-2²+2²}$
+$r=\sqrt{8}$ o $r = 2\sqrt{2}$
+$\alpha = tan^{-1}\frac{2}{2}$
+$\alpha = 45°$
+![[Ejemplo2FormaPolar.jpeg]]
+
+Tomando el lado positivo:
+$\alpha = 180°-45°$
+$\alpha = 135°$
+
+**Ejemplo 3:**
+$Z = -3-5i$
+$r = \sqrt{(-3^2)+ (-5²)}$
+$r = \sqrt{34}$
+$\alpha = tan^{-1}\frac{-5}{-3}$
+$\alpha = 59.03°$
+
+![[Ejemplo3FormaPolar.jpeg]]
+
+Conociendo la inclinación del ángulo, tomamos su parte positiva
+$\alpha = 180° +59.03°$
+$\alpha = 239.03°$
+
+**Ejemplo 4**
+$Z = 2-3i$
+$r = \sqrt{-2^2+-3²}$
+$r = \sqrt{13}$
+$\alpha = tan^{-1}\frac{-3}{-2}$
+$\alpha = -56.30$
+
+$\alpha = 360°-56.30°$
+$\alpha = 303.6°$
+
+## Forma Trigonométrica de un Complejo
+$Z=a+bi$
+$Z = \frac{r(cos\alpha + i sen\alpha)}{e^{i\alpha}}$
+
+Cuando se pide presentarlo de la forma trigonométrica, el ángulo debe estar en radianes, no en grados.
+
+**Ejemplo 2:**
+
+$Z = 2+4i$
+$r = \sqrt{2²+4^2}$
+$r=2\sqrt{5}$
+$\alpha = tan^{-1}\frac{4}{2}$
+$\alpha = 63.43°$
+$x = \frac{63.43}{180°}*\pi$
+$x = 0.35\pi$
+
+$Z=2\sqrt{5}[cos(0.35\pi)+sen(0.35\pi)]$
+
+**Ejemplo 3:**
+$Z = -5-3i$
+$r = \sqrt{-5²+-3²}$
+$r = \sqrt{34}$
+$\alpha = tan^{-1}\frac{-3}{-5}$
+$\alpha = 30.96°$
+$\alpha = 210.96°$
+$x = \frac{210.96}{180°}*\pi$
+$x = 1.17\pi$
+
+$Z = \sqrt{34}[cos(1.17\pi)+sen(1.17\pi)]$
+
+## Forma exponencial
+$Z = re^{i\alpha}$
+
+**Ejemplo 1:**
+$Z = \sqrt{34}e^{i\frac{7}{6}\pi}$
+
+## Número Complejo como Una Potencia
+$Z = (a+bi)^n$
+$Z^n = r^n[cos(n\alpha) + isen(n\alpha)]$
+
+Donde alpha está en grados.
+
+**Ejemplo 1:**
+$Z = (-2+2i)⁸$
+$r = \sqrt{8}$
+$\alpha = tan^{-1}-\frac{2}{2}$
+$\alpha = -45$
+$\alpha = 180-45$
+$\alpha = 135°$
+
+$Z⁸ = (\sqrt{8})⁸ [cos(8.135)+sen(8.135)]$
+$= 8⁴[cos(1080)+isen(1080)]$
+$= 4096 [1+i0]$
+$Z⁸ = 4096$
+
+
+**Ejemplo 2:**
+$Z = (3+4i)⁴$
+$r = \sqrt{25}$
+$r = 5$
+$\alpha = tan^{-1}\frac{4}{3}$
+$a= 53.13°$
+
+
+$Z⁴ = 5^4[cos(4*53.13°)+sen(4*53.13°)]$
+$625 = [-0.84 + i(-0.53)]$
+$Z⁴ = -526-336i$
+
+## Transformar de forma polar a forma Binómica
+$Z = 4_{30°}$
+
+
+
