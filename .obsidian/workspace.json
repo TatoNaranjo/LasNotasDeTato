@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98a8e810e4e30340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
+                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md"
+                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md"
               }
             }
           },
@@ -166,11 +180,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,20 +203,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "591066db24eb7af0",
+  "active": "59ef952d559b5fe3",
   "lastOpenFiles": [
-    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
+    "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
+    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
-    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
-    "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
     "Programación Competitiva/Prácticas del CIMAT",
     "Notas De La Universidad/Comunicación de Datos/Apuntes Sueltos.md",
     "Programación Competitiva/Combinatoria/Combinatoria.md",
@@ -215,10 +234,6 @@
     "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
     "Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
-    "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Notas De La Universidad/Semillero de Investigación/Minería de Datos.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Networking/Imagenes/ejemploClaseB.png",
