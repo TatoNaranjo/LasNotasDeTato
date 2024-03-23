@@ -219,5 +219,15 @@ $Z⁴ = -526-336i$
 ## Transformar de forma polar a forma Binómica
 $Z = 4_{30°}$
 
+$r = 4$
+$\alpha = 30$
+
+Representarlo de forma trigonométrica:
+
+$Z = 4[cos30°+isen30°]$
+$4[\frac{\sqrt{3}}{2} + i \frac{1}{2}]$
+
+
+$Z = 2\sqrt{3}+2i$
 
 
