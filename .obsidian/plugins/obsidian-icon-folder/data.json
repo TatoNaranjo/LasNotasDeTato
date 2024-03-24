@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaPerspectiveDiceFour",
       "TiSeeding",
       "TiBulb",
       "👓",
-      "TiDeviceAnalytics",
-      "FiImage"
+      "TiDeviceAnalytics"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,6 @@
   "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill",
   "Notas De La Universidad/Ciencia Tecnología E Innovación II": "TiBulb",
   "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md": "📫",
-  "Notas De La Universidad/Semillero de Investigación": "TiSeeding"
+  "Notas De La Universidad/Semillero de Investigación": "TiSeeding",
+  "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour"
 }

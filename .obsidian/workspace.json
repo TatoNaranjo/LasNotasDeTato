@@ -8,39 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "591066db24eb7af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59ef952d559b5fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Rendimiento de Una Organización.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98a8e810e4e30340",
+            "id": "1f20c1d98bd4a896",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -110,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,10 +183,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "59ef952d559b5fe3",
+  "active": "1f20c1d98bd4a896",
   "lastOpenFiles": [
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Rendimiento de Una Organización.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Competencia.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Definición de la carrera.md",
+    "Curso de Oracle One/GitHub/GitHub.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Untitled.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Demanda del Mercado.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado",
+    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional",
+    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Matemáticas Especiales/Números Imaginarios.md",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioLeySenos.jpg",
@@ -229,16 +221,8 @@
     "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Networking/Comandos para configurar un router en Cisco.md",
     "Programación Competitiva/Prácticas del CIMAT",
-    "Notas De La Universidad/Comunicación de Datos/Apuntes Sueltos.md",
-    "Programación Competitiva/Combinatoria/Combinatoria.md",
-    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Programación Competitiva/Programación Competitiva.md",
-    "conflict-files-obsidian-git.md",
     "Programación Competitiva/Combinatoria",
-    "Programación Competitiva/Algebra.md",
-    "Programación Competitiva/Programación Dinámica/Recursión.md",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
@@ -247,8 +231,6 @@
     "Programación Competitiva/Sesiones de estudio de UdeC",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",
     "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
-    "Proyecto de Camilo",
-    "Notas De La Universidad/Ingeniería de Software II/Rest API",
     "Untitled.canvas"
   ]
 }
