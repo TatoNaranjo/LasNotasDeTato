@@ -8,27 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59ef952d559b5fe3",
+            "id": "1f20c1d98bd4a896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Desafío para las Organizaciones.md",
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f20c1d98bd4a896",
+            "id": "6afd25cc2fe89ac5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -95,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md"
+              }
             }
           },
           {
@@ -185,6 +187,17 @@
   },
   "active": "1f20c1d98bd4a896",
   "lastOpenFiles": [
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Planificación Financiera.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Como evaluar mi posición en el mercado.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Liderazgo en el Desarrollo.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Como tratar.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Cual es mi ventaja competitiva?.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Demanda del Mercado.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Las soft skills que busca el mercado.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Valores Personales.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Qué Te Motiva.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Desafío para las Organizaciones.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Gestión del Rendimiento.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Rendimiento de Una Organización.md",
@@ -192,7 +205,6 @@
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Definición de la carrera.md",
     "Curso de Oracle One/GitHub/GitHub.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Untitled.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Demanda del Mercado.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado",
     "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
@@ -211,15 +223,6 @@
     "Notas De La Universidad/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
-    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Programación Competitiva/Prácticas del CIMAT",
     "Programación Competitiva/Combinatoria",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
@@ -230,7 +233,6 @@
     "Notas De La Universidad/Semillero de Investigación",
     "Programación Competitiva/Sesiones de estudio de UdeC",
     "Notas De La Universidad/Ciencia Tecnología E Innovación II",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos",
     "Untitled.canvas"
   ]
 }
