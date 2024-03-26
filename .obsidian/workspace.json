@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c3c859ef150606a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md"
+                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md"
               }
             }
           },
@@ -180,17 +188,27 @@
   },
   "active": "f18e216f7ab54c0f",
   "lastOpenFiles": [
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El método Agile.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Retroalimentación.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Flujo de Ejecución.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Priorización.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El método Waterfall.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Fundamentos de Agile.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
+    "Curso de Oracle One/Curso de Oracle One.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Personal Branding.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Entendiendo la transición de carrera.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Entrevistas.md",
@@ -200,16 +218,7 @@
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/La Razón de Ser.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Definiendo prioridades.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Qué nos m.md",
-    "Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Planificación Financiera.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Como evaluar mi posición en el mercado.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Liderazgo en el Desarrollo.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional",
@@ -225,7 +234,6 @@
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones",
     "Untitled.canvas"
   ]
 }
