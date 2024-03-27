@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f18e216f7ab54c0f",
+            "id": "c3c859ef150606a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3c859ef150606a2",
+            "id": "56efc25fa2fe1f90",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
+                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md"
+                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md"
               }
             }
           },
@@ -186,8 +186,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f18e216f7ab54c0f",
+  "active": "c3c859ef150606a2",
   "lastOpenFiles": [
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Por qué necesitamos el SBOK.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Beneficios de Utilizar SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Historia de SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Qué necesito para empezar un negocio?.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Emprendimiento.md",
@@ -208,16 +213,11 @@
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Personal Branding.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Entendiendo la transición de carrera.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Entrevistas.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada",
