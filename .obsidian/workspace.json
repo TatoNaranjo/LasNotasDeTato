@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
+                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56efc25fa2fe1f90",
+            "id": "d003ad87ffc41223",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
+                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
+                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md"
+                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md"
               }
             }
           },
@@ -188,11 +188,26 @@
   },
   "active": "c3c859ef150606a2",
   "lastOpenFiles": [
+    "Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
+    "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
+    "Curso de React/Qué es React?.md",
+    "Curso de React/Refuerzo de JavaScript",
+    "Curso de React/Curso de React.md",
+    "Curso de Oracle One/GitHub/Comandos de GitHub.md",
+    "Curso de React",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Principios de SCRUM.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Por qué necesitamos el SBOK.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Beneficios de Utilizar SCRUM.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Historia de SCRUM.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Historia de SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Como usar el SBOK?.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Ceremonias de Scrum.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Beneficios de Utilizar SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Aspectos de SCRUM.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Procesos de Scrum.md",
+    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Priorización.md",
+    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Scrum para grandes proyectos y empresas.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Qué necesito para empezar un negocio?.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Emprendimiento.md",
@@ -202,27 +217,13 @@
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El método Agile.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Retroalimentación.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Flujo de Ejecución.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Priorización.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El método Waterfall.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Fundamentos de Agile.md",
-    "Curso de Oracle One/Curso de Oracle One.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
@@ -230,7 +231,6 @@
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/representacionFormaPolar.jpeg",
     "Notas De La Universidad/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
-    "Programación Competitiva/Prácticas del CIMAT",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Networking/Imagenes/ejemploSubnettingClaseA.png",
