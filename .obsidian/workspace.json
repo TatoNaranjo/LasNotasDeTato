@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
+                "file": "Curso de React/Refuerzo de JavaScript/Fetch API.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +182,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c3c859ef150606a2",
+  "active": "d003ad87ffc41223",
   "lastOpenFiles": [
+    "Curso de React/Refuerzo de JavaScript/Fetch API.md",
+    "Curso de React/Refuerzo de JavaScript/Módulos de ECMAScript.md",
+    "Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md",
     "Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
     "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
     "Curso de React/Qué es React?.md",
@@ -213,10 +212,7 @@
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Emprendimiento.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Pilares del Emprendimiento.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/De la idea al Plan de Negocios.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El Manifiesto Agile.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/El método Agile.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
