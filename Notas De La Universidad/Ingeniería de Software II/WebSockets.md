@@ -1,5 +1,6 @@
 Herramienta primordial para crear el proyecto de [[Ingeniería de Software II]].
 
+Redactado Por: `TatoNaranjo`
 # Definición
 Es un protocolo que define las reglas de comunicación entre diferentes hosts de la capa de aplicación.
 
@@ -33,8 +34,15 @@ Una conexión se termina con una trama de control especial del tipo cierre. Esto
 
 Por ejemplo, si un cliente envía un mensaje de cierre `close` a un servidor, éste va a responder con una trama de control de cierre `close` para terminar la conexión.
 
-A su vez, este sistema está diseñado para que una conexión pueda terminar si un cliente decide irse, por lo que no necesariamente se recurre a una petición por parte del cliente para crear un cierre de conexión. 
+A su vez, este sistema está diseñado para que una conexión pueda terminar si un cliente decide irse (Cerrando la página web o Desinstalando la aplicación), por lo que no necesariamente se recurre a una petición por parte del cliente para crear un cierre de conexión. 
 
+> Los **IDs*** de los WebSockets son efímeros y volátiles. Esto quiere decir que cada vez que un cliente recarga un navegador, se genera elimina el anterior token y se genera uno nuevo. Por lo tanto, querer almacenar un ID de un WebSocket no es conveniente.
+
+
+> Consejo de Fernando: Si queremos trabajar WebSockets, es mejor hacerlo con la implementación nativa del navegador, es decir, sin descargar más librerías.
+
+
+**Actualmente, todos los navegadores soportan el uso de WebSockets, incluso hasta las versiones más viejas!!!**
 # Fuentes
 [# DevTalles PodCast - 134: WebSockets | ¿Qué son y para qué me sirven?](https://www.youtube.com/watch?v=q2kdLki8wRY)
 
