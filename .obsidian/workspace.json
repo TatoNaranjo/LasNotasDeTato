@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
+                "file": "Notas De La Universidad/Lengua Extranjera IV/Video Script of Sidney.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e1e568aa5f537a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
+                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
+                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Ingeniería de Software II/WebSockets.md"
+                "file": "Programación Competitiva/Competitive Programmer Roadmap.md"
               }
             }
           },
@@ -178,46 +190,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "512ef64002515b72",
+  "active": "1e1e568aa5f537a8",
   "lastOpenFiles": [
+    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Mercado Verde.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Lengua Extranjera IV/Video Script of Sidney.md",
+    "Video Script of Sidney.pdf",
+    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "Definiendo el Modelo Canvas.pdf",
+    "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
     "WebSockets.pdf",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/explicaciónWebSockets.png",
     "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Programación Competitiva/Programación Competitiva.md",
     "Curso de React/Refuerzo de JavaScript/Fetch API.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
-    "Definiendo el Modelo Canvas.pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Curso de React/Refuerzo de JavaScript/Módulos de ECMAScript.md",
-    "Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md",
-    "Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
-    "Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
-    "Curso de React/Qué es React?.md",
     "Curso de React/Refuerzo de JavaScript",
-    "Curso de React/Curso de React.md",
-    "Curso de Oracle One/GitHub/Comandos de GitHub.md",
     "Curso de React",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Principios de SCRUM.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Por qué necesitamos el SBOK.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Panorámica de SCRUM.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Historia de SCRUM.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Estructura del SBOK.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Como usar el SBOK?.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Ceremonias de Scrum.md",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Beneficios de Utilizar SCRUM.md",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
@@ -225,7 +238,6 @@
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/ejercicioTrigonometría.jpg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/representacionFormaPolar.jpeg",
     "Notas De La Universidad/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
-    "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Arreglo Inicial Binary Search.png",
     "Untitled.canvas"
   ]
 }
