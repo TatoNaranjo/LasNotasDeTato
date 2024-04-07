@@ -11,28 +11,11 @@
             "id": "512ef64002515b72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Lengua Extranjera IV/Video Script of Sidney.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e1e568aa5f537a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Competitiva/Competitive Programmer Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programación Competitiva/Competitive Programmer Roadmap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,11 +169,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1e568aa5f537a8",
+  "active": "512ef64002515b72",
   "lastOpenFiles": [
+    "Notas De La Universidad/Matemáticas Especiales/Raíz Cuadrada de un Complejo.md",
+    "Programación Competitiva/Libros Útiles/Libros Útiles.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Lengua Extranjera IV/Video Script of Sidney.md",
+    "Programación Competitiva/Combinatoria/Básicos de Combinatoria.md",
+    "Untitled.md",
+    "Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Definiendo el Modelo Canvas.pdf",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Mercado Verde.md",
@@ -209,21 +199,10 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Lengua Extranjera IV/Video Script of Sidney.md",
     "Video Script of Sidney.pdf",
-    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Definiendo el Modelo Canvas.pdf",
-    "Notas De La Universidad/Ingeniería de Software II/WebSockets.md",
     "WebSockets.pdf",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/explicaciónWebSockets.png",
-    "Notas De La Universidad/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Curso de React/Refuerzo de JavaScript/Fetch API.md",
     "Curso de React/Refuerzo de JavaScript",
     "Curso de React",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios",
