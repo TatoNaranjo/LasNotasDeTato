@@ -11,8 +11,10 @@
             "id": "512ef64002515b72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf"
+              }
             }
           },
           {
@@ -171,8 +177,10 @@
   },
   "active": "512ef64002515b72",
   "lastOpenFiles": [
-    "Notas De La Universidad/Matemáticas Especiales/Raíz Cuadrada de un Complejo.md",
+    "Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
+    "Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
     "Programación Competitiva/Libros Útiles/Libros Útiles.md",
+    "Notas De La Universidad/Matemáticas Especiales/Raíz Cuadrada de un Complejo.md",
     "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -198,7 +206,6 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
     "Video Script of Sidney.pdf",
     "WebSockets.pdf",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
@@ -209,7 +216,6 @@
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
     "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
-    "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
