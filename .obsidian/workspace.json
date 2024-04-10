@@ -11,13 +11,24 @@
             "id": "512ef64002515b72",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf"
+                "file": "Notas De La Universidad/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "c8d93e128ce997ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "512ef64002515b72",
+  "active": "c8d93e128ce997ac",
   "lastOpenFiles": [
+    "Notas De La Universidad/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
+    "Notas De La Universidad/Semillero de Investigación/Semillero de Investigación.md",
+    "Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md",
+    "Notas De La Universidad/Matemáticas Especiales/Razones Trigonométricas.md",
+    "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
     "Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
     "Programación Competitiva/Libros Útiles/Libros Útiles.md",
@@ -189,7 +202,6 @@
     "Untitled.md",
     "Programación Competitiva/Combinatoria/Combinatoria.md",
     "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
-    "Programación Competitiva/Competitive Programmer Roadmap.md",
     "Definiendo el Modelo Canvas.pdf",
     "Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
@@ -203,9 +215,6 @@
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Investigación de Rappi.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/La cadena de valor, Una herramienta del pensamiento estratégico.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
     "Video Script of Sidney.pdf",
     "WebSockets.pdf",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
@@ -214,8 +223,6 @@
     "Curso de React",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios",
     "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum",
-    "Notas De La Universidad/Ingeniería de Software II/Certificación SCRUM Fundamentals",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
     "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
