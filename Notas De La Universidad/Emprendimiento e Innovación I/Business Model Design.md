@@ -15,7 +15,7 @@ Analicemos nuestro propio *Modelo de negocio*.
 Algunas veces el hacer y el pensar van de la mano, otras veces no.
 
 ## Pensamiento de diseño
-El pensamiento de diseño está centrado en el humano, haciendo hincapié en la *empatia* generada por el usuario. Valora la *creatividad*, la colaboración y la acción; y da a los estudiantes un proceso probado para definir problemas y *desarrollar soluciones*.
+El pensamiento de diseño está centrado en el humano, haciendo hincapié en la *empatía* generada por el usuario. Valora la *creatividad*, la colaboración y la acción; y da a los estudiantes un proceso probado para definir problemas y *desarrollar soluciones*.
 "Las grandes ideas nacen de cierto tipo de locura por parte de los emprendedores".
 
 ## Design Thinking
