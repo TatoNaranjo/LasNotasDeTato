@@ -24,4 +24,5 @@ En 1940 se comienzan a tener las bases para el concepto de mercado verde, y en e
 - Es difícil encontrar a un patrocinador que tenga los ideales de Mercado verde y nos ayuden a impulsar el desarrollo a la par.
 
 ## Empresas Colombianas 
-- Bucanetes
+## Bucarretes
+Somos una empresa Santandereana del sector transformador de la madera, producimos carretes y estibas de madera nueva ó remanufacturados y de reciclaje, madera seca, servicio de secado y asesoría a nuestros clientes, tratamiento térmico NIMF 15 para embalajes de madera con destino al comercio internacional, diseño e implementación de cámaras para secado y construcción sostenible: ecovivienda, campamentos y oficinas de inicio de obra.

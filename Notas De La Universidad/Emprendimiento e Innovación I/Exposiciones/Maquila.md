@@ -1,15 +1,12 @@
 Parte de las [[Exposiciones]] de Emprendimiento e innovación.
 
 Forma de subcontratación en la que una empresa conocida como maquiladora realiza productos de manufactura o ensamblaje para otra empresa, ubicada en un país diferente.
-
 ## Objetivos
 Operar sobre la base de un contrato (Normalmente conocido como un contrato de maquila) que establece que el objetivo de la empresa maquiladora es utilizar su capacidad instalada y sus procesos de producción para fabricar productos.
-
 ## Características
 1. Disposición
 
 - Una empresa en un país extranjero puede enviar materia prima para procesar sin pagar impuestos... etc.
-
 
 2. Derechos de la empresa
 - Participación de la inversión extranjera en el capital, y hasta el 100% en la administración, sin necesidad de ninguna autorización especial.
