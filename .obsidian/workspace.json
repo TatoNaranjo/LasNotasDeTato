@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Por Subscripción.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "c8d93e128ce997ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Por Subscripción.md",
-                "mode": "source",
-                "source": false
+                "file": "Software como Servicio (SaaS).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,15 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8d93e128ce997ac",
+  "active": "512ef64002515b72",
   "lastOpenFiles": [
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
+    "Software como Servicio (SaaS).pdf",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Software como Servicio (SaaS).md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Por Subscripción.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/CrowdSourcing.md",
     "CrowdSourcing.pdf",
-    "Software como Servicio (SaaS).pdf",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
     "Notas De La Universidad/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
     "OutSourcing.pdf",
@@ -226,7 +223,6 @@
     "Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
     "Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
-    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
     "Notas De La Universidad/Ingeniería de Software II/Imagenes/explicaciónWebSockets.png",
