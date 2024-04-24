@@ -1,4 +1,4 @@
-Estructura del modelo canvas definido para el emprendimiento *MARES*, de la materia de [[Emprendimiento e Innovación I]]
+Estructura de los [[Entregables Modelo Canvas]] definidos para el emprendimiento *MARES*.
 
 ## Estructura básica
 ### Segmentar los clientes
@@ -17,7 +17,8 @@ Estos clientes representan una parte significativa de nuestro mercado objetivo. 
 
 ##### Amantes de lo artesanal y lo único
 Este segmento de clientes se caracteriza por su aprecio por los productos artesanales y únicos. Buscan objetos que reflejen la creatividad, la calidad y la originalidad. Están dispuestos a pagar un precio más alto por productos que tengan un valor artístico y que cuenten una historia detrás de su creación. Para ellos, la compra de artesanías locales no solo representa la adquisición de un producto, sino también la contribución al mantenimiento de tradiciones culturales y al apoyo a los artesanos locales.
-#### Residentes y habitantes locales
+
+##### Residentes y habitantes locales
 Aunque no son el principal foco de nuestro mercado en este contexto específico, los residentes y habitantes locales también pueden convertirse en clientes importantes. Algunos de ellos pueden estar interesados en adquirir nuestros productos como regalos para amigos y familiares, o para su propio disfrute personal. Además, su apoyo puede ser fundamental para establecer relaciones a largo plazo en la comunidad y generar recomendaciones boca a boca que impulsen las ventas.
 ### Crear una propuesta de valor
 En esta parte, se analizarán las propuestas de nuevos productos que ofrece *MARES* para diferenciarse de otras marcas, es decir, se explorará el valor agregado detrás de la venta de los accesorios artesanales. Para ello, debemos responder a las siguientes preguntas:
