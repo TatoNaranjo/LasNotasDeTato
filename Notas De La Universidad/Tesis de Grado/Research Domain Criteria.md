@@ -18,6 +18,8 @@ El Instituto de Medicina de los Estados Unidos lanza un reporte en 2011 discutie
 
 El diagnóstico para el tratamiento de datos se ha basado en la presentación de síntomas. Esto aplica únicamente al tratamiento de tests biológicos como la nosología psiquiátrica, debido a que para los desórdenes como el cancer o la diabetes se sigue sosteniendo el paradigma de presentar signos o síntomas. La razón por la que se genera una división en cuanto a la manera de presentar resultados es debido a que el cerebro es la parte más difícil del cerebro a la hora de estudiarse o ser entendida. Los síntomas como los desordenes mentales (en contraste con la mayoría de desordenes neurológicos) afectan a la mayoría de funciones complejas del ser humano, y son extremadamente difíciles de contextualizar o medir. Aún así, la ciencia del cerebro y el comportamiento ha llegado a un punto en el que es posible (y de igual forma, necesario) encontrar nuevas formas de trasladar esos avances en el estudio del comportamiento del cerebro, a estudios que hagan surgir nuevos tratamientos.
 
+El RDoC busca crear un sistema de clasificación experimental que permita dar el primer paso hacia la medicina de precisión para tratar los desordenes mentales.
+
 
 ## Fuentes y Recursos
 - [Research Domain Criteria: toward future psychiatric nosologies](https://www.tandfonline.com/doi/full/10.31887/DCNS.2015.17.1/bcuthbert)
