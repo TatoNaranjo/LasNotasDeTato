@@ -88,6 +88,8 @@ Para esta parte debemos dar una respuesta a las siguientes preguntas:
 - *¿Qué actividad básica requiere nuestra propuesta de valor?*
 - *¿Cuáles son nuestros canales?*
 - *¿Cuáles son nuestras fuentes de ingresos?*
+
+
 ## Aliados clave
 Una mejor forma de llevar a cabo un negocio es tener aliados. Estos aliados pueden ser:
 

@@ -54,10 +54,10 @@ __export(exports, {
 var import_obsidian6 = __toModule(require("obsidian"));
 
 // src/modules/IndexContentProcessorModule.ts
-var import_obsidian2 = __toModule(require("obsidian"));
+var import_obsidian3 = __toModule(require("obsidian"));
 
 // src/types/MarkdownTextRenderer.ts
-var import_obsidian = __toModule(require("obsidian"));
+var import_obsidian2 = __toModule(require("obsidian"));
 
 // src/types/Utilities.ts
 function isIndexFile(path) {
@@ -82,6 +82,166 @@ function isExcludedPath(path) {
   return false;
 }
 
+// src/models/PluginSettingsTab.ts
+var import_obsidian = __toModule(require("obsidian"));
+var SortBy;
+(function(SortBy2) {
+  SortBy2["None"] = "Disabled";
+  SortBy2["Alphabetically"] = "Alphabetically";
+  SortBy2["ReverseAlphabetically"] = "Reverse Alphabetically";
+})(SortBy || (SortBy = {}));
+var DEFAULT_SETTINGS = {
+  disableHeadlines: false,
+  graphOverwrite: false,
+  rootIndexFile: "Dashboard.md",
+  autoCreateIndexFile: true,
+  autoRenameIndexFile: true,
+  includeFileContent: false,
+  hideIndexFiles: false,
+  indexFileInitText: "---\ntags: MOCs\n---\n```folder-index-content\n```",
+  autoPreviewMode: false,
+  sortIndexFiles: SortBy.Alphabetically,
+  sortHeaders: SortBy.None,
+  recursiveIndexFiles: false,
+  renderFolderBold: true,
+  renderFolderItalic: false,
+  useBulletPoints: false,
+  excludeFolders: [],
+  recursionLimit: -1,
+  headlineLimit: 6
+};
+var PluginSettingsTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h2", { text: "Graph Settings" });
+    new import_obsidian.Setting(containerEl).setName("Overwrite Graph View").setDesc("This will overwrite the default graph view and link files based on their index as well as their normal links").addToggle((component) => component.setValue(this.plugin.settings.graphOverwrite).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.graphOverwrite = value;
+      yield this.plugin.saveSettings();
+    })));
+    containerEl.createEl("h2", { text: "Index File Settings" });
+    new import_obsidian.Setting(containerEl).setName("Root Index File").setDesc("The File that is used for the Root Index File").addText((component) => component.setValue(this.plugin.settings.rootIndexFile).setPlaceholder("dashboard.md").onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.rootIndexFile = value;
+      yield this.plugin.saveSettings();
+    })));
+    let textFeld = null;
+    new import_obsidian.Setting(containerEl).setName("Initial Content").setDesc("Set the initial content for new folder indexes.").addButton((component) => component.setButtonText("Reset").setWarning().setTooltip("Reset to default").onClick(() => __async(this, null, function* () {
+      this.plugin.settings.indexFileInitText = DEFAULT_SETTINGS.indexFileInitText;
+      textFeld == null ? void 0 : textFeld.setValue(this.plugin.settings.indexFileInitText);
+      yield this.plugin.saveSettings();
+    }))).addTextArea((component) => {
+      textFeld = component;
+      component.setPlaceholder("About the folder.").setValue(this.plugin.settings.indexFileInitText).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.indexFileInitText = value;
+        yield this.plugin.saveSettings();
+      }));
+      component.inputEl.rows = 8;
+      component.inputEl.cols = 50;
+    });
+    new import_obsidian.Setting(containerEl).setName("Excluded Folders").setDesc("These Folders will not automatically create an IndexFile").addTextArea((component) => {
+      component.setPlaceholder("Folder1\nFolder2/Foo\nFolder3/Foo/Bar").setValue(this.plugin.settings.excludeFolders.join("\n")).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.excludeFolders = value.split("\n");
+        yield this.plugin.saveSettings();
+      }));
+      component.inputEl.rows = 8;
+      component.inputEl.cols = 50;
+    });
+    new import_obsidian.Setting(containerEl).setName("Automatically generate IndexFile").setDesc("This will automatically create an IndexFile when you create a new folder").addToggle((component) => component.setValue(this.plugin.settings.autoCreateIndexFile).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autoCreateIndexFile = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Automatically Rename IndexFile").setDesc("This will automatically rename the folders index file as you rename folders").addToggle((component) => component.setValue(this.plugin.settings.autoRenameIndexFile).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autoRenameIndexFile = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Hide IndexFile").setDesc("This will hide IndexFiles from the file explorer (Disabled as it causes bugs right now)").addToggle((component) => component.setValue(this.plugin.settings.hideIndexFiles).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.hideIndexFiles = value;
+      yield this.plugin.saveSettings();
+    })).setDisabled(true));
+    containerEl.createEl("h2", { text: "Content Renderer Settings" });
+    new import_obsidian.Setting(containerEl).setName("Auto include preview").setDesc("This will automatically include previews when creating index files (!) ").addToggle((component) => component.setValue(this.plugin.settings.includeFileContent).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.includeFileContent = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Disable Headlines").setDesc("This will disable listing headlines within the index file").addToggle((component) => component.setValue(this.plugin.settings.disableHeadlines).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.disableHeadlines = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Headline Limit").setDesc("Limit the Depth of Headlines Displayed").addText((component) => component.setValue(this.plugin.settings.headlineLimit.toString()).setPlaceholder("6").onChange((value) => __async(this, null, function* () {
+      let numValue = Number.parseInt(value);
+      if (!isNaN(numValue)) {
+        if (numValue < 0) {
+          numValue = 0;
+        } else if (numValue > 6) {
+          numValue = 6;
+        }
+      } else {
+        numValue = 6;
+      }
+      this.plugin.settings.headlineLimit = numValue;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Automatic Preview mode").setDesc("This will automatically swap to preview mode when opening an index file").addToggle((component) => component.setValue(this.plugin.settings.autoPreviewMode).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autoPreviewMode = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Sort Files Alphabetically").setDesc("This will sort the Files alphabetically").addDropdown((component) => {
+      for (const key in SortBy) {
+        if (!isNaN(Number(key)))
+          continue;
+        const enumKey = SortBy[key];
+        const enumValue = SortBy[key];
+        component.addOption(enumKey, enumValue);
+      }
+      component.setValue(this.plugin.settings.sortIndexFiles).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.sortIndexFiles = value;
+        yield this.plugin.saveSettings();
+      }));
+    });
+    new import_obsidian.Setting(containerEl).setName("Sort Headers Alphabetically").setDesc("This will sort the Headers within a file alphabetically").addDropdown((component) => {
+      for (const key in SortBy) {
+        if (!isNaN(Number(key)))
+          continue;
+        const enumKey = SortBy[key];
+        const enumValue = SortBy[key];
+        component.addOption(enumKey, enumValue);
+      }
+      component.setValue(this.plugin.settings.sortHeaders).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.sortHeaders = value;
+        yield this.plugin.saveSettings();
+      }));
+    });
+    new import_obsidian.Setting(containerEl).setName("Build IndexFiles Recursively").setDesc("This will show all files within a folder and its subfolders").addToggle((component) => component.setValue(this.plugin.settings.recursiveIndexFiles).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.recursiveIndexFiles = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Subfolder Limit").setDesc("Limit the Depth of Subfolders(-1 for no limit)").addText((component) => component.setValue(this.plugin.settings.recursionLimit.toString()).setPlaceholder("-1").onChange((value) => __async(this, null, function* () {
+      let numValue = Number.parseInt(value);
+      if (isNaN(numValue) || numValue < 0) {
+        numValue = -1;
+      }
+      this.plugin.settings.recursionLimit = numValue;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Render Folders Bold").setDesc("This will render folders in **bold**").addToggle((component) => component.setValue(this.plugin.settings.renderFolderBold).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.renderFolderBold = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Render Folder Italic").setDesc("This will render folders in *italic*").addToggle((component) => component.setValue(this.plugin.settings.renderFolderItalic).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.renderFolderItalic = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Use bullet-points instead of list").setDesc("This will render the index file as a bullet-point list instead of a numbered list").addToggle((component) => component.setValue(this.plugin.settings.useBulletPoints).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.useBulletPoints = value;
+      yield this.plugin.saveSettings();
+    })));
+  }
+};
+
 // src/types/MarkdownTextRenderer.ts
 var MarkdownTextRenderer = class {
   constructor(plugin, app) {
@@ -100,7 +260,7 @@ var MarkdownTextRenderer = class {
       if (isExcludedPath(file.path)) {
         continue;
       }
-      if (file instanceof import_obsidian.TFolder && this.plugin.settings.recursiveIndexFiles) {
+      if (file instanceof import_obsidian2.TFolder && this.plugin.settings.recursiveIndexFiles) {
         let children = file.children;
         const indexFile = this.checkIfFolderHasIndexFile(file.children);
         if (indexFile) {
@@ -113,7 +273,7 @@ var MarkdownTextRenderer = class {
           markdownText += this.buildStructureMarkdownText(this.buildFileTree(children), indentLevel + 1);
         }
       }
-      if (file instanceof import_obsidian.TFile) {
+      if (file instanceof import_obsidian2.TFile) {
         if (isIndexFile(file.path)) {
           continue;
         }
@@ -137,8 +297,10 @@ var MarkdownTextRenderer = class {
   }
   buildHeaderMarkdownText(file, headerTree, indentLevel, headlineLevel) {
     let markdownText = "";
-    if (this.plugin.settings.sortHeadersAlphabetically) {
+    if (this.plugin.settings.sortHeaders === SortBy.Alphabetically) {
       headerTree.sort((a, b) => a.header.heading.localeCompare(b.header.heading));
+    } else if (this.plugin.settings.sortHeaders === SortBy.ReverseAlphabetically) {
+      headerTree.sort((a, b) => b.header.heading.localeCompare(a.header.heading));
     }
     for (const headerWrapper of headerTree) {
       markdownText += this.buildMarkdownLinkString(headerWrapper.header.heading, encodeURI(file.path) + this.buildHeaderChain(headerWrapper), indentLevel);
@@ -173,7 +335,7 @@ var MarkdownTextRenderer = class {
   getTitleFromPath(path) {
     var _a, _b;
     const file = this.app.vault.getAbstractFileByPath(path);
-    if (file instanceof import_obsidian.TFile) {
+    if (file instanceof import_obsidian2.TFile) {
       const cache = this.app.metadataCache.getFileCache(file);
       if (cache) {
         return (_b = (_a = cache.frontmatter) == null ? void 0 : _a.title) != null ? _b : file.basename;
@@ -190,7 +352,7 @@ var MarkdownTextRenderer = class {
   }
   checkIfFolderHasIndexFile(children) {
     for (const file of children) {
-      if (file instanceof import_obsidian.TFile) {
+      if (file instanceof import_obsidian2.TFile) {
         if (isIndexFile(file.path)) {
           return file;
         }
@@ -237,15 +399,17 @@ var MarkdownTextRenderer = class {
   buildFileTree(filesInFolder) {
     const fileTree = [];
     for (const file of filesInFolder) {
-      if (file instanceof import_obsidian.TFolder && this.plugin.settings.recursiveIndexFiles) {
+      if (file instanceof import_obsidian2.TFolder && this.plugin.settings.recursiveIndexFiles) {
         fileTree.push(file);
       }
-      if (file instanceof import_obsidian.TFile) {
+      if (file instanceof import_obsidian2.TFile) {
         fileTree.push(file);
       }
     }
-    if (this.plugin.settings.sortIndexFilesAlphabetically) {
+    if (this.plugin.settings.sortIndexFiles === SortBy.Alphabetically) {
       fileTree.sort((a, b) => a.name.localeCompare(b.name));
+    } else if (this.plugin.settings.sortIndexFiles === SortBy.ReverseAlphabetically) {
+      fileTree.sort((a, b) => b.name.localeCompare(a.name));
     }
     return fileTree;
   }
@@ -259,7 +423,7 @@ var MarkdownTextRenderer = class {
 };
 
 // src/modules/IndexContentProcessorModule.ts
-var IndexContentProcessorModule = class extends import_obsidian2.MarkdownRenderChild {
+var IndexContentProcessorModule = class extends import_obsidian3.MarkdownRenderChild {
   constructor(app, plugin, filePath, container) {
     super(container);
     this.app = app;
@@ -298,17 +462,17 @@ var IndexContentProcessorModule = class extends import_obsidian2.MarkdownRenderC
       var _a, _b;
       this.container.empty();
       const folder = this.app.vault.getAbstractFileByPath(this.filePath);
-      if (folder instanceof import_obsidian2.TFile) {
+      if (folder instanceof import_obsidian3.TFile) {
         const files = (_b = (_a = folder.parent) == null ? void 0 : _a.children) != null ? _b : [];
         const renderer = new MarkdownTextRenderer(this.plugin, this.app);
-        yield import_obsidian2.MarkdownRenderer.renderMarkdown(renderer.buildMarkdownText(files), this.container, this.filePath, this);
+        yield import_obsidian3.MarkdownRenderer.renderMarkdown(renderer.buildMarkdownText(files), this.container, this.filePath, this);
       }
     });
   }
 };
 
 // src/modules/GraphManipulatorModule.ts
-var import_obsidian3 = __toModule(require("obsidian"));
+var import_obsidian4 = __toModule(require("obsidian"));
 var GraphManipulatorModule = class {
   constructor(app, plugin) {
     this.app = app;
@@ -383,10 +547,10 @@ var GraphManipulatorModule = class {
       const cache = this.app.metadataCache.getFileCache(file);
       if (((_a = file.parent) == null ? void 0 : _a.name) + ".md" == file.name || file.name == this.plugin.settings.rootIndexFile) {
         (_b = file.parent) == null ? void 0 : _b.children.forEach((otherFile) => {
-          if (otherFile instanceof import_obsidian3.TFile && file.path != otherFile.path) {
+          if (otherFile instanceof import_obsidian4.TFile && file.path != otherFile.path) {
             edges[otherFile.path] = true;
           }
-          if (otherFile instanceof import_obsidian3.TFolder) {
+          if (otherFile instanceof import_obsidian4.TFolder) {
             const subIndex = otherFile.children.find((value) => value.name == otherFile.name + ".md");
             if (subIndex != null) {
               edges[subIndex.path] = true;
@@ -415,7 +579,7 @@ var GraphManipulatorModule = class {
           });
         }
         if (cache.frontmatter != null) {
-          const frontMatterTags = (0, import_obsidian3.parseFrontMatterTags)(cache.frontmatter);
+          const frontMatterTags = (0, import_obsidian4.parseFrontMatterTags)(cache.frontmatter);
           if (frontMatterTags != null && renderSettings.showTags) {
             frontMatterTags.forEach((tag) => {
               graph[tag] = {
@@ -519,142 +683,6 @@ var GraphManipulatorModule = class {
 
 // src/main.ts
 var import_events = __toModule(require("events"));
-
-// src/models/PluginSettingsTab.ts
-var import_obsidian4 = __toModule(require("obsidian"));
-var DEFAULT_SETTINGS = {
-  disableHeadlines: false,
-  graphOverwrite: false,
-  rootIndexFile: "Dashboard.md",
-  autoCreateIndexFile: true,
-  autoRenameIndexFile: true,
-  includeFileContent: false,
-  hideIndexFiles: false,
-  indexFileInitText: "---\ntags: MOCs\n---\n```folder-index-content\n```",
-  autoPreviewMode: false,
-  sortIndexFilesAlphabetically: true,
-  sortHeadersAlphabetically: false,
-  recursiveIndexFiles: false,
-  renderFolderBold: true,
-  renderFolderItalic: false,
-  useBulletPoints: false,
-  excludeFolders: [],
-  recursionLimit: -1,
-  headlineLimit: 6
-};
-var PluginSettingsTab = class extends import_obsidian4.PluginSettingTab {
-  constructor(app, plugin) {
-    super(app, plugin);
-    this.plugin = plugin;
-  }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.createEl("h2", { text: "Graph Settings" });
-    new import_obsidian4.Setting(containerEl).setName("Overwrite Graph View").setDesc("This will overwrite the default graph view and link files based on their index as well as their normal links").addToggle((component) => component.setValue(this.plugin.settings.graphOverwrite).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.graphOverwrite = value;
-      yield this.plugin.saveSettings();
-    })));
-    containerEl.createEl("h2", { text: "Index File Settings" });
-    new import_obsidian4.Setting(containerEl).setName("Root Index File").setDesc("The File that is used for the Root Index File").addText((component) => component.setValue(this.plugin.settings.rootIndexFile).setPlaceholder("dashboard.md").onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.rootIndexFile = value;
-      yield this.plugin.saveSettings();
-    })));
-    let textFeld = null;
-    new import_obsidian4.Setting(containerEl).setName("Initial Content").setDesc("Set the initial content for new folder indexes.").addButton((component) => component.setButtonText("Reset").setWarning().setTooltip("Reset to default").onClick(() => __async(this, null, function* () {
-      this.plugin.settings.indexFileInitText = DEFAULT_SETTINGS.indexFileInitText;
-      textFeld == null ? void 0 : textFeld.setValue(this.plugin.settings.indexFileInitText);
-      yield this.plugin.saveSettings();
-    }))).addTextArea((component) => {
-      textFeld = component;
-      component.setPlaceholder("About the folder.").setValue(this.plugin.settings.indexFileInitText).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.indexFileInitText = value;
-        yield this.plugin.saveSettings();
-      }));
-      component.inputEl.rows = 8;
-      component.inputEl.cols = 50;
-    });
-    new import_obsidian4.Setting(containerEl).setName("Excluded Folders").setDesc("These Folders will not automatically create an IndexFile").addTextArea((component) => {
-      component.setPlaceholder("Folder1\nFolder2/Foo\nFolder3/Foo/Bar").setValue(this.plugin.settings.excludeFolders.join("\n")).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.excludeFolders = value.split("\n");
-        yield this.plugin.saveSettings();
-      }));
-      component.inputEl.rows = 8;
-      component.inputEl.cols = 50;
-    });
-    new import_obsidian4.Setting(containerEl).setName("Automatically generate IndexFile").setDesc("This will automatically create an IndexFile when you create a new folder").addToggle((component) => component.setValue(this.plugin.settings.autoCreateIndexFile).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autoCreateIndexFile = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Automatically Rename IndexFile").setDesc("This will automatically rename the folders index file as you rename folders").addToggle((component) => component.setValue(this.plugin.settings.autoRenameIndexFile).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autoRenameIndexFile = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Hide IndexFile").setDesc("This will hide IndexFiles from the file explorer (Disabled as it causes bugs right now)").addToggle((component) => component.setValue(this.plugin.settings.hideIndexFiles).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.hideIndexFiles = value;
-      yield this.plugin.saveSettings();
-    })).setDisabled(true));
-    containerEl.createEl("h2", { text: "Content Renderer Settings" });
-    new import_obsidian4.Setting(containerEl).setName("Auto include preview").setDesc("This will automatically include previews when creating index files (!) ").addToggle((component) => component.setValue(this.plugin.settings.includeFileContent).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.includeFileContent = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Disable Headlines").setDesc("This will disable listing headlines within the index file").addToggle((component) => component.setValue(this.plugin.settings.disableHeadlines).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.disableHeadlines = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Headline Limit").setDesc("Limit the Depth of Headlines Displayed").addText((component) => component.setValue(this.plugin.settings.headlineLimit.toString()).setPlaceholder("6").onChange((value) => __async(this, null, function* () {
-      let numValue = Number.parseInt(value);
-      if (!isNaN(numValue)) {
-        if (numValue < 0) {
-          numValue = 0;
-        } else if (numValue > 6) {
-          numValue = 6;
-        }
-      } else {
-        numValue = 6;
-      }
-      this.plugin.settings.headlineLimit = numValue;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Automatic Preview mode").setDesc("This will automatically swap to preview mode when opening an index file").addToggle((component) => component.setValue(this.plugin.settings.autoPreviewMode).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.autoPreviewMode = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Sort Files Alphabetically").setDesc("This will sort the Files alphabetically").addToggle((component) => component.setValue(this.plugin.settings.sortIndexFilesAlphabetically).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.sortIndexFilesAlphabetically = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Sort Headers Alphabetically").setDesc("This will sort the Headers within a file alphabetically").addToggle((component) => component.setValue(this.plugin.settings.sortHeadersAlphabetically).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.sortHeadersAlphabetically = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Build IndexFiles Recursively").setDesc("This will show all files within a folder and its subfolders").addToggle((component) => component.setValue(this.plugin.settings.recursiveIndexFiles).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.recursiveIndexFiles = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Subfolder Limit").setDesc("Limit the Depth of Subfolders(-1 for no limit)").addText((component) => component.setValue(this.plugin.settings.recursionLimit.toString()).setPlaceholder("-1").onChange((value) => __async(this, null, function* () {
-      let numValue = Number.parseInt(value);
-      if (isNaN(numValue) || numValue < 0) {
-        numValue = -1;
-      }
-      this.plugin.settings.recursionLimit = numValue;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Render Folders Bold").setDesc("This will render folders in **bold**").addToggle((component) => component.setValue(this.plugin.settings.renderFolderBold).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.renderFolderBold = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Render Folder Italic").setDesc("This will render folders in *italic*").addToggle((component) => component.setValue(this.plugin.settings.renderFolderItalic).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.renderFolderItalic = value;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Use bullet-points instead of list").setDesc("This will render the index file as a bullet-point list instead of a numbered list").addToggle((component) => component.setValue(this.plugin.settings.useBulletPoints).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.useBulletPoints = value;
-      yield this.plugin.saveSettings();
-    })));
-  }
-};
 
 // src/modules/FolderNoteModule.ts
 var import_obsidian5 = __toModule(require("obsidian"));

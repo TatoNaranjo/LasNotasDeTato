@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaPerspectiveDiceFour",
-      "TiSeeding",
-      "TiBulb",
-      "👓",
-      "TiDeviceAnalytics"
+      "TiMedicineSyrup",
+      "🥄",
+      "🌅",
+      "RaEgg",
+      "🧑‍🍳"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,7 +25,12 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "Notas De La Universidad/Comunicación de Datos": "RiSignalTowerFill",
   "Programación Competitiva": "RiBarChartFill",
@@ -57,5 +62,11 @@
   "Notas De La Universidad/Ciencia Tecnología E Innovación II": "TiBulb",
   "Notas De La Universidad/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md": "📫",
   "Notas De La Universidad/Semillero de Investigación": "TiSeeding",
-  "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour"
+  "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour",
+  "PDFs y Documentos": "TiPdf",
+  "TatoCocina": "🧑‍🍳",
+  "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
+  "TatoCocina/Comidas/Desayunos": "🌅",
+  "TatoCocina/Comidas": "🥄",
+  "TatoCocina/Salsas": "TiMedicineSyrup"
 }

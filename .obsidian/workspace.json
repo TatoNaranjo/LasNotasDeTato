@@ -8,35 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "512ef64002515b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c8d93e128ce997ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
+                "file": "Programación Competitiva/Libros Útiles/Libros Útiles.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "56f4d5ce82a9989a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0086555480957,
-    "collapsed": true
+    "width": 377.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md",
+                "file": "Programación Competitiva/Libros Útiles/Libros Útiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md",
+                "file": "Programación Competitiva/Libros Útiles/Libros Útiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md"
+                "file": "Programación Competitiva/Libros Útiles/Libros Útiles.md"
               }
             }
           },
@@ -179,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,60 +170,60 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "512ef64002515b72",
+  "active": "c8d93e128ce997ac",
   "lastOpenFiles": [
-    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable  Puntos 3 y 4.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Definiendo el Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas",
-    "PDFs y Documentos/Entregable Modelo Canvas Puntos 3 y 4.pdf",
+    "Programación Competitiva/Programación Competitiva.md",
     "PDFs y Documentos/PDFs y Documentos.md",
-    "PDFs y Documentos",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Definiendo el Elevator Pitch.md",
-    "Notas De La Universidad/Networking/Servidores.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Qué es un Elevator Pitch.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Marketing Multinivel.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Cómo Descubrir La Idea De Negocio.md",
+    "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
+    "TatoCocina/Salsas/Salsa Holandesa.md",
+    "TatoCocina/Comidas/Desayunos/Desayunos.md",
+    "TatoCocina/Comidas/Comidas.md",
+    "TatoCocina/Salsas/Salsas.md",
+    "TatoCocina/TatoCocina.md",
+    "TatoCocina/Comidas/Desayunos",
+    "TatoCocina/Comidas",
+    "TatoCocina/Salsas",
+    "Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Notas De La Universidad/Matemáticas Especiales/Funciones Pares e Impares.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 7, 8 y 9.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Por Subscripción.md",
+    "Notas De La Universidad/Lengua Extranjera IV/Preguntas para Inglés - Criogenización.md",
+    "Curso de React/Curso de React.md",
+    "TatoCocina",
+    "Astro/Astro.md",
+    "Programación Competitiva/Combinatoria/Los Números de Catalán.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Modelo Canvas.md",
+    "PDFs y Documentos/Preguntas para Inglés - Criogenización.pdf",
+    "Notas De La Universidad/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Ingeniería de Software II/Preparación para el PGC.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Definición del Esqueleto para el Trabajo Final.md",
+    "PDFs y Documentos/Definición del Esqueleto para el Trabajo Final.pdf",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Citas Textuales.md",
     "Notas De La Universidad/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/EjemploFunciónImpar1.png",
+    "Notas De La Universidad/Matemáticas Especiales/Imagenes/FuncionesParesEjemplo 1.png",
+    "PDFs y Documentos/Entregable Puntos 7, 8 y 9.pdf",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregable Puntos 5 y 6.md",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas/Definiendo el Modelo Canvas.md",
+    "Notas De La Universidad/Semillero de Investigación/IA Notebook",
+    "PDFs y Documentos/Entregable Puntos 5 y 6.pdf",
+    "Notas De La Universidad/Emprendimiento e Innovación I/Entregables Modelo Canvas",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/Discontinuidad.png",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/graficaFourier.png",
     "Pasted image 20240415210309.png",
-    "Notas De La Universidad/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
-    "Notas De La Universidad/Comunicación de Datos/Series de Fourier.md",
     "Notas De La Universidad/Comunicación de Datos/Imagenes/Explicacion Fourier.png",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Business Model Design.md",
-    "Software como Servicio (SaaS).pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Por Subscripción.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Franquicias.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Software como Servicio (SaaS).md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/CrowdSourcing.md",
-    "CrowdSourcing.pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/OutSourcing.md",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
-    "Notas De La Universidad/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
-    "OutSourcing.pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Mercado Verde.md",
-    "Mercado Verde.pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/Maquila.md",
-    "Maquila.pdf",
-    "Franquicias.pdf",
-    "Notas De La Universidad/Emprendimiento e Innovación I/Exposiciones/E-Commerce.md",
-    "E-Commerce.pdf",
     "Notas De La Universidad/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp",
-    "Notas De La Universidad/Ingeniería de Software II/Imagenes/protocoloHTTP.png",
-    "Notas De La Universidad/Ingeniería de Software II/Imagenes/explicaciónWebSockets.png",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo2FormaPolar.jpeg",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejemplo3FormaPolar.jpeg",
-    "Notas De La Universidad/Matemáticas Especiales/Imagenes/Ejercicio1.2FunciónLineal.png",
     "Untitled.canvas"
   ]
 }
