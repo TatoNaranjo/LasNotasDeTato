@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGraduationCapFill",
       "TiMedicineSyrup",
       "🥄",
       "🌅",
-      "RaEgg",
-      "🧑‍🍳"
+      "RaEgg"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -68,5 +68,6 @@
   "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
   "TatoCocina/Comidas/Desayunos": "🌅",
   "TatoCocina/Comidas": "🥄",
-  "TatoCocina/Salsas": "TiMedicineSyrup"
+  "TatoCocina/Salsas": "TiMedicineSyrup",
+  "Notas De La Universidad/Tesis de Grado": "RiGraduationCapFill"
 }
