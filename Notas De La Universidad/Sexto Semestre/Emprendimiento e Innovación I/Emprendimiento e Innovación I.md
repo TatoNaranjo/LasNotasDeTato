@@ -4,7 +4,7 @@ tags:
   - Apuntes
   - Estudio
 ---
-Parte de mis [[Notas De La Universidad]]
+Materia que conforma el [[Sexto Semestre]]
 
 # Profesor
 Luis Fernando Pava Rozo

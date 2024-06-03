@@ -4,11 +4,9 @@ tags:
   - Materias
   - Estudio
 ---
-Parte de mis [[Notas De La Universidad]]
-# Profesor: Oscar Gomez
+Materia que conforma el [[Sexto Semestre]]
 
-3138582047
-
+Profesor: Oscar Gomez.
 ## Generalidades
 ## Acuerdo de Formación y Aprendizaje
 

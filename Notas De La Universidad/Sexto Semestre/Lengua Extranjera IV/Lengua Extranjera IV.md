@@ -4,7 +4,7 @@ tags:
   - Apuntes
   - Materias
 ---
-Parte de mis [[Notas De La Universidad]].
+Materia que conforma el [[Sexto Semestre]]
 # Professor: Daniel Arturo Quecán Castellanos
 **Correo:** dquecan@ucundinamarca.edu.co
 

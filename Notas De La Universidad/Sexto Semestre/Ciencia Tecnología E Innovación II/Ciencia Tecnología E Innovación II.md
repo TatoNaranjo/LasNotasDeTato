@@ -1,7 +1,7 @@
 ---
 tags: MOCs
 ---
-Parte de mis [[Notas De La Universidad]]
+Materia que conforma el grupo de estudio para mi [[Sexto Semestre]] de la Universidad.
 
 La finalidad del CAI es para los que quieren tener un artículo como elegibilidad de proyecto de grado.
 # Dinámica

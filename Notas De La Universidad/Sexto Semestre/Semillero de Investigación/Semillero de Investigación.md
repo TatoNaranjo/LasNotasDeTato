@@ -1,7 +1,7 @@
 ---
 tags: MOCs
 ---
-Parte de mis [[Notas De La Universidad]]
+Materia que conforma el [[Sexto Semestre]]
 
 
 

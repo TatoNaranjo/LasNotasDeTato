@@ -4,7 +4,7 @@ tags:
   - Estudio
   - Materias
 ---
-Parte de mis [[Notas De La Universidad]].
+Materia que conforma el [[Sexto Semestre]]
 
 # Profesor
 Jairo William Santos Gachancipá
