@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93102e9946da8973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87a5a9667c80e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/IA Notebook/IA Notebook.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md"
+                "file": "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md"
               }
             }
           },
@@ -166,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,15 +176,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93102e9946da8973",
+  "active": "87a5a9667c80e31e",
   "lastOpenFiles": [
+    "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
+    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
+    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/IA Notebook/IA Notebook.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "PDFs y Documentos/Definición del Esqueleto para el Trabajo Final.pdf",
+    "README.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
@@ -204,33 +205,20 @@
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
-    "Notas De La Universidad/Sexto Semestre",
     "Curso de React/Curso de React.md",
     "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Programación Competitiva/Libros Útiles/Prealgebra (David Patrick) (Z-Library).pdf",
-    "Notas De La Universidad/Tesis de Grado",
     "Programación Competitiva/Libros Útiles/Libros Útiles.md",
     "Programación Competitiva/Programación Competitiva.md",
     "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
     "TatoCocina/Salsas/Salsa Holandesa.md",
     "TatoCocina/Comidas/Desayunos/Desayunos.md",
     "TatoCocina/Comidas/Comidas.md",
-    "TatoCocina/Salsas/Salsas.md",
-    "TatoCocina/TatoCocina.md",
-    "TatoCocina/Comidas/Desayunos",
-    "TatoCocina/Comidas",
-    "TatoCocina/Salsas",
-    "Programación Competitiva/Combinatoria/Combinatoria.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Pares e Impares.md",
-    "TatoCocina",
-    "PDFs y Documentos/Preguntas para Inglés - Criogenización.pdf",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/EjemploFunciónImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/FuncionesParesEjemplo 1.png",
-    "PDFs y Documentos/Entregable Puntos 7, 8 y 9.pdf",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Discontinuidad.png",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/graficaFourier.png",
     "Pasted image 20240415210309.png",
