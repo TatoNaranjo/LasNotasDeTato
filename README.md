@@ -53,7 +53,7 @@ Puedes descargar Obsidian por medio del siguiente link:
    - Ya puedes empezar a explorar y leer las notas.
 
 ## Notas adicionales :construction:
-- Las notas de quinto semestre están en formato PDF y se pueden abrir con cualquier lector de PDF.
+- Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian.
 - Asegúrate de tener una conexión a internet para que los plugins se instalen correctamente la primera vez que abras el vault.
 
 
