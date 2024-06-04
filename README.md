@@ -55,7 +55,7 @@ Puedes descargar Obsidian por medio del siguiente link:
 ## Notas adicionales :construction:
 - Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian.
 - Asegúrate de tener una conexión a internet para que los plugins se instalen correctamente la primera vez que abras el vault.
-- Hasta la actualidad, hago cambios en mi notebook a diario (Añadiendo nuevos plugins o notas), así que asegurate de traer los cambios de vez en cuando para ver más contenido.
+- En la actualidad (2024), hago cambios en mi notebook a diario (Añadiendo nuevos plugins o notas), así que asegurate de traer los cambios de vez en cuando para ver más contenido.
 
 
 ## Licencia :door:
