@@ -1,3 +1,4 @@
+
 Base inicial de mi [[Tesis de Grado]] que formula un nuevo estudio para los trastornos mentales en psicología.
 
 ### Medicina de Precisión
@@ -37,7 +38,9 @@ El principal motivo que llevó a la creación del RDC fue la confiabilidad del d
 
 El hecho de que este manual contenga una gran cantidad de criterios libres de teoría, escritos en un lenguaje sencillo de entender y sea manejado por medio de una serie de reglas explícitas para asignar diagnósticos, hacen que el DSM-III cumpla su objetivo al proveer resultados positivos y satisfactorios al momento de generar acuerdos para un diagnóstico. El resultado de crear el DSM-III marcó un precedente en la era moderna de la investigación psiquiátrica, conduciendo a la redacción de literatura extensa sobre la psicopatología, epidemiología y los ensayos clínicos; también fomentó diversas extensiones de diagnósticos psiquiátricos dentro del sistema legal, reembolsos del seguro y las evaluaciones de discapacidad.
 
-El RDoC llega como la segunda iteración de un sistema de clasificación experimental. En este punto, todas las investigaciones fueron llevadas hacia la validez del sistema de diagnósticos. Las décadas posteriores a la publicación del DSM-III han demostrado significativamente que las categorías dentro de un diagnóstico no representan una entidad patológica coherente, sino, más bien, síndromes amplios. Si bien, los diagnósticos pueden ser establecidos de una forma confiable en la mayoría de los casos, no están exentos a presentar problemas tales como una heterogeneidad excesiva, comordibilidad (Es decir, la presencia de dos o más enfermedades al tiempo en una persona) y sobreespecificación. Estas dificultades operativas y conceptuales obstaculizan los intentos de entender la fisiopatología de los desordenes mentales y de desarrollar nuevos tratamientos.
+El RDoC llega como la segunda iteración de un sistema de clasificación experimental. En este punto, todas las investigaciones fueron llevadas hacia la validez del sistema de diagnósticos. Las décadas posteriores a la publicación del DSM-III han demostrado significativamente que las categorías dentro de un diagnóstico no representan una entidad patológica coherente, sino, más bien, síndromes amplios. Si bien, los diagnósticos pueden ser establecidos de una forma confiable en la mayoría de los casos, no están exentos a presentar problemas tales como una heterogeneidad excesiva, comordibilidad (Es decir, la presencia de dos o más enfermedades al tiempo en una persona) y sobreespecificación. Estas dificultades operativas y conceptuales obstaculizan los intentos de entender la fisiopatología de los desordenes mentales y de desarrollar nuevos tratamientos, y parecen ser una gran parte del motivo por el que las compañías farmacéuticas se han alejado del desarrollo de fármacos psiquiátricos.
+
+
 
 
 ## Fuentes y Recursos
