@@ -11,8 +11,9 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "omnisearch",
-  "obsidian-dictionary-plugin",
   "obsidian-reading-time",
   "obsidian-excalidraw-plugin",
-  "obsidian-projects"
+  "obsidian-projects",
+  "vim-yank-highlight",
+  "obsidian-wordnet-plugin"
 ]

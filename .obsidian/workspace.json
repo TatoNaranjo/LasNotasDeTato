@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9dca14a2002e8b94",
+        "id": "f63036fa344f1a74",
         "type": "tabs",
         "children": [
           {
-            "id": "87a5a9667c80e31e",
+            "id": "f4c9597739432dda",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf"
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -171,20 +169,28 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "87a5a9667c80e31e",
+  "active": "f0e7ecc4a2e7b438",
   "lastOpenFiles": [
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
-    "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
-    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
-    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
+    "Astro/Qué es Astro.md",
+    "Astro/Dudas Sobre Astro.md",
+    "Astro/Astro Sitemaps.md",
+    "Astro/Astro.md",
+    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
+    "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
+    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
@@ -195,22 +201,15 @@
     "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Curso de React/Curso de React.md",
     "Curso de Oracle One/Curso de Oracle One.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Programación Competitiva/Libros Útiles/Libros Útiles.md",
     "Programación Competitiva/Programación Competitiva.md",
-    "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
-    "TatoCocina/Salsas/Salsa Holandesa.md",
-    "TatoCocina/Comidas/Desayunos/Desayunos.md",
-    "TatoCocina/Comidas/Comidas.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
