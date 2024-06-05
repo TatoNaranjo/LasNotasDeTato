@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiFlagQuestion",
+      "FiHelpCircle",
       "RaGem",
       "RiGraduationCapFill",
-      "TiMedicineSyrup",
-      "🥄",
-      "🌅"
+      "TiMedicineSyrup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,7 @@
   "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md": "RiPenNibFill",
   "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Recursos para el primer artículo.md": "👓",
   "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II": "TiBulb",
-  "Obsidian": "RaGem"
+  "Basics Of Obsidian": "RaGem",
+  "Basics Of Obsidian/¿Qué es Obsidian?.md": "FiHelpCircle",
+  "Basics Of Obsidian/Basics Of Obsidian.md": "TiFlagQuestion"
 }

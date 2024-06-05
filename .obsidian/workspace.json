@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+                "file": "Basics Of Obsidian/¿Qué es Obsidian?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98cb69986b762726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics Of Obsidian/¿Qué es Obsidian?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+                "file": "Basics Of Obsidian/¿Qué es Obsidian?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+                "file": "Basics Of Obsidian/¿Qué es Obsidian?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md"
+                "file": "Basics Of Obsidian/¿Qué es Obsidian?.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,18 +190,27 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "f4c9597739432dda",
+  "active": "98cb69986b762726",
   "lastOpenFiles": [
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
+    "Programación Competitiva/Programación Dinámica/Recursión.md",
+    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Programación Competitiva/Libros Útiles/Libros Útiles.md",
+    "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
+    "Programación Competitiva/Programación Competitiva.md",
+    "Basics Of Obsidian/¿Qué es Obsidian?.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "README.md",
+    "Dashboard.md",
+    "Nombre de la Nota.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Podcast Script.md",
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
-    "Obsidian/Obsidian.md",
-    "Dashboard.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Obsidian",
+    "Basics Of Obsidian",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
@@ -204,17 +226,8 @@
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/IA Notebook/IA Notebook.md",
-    "README.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
     "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Curso de React/Curso de React.md",
-    "Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
