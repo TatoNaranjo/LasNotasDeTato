@@ -5,6 +5,8 @@
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 
 ## Tabla de Contenidos :page_with_curl:
 - [Mi Espacio de Trabajo](#mi-espacio-de-trabajo)
@@ -53,7 +55,7 @@ Puedes descargar Obsidian por medio del siguiente link:
    - Ya puedes empezar a explorar y leer las notas.
 
 ## Notas adicionales :construction:
-- Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian.
+- Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian, las demás notas se encuentran en formato Markdown.
 - Asegúrate de tener una conexión a internet para que los plugins se instalen correctamente la primera vez que abras el vault.
 - En la actualidad (2024), hago cambios en mi notebook a diario (Añadiendo nuevos plugins o notas), así que asegurate de traer los cambios de vez en cuando para ver más contenido.
 
