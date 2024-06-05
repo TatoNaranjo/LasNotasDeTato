@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiReactjsFill",
       "RiPencilLine",
       "🧑‍🎓",
       "RaMeatHook",
-      "TiFlagQuestion",
-      "FiHelpCircle"
+      "TiFlagQuestion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "Estudio Independiente/Curso de Oracle One/GitHub": "TiBrandGithubFilled",
   "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
   "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour",
-  "Estudio Independiente": "RiPencilLine"
+  "Estudio Independiente": "RiPencilLine",
+  "Estudio Independiente/Curso de React": "RiReactjsFill"
 }
