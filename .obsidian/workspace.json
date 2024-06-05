@@ -11,8 +11,12 @@
             "id": "848bbc8b087ee295",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0086555480957
+    "width": 377.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md"
+              }
             }
           },
           {
@@ -154,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -178,17 +187,24 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "848bbc8b087ee295",
   "lastOpenFiles": [
+    "Estudio Independiente/JSON Web Token/Imágenes/Imágenes.md",
+    "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+    "Estudio Independiente/JSON Web Token/Imágenes",
+    "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
+    "Estudio Independiente/JSON Web Token",
+    "Estudio Independiente/Curso de React/Curso de React.md",
     "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "TatoCocina/TatoCocina.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Curso de React/Curso de React.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
     "Estudio Independiente/Astro/Astro.md",
     "Basics Of Obsidian/¿Qué es Obsidian?.md",
@@ -206,17 +222,11 @@
     "Excalidraw",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Estudio Independiente/Programación Competitiva/Libros Útiles/Libros Útiles.md",
-    "Estudio Independiente/Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
-    "README.md",
-    "Nombre de la Nota.md",
     "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
     "Basics Of Obsidian",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
-    "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
-    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
@@ -225,7 +235,6 @@
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Discontinuidad.png",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/graficaFourier.png",
     "Pasted image 20240415210309.png",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Explicacion Fourier.png",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Imagenes/Modelo-Canvas.webp"
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Explicacion Fourier.png"
   ]
 }
