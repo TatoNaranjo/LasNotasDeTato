@@ -32,15 +32,7 @@
     "iconsInLinksEnabled": true,
     "debugMode": false
   },
-  "Programación Competitiva": "RiBarChartFill",
-  "Astro": "RiRocketFill",
-  "Programación Competitiva/Repasos con Juan": "RiFlag2Line",
-  "Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
-  "Curso de Oracle One": "RiCouponFill",
   "Notas De La Universidad": "RiSingleQuotesL",
-  "Curso de Oracle One/GitHub": "TiBrandGithubFilled",
-  "Curso de Oracle One/Desarrollo Personal": "RiMentalHealthLine",
-  "Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour",
   "PDFs y Documentos": "TiPdf",
   "TatoCocina": "🧑‍🍳",
   "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
@@ -72,5 +64,13 @@
   "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II": "TiBulb",
   "Basics Of Obsidian": "RaGem",
   "Basics Of Obsidian/¿Qué es Obsidian?.md": "FiHelpCircle",
-  "Basics Of Obsidian/Basics Of Obsidian.md": "TiFlagQuestion"
+  "Basics Of Obsidian/Basics Of Obsidian.md": "TiFlagQuestion",
+  "Estudio Independiente/Astro": "RiRocketFill",
+  "Estudio Independiente/Programación Competitiva": "RiBarChartFill",
+  "Estudio Independiente/Programación Competitiva/Repasos con Juan": "RiFlag2Line",
+  "Estudio Independiente/Curso de Oracle One": "RiCouponFill",
+  "Estudio Independiente/Curso de Oracle One/Desarrollo Personal": "RiMentalHealthLine",
+  "Estudio Independiente/Curso de Oracle One/GitHub": "TiBrandGithubFilled",
+  "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
+  "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour"
 }

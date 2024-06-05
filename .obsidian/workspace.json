@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "308e09f118b54c70",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -186,15 +191,23 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8e2d917e85bd2c0b",
+  "active": "308e09f118b54c70",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "TatoCocina/TatoCocina.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Curso de React/Curso de React.md",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
+    "Estudio Independiente/Astro/Astro.md",
+    "Basics Of Obsidian/¿Qué es Obsidian?.md",
+    "Estudio Independiente",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
     "TatoCocina/Comidas/Desayunos/Desayunos.md",
     "TatoCocina/Comidas/Comidas.md",
-    "TatoCocina/TatoCocina.md",
-    "Programación Competitiva/Programación Competitiva.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Curso de React/Curso de React.md",
     "Dashboard.md",
     "Untitled.canvas",
     "2024-06-04.md",
@@ -202,29 +215,21 @@
     "Excalidraw/Drawing 2024-06-04 21.43.44.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Basics Of Obsidian/¿Qué es Obsidian?.md",
-    "Programación Competitiva/Programación Dinámica/Recursión.md",
-    "Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Programación Competitiva/Libros Útiles/Libros Útiles.md",
-    "Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
-    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/Libros Útiles.md",
+    "Estudio Independiente/Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
     "README.md",
     "Nombre de la Nota.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Podcast Script.md",
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Basics Of Obsidian",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
     "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",

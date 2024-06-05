@@ -8,23 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:\"Estudio Independiente\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13329640
+      }
+    },
+    {
+      "query": "path:\"Notas De La Universidad\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.01767212102501,
+  "lineSizeMultiplier": 1.98587218277246,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 7.83783783783784,
+  "centerStrength": 0.155665328805187,
+  "repelStrength": 11.5702377276937,
   "linkStrength": 1,
-  "linkDistance": 183,
-  "scale": 0.024219230930603443,
+  "linkDistance": 194,
+  "scale": 0.061098677701474945,
   "close": true
 }
