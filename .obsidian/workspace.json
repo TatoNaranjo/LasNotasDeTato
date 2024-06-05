@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md"
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,28 +177,32 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "bced553c8d178d7b",
+  "active": "f4c9597739432dda",
   "lastOpenFiles": [
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
+    "Obsidian/Obsidian.md",
+    "Dashboard.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Obsidian",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
     "Astro/Qué es Astro.md",
     "Astro/Dudas Sobre Astro.md",
     "Astro/Astro Sitemaps.md",
     "Astro/Astro.md",
-    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
     "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
-    "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/IA Notebook/IA Notebook.md",
     "README.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
@@ -209,11 +213,8 @@
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Curso de React/Curso de React.md",
     "Curso de Oracle One/Curso de Oracle One.md",
-    "Programación Competitiva/Libros Útiles/Libros Útiles.md",
-    "Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
