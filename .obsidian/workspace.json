@@ -11,16 +11,12 @@
             "id": "950f3e04009f9cd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7658f9fd287ef1e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/JSON Web Token/Qué es JWT.md"
+              }
             }
           },
           {
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +178,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "950f3e04009f9cd2",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
+    "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
     "Basics Of Obsidian/Basics Of Obsidian.md",
@@ -202,10 +207,6 @@
     "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Qué necesito para empezar un negocio.md",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/LinkedIn/LinkedIn.md",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Hábitos/Hábitos.md",
-    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
@@ -225,7 +226,6 @@
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/EjemploFunciónImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/FuncionesParesEjemplo 1.png",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Discontinuidad.png",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/graficaFourier.png",
-    "Pasted image 20240415210309.png"
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/graficaFourier.png"
   ]
 }

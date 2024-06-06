@@ -82,3 +82,53 @@ A continuación se muestra un JWT que tiene el header previo y el payload encrip
 
 
 ![[EjemploJWT.png]]
+
+## Cómo funcionan los JSON Web Tokens?
+
+En la autenticación, cunado el usuario se registra correctamente usando sus credenciales, se retornará un JSON Web Token. Como los tokens son credenciales, hay que tener mucho cuidado para prevenir errores de seguridad. En general, no hay que mantener funcionando un token por más tiempo del requerido.
+
+También, [No deberías almacenar información o datos sensibles en el almacenamiento del navegador debido a fallos de seguridad](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage).
+
+Siempre que el usuario quiera ingresar a una ruta o fuente protegida, el agente usuario debe de enviar el JWT, de manera típica en el header de ***autorización*** usando el esquema ***Bearer***. El contenido del header se debería ver así:
+
+```
+Authorization: Bearer <token>
+```
+
+Esto puede ser en ciertos casos, un mecanismo de autorización sin estados. Las rutas protegidas del servidor buscarán un JWT valido en `Authorization`, y si está presente, el usuario podrá acceder a las fuentes protegidas. Si el JWT contiene los datos necesarios, podremos reducir la cantidad de queries que hacemos en la base de datos para realizar ciertas operaciones, aunque ese no siempre será el caso.
+
+Date cuenta de que si envías JWT tokens a través de los headers HTTP, debes procurar que no se agranden demasiado. Algunos servidores no aceptan más de 8 KB en sus headers. SI estás intentando juntar demasiada información en un token JWT, como por ejemplo, incluyendo permisos de un usuario, quizás necesites una solución alternativa como una [Autorización detallada de tipo Auth0](https://auth0.com/fine-grained-authorization).
+
+Si el token es enviado en el header `Authorization`, el intercambio de recursos entre orígenes (CORS) no será un problema porque no usa cookies.
+
+El siguiente diagrama nos muestra como se obtiene un JWT y se usa para acceder a APIs o recursos:
+
+![[JWT Workflow Diagram.png]]
+
+1. La aplicación o el cliente pide la autorización al servidor de autorización. Esto se hace a través de uno de los diferentes flujos de autorización. Por ejemplo una aplicación típica compatible con [OpenID Connect](http://openid.net/connect/) irá a través del endpoint `/oauth/authorize` usando el [Flujo de Autorización Por código](https://openid.net/specs/openid-connect-core-1_0.html#CodeFlowAuth).
+2. Cuando la autorización es concedida, el servidor de autorización devuelve un token de acceso para la aplicación.
+3. La aplicación usa el token de acceso para acceder a un recurso protegido (como por ejemplo, una API).
+
+Observa que para los tokens firmados, toda la información contenida en el token está expuesta a usuarios u otros medios, incluso cuando estos no pueden cambiarla. Esto significa que no debes poner información secreta en el token.
+
+## Por qué deberíamos usar los JSON Web Tokens?
+
+Ahora hablemos sobre los beneficios de los **JSON Web Tokens (JWT)** cuando son comparados con los **Simple Web Tokens (SWT)** y Los tokens de lenguaje marcados de afirmación de seguridad (**SAML**).
+
+Como un JSON es menos detallado que un XML, cuando se codifica, su tamaño también se vuelve más pequeño, haciendo un JWT más compacto que un SAML. Esto hace de JWT una buena elección para pasarse mediante ambientes de tipo HTML y HTTP.
+
+En términos de seguridad, los SWT solo pueden ser firmados de manera simétrica por un secreto compartido usando el algoritmo HMAC. Sin embargo los tokens JWT y SAML pueden usar una llave par de tipo pública o privada de la forma de un certificado X.509 por firmar. Firmar XML con una firma digital XML sin agregar oscuros agujeros de seguridad suele ser más difícil si la comparamos con la simplicidad de firmar un JSON.
+
+Los analizadores de tipo JSON son comunes en la mayoría de lenguajes de programación porque se asignan de manera directa a los objetos. De forma contraria, un XML no tiene una asignación tipo documento-objeto de forma natural. Esto hace que sea más fácil trabajar con JWT en vez de con afirmaciones de tipo SAML.
+
+En cuanto al uso, JWT es usado a escala de tipo internet. Esto resalta la facilidad desde el lado del cliente para procesar el JSON Web token desde diferentes plataformas y dispositivos, especialmente el móvil.
+
+![[SAMLVsJWT.png]]
+
+> Comparación de un JWT codificado y un SAML codificado.
+
+Si quieres leer más sobre los JSON Web Tokens e incluso empezar a utilizarlos para mejorar la autenticación dentro de tus propias aplicaciones, busca la [Landing Page de JSON Web Token](https://auth0.com/learn/json-web-tokens) de Auth0 hechos por Okta.
+## Recursos de Utilidad
+
+- [JWT Introduction](https://jwt.io/introduction)
+- 
