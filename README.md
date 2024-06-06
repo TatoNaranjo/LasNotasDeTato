@@ -53,6 +53,7 @@ Puedes descargar Obsidian por medio del siguiente link:
 4. **Disfruta de LasNotasDeTato**
    - Todos los plugins necesarios se instalarán automáticamente.
    - Ya puedes empezar a explorar y leer las notas.
+   - Si deseas buscar un contenido en concreto basta con pulsar `CTRL` + `SHIFT` + `P` y escribir lo que buscas. La búsqueda se realizará a nivel de título y de contenido dentro de los documentos.
 
 ## Notas adicionales :construction:
 - Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian, las demás notas se encuentran en formato Markdown.
