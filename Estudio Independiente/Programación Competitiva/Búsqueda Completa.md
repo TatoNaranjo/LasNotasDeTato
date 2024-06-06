@@ -1,5 +1,7 @@
 Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera idea que tenemos para resolver problemas.
 
+>***Nota de Tato:*** Es como usar un enfoque de Programación Dinámica pero sin optimizar, así que puedes verlo como que... si el ejercicio te da el tiempo suficiente solo tienes que intentar hacer todas las combinaciones posibles y agarrar la mejor solución sobre la marcha.
+
 La Búsqueda compleja es un método general utilizado para resolver casi cualquier problema de algoritmos. La idea es generar todas las soluciones posibles a un problema usando fuerza bruta, y luego agarrar la mejor solución o contar el numero de soluciones, dependiendo del problema. 
 
 Búsqueda completa es una buena técnica si se tiene el tiempo suficiente de ir a través de todas las soluciones, porque la búsqueda normalmente es fácil de implementar y siempre da la respuesta correcta. Si la búsqueda completa es muy lenta, otras técnicas como los algoritmos greedy o la programación dinámica pueden ser necesarios.
@@ -27,3 +29,8 @@ Cuando la función `search` se llama con un parámetro $k$, este decide si inclu
 El siguiente árbol ilustra los llamados de la función cuando $n = 3$. Siempre podremos escoger entre la rama izquierda (en donde $k$ no se incluye en el subset) o la rama derecha (en donde $k$ se incluye dentro del subset).
 
 ![[subsetTreeExample.png.png]]
+
+## Recursos Útiles y Ejercicios
+
+- [USACO Basic Complete Search Course](https://usaco.guide/bronze/intro-complete)
+- [Competitive Programmer's Handbook - Chapter 5](https://usaco.guide/CPH.pdf)
