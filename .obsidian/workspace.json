@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TatoCocina/TatoCocina.md",
+                "file": "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TatoCocina/TatoCocina.md",
+                "file": "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TatoCocina/TatoCocina.md",
+                "file": "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TatoCocina/TatoCocina.md"
+                "file": "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md"
               }
             }
           },
@@ -186,34 +186,34 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bced553c8d178d7b",
+  "active": "3bea8280292f404e",
   "lastOpenFiles": [
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/IA Notebook/IA Notebook.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Transición de Carrera.md",
+    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
+    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
+    "Estudio Independiente/Curso de React/Curso de React.md",
+    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
+    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Necesito memorizar cada línea de código o comando.md",
+    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
+    "Estudio Independiente/Curso de Oracle One/GitHub/GitHub.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Fundamentos de Agile.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Demanda del Mercado.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/De la idea al Plan de Negocios.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Qué necesito para empezar un negocio.md",
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
+    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
+    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/LinkedIn/LinkedIn.md",
+    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Hábitos/Hábitos.md",
+    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Foco/Foco.md",
+    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Sources/Sources.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Imagenes/Imagenes.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Go.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Introducción a Scrum.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Introducción a Scrum/Como usar el SBOK.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Lecturas/Lecturas.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Imagenes/Imagenes.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Exposiciones/Exposiciones.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Conceptos básicos de la transmisión de datos de datos.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Qué es la Comunicación de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
