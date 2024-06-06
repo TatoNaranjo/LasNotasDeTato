@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md"
+                "file": "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Optional Chaining Y Nullish Coalescing.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "3bea8280292f404e",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Cual es mi ventaja competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -198,7 +200,6 @@
     "TatoCocina/Comidas/Comidas.md",
     "TatoCocina/TatoCocina.md",
     "TatoCocina/Comidas/Desayunos/Desayunos.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
@@ -224,7 +225,6 @@
     "Estudio Independiente/JSON Web Token",
     "Estudio Independiente/Curso de React/Curso de React.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente",
     "Untitled.canvas",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
