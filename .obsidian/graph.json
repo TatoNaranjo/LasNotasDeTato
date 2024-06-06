@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Estudio Independiente/Programación Competitiva\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7510563
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 11.5702377276937,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.061098677701474945,
+  "scale": 0.0831742638417223,
   "close": true
 }

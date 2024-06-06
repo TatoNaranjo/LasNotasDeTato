@@ -1,0 +1,29 @@
+Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera idea que tenemos para resolver problemas.
+
+La Búsqueda compleja es un método general utilizado para resolver casi cualquier problema de algoritmos. La idea es generar todas las soluciones posibles a un problema usando fuerza bruta, y luego agarrar la mejor solución o contar el numero de soluciones, dependiendo del problema. 
+
+Búsqueda completa es una buena técnica si se tiene el tiempo suficiente de ir a través de todas las soluciones, porque la búsqueda normalmente es fácil de implementar y siempre da la respuesta correcta. Si la búsqueda completa es muy lenta, otras técnicas como los algoritmos greedy o la programación dinámica pueden ser necesarios.
+
+## Generando Subsets
+Una forma elegante de ir a través de todos los subsets de un set es usar la recursión. La siguiente función `search` genera todos los subsets del set {$0,1,...,n-1$}. La función mantiene un vector `subset` que va a contener los elementos de cada subset. La búsqueda inicia cuando la función se llama con el parámetro 0.
+
+
+```cpp
+void search (int k){
+	if (k==n){
+	// Procesa el Subset
+	} else {
+	search(k+1);
+	subset.push_back(k);
+	search(k+1);
+	subset.pop_back();
+	}
+
+}
+```
+
+Cuando la función `search` se llama con un parámetro $k$, este decide si incluir el elemento $k$ dentro del subset o no, y en ambos casos, luego se llama a si mismo con el parámetro $k+1$. De igual forma si $k = n$, la función nota que todos los elementos han sido procesados y un nuevo subset ha sido generado.
+
+El siguiente árbol ilustra los llamados de la función cuando $n = 3$. Siempre podremos escoger entre la rama izquierda (en donde $k$ no se incluye en el subset) o la rama derecha (en donde $k$ se incluye dentro del subset).
+
+![[subsetTreeExample.png.png]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba5779d2748232b",
+        "id": "227a4db3773a677e",
         "type": "tabs",
         "children": [
           {
-            "id": "848bbc8b087ee295",
+            "id": "3bea8280292f404e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0086555480957,
-    "collapsed": true
+    "width": 377.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/JSON Web Token/Qué es JWT?.md"
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,46 +186,47 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "848bbc8b087ee295",
+  "active": "3bea8280292f404e",
   "lastOpenFiles": [
-    "Estudio Independiente/JSON Web Token/Imágenes/Imágenes.md",
-    "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
-    "Estudio Independiente/JSON Web Token/Imágenes",
-    "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
-    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
-    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
-    "Estudio Independiente/JSON Web Token",
-    "Estudio Independiente/Curso de React/Curso de React.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "PDFs y Documentos/PDFs y Documentos.md",
+    "TatoCocina/Salsas/Salsas.md",
+    "TatoCocina/Salsas/Salsa Holandesa.md",
+    "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
+    "TatoCocina/Comidas/Comidas.md",
+    "TatoCocina/TatoCocina.md",
+    "TatoCocina/Comidas/Desayunos/Desayunos.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/JSON Web Token/Qué es JWT?.md",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/Libros Útiles.md",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/1. Introduccion en C++ a la Programacion Competitiva (1).pdf",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
+    "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programming in Python 128 Algorithms to Develop your Coding Skills (Christoph Dürr, Jill-Jênn Vie) (Z-Library).pdf",
+    "Estudio Independiente/Programación Competitiva/Imágenes/Imágenes.md",
+    "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
+    "Estudio Independiente/Programación Competitiva/Imágenes",
+    "Dashboard.md",
+    "Nombre de la Nota.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/Programación Competitiva/Competitive Programmer Roadmap.md",
+    "Estudio Independiente/Programación Competitiva/Algebra.md",
+    "Estudio Independiente/JSON Web Token/Imágenes/Imágenes.md",
+    "Estudio Independiente/JSON Web Token/Imágenes",
+    "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
+    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
+    "Estudio Independiente/JSON Web Token",
+    "Estudio Independiente/Curso de React/Curso de React.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
-    "TatoCocina/TatoCocina.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Estudio Independiente/Astro/Astro.md",
-    "Basics Of Obsidian/¿Qué es Obsidian?.md",
     "Estudio Independiente",
-    "Basics Of Obsidian/Basics Of Obsidian.md",
-    "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
-    "TatoCocina/Comidas/Desayunos/Desayunos.md",
-    "TatoCocina/Comidas/Comidas.md",
-    "Dashboard.md",
     "Untitled.canvas",
-    "2024-06-04.md",
-    "Recording 20240604214357.webm",
-    "Excalidraw/Drawing 2024-06-04 21.43.44.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
-    "Excalidraw",
-    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
-    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
-    "Basics Of Obsidian",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Recorrido de Grafos.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Introducción a Grafos.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Algoritmo Z.pdf",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpar1.png",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/ExplicacionFucnionImpar.png",
@@ -234,7 +234,6 @@
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/FuncionesParesEjemplo 1.png",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Discontinuidad.png",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/graficaFourier.png",
-    "Pasted image 20240415210309.png",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Imagenes/Explicacion Fourier.png"
+    "Pasted image 20240415210309.png"
   ]
 }
