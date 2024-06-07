@@ -73,6 +73,8 @@ Un protocolo de red es similar a un protocolo humano, excepto porque las entidad
 
 >***Un protocolo define el formato y el orden de los mensajes intercambiados entre dos o más entidades que se comunican, así como las acciones tomadas al producirse la transmisión y/o recepción de un mensaje u otro suceso.***
 
+>***Nota de Tato***
+>Para aprender más sobre como funciona un protocolo de comunicación entre nuestra computadora y un servidor en la internet, recomiendo explorar mis apuntes de estudio independiente sobre el curso de [[HTTP, La base del Internet]].
 
 ### Tablas de envío y protocolos de enrutamiento
 

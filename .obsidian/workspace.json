@@ -8,19 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddfbb98dfb8be73b",
+            "id": "ade8f4cd57ba2597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe64b6ed966f6719",
+            "id": "a1ef1a45dfde0434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Sexto Semestre/Networking/Qué es el Internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62e9952e553ef867",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -184,14 +195,30 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "fe64b6ed966f6719",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Qué es el Internet.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Cisco Packet Tracer.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTPS y La Web Segura.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Los fundamentos de HTTP.md",
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Excalidraw/Drawing 2024-06-06 21.21.18.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Estudio Independiente/JSON Web Token/Qué es JWT.md",
     "Excalidraw/Drawing 2024-06-06 16.25.25.excalidraw.md",
@@ -199,24 +226,9 @@
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
-    "Notas De La Universidad/Quinto Semestre/Bases De Datos/Bases De Datos.md",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
-    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
-    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
-    "Basics Of Obsidian/Basics Of Obsidian.md",
-    "Basics Of Obsidian/Qué es Obsidian.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera/Transición de Carrera.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Fundamentos de Agile.md",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
@@ -224,7 +236,6 @@
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programming in Python 128 Algorithms to Develop your Coding Skills (Christoph Dürr, Jill-Jênn Vie) (Z-Library).pdf",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
-    "Estudio Independiente/Programación Competitiva/Imágenes",
     "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
     "Untitled.canvas",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png",
