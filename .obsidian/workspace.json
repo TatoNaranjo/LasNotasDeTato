@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bd2f3aa1f3497f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf"
-              }
-            }
-          },
-          {
-            "id": "bbe89df8e789ba0c",
+            "id": "ddfbb98dfb8be73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fe64b6ed966f6719",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,29 +184,31 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bbe89df8e789ba0c",
+  "active": "fe64b6ed966f6719",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-06 16.25.25.excalidraw.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Excalidraw/Drawing 2024-06-06 21.21.18.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
+    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
+    "Excalidraw/Drawing 2024-06-06 16.25.25.excalidraw.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Qué es una REST API.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos/Bases De Datos.md",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
     "Basics Of Obsidian/Basics Of Obsidian.md",
     "Basics Of Obsidian/Qué es Obsidian.md",
@@ -220,8 +217,6 @@
     "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera/Ser protagonista de tu carrera.md",
     "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Posición Deseada/Posición Deseada.md",
     "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Fundamentos de Agile/Fundamentos de Agile.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/Demanda del Mercado/Demanda del Mercado.md",
-    "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/De la idea al Plan de Negocios.md",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",

@@ -4,11 +4,11 @@ Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera i
 
 >***Preguntas que me hago:***
 >¿Como hago para generar todas las combinaciones?
->¿Me estoy saltando algún caso?
+>¿Me estoy saltando algún caso/combinación?
 
 La Búsqueda compleja es un método general utilizado para resolver casi cualquier problema de algoritmos. La idea es generar todas las soluciones posibles a un problema usando fuerza bruta, y luego agarrar la mejor solución o contar el numero de soluciones, dependiendo del problema. 
 
-Búsqueda completa es una buena técnica si se tiene el tiempo suficiente de ir a través de todas las soluciones, porque la búsqueda normalmente es fácil de implementar y siempre da la respuesta correcta. Si la búsqueda completa es muy lenta, otras técnicas como los algoritmos greedy o la programación dinámica pueden ser necesarios.
+Búsqueda completa es una buena técnica si se tiene el tiempo suficiente de ir a través de todas las soluciones, porque la búsqueda normalmente es fácil de implementar y siempre da la respuesta correcta. Si la búsqueda completa es muy lenta, otras técnicas como los algoritmos greedy o la [[Programación Dinámica]] pueden ser necesarios.
 
 ## Generando Subsets
 Una forma elegante de ir a través de todos los subsets de un set es usar la recursión. La siguiente función `search` genera todos los subsets del set {$0,1,...,n-1$}. La función mantiene un vector `subset` que va a contener los elementos de cada subset. La búsqueda inicia cuando la función se llama con el parámetro 0.
