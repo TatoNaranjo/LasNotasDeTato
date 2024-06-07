@@ -2,9 +2,13 @@ Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera i
 
 >***Nota de Tato:*** Es como usar un enfoque de Programación Dinámica pero sin optimizar, así que puedes verlo como que... si el ejercicio te da el tiempo suficiente solo tienes que intentar hacer todas las combinaciones posibles y agarrar la mejor solución sobre la marcha.
 
->***Preguntas que me hago:***
->¿Como hago para generar todas las combinaciones?
->¿Me estoy saltando algún caso/combinación?
+## Preguntas Que Me Hago
+
+- ¿Como hago para generar todas las combinaciones?
+- Me estoy saltando algún caso/combinación?
+- En caso de que esté guardando las combinaciones dentro de un arreglo, ¿Las combinaciones están quedando como yo quiero, o como las anoté en el papel?
+
+## Definición General
 
 La Búsqueda compleja es un método general utilizado para resolver casi cualquier problema de algoritmos. La idea es generar todas las soluciones posibles a un problema usando fuerza bruta, y luego agarrar la mejor solución o contar el numero de soluciones, dependiendo del problema. 
 
