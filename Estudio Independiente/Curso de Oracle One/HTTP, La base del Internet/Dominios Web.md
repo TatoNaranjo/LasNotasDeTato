@@ -16,3 +16,9 @@ Los computadores no tienen en cuenta cuál es el nombre del dominio web debido a
 Si escribimos una dirección IP válida en nuestro navegador vamos a lograr acceder a una página web, y esto se logra mediante un DNS (o Domain Name Service), el cual es el que recibe la petición del cliente y verifica la dirección IP que tiene asignado el dominio que acabamos de escribir. 
 
 Hay que tener en cuenta que estas direcciones IP pueden cambiar, pero en este caso, lo único que le interesa a un DNS para funcionar es saber cual es el nombre del dominio.
+
+## URI O URL?
+
+Muchas veces los desarrolladores utilizan las siglas URI (Uniform Resource Identifier) para hacer referencia a las direcciones web. Algunos otros prefieren las siglas URL (Uniform Resource Locator), y algunos otros hacen una mezcla de ambas definiciones. Hay una confusión en el mercado al respecto que inclusive desarrolladores con más experiencia aún no saben responder y es cómo explicar la diferencia. ¿Cuál es la correcta?
+
+De forma generalizada, podemos decir que una ***URI*** y una ***URL*** en el contexto del desarrollo web son prácticamente lo mismo, podemos utilizarlas para hacer referencia sobre las direcciones web. Sin embargo, si nos queremos ir más hacia los detalles, podemos decir que una URL es una URI, sin embargo no todas las URIs son URLs. Existen URIs que identifican un recurso sin tener que definir la dirección o algún protocolo, en otras palabras, *una URL representa una identificación* de un recurso (***URI***) a través de una dirección, mas no todas las identificaciones son URLs.
