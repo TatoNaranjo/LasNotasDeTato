@@ -9,6 +9,6 @@ El curso se divide en los siguientes compendios:
 - [[HTTPS y La Web Segura]]
 - [[Dominios Web]]
 - [[Cliente-Servidor]]
-- Parámetros de las Peticiones
+- [[Peticiones HTTP]]
 - Servicios REST
 - Versión 2

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md",
+                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,6 +29,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b11621eb0a384833",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md",
+                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md",
+                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md"
+                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md"
               }
             }
           },
@@ -171,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +202,10 @@
   },
   "active": "124b187b9a767bcf",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Los fundamentos de HTTP.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
@@ -221,7 +231,6 @@
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
-    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
