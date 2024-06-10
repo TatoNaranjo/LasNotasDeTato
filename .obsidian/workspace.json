@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "227a4db3773a677e",
+        "id": "9f1083bd2bec8537",
         "type": "tabs",
         "children": [
           {
-            "id": "ade8f4cd57ba2597",
+            "id": "d0e94567199c0ece",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
-            }
-          },
-          {
-            "id": "a1ef1a45dfde0434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Networking/Qué es el Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e9952e553ef867",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -195,8 +174,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "d0e94567199c0ece",
   "lastOpenFiles": [
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
@@ -213,8 +194,6 @@
     "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Excalidraw/Drawing 2024-06-06 21.21.18.excalidraw.md",
     "Excalidraw/Excalidraw.md",
