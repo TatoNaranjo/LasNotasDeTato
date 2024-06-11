@@ -9,6 +9,7 @@ En este archivo resaltaré todos aquellos recursos (llámese libros, videos, cur
 ```
 
 ## Libros
+
 Debido a que GitHub no permite añadir recursos que sobrepasen las 100 MB de peso límite, pondré los links correspondientes al sitio en donde puedes descargar el libro.
 
 ### Guías Generales
