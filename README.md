@@ -59,6 +59,7 @@ Puedes descargar Obsidian por medio del siguiente link:
 - Las notas de quinto semestre están en formato PDF y se pueden abrir desde el mismo Obsidian, las demás notas se encuentran en formato Markdown.
 - Asegúrate de tener una conexión a internet para que los plugins se instalen correctamente la primera vez que abras el vault.
 - En la actualidad (2024), hago cambios en mi notebook a diario (Añadiendo nuevos plugins o notas), así que asegurate de traer los cambios de vez en cuando para ver más contenido.
+- Dentro de la aplicación de Obsidian, si presionas `CTRL`+ `G`, verás la representación en un grafo de todas las notas que he tomado, esto puede servirte para guiarte de una forma más sencilla a la hora de buscar algún recurso, viendo si hace parte de mi estudio independiente (Grafo de Color Azul) o de mis notas de la universidad (Grafo de color Amarillo).
 
 
 ## Licencia :door:
