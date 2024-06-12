@@ -10,5 +10,5 @@ El curso se divide en los siguientes compendios:
 - [[Dominios Web]]
 - [[Cliente-Servidor]]
 - [[Peticiones HTTP]]
-- Servicios REST
-- Versión 2
+- [[Servicios REST]]
+- [[HTTP Versión 2]]
