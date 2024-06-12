@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Estudio Independiente\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13329640
-      }
-    },
-    {
       "query": "path:\"Notas De La Universidad\"  ",
       "color": {
         "a": 1,
@@ -25,7 +18,14 @@
       "query": "path:\"Estudio Independiente/Programación Competitiva\"  ",
       "color": {
         "a": 1,
-        "rgb": 7510563
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "path:\"Estudio Independiente\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1617829
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 11.5702377276937,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.06677211835073883,
-  "close": true
+  "scale": 0.0667721183507388,
+  "close": false
 }
