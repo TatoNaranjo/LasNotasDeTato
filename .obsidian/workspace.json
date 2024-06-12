@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "desorden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md"
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md"
               }
             }
           },
@@ -179,13 +179,19 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b11621eb0a384833",
+  "active": "7d7af5abfcf92a79",
   "lastOpenFiles": [
-    "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+    "Estudio Independiente/Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
     "Estudio Independiente/Programación Competitiva/Competitive Programmer Roadmap.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
@@ -201,12 +207,6 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Qué es el Internet.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Cisco Packet Tracer.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
     "Excalidraw",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
