@@ -1,5 +1,5 @@
 
-Base inicial de mi [[Tesis de Grado]] que formula un nuevo estudio para los trastornos mentales en psicología.
+Base teórica inicial de mi [[Tesis de Grado]] que formula un nuevo estudio para los trastornos mentales en el ámbito de la psicología.
 
 ```table-of-contents
 ```
