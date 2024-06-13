@@ -13,21 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
+                "file": "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91ac31e0e12cf465",
+            "id": "ccf50953749e9e67",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "ae29f4b9f46e23c7",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,34 +194,36 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b11621eb0a384833",
+  "active": "ccf50953749e9e67",
   "lastOpenFiles": [
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Los fundamentos de HTTP.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Servicios REST.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Tratando las Promises.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript",
     "Estudio Independiente/Estudio Independiente.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
+    "PDFs y Documentos/Recursos Útiles.pdf",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
+    "README.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Los fundamentos de HTTP.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Servicios REST.md",
     "Estudio Independiente/Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
     "Estudio Independiente/Programación Competitiva/Competitive Programmer Roadmap.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Cliente-Servidor.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Dominios Web.md",
-    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
-    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
-    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
-    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
     "Excalidraw",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
@@ -224,8 +234,6 @@
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/1. Introduccion en C++ a la Programacion Competitiva (1).pdf",
-    "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programmer's Handbook.pdf",
-    "Estudio Independiente/Programación Competitiva/Libros Útiles/Competitive Programming in Python 128 Algorithms to Develop your Coding Skills (Christoph Dürr, Jill-Jênn Vie) (Z-Library).pdf",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
     "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
     "Untitled.canvas",
