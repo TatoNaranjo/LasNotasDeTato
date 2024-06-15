@@ -17,4 +17,4 @@ En varias ocasiones debemos tener en cuenta si utilizar un callback es lo más c
 
 Si queremos que un intervalo de tiempo definido se ejecute en múltiples funciones usando un `setTimeout()` vamos a tener una estructura en la que muchas funciones se repiten de manera innecesaria y se produce una mala legibilidad del código, es a esto a lo que se le conoce como un Callback Hell. Generalmente, lo mejor es no pasar más de un _callback_, porque procederá a crear unas estructura en el código para la cual será difícil de hacer un mantenimiento. 
 
-Para solucionar este tipo de problemas es que JavaScript creó un concepto conocido como Promises, el cual se abarca en el documento: [[Tratando las Promises]].
+Para solucionar este tipo de problemas es que JavaScript creó un concepto conocido como Promises, cuya definición se trata en el documento de [[Consumo de APIs con JavaScript]]
