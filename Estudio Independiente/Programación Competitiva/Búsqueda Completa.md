@@ -8,6 +8,8 @@ Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera i
 - Me estoy saltando algún caso/combinación?
 - En caso de que esté guardando las combinaciones dentro de un arreglo, ¿Las combinaciones están quedando como yo quiero? o, ¿están quedando como las anoté en el papel?
 - LEER BIEN SE BASA EN QUE NO OBVIES NINGUNA PALABRA QUE ESTÉ EN EL ENUNCIADO.
+- Si quiero cambiar de enfoque pero conservo la misma lógica... ¿realmente lo estoy cambiando?
+- Realmente estoy haciendo una búsqueda que involucre a TODOS los elementos?
 
 ## Definición General
 
