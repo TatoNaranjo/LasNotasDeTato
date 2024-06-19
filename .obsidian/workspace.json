@@ -11,11 +11,10 @@
             "id": "480e1a0784a67d9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "staged": false
               }
             }
           }
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,6 +176,7 @@
   },
   "active": "480e1a0784a67d9e",
   "lastOpenFiles": [
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -199,7 +195,6 @@
     "Estudio Independiente/Astro/Astro.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/Imágenes.md",
-    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
