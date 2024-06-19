@@ -21,6 +21,8 @@ Debemos de utilizar este segundo parámetro cuando no vayamos a hacer uso de un 
 
 La implementación del método fetch para obtener datos de una API en JavaScript se ilustra de la siguiente manera:
 
+### Método GET
+
 ```javascript
 
 const url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=5"
@@ -30,6 +32,33 @@ method:"POST",
 })
 
 // Si no necesitamos usar algún parámetro diferente a GET simplemente podemos pasar una solicitud de un solo parámetro: fetch(url).
+```
+
+
+### Método POST
+Cuando hacemos uso de una API pero con un método `POST`, podemos escribir el siguiente código como se muestra en el ejemplo:
+
+```javascript
+async function createThing (title,description,url, image){
+	const conexion = await fetch ("http://localhost:3001/videos",{
+	//El método que utilizaremos en fetch
+	method:"POST",
+	//El encabezado/header que pasaremos con esa API
+	headers:{"Content-type":"application/json"},
+	body:JSON.stringify(
+	{
+		titulo:title,
+		descripcion:description,
+		url:url,
+		imagen:image
+	})
+	})
+
+	const conexionConvertida = conexion.json();
+
+	return conexionConvertida;
+
+}
 ```
 
 El método fetch API nos devuelve una promise.

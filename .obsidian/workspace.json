@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "42900a4dde1340b8",
+        "id": "dcd32c22838faff8",
         "type": "tabs",
         "children": [
           {
-            "id": "480e1a0784a67d9e",
+            "id": "cde921f7b38f9e0a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-                "staged": false
+                "file": "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md"
+              }
             }
           },
           {
@@ -174,24 +178,30 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "480e1a0784a67d9e",
+  "active": "cde921f7b38f9e0a",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Peticiones HTTP.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Servicios REST.md",
+    "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes/Simulando una API.md",
+    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
+    "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes/JavaScript, Creando Solicitudes.md",
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Excalidraw/Excalidraw.md",
     "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
     "PDFs y Documentos/Recursos Útiles.pdf",
-    "PDFs y Documentos/PDFs y Documentos.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Tratando las Promises.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Astro/Astro.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/Imágenes.md",
@@ -200,11 +210,7 @@
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Estudio Independiente/Curso de Oracle One/GitHub/GitHub.md",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP Versión 2.md",
-    "README.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
     "Excalidraw",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
@@ -213,7 +219,6 @@
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/USACOBook.pdf",
     "Estudio Independiente/Programación Competitiva/Libros Útiles/Olympiad_Combinatorics.pdf",
-    "Estudio Independiente/Programación Competitiva/Libros Útiles/guideToCompetitiveProgramming.pdf",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
     "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
     "Untitled.canvas",
