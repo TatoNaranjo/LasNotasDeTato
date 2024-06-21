@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cde921f7b38f9e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35aa23a42347e26c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Atributos Útiles en HTML.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md"
+                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md"
               }
             }
           },
@@ -190,7 +179,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "cde921f7b38f9e0a",
+  "active": "35aa23a42347e26c",
   "lastOpenFiles": [
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Atributos Útiles en HTML.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
