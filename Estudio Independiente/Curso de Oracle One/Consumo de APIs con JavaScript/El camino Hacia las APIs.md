@@ -63,6 +63,73 @@ async function createThing (title,description,url, image){
 
 El método fetch API nos devuelve una promise.
 
+### Método DELETE
+
+Al momento de utilizar el método `DELETE` para eliminar algún elemento de una lista de elementos, debemos tener en cuenta dos cosas:
+
+- La primera es que la URL que utilizamos para acceder a un elemento en específico puede representarse de la siguiente manera `http://localhost:3000/productos/1`.
+
+- La segunda, es que debemos hacer uso de un atributo en HTML que contenga el ID del producto en cuestión.
+
+La forma en la que aprendí a utilizar el método `DELETE` fue la siguiente:
+
+- Primero, al momento de traer todos los datos de una API mediante el método `GET`, debemos asignar un atributo a el contenedor principal, que nos permita traer el identificador del objeto, así como debemos agregar un botón que permita al usuario eliminar dicho elemento, posteriormente, dentro de la misma petición `GET` debemos tener asignar un `eventListener` que permita identificar cuando el usuario pulse el botón de eliminar para pasar el parámetro a una función:
+  
+  ```js
+// En el Parámetro GET
+
+bringProducts.forEach((product)=>{
+
+const producto = `
+
+<div class="card" data-product-id="${product.id}">
+<div class="card-image"><img src = ${product.imagen} alt=${product.titulo} class="imagen"></div>
+<div class="category"><p>${product.categoria}</p></div>
+<div class="heading">${product.titulo}</div>
+<div class="price">${product.precio} $</div>
+
+<button class = "delete-button button" data-id = "${product.id}" ><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M7 21q-.825 0-1.412-.587T5 19V6H4V4h5V3h6v1h5v2h-1v13q0 .825-.587 1.413T17 21zM17 6H7v13h10zM9 17h2V8H9zm4 0h2V8h-2zM7 6v13z"/></svg></button>
+
+</div>
+
+`
+card.innerHTML += producto;
+})
+
+const deleteButtons = document.querySelectorAll(".delete-button");
+deleteButtons.forEach((button)=>{
+button.addEventListener("click",handleDelete);
+})
+
+```
+
+Posteriormente podemos crear una función que nos permita eliminar el elemento si es que existe. Primero, obtenemos el atributo del botón que pulsamos y que contiene el ID del producto a eliminar, luego accedemos a esa dirección y la guardamos en la variable `url`.  Luego, con un `try - catch` manejamos la solicitud de fetch. Si el producto se encuentra, entonces se selecciona el atributo que representa el elemento que encierra a todo el elemento para posteriormente eliminarlo. Si el producto no se encuentra, entonces imprimimos el mensaje de error.
+
+```js
+async function handleDelete(event){
+const productID = event.target.getAttribute("data-id");
+const url = `http://localhost:3000/productos/${productID}`;
+
+try{
+const response = await fetch(url,{
+method: "DELETE"
+})
+if(response.ok){
+const productElement = document.querySelector(`[data-product-id = "${productID}]`);
+productElement.remove();
+}
+}
+
+catch(error){
+
+console.error("Error:",error);
+
+}
+
+}
+```
+
+
 ## ¿Qué es una promise?
 
 El término de promise en español se refiere a una promesa, la cual es una herramienta encargada de verificar si la solicitud se recibe de forma correcta para considerarla como resuelta, o de lo contrario, luego de un tiempo de no recibir nada de información rechazar la solicitud.
