@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md"
               }
             }
           },
@@ -180,15 +181,16 @@
   },
   "active": "1ceffeaf034749a4",
   "lastOpenFiles": [
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "Estudio Independiente/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/IA Notebook/Regresión Lineal.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
-    "Estudio Independiente/IA Notebook/IA Notebook.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
@@ -205,7 +207,6 @@
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes/JavaScript, Creando Solicitudes.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes",
     "PDFs y Documentos/Recursos Útiles.pdf",
