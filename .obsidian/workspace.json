@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md"
+                "file": "Estudio Independiente/Estudio Independiente.md"
               }
             }
           },
@@ -181,6 +180,16 @@
   },
   "active": "1ceffeaf034749a4",
   "lastOpenFiles": [
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
+    "Estudio Independiente/IA Notebook/IA Notebook.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/Servicios REST.md",
@@ -194,21 +203,11 @@
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Tratando las Promises.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes/JavaScript, Creando Solicitudes.md",
-    "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes/Simulando una API.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios",
-    "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Excalidraw/Excalidraw.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "PDFs y Documentos/Recursos Útiles.pdf",
     "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
     "Notas De La Universidad/Tesis de Grado/Imágenes",

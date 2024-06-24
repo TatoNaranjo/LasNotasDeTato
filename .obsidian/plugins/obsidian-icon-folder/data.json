@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrain",
       "TiApi",
       "TiHttpPost",
       "FiImage",
-      "TiJson",
-      "RiReactjsFill"
+      "TiJson"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -78,5 +78,6 @@
   "Estudio Independiente/Programación Competitiva/Imágenes": "FiImage",
   "Basics Of Obsidian/Qué es Obsidian.md": "FiHelpCircle",
   "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet": "TiHttpPost",
-  "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript": "TiApi"
+  "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript": "TiApi",
+  "Estudio Independiente/IA Notebook": "TiBrain"
 }
