@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiJavascriptFill",
+      "RiReactjsFill",
       "TiBrain",
       "TiApi",
-      "TiHttpPost",
-      "FiImage",
-      "TiJson"
+      "TiHttpPost"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,11 +73,12 @@
   "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
   "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour",
   "Estudio Independiente": "RiPencilLine",
-  "Estudio Independiente/Curso de React": "RiReactjsFill",
   "Estudio Independiente/JSON Web Token": "TiJson",
   "Estudio Independiente/Programación Competitiva/Imágenes": "FiImage",
   "Basics Of Obsidian/Qué es Obsidian.md": "FiHelpCircle",
   "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet": "TiHttpPost",
   "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript": "TiApi",
-  "Estudio Independiente/IA Notebook": "TiBrain"
+  "Estudio Independiente/IA Notebook": "TiBrain",
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE": "RiReactjsFill",
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill"
 }
