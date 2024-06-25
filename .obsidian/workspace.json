@@ -11,10 +11,11 @@
             "id": "256b5ac5f14ded00",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/IA Notebook/IA Notebook.md",
-                "staged": false
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md"
+              }
             }
           },
           {
@@ -175,11 +181,17 @@
   },
   "active": "256b5ac5f14ded00",
   "lastOpenFiles": [
+    "Estudio Independiente/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
-    "Estudio Independiente/IA Notebook/IA Notebook.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
@@ -193,17 +205,11 @@
     "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Curso de React/Untitled/Untitled.md",
     "Estudio Independiente/Curso de React/Untitled",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE",
     "Estudio Independiente/Curso de Oracle One/Untitled.md",
     "Estudio Independiente/IA Notebook/Regresión Lineal.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes",
     "PDFs y Documentos/Recursos Útiles.pdf",
