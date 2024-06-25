@@ -7,3 +7,6 @@ Se basa en 5 módulos, los cuales son:
 
 - [[Una biblioteca declarativa]]
 - [[Nuestro primer componente]]
+- [[Componente Formulario]]
+- [[Trabajando con Props]]
+- [[Registro de Colaboradores]]

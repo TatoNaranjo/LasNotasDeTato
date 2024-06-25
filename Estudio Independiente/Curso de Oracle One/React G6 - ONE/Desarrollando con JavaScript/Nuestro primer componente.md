@@ -6,7 +6,7 @@ La estructura de carpetas que se debe seguir para crear un componente se basa en
 
 Normalmente, dentro de esta carpeta se recomienda crear una carpeta en específico para cada componente, debido a que podemos tener la necesidad de alojar diferentes archivos para crear el componente en específico. 
 
-Para empezar a crear un componente podemos crear un archivo `.js` o `.jsx` dentro de la carpeta de nuestro componente.
+Para empezar a crear un componente podemos crear un archivo `.js` o `.jsx` dentro de la carpeta de nuestro componente. Cabe resaltar que el nombre de cada componente debe empezar con la letra mayúscula para poder diferenciarlo de una etiqueta común y corriente de `html`.
 ### .jsx Vs .js
 
 Dentro de la carpeta de nuestro componente, debemos crear un archivo con la extensión `.js`, debido a que react siempre va a esperar un archivo de tipo JavaScript. Sin embargo, ¿Cuál es la diferencia entre la extensión `.jsx` y la extensión `.js`?
@@ -42,7 +42,7 @@ import Header from './components/Header/Header';
 function App() {
 return (
 <div className="App">
-// Utilizamos el Componente Header
+// Utilizamos el Componente Header como si fuese una etiqueta de html
 <Header />
 </div>
 
