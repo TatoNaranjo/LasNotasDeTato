@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "256b5ac5f14ded00",
+            "id": "4bc1e8e662d91cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/IA Notebook/Regresión Lineal.md"
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md"
               }
             }
           },
@@ -179,13 +178,26 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "256b5ac5f14ded00",
+  "active": "4bc1e8e662d91cff",
   "lastOpenFiles": [
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
+    "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
+    "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
+    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet/HTTP, La base del Internet.md",
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/IA Notebook/Regresión Lineal.md",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
     "Estudio Independiente/IA Notebook/Imágenes/dispersionDiagramLinearRegression.png",
     "Pasted image 20240625092249.png",
-    "Estudio Independiente/IA Notebook/Regresión Lineal.md",
     "Estudio Independiente/IA Notebook/IA Notebook.md",
     "Estudio Independiente/JSON Web Token/Imágenes/Imágenes.md",
     "Estudio Independiente/IA Notebook/Imágenes/Imágenes.md",
@@ -193,26 +205,14 @@
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Estudio Independiente/IA Notebook/Imágenes",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/Imágenes.md",
     "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Diferencias entre Yarn y NPM.md",
     "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
     "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Módulos de ECMAScript.md",
-    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Fetch API.md",
-    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Refuerzo de JavaScript.md",
-    "Estudio Independiente/Curso de React/Curso de React.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Curso de React/Untitled",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE",
     "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios",
@@ -226,7 +226,6 @@
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
     "Estudio Independiente/JSON Web Token/Imágenes/EjemploJWT.png",
-    "Untitled.canvas",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Imagenes/reflejoImpares1.png"
+    "Untitled.canvas"
   ]
 }
