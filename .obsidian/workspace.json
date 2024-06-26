@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md"
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md"
               }
             }
           },
@@ -181,10 +181,17 @@
   "active": "4bc1e8e662d91cff",
   "lastOpenFiles": [
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Qué son los Componentes.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Versión Uno del Proyecto.md",
+    "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Creando Los Equipos.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Untitled.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
@@ -206,12 +213,6 @@
     "Estudio Independiente/IA Notebook/Imágenes",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/Imágenes.md",
-    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Diferencias entre Yarn y NPM.md",
-    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Objetos y Destructuring.md",
-    "Estudio Independiente/Curso de React/Refuerzo de JavaScript/Módulos de ECMAScript.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript",
     "Estudio Independiente/Curso de React/Untitled",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE",
@@ -221,7 +222,6 @@
     "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
     "Notas De La Universidad/Tesis de Grado/Imágenes",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript",
-    "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",

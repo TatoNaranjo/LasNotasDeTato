@@ -73,6 +73,8 @@ return (
 ```javascript
 <img src = "/img/add.png" alt = "add" onClick={props.changeShow}/>
 ```
+
+
 ### Renderizado condicional
 
 A partir de los estados de nuestros componentes podemos llevar diferentes acciones a cabo en base a la lógica, podemos verlo como si fuese una especie de `if` en cualquier lenguaje de programación a partir del lenguaje de operadores ternarios.

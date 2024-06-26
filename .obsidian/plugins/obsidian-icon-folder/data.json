@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiComponents",
       "RiJavascriptFill",
       "RiReactjsFill",
       "TiBrain",
-      "TiApi",
-      "TiHttpPost"
+      "TiApi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript": "TiApi",
   "Estudio Independiente/IA Notebook": "TiBrain",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE": "RiReactjsFill",
-  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill"
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill",
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan": "TiComponents"
 }
