@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Qué es una Single Page Application (SPA).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4a57bc0284e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md"
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md"
               }
             }
           },
@@ -178,22 +191,27 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2ffdd46b7fcce8ce",
+  "active": "ec4a57bc0284e1b1",
   "lastOpenFiles": [
-    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Untitled.canvas",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Qué es una Single Page Application (SPA).md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router y la Navegación en una SPA.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Virtual DOM.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Actualización de React y Uso de Vite.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Diferencias entre Yarn y NPM.md",
+    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Untitled.canvas",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Versión Uno del Proyecto.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Creando Los Equipos.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/IA Notebook/IA Notebook.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
@@ -204,10 +222,6 @@
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
-    "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
     "Estudio Independiente/IA Notebook/Imágenes/dispersionDiagramLinearRegression.png",
@@ -222,7 +236,6 @@
     "PDFs y Documentos/Recursos Útiles.pdf",
     "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
     "Notas De La Universidad/Tesis de Grado/Imágenes",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",

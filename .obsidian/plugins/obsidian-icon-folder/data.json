@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiRouteFill",
       "TiComponents",
       "RiJavascriptFill",
       "RiReactjsFill",
-      "TiBrain",
-      "TiApi"
+      "TiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -81,5 +81,6 @@
   "Estudio Independiente/IA Notebook": "TiBrain",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE": "RiReactjsFill",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill",
-  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan": "TiComponents"
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan": "TiComponents",
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA": "RiRouteFill"
 }

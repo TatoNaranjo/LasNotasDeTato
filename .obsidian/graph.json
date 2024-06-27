@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 1617829
       }
+    },
+    {
+      "query": "path:TatoCocina  ",
+      "color": {
+        "a": 1,
+        "rgb": 11796382
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 11.5702377276937,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.05932616709576223,
-  "close": true
+  "scale": 0.04231589984899819,
+  "close": false
 }
