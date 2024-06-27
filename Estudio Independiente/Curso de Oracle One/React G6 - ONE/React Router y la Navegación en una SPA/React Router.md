@@ -37,4 +37,14 @@ La ruta comodín es aquella que se asigna a las direcciones que no existen, norm
 <Route path = "*" element = {<h1>No Existe </h1>}/>
 ```
 
-Sin embargo, debemos de tener en cuenta de que en este punto, nuestra aplicación sigue siendo una Multiple Page Application debido a que redirecciona a las páginas y recarga la información cada que se hace una nueva consulta.
+Sin embargo, debemos de tener en cuenta de que en este punto si utilizamos las etiquetas de `html: <a></a>` para realizar las redirecciones, nuestra aplicación sigue siendo una Multiple Page Application debido a que redirecciona a las páginas y recarga la información cada que se hace una nueva consulta. Puedes consultarlo si inspeccionas la página y la recargas mientras miras en el apartado de `network` de tu inspeccionador de elementos del navegador.
+
+### Componente Link
+
+Para convertir nuestra aplicación en una SPA, es necesario cambiar el uso de las etiquetas de redirección que usamos en html, por un componente de React Router llamado `Link`. Este componente funciona con los mismos atributos que la etiqueta `a`, excepto por el hecho de que ya no redireccionamos con la palabra `href`, sino con la palabra `to`.
+
+Ejemplo:
+
+```jsx
+<li><Link className="menu-item" to="/">Blog</Link></li>
+```

@@ -5,3 +5,4 @@ Parte del curso de [[React G6 - ONE]] en donde nos enfocamos en la creación de 
 
 Algunos módulos que trae este curso son:
 - [[React Router]]
+- [[Consumo de API con Axios]]
