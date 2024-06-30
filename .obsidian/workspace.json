@@ -11,8 +11,11 @@
             "id": "5b8aec959f29e592",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Estudio Independiente/Estudio Independiente.md",
+                "staged": false
+              }
             }
           },
           {
@@ -27,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +185,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "87bdc00930e41864",
+  "active": "5b8aec959f29e592",
   "lastOpenFiles": [
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
@@ -211,10 +213,6 @@
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Curso de Oracle One.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Actualización de React y Uso de Vite.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/LinkedIn/desktop.ini",
