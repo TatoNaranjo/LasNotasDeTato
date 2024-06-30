@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "452d3b906fc40728",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md"
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md"
               }
             }
           },
@@ -139,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+                "file": "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +178,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "ec4a57bc0284e1b1",
   "lastOpenFiles": [
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos/Styled Components y Archivos Estáticos.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Actualización de React y Uso de Vite.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router y la Navegación en una SPA.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos",
+    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA/Conectando con API.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Qué es una Single Page Application (SPA).md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Virtual DOM.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Actualización de React y Uso de Vite.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Diferencias entre Yarn y NPM.md",
     "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
     "Estudio Independiente/Estudio Independiente.md",
@@ -214,8 +209,6 @@
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan/Qué son los Componentes.md",
-    "Estudio Independiente/Curso de Oracle One/JavaScript, Validando Formularios/Validaciones con JS.md",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
@@ -230,7 +223,6 @@
     "Estudio Independiente/Curso de Oracle One/JavaScript, Creando Solicitudes",
     "PDFs y Documentos/Recursos Útiles.pdf",
     "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes",
     "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png",
     "Estudio Independiente/JSON Web Token/Imágenes/JWT Workflow Diagram.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/subsetTreeExample.png.png",
