@@ -24,13 +24,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -139,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,13 +190,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "5b8aec959f29e592",
+  "active": "87bdc00930e41864",
   "lastOpenFiles": [
+    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
