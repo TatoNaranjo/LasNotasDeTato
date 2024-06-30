@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec4a57bc0284e1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Styled Components y Archivos Estáticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b8aec959f29e592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,14 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md"
+                "file": "Estudio Independiente/Estudio Independiente.md"
               }
             }
           },
@@ -156,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,13 +189,18 @@
   },
   "active": "87bdc00930e41864",
   "lastOpenFiles": [
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
+    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
+    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
+    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/LinkedIn/Tipos de Perfiles.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
     "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Desarrollo Personal.md",
     "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Styled Components y Archivos Estáticos.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
@@ -226,11 +215,6 @@
     "Curso de Oracle One.md",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Actualización de React y Uso de Vite.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es una Single Page Application (SPA).md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/LinkedIn/desktop.ini",
