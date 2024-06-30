@@ -21,7 +21,9 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ## Qué son LasNotasDeTato? :book:
-A lo largo de mi vida, me he dado cuenta de que mi forma de aprender las cosas siempre ha sido a través de la escritura y la práctica. Combinando este método y mi curiosidad por aprender algo nuevo cada día surgió la idea de plasmar mis conocimientos para ayudar a las personas que requieran de este cerebro digital de conocimiento, así como para recurrir a el si llego a necesitarlo. LasNotasDeTato es un notebook manejado en una aplicación utilizada para tomar notas en formato markdown llamada Obsidian donde escribo sobre todas las cosas que voy aprendiendo, tanto en mi vida universitaria como fuera de la misma.
+A lo largo de mi vida, me he dado cuenta de que mi forma de aprender las cosas siempre ha sido a través de la escritura y la práctica. Combinando este método y mi curiosidad por aprender algo nuevo cada día surgió la idea de plasmar mis conocimientos para ayudar a las personas que requieran de este cerebro digital de conocimiento, así como para recurrir a el si llego a necesitarlo. LasNotasDeTato es un notebook manejado en una aplicación para tomar notas llamada Obsidian; aquí escribo sobre todas las cosas que voy aprendiendo tanto en mi vida universitaria como fuera de la misma.
+
+
 Este repositorio fue creado durante el periodo de vacaciones en el 2023-II.
 
 ## Dependencias :warning:
