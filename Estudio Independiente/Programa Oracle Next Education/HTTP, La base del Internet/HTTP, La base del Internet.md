@@ -1,7 +1,7 @@
 ---
 tags: MOCs
 ---
-[[Curso de Oracle One]] en donde se estudia el funcionamiento del protocolo HTTP para comprender como funcionan las instrucciones otorgadas a partir de los datos.
+Parte del [[Programa Oracle Next Education]] en donde se estudia el funcionamiento del protocolo HTTP para comprender como funcionan las instrucciones otorgadas a partir de los datos.
 
 El curso se divide en los siguientes compendios:
 

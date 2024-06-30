@@ -1,7 +1,7 @@
 ---
 tags: MOCs
 ---
-[[Curso de Oracle One]] en el que se enfatiza un roadmap para aprender React en la plataforma de Alura Latam.
+Parte del [[Programa Oracle Next Education]] en el que se enfatiza un roadmap para aprender React en la plataforma de Alura Latam.
 
 Algunos artículos interesantes escritos durante esta fase de formación son:
 
