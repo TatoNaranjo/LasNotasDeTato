@@ -9,3 +9,5 @@ Algunos artículos interesantes escritos durante esta fase de formación son:
 - [[Actualización de React y Uso de Vite]]
 - [[Virtual DOM]]
 - [[Qué es una Single Page Application (SPA)]]
+- [[Qué son los Styled Components]]
+- [[Qué es Prop Drilling]]

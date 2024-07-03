@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1cdac4b1242be5",
+        "id": "ebfe7bd68d757b50",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8aec959f29e592",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "87bdc00930e41864",
+            "id": "6e8c9f8072104d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c36dba1168c8d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Hooks en ReactJS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,34 +190,35 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "87bdc00930e41864",
+  "active": "6e8c9f8072104d65",
   "lastOpenFiles": [
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionar Aplicaciones Complejas.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Implementando nuestros propios Hooks.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Hooks en ReactJS.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Manipulando el estado global de nuestra aplicación.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Conociendo los efectos secundarios.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es Prop Drilling.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/LinkedIn/Tipos de Perfiles.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
-    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Desarrollo Personal.md",
-    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Como los Componentes Funcionan.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/IA Notebook/IA Notebook.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/IA Notebook/Regresión Lineal.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Styled Components y Archivos Estáticos.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/LinkedIn/LinkedIn.md",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
-    "Estudio Independiente/Curso de Oracle One/Curso de Oracle One.md",
-    "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/Desarrollo Personal.md",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
-    "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es una Single Page Application (SPA).md",
+    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/Validaciones con JS.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Versión Uno del Proyecto.md",
+    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/Atributos Útiles en HTML.md",
+    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
+    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Desarrollo Personal/LinkedIn/desktop.ini",
@@ -227,7 +228,6 @@
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Styled Components y Archivos Estáticos",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA",
     "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript",
-    "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan",
     "Untitled.canvas",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
