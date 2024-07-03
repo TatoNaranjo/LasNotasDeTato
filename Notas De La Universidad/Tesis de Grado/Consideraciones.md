@@ -6,6 +6,15 @@ Puntos a tener en cuenta cuando estoy planteando la base inicial de la [[Tesis d
 - Desarrollar una herramienta para analizar las interacciones paciente-psicólogo y generar información sobre posibles patrones de comportamiento relevantes para el diagnóstico de la depresión.
 - Arquitectura para plantear un sistema de recomendación en la evaluación de casos en la patología según RDoC.
 - Software práctico al que le ingreso datos dummy y logra el objetivo.
+#### Software práctico al que le ingreso datos dummy y logra el objetivo.
+
+De momento, la idea parece unirlo a la idea de la herramienta de análisis creando un proyecto que se base en Python y librerías como `pandas`, `scikit-learn`, `nltk`, y `transformers` de Hugging Face.
+
+- **Recopilación de Datos**: Generar datos dummy que simulen interacciones entre paciente y psicólogo.
+- **Preprocesamiento**: Limpiar y preparar los datos para el análisis (tokenización, eliminación de stop words, etc.).
+- **Análisis de Sentimientos**: Aplicar un modelo de análisis de sentimientos para clasificar las emociones en las interacciones.
+- **Extracción de Patrones**: Utilizar técnicas de NLP para identificar palabras clave y temas recurrentes.
+- **Visualización**: Presentar los resultados mediante gráficos que muestren los patrones de comportamiento identificados.
 
 **To-Do:**
 
