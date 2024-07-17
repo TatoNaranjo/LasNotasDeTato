@@ -2,8 +2,8 @@ Puntos a tener en cuenta cuando estoy planteando la base inicial de la [[Tesis d
 
 ## ***Ideas Principales:***
 
-- Crear un sistema para ayudar a los psicólogos que se encuentren en fase de prácticas a generar un mejor diagnóstico en base a un gemelo digital que se base en la interacción con pacientes por medio de un chat, teniendo en cuenta las investigaciones de la matriz RDoC.
-- Desarrollar una herramienta para analizar las interacciones paciente-psicólogo y generar información sobre posibles patrones de comportamiento relevantes para el diagnóstico de la depresión.
+- Crear un sistema para ayudar a los psicólogos que se encuentren en fase de prácticas a generar un mejor diagnóstico en base a un gemelo digital que se base en la interacción con pacientes por medio de un chat, teniendo en cuenta las investigaciones de la matriz RDoC. BUSCAR ENTREVISTAS YA CLASIFICADAS, o esquemas de comportamiento en entrevistas de pacientes.
+- **Desarrollar una herramienta para analizar las interacciones paciente-psicólogo y generar información sobre posibles patrones de comportamiento relevantes para el diagnóstico de la depresión.**
 - Arquitectura para plantear un sistema de recomendación en la evaluación de casos en la patología según RDoC.
 - Software práctico al que le ingreso datos dummy y logra el objetivo.
 #### Software práctico al que le ingreso datos dummy y logra el objetivo.
@@ -26,6 +26,15 @@ De momento, la idea parece unirlo a la idea de la herramienta de análisis crean
 
 
 
+#### Herramienta de análisis para la interacción paciente-psicólogo que genera información sobre posibles patrones de comportamiento relevantes para el diagnóstico de la depresión.
+
+La idea se basa en la construcción de un apoyo que tome como referencia al perfil del paciente, es decir... aquel documento que nos indica el análisis inicial que el psicólogo ha hecho sobre su paciente. 
+
+En base a un modelo de procesamiento de lenguaje natural y una referencia como lo puede ser el [Manual Diagnóstico-Estadístico de Trastornos Mentales](https://www.eafit.edu.co/ninos/reddelaspreguntas/Documents/dsm-v-guia-consulta-manual-diagnostico-estadistico-trastornos-mentales.pdf), lo que se desea es que a través del procesamiento de un modelo, se obtengan resultados basados en porcentajes que ayuden a identificar ciertos patrones que encajen en el diagnóstico de los trastornos.
+
+Se plantea como un mecanismo de apoyo en la evaluación psicológica.
+
+
 ## Preguntas
 
 ### ¿Actualmente, existen herramientas que ya hagan lo que estoy pensando?
@@ -40,10 +49,15 @@ De momento, la idea parece unirlo a la idea de la herramienta de análisis crean
 
 #### Herramienta de análisis para la interacción paciente-psicólogo que genera información sobre posibles patrones de comportamiento relevantes para el diagnóstico de la depresión.
 
-El tema principal que debo investigar respecto a la construcción de esta herramienta son los algoritmos de procesamiento de lenguaje natural.
+El tema principal que debo investigar respecto a la construcción de esta herramienta son los algoritmos de procesamiento de lenguaje natural. Utilizar modelos generativos o grandes modelos de lenguaje. **Podría dar pistas sobre los trastornos que trata en base a la detección de un discurso.**
+
+
 
 No he encontrado herramientas parecidas.
 
+Hay que pensarlo con transformadores para modelos semánticos, LLM.
+
+Plantearlo como un mecanismo de apoyo en la evaluación psicológica.
 
 
 ### ¿Cuál es la diferencia entre un sistema de recomendación y un sistema de inteligencia artificial?
