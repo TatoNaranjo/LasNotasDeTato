@@ -22,7 +22,7 @@ Aquí hay un ejemplo de implementación para crear un contexto usando el hook de
 import { createContext } from "react";
 
 // Paso 1: creamos el contexto
-const globalContext = createContext();
+export const globalContext = createContext();
 
 
 // Paso 2: Creamos un componente para pasar cosas a través del contexto

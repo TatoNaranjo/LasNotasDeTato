@@ -1,6 +1,6 @@
 #### **¿Qué es Styled Components?**
 
-[Styled Components](https://styled-components.com/) es una biblioteca de javascript frecuentemente usada en React con la que puedes crear componentes de estilización personalizados, te permite escribir código CSS dentro de una función Javascript, en lugar de escribir CSS en un archivo separado. De esta manera, los estilos se aplican exclusivamente al componente que los utiliza. Esto hace que sea más fácil de entender y mantener, ya que los estilos están directamente asociados con el componente.
+[Styled Components](https://styled-components.com/) es una biblioteca de JavaScript frecuentemente usada en React con la que puedes crear componentes de estilización personalizados, te permite escribir código CSS dentro de una función Javascript, en lugar de escribir CSS en un archivo separado. De esta manera, los estilos se aplican exclusivamente al componente que los utiliza. Esto hace que sea más fácil de entender y mantener, ya que los estilos están directamente asociados con el componente.
 
 Styled Components es open source, esto quiere decir que los desarrolladores pueden contribuir con mejoras, nuevas funcionalidades y utilizarla en sus propios proyectos sin ningún costo. Cuenta con una comunidad activa, amplia documentación, ejemplos para ayudarte a comenzar y utilizarla de manera efectiva.
 
