@@ -12,6 +12,7 @@ Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera i
 - Si quiero cambiar de enfoque pero conservo la misma lógica... ¿realmente lo estoy cambiando?
 - Realmente estoy haciendo una búsqueda que involucre a TODOS los elementos?
 
+> Consejo: Cuando una idea no te sirva y sientas que estás alejado de la solución, trata de minimizar el panorama. Por ejemplo, no mires todos los elementos dentro de un arreglo y concentrate en dos solamente.
 ## Definición General
 
 La Búsqueda compleja es un método general utilizado para resolver casi cualquier problema de algoritmos. La idea es generar todas las soluciones posibles a un problema usando fuerza bruta, y luego agarrar la mejor solución o contar el numero de soluciones, dependiendo del problema. 
