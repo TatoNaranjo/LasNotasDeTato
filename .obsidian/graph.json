@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 11796382
       }
+    },
+    {
+      "query": "path:\"Basics Of Obsidian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12224228
+      }
     }
   ],
   "collapse-display": false,
