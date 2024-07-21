@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiRouteFill",
-      "TiComponents",
-      "RiJavascriptFill",
-      "RiReactjsFill",
-      "TiBrain"
+      "RiSecurePaymentFill",
+      "TiMobiledata",
+      "TiListNumbers",
+      "TiAntenna",
+      "RaHammer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,11 @@
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE": "RiReactjsFill",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan": "TiComponents",
-  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA": "RiRouteFill"
+  "Estudio Independiente/Curso de Oracle One/React G6 - ONE/React Router y la Navegación en una SPA": "RiRouteFill",
+  "Notas De La Universidad/Séptimo Semestre/Operativa": "FiActivity",
+  "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos": "RaHammer",
+  "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación": "TiAntenna",
+  "Notas De La Universidad/Séptimo Semestre/Análisis Numérico": "TiListNumbers",
+  "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos": "TiMobiledata",
+  "Notas De La Universidad/Séptimo Semestre/Seguridad Informática": "RiSecurePaymentFill"
 }
