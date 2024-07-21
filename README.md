@@ -26,6 +26,8 @@ A lo largo de mi vida, me he dado cuenta de que mi forma de aprender las cosas s
 
 Este repositorio fue creado durante el periodo de vacaciones en el 2023-II.
 
+![image](https://github.com/user-attachments/assets/954a4c88-d410-4d2b-8298-aa4806f56f6b)
+
 ## Dependencias :warning:
 La única herramienta que necesitas para manejar este notebook es Obsidian, todos los respectivos plugins dentro de la app serán instalados automáticamente cuando clones el repositorio.
 
