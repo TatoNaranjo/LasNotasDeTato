@@ -4,39 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9dfceac0cda1cb05",
+        "id": "edb3d346b549ae71",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea314d254d454f1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "2d6cb2e4d239b30d",
+            "id": "5a45c51e49c34ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4b01edfb5f3bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,21 +116,24 @@
             }
           },
           {
-            "id": "b71aa01294745fff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "41cbd6a3a8d48f27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b71aa01294745fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md"
               }
             }
           },
@@ -197,16 +178,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8ea314d254d454f1",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Estudio Independiente/Programación Competitiva/Algebra.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Implementando nuestros propios Hooks.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
@@ -221,11 +206,7 @@
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/Validaciones con JS.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Primeros Pasos.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Practicando React Con JS.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "TatoCocina/TatoCocina.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
