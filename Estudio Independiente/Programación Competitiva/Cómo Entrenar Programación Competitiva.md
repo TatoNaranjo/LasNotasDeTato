@@ -1,4 +1,4 @@
-
+Tips y Consejos para mejorar tu lógica y forma de pensar al momento de practicar [[Programación Competitiva]]. Este documento no trata un tema en específico, debido a que sirve como una especie de feedback y auto-análisis a mi forma de entrenar para mejorarla por medio de hacerme preguntas mientras resuelvo ejercicios y sacar conclusiones que pueden ayudarme a pensar mejor.
 ## Tips de Tato
 
 1. Si el ejercicio te menciona que debes conseguir algo en específico, enfócate en ese algo. 
