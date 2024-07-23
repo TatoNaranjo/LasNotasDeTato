@@ -1,6 +1,9 @@
 Tips y Consejos para mejorar tu lógica y forma de pensar al momento de practicar [[Programación Competitiva]]. Este documento no trata un tema en específico, debido a que sirve como una especie de feedback y auto-análisis a mi forma de entrenar para mejorarla por medio de hacerme preguntas mientras resuelvo ejercicios y sacar conclusiones que pueden ayudarme a pensar mejor.
 ## Tips de Tato
 
-1. Si el ejercicio te menciona que debes conseguir algo en específico, enfócate en ese algo. 
+1. A la hora de **aprender distintos conceptos**, debes buscar la forma de relacionarlos a los ejercicios que te aparezcan según su descripción. Lo que a mi me funciona para enlazar conceptos es crear un mapa mental de instrucciones, en el que un ejercicio me da una descripción y trato de asociarla a algún tema en el que ya haya visto ese patrón antes. Puedes abordar esto más a fondo siguiendo el [video](https://youtu.be/1f6N2UrCK6o?si=6E4Z1sRmXlgMoyqV) del GM [Colin Galen](https://www.youtube.com/@ColinGalen).
+2. Antes de tan siguiera pensar en codificar el ejercicio tienes que entender la descripción del problema, por lo tanto el orden para hacer las cosas sería: Leer el problema, comprender el problema, idear la solución, y codificarla.
+3. Si el ejercicio te menciona que debes conseguir algo en específico, enfócate en ese algo. 
 	Ejemplo: Si el ejercicio te pide que te enfoques en sacar las combinaciones de un set de 3 elementos, primero trata de entender cuáles son las pautas para crear ese set, y luego busca la forma de crear las combinaciones.
 2. Resolver un ejercicio a veces no se trata de pasar por todas las iteraciones, sino por las necesarias. Imagina que tienes un rango de entre 1 a 10⁹, sería ineficiente hacer un ciclo entero de ese rango, entonces enfócate solamente en los puntos que te dan dentro de ese rango para no hacer todas las iteraciones.
+3. En algunos problemas en los que se te pide modificar un vector, no necesariamente tienes que hacer el experimento de programarlo modificándolo a fuerza bruta, sino solamente pensar en si hay una forma de reducirlo sin alterar los elementos.

@@ -11,8 +11,12 @@
             "id": "613672c13d854e64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md"
+              }
             }
           },
           {
@@ -151,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +180,13 @@
   },
   "active": "613672c13d854e64",
   "lastOpenFiles": [
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -192,13 +204,8 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
     "Estudio Independiente/Programación Competitiva/Algebra.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
@@ -206,7 +213,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Implementando nuestros propios Hooks.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
