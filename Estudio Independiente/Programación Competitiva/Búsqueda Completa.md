@@ -2,6 +2,8 @@ Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera i
 
 >***Nota de Tato:*** Es como usar un enfoque de Programación Dinámica pero sin optimizar, así que puedes verlo como que... si el ejercicio te da el tiempo suficiente solo tienes que intentar hacer todas las combinaciones posibles y agarrar la mejor solución sobre la marcha.
 
+> A veces, en donde más se suele fallar es en encontrar sobre qué elementos se debe realizar la búsqueda completa, por lo que la primer pregunta importante que te debes hacer es, sobre cuales elementos/variables puedes realizar la búsqueda completa.
+
 ## Preguntas Que Me Hago
 
 - ¿Como hago para generar todas las combinaciones?
