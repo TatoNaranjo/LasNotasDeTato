@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8186d5a351215792",
+        "id": "0f432b24a229c697",
         "type": "tabs",
         "children": [
           {
-            "id": "613672c13d854e64",
+            "id": "0fa132716b80cc8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md"
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md"
               }
             }
           },
@@ -178,11 +179,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "613672c13d854e64",
+  "active": "0fa132716b80cc8f",
   "lastOpenFiles": [
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
@@ -211,8 +214,6 @@
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Implementando nuestros propios Hooks.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
