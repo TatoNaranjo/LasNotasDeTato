@@ -10,12 +10,33 @@
           {
             "id": "0fa132716b80cc8f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fd034da5bb63912a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "93e5f99c2da4858f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "staged": false
               }
             }
           }
@@ -181,8 +202,8 @@
   },
   "active": "0fa132716b80cc8f",
   "lastOpenFiles": [
-    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",

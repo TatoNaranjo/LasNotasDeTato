@@ -84,6 +84,48 @@ vector<int>subset;
 }
 ```
 
+### Generando Permutaciones
+Ahora, tenemos que considerar el problema de generar todas las permutaciones de un set de n elementos. Por ejemplo, las permutaciones de {0,1,2} son (0,1,2), (0,2,1), (1,0,2), (1,2,0), (2,0,1) y (2,1,0). De nuevo, tenemos dos enfoques: Podemos usar la recursión o ir a través de todas las permutaciones de forma iterativa.
+
+#### Primer Método - Recursividad
+Podemos generar las permutaciones de un set de elementos de forma recursiva casi de la misma forma que como lo hacíamos con los subsets. La siguiente función `search` va a través de las permutaciones del set {0,1,...,n-1}. La función va construyendo un vector `permutation` que contiene la permutación y la búsqueda inicia cuando la función se llama sin ningún parámetro.
+
+```cpp
+void search(){
+	if (permutation.size()==n){
+		// Procesa la permutación
+	} else {
+
+		for(int i = 0; i<n;i++){
+			if(chosen[i])continue;
+			chosen[i] = true;
+			permutation.push_back(i);
+			search();
+			chosen[i] = false;
+			permutation.pop_back();
+		}
+	}
+}
+```
+
+Cada llamado de la función añade un nuevo elemento a `permutation`. El arreglo `chosen` indica cuales elementos ya fueron incluidos en la permutación. Si el tamaño de `permutation` es igual al tamaño del set, quiere decir que una permutación ha sido generada.
+
+#### Segundo Método - Forma Iterativa
+Otra forma de generar permutaciones es empezar con la permutación {0,1,...,n-1} y de forma repetida usar una función que construye la siguiente permutación de forma ascendente. La librería estándar de C++ contiene la función `next_permutation` que puede ser usada para esta labor.
+
+> **DATO IMPORTANTE:** Para generar todas las permutaciones posibles debemos pasar un set de elementos organizado antes de utilizar la función `next_permutation`, esto debido a que el método genera combinaciones de forma ascendente, lo que quiere decir que todas aquellas combinaciones que sean menores que el set de elementos actual no serán generadas.
+
+```cpp
+vector<int> permutation;
+
+for(int i = 0; i<n;i++){
+	permutation.push_back(i);
+}
+
+do {
+	// procesar la permutación
+} while (next_permutation(permutation.begin(),permutation.end()));
+```
 
 ## Recursos Útiles y Ejercicios
 
