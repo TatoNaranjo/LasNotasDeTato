@@ -127,6 +127,53 @@ do {
 } while (next_permutation(permutation.begin(),permutation.end()));
 ```
 
+### Backtracking
+
+Un algoritmo de Backtracking inicia con una solución vacía y extiende la solución paso a paso. La búsqueda avanza de forma recursiva a través de todas las diferentes formas en las que se puede construir una solución.
+
+Por ejemplo, considera el problema de calcular el número de formas en las que $n$ reinas pueden colocarse dentro de un tablero de $n * n$ de forma en que ninguna de las dos reinas se ataquen entre sí. Por ejemplo, cuando $n=4$, hay dos posibles soluciones:
+
+![[backtrackingQueens1.png]]
+
+El problema se puede resolver usando backtracking para poner a las reinas dentro del tablero fila por fila. De forma más precisa, exactamente una reina se colocará en cada fila dado a que ninguna reina ataca a cualquier otra que ya se haya colocado antes. Encontramos una solución cuando todas las $n$ reinas hayan sido colocadas en el tablero.
+
+Por ejemplo, cuando $n =4$, algunas soluciones parciales generadas por el algoritmo de backtracking son las siguientes:
+
+![[backtrackingQueens2.png]]
+
+En la parte de más abajo podemos ver que los primeros tres intentos son ilegales porque las reinas se atacan entre sí. Sin embargo, la cuarta combinación es válida y puede extenderse a una solución completa poniendo dos reinas mas en el tablero. Hay solo una forma de colocar las dos reinas que quedan.
+
+El algoritmo se puede implementar de la siguiente manera:
+
+```cpp
+void search (int y){
+	if( y == n){
+		count++;
+		return;
+	}
+
+	for(int x = 0; x < n; x++){
+		if(column[x] || diag1[x+y] || diag2[xy+n-1])continue;
+		column[x] = diag1[x+y] = diag2[x-y+n-1] = 1;
+		search(y+1);
+		column[x] = diag1[x+y] = diag2[x-y+n-1] = 0;
+	}
+}
+```
+
+La búsqueda comienza llamando a `search(0)`. El tamaño del tablero es $n*n$, y el código calcula el número de soluciones con la variable `count`.
+
+El código asume que las filas y columnas del tablero están enumeradas desde 0 hasta $n-1$. Cuando la función `search` es llamada con el parámetro $y$, coloca una reina en la fila $y$ y luego se llama a si misma con el parámetro $y+1$. Entonces, si $y=n$, significa que una función ha sido encontrada y la variable `count` se incrementa en uno.
+
+El arreglo `column` mantiene el registro de las columnas que contienen una reina, y los arreglos `diag1` y `diag2` se encargan de llevar el registro de las diagonales. No es permitido añadir otra reina a una diagonal o columna que ya contiene una reina. Por ejemplo, las columnas y diagonales del tablero de $4*4$ se enumeran de la siguiente forma.
+
+![[backtrackingArray.png]]
+
+Supongamos que $q(n)$ describe el número de formas de colocar $n$ reinas en un tablero de ajedrez que mide $n*n$.
+
+El algoritmo de backtracking que aparece anteriormente nos dice que, por ejemplo $q(8) = 92$. Cuando $n$ incrementa, la búsqueda rápidamente se vuelve más lenta porque el número de soluciones crece de manera exponencial. por ejemplo, calcular $q(16) = 14772512$ usando el algoritmo mencionado tomaría alrededor de un minuto en una computadora moderna.
+
+> No hay una forma eficiente de calcular valores largos de $q(n)$. El record actual es el de $q(27) = 234907967154122528$, calculado en 2016.
 ## Recursos Útiles y Ejercicios
 
 - [USACO Basic Complete Search Course](https://usaco.guide/bronze/intro-complete)
