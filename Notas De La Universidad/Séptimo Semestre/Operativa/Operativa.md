@@ -9,4 +9,8 @@ La materia de Operativa se centra en la optimización de sistemas y procesos uti
 
 **Cada 8 días consultar una noticia de la sección de tecnología y hacer una crítica sobre la misma (Tenerla en físico).**
 
+### Banco de Noticias
+
+1. [Google fue hallado culpable de prácticas en contra de la libre competencia](https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html)
+
 
