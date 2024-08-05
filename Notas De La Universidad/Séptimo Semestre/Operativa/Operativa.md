@@ -7,3 +7,6 @@ La materia de Operativa se centra en la optimización de sistemas y procesos uti
 
 **Profesor:** Luis Sandoval
 
+**Cada 8 días consultar una noticia de la sección de tecnología y hacer una crítica sobre la misma (Tenerla en físico).**
+
+

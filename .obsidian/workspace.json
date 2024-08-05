@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md"
               }
             }
           },
@@ -192,13 +192,14 @@
   },
   "active": "e99afc2e697087da",
   "lastOpenFiles": [
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
@@ -228,7 +229,6 @@
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
     "Estudio Independiente/Programación Competitiva/Algebra.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Untitled.canvas",
