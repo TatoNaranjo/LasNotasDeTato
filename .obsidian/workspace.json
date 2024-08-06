@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3114fc53d1574cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md"
               }
             }
           },
@@ -188,9 +180,14 @@
   },
   "active": "e99afc2e697087da",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
@@ -209,11 +206,8 @@
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico",
@@ -223,10 +217,7 @@
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Estudio Independiente/Programación Competitiva/Algebra.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS",
     "Untitled.canvas",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
