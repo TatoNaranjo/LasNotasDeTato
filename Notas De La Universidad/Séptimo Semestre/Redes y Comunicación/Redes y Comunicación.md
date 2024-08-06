@@ -2,3 +2,14 @@
 tags: MOCs
 ---
 La materia de Redes y Comunicación estudia temas como la arquitectura de redes, los protocolos de red, la seguridad de redes, las redes inalámbricas y las redes de telecomunicaciones. En esta materia profundizamos en los principios fundamentales de las redes de computadoras y las comunicaciones. Aquí comprenderemos como funcionan las redes informáticas y como diseñar, implementar y administrar redes eficientes y seguras.
+
+### Temas que podemos reforzar
+- TPC/UDP
+- SSL/TLS
+- Utilizar un Firewalll
+- Manejar un Proxy
+- Bash
+- Powershell
+
+#### Tarea:
+Realizar una investigación sobre los 65535 puertos que existen. En la siguiente clase se va a realizar un sondeo de puertos.
