@@ -6,6 +6,75 @@ Es el camino que tienen que seguir los datos para llegar de un lado al otro. Se 
 ![[ModeloOSI.png]]
 
 SSL/TLS funcionan por medio del protocolo de transporte, y son las encargadas de crear un túnel de seguridad entre un emisor y receptor.
+
+#### Tipos de Ataque según la capa en el modelo OSI
+##### La capa Física y el Sniffing
+El Sniffing es un ataque de interceptación de paquetes utilizado por ciberdelincuentes para capturar datos que se transmiten a través de una red. La forma más fácil de representar esta analogía es decir que funciona de manera similar a cuando alguien pone un dispositivo de escucha en una línea telefónica, pero dentro del mundo digital.
+
+Cuando nosotros enviamos datos a través de internet, estos son comprimidos y enviados en pequeños paquetes a través de la red. Por medio de unas herramientas conocidas como Sniffers, los atacantes se encargan de interceptar y capturar el contenido, obteniendo así información sensible.
+
+Algunos ejemplos populares de ataques de Sniffing pueden ser:
+
+- **Ataques a redes Wi-Fi públicas:** Los atacantes suelen configurar redes Wi-Fi falsas con nombres atractivos para atraer a usuarios desprevenidos. Una vez conectados, el atacante puede interceptar todo el tráfico que se genera en esa red.
+- **Ataques a redes corporativas:** Los hackers pueden infiltrarse en redes corporativas para robar información confidencial de la empresa, como secretos comerciales, datos de clientes o información financiera.
+- **Ataques a usuarios de banca en línea:** Los atacantes pueden interceptar las credenciales de acceso de los usuarios de banca en línea mientras se conectan a sus cuentas, permitiéndoles realizar transacciones fraudulentas.
+##### El enlace de datos y el Spoofing
+El ataque de tipo Spoofing se produce cuando un estafador suplanta la identidad de un remitente para acceder a datos e información importante. El spoofing puede producirse a través de sitios web, llamadas telefónicas, textos, direcciones IP y servidores.
+
+Normalmente, el objetivo del Spoofing y la suplantación de identidad es acceder a datos sensible o información personal, robar dinero, saltarse controles de acceso a una red o propagar software malicioso a través de archivos adjuntos o enlaces infectados. Para que este tipo de ataque funcione, debe haber un cierto nivel de ingeniería social. Los métodos que utilizan los estafadores involucran ingeniería social que juega con las características humanas sensibles, como la codicia, el miedo o la ingenuidad.
+
+Un ejemplo de este tipo de ingeniería social se produce cuando el estafador se basa en los sentimientos de miedo de la víctima para intentar obtener información o dinero. La estafa de los nietos, por ejemplo, se produce cuando un estafador se hace pasar por un miembro de la familia y afirma que está en apuros y necesita dinero lo antes posible. En estos casos, los estafadores suelen dirigirse a los ancianos debido a la idea preconcebida de que tienen menos conocimientos sobre tecnología.
+
+Algunos tipos de ataque de tipo Spoofing comunes son:
+
+- **Spoofing de correo electrónico:** Es el tipo más común. Los atacantes envían correos electrónicos que parecen provenir de bancos, empresas o personas conocidas, solicitando información personal o pidiendo que se haga clic en enlaces maliciosos.
+- **Spoofing de DNS:** Al modificar los servidores DNS, los atacantes pueden redirigir el tráfico web a sitios falsos, donde los usuarios pueden ser engañados para ingresar sus credenciales.
+- **Spoofing de IP:** Consiste en falsificar la dirección IP de origen de un paquete de datos para ocultar la identidad del atacante y hacer que parezca que el tráfico proviene de una fuente confiable.
+- **Spoofing de ARP:** Este tipo de ataque se lleva a cabo en redes locales y permite al atacante interceptar el tráfico de red entre dispositivos.
+##### La capa de red y el Man in The Middle
+
+El ataque de tipo Man In The Middle permite al delincuente informático interceptar la comunicación entre dos dispositivos conectados a una red. El atacante puede manipular el tráfico interceptado de cualquier forma, ya sea para escuchar la comunicación u obtener información sensible como credenciales de acceso, información financiera, etc. Para que un ataque mitm funcione, el atacante debe de estar en la misma red que los dos dispositivos que quiere interceptar, luego de ello cambiará las tablas de enrutamiento para cada uno de los mismos.
+
+Otra forma de orquestar el ataque puede ser modificando las tablas de enrutamiento de los routers, secuestrándolos y alterando sus tablas de enrutamiento de forma arbitraria, sin embargo cabe aclarar que la dificultad de este método alternativo en cuestión es obviamente mayor. Una herramienta muy conocida para realizar ataques de este tipo se llama **Ettercap**.
+
+Si un ataque de Man in The Middle se realiza de forma correcta, puede tener las siguientes consecuencias:
+
+- Realizar capturas de pantalla de lo que observa la víctima cada cierto tiempo;
+
+- Insertar en la página a la que se accede código en JavaScript creado por el atacante;
+
+- Ejecutar procesos que intentan abrir tráfico encriptado HTTPS;
+
+- Insertar un [keylogger](https://www.welivesecurity.com/la-es/2021/03/04/que-es-keylogger-herramienta-para-espiar/) que capture todo lo que escribe la víctima.
+##### La capa de transporte y el DOS
+Un ataque de Denegación de Servicio (Denial of Service) es un tipo de ciberataque en el que un agente malicioso tiene como objetivo que un ordenador o un dispositivo no esté disponible para los usuarios hacia los que va dirigido el servicio, interrumpiendo el funcionamiento normal del mismo. De forma habitual, los ataques de tipo DoS suelen consistir en sobrecargar o inundar una máquina objetivo con solicitudes hasta que el tráfico de red no sea capaz de procesar la información, haciendo que se provoque una denegación de servicio a los usuarios que deseen entrar. Un ataque DoS se caracteriza por utilizar un único ordenador para lanzar el ataque.
+
+**Los ataques DoS suelen ser de dos categorías:**
+###### Ataques de desbordamiento de búfer
+
+Un tipo de ataque en el que se produce un [desbordamiento del búfer](https://www.cloudflare.com/learning/security/threats/buffer-overflow/) de la memoria puede hacer que una máquina consuma todo el espacio disponible en el disco duro, la memoria o el tiempo de la CPU. Esto suele provocar un comportamiento lento, caídas del sistema u otros comportamientos perjudiciales para el servidor, que acaba provocando una denegación de servicio.
+###### Ataques de inundación
+
+Al saturar un servidor objetivo con una cantidad abrumadora de paquetes, un actor malicioso es capaz de sobrecargar la capacidad del servidor, lo que provoca una denegación de servicio. Para que la mayoría de los ataques de inundación DoS tengan éxito, el actor malicioso debe tener más ancho de banda disponible que el objetivo.
+
+La diferencia entre un ataque de tipo DoS y un ataque de tipo DDoS se enfoca en la simplicidad del primero, mientras que para el primer ataque se necesita de un solo dispositivo, en el ataque de tipo DDoS se utiliza un número de conexiones elevado y los requisitos necesarios para llevarlo a cabo son mucho mayores.
+##### La capa de sesión y el Hijacking
+
+El Hijacking es un tipo de ataque en el que los agentes maliciosos modifican las redirecciones de los servidores DNS. Esto significa que cuando el usuario quiera ingresar a una dirección de dominio determinado, el DNS le devolverá una dirección IP diferente. Las páginas que realizan este tipo de ataque suelen ser páginas que contienen anuncios y malware, y son controladas por los hijackers.
+
+Un problema de este tipo de ataque es que los atacantes también serán capaces de instalar spyware y otros elementos que pueden poner en riesgo la vida del dispositivo en cuestión. Algunos de los ataques que puede realizar este spyware consisten en modificar características y configuraciones del navegador, e incluso desactivar el antivirus del dispositivo para generar una brecha de seguridad.
+
+Uno de los ataques más famosos de este tipo ocurrió en 2015, cuando un grupo de hackers secuestraron los dominios de Google Vietnam y Lenovo para redirigirlos a webs controladas por ellos.
+##### La capa de presentación y el phishing
+
+El phishing es una forma de ciberdelincuencia en la que una persona intenta obtener información confidencial por medio del correo electrónico, enviando mensajes fraudulentos que incitan a rellenar formularios con información personal identificable.
+
+El phishing puede producirse a través de correos electrónicos, llamadas telefónicas o mensajes de texto. Los estafadores envían mensajes que parecen reales y urgentes, pidiendo a la persona que actúe. Por ejemplo, un correo electrónico puede parecer procedente de un banco de confianza y pedir a la persona que actualice la información de su cuenta para evitar problemas. Como el mensaje parece urgente y real, la gente puede compartir información confidencial, como contraseñas y números de tarjetas de crédito, que los estafadores pueden utilizar indebidamente.
+
+Haciéndose pasar por una entidad legítima, el atacante atrae a las víctimas a un sitio web falso donde se les convence para que introduzcan información confidencial. Esta fachada bien elaborada, unida a una sensación de urgencia, permite a la estafa de phishing obtener con éxito valiosos datos personales, dejando a la víctima desprevenida vulnerable al robo de identidad y a pérdidas financieras.
+##### La capa de aplicación y el exploit
+
+Un exploit es un software, un fragmento de datos o una secuencia de comandos que aprovecha una vulnerabilidad de una aplicación para provocar un comportamiento imprevisto o involuntario. Su nombre deriva del significado en inglés de la palabra exploit, el cual consiste en "utilizar algo en beneficio propio". Normalmente, un motivo por el cual suceden bastantes ataques de exploits es por no actualizar las aplicaciones. Cuando un sistema no es actualizado de forma común, los hackers pueden aprovechar diferentes brechas de seguridad que existen dentro de la aplicación para encontrar alguna debilidad que no ha sido detectada aún. La forma más conocida de evitar este tipo de ataques es mantener las aplicaciones actualizadas de forma común.
 ## ¿Cómo funcionan los puertos?  
 
 Los puertos informáticos han existido desde los albores de la informática. La Red de Agencias de Proyectos de Investigación Avanzados (ARPANET) originó el concepto de números de puerto.
@@ -222,3 +291,10 @@ El rango 49152–65535 (desde 215 + 214 hasta 216 − 1) aloja los puertos di
 ### Referencias
 - [Definición de Puertos](https://www.akamai.com/es/glossary/what-are-ports#:~:text=Los%20n%C3%BAmeros%20de%20puerto%20est%C3%A1n,IANA%20como%20%22reservado%22.)
 - [Listado de Puertos de Red](https://es.wikipedia.org/wiki/Anexo:Puertos_de_red)
+- [Qué es el Sniffing?](https://www.ctxdetectives.com/que-es-el-sniffing/)
+- [Qué es el Spoofing?](https://www.pandasecurity.com/es/mediacenter/que-es-el-spoofing/)
+- [Qué es el ataque Man In The Middle?](https://www.welivesecurity.com/la-es/2021/12/28/que-es-ataque-man-in-the-middle-como-funciona/)
+- [Qué es el ataque DOS?](https://www.cloudflare.com/es-es/learning/ddos/glossary/denial-of-service/)
+- [Qué es el Hijacking?](https://www.iebschool.com/blog/hijacking-serp-google-que-es-como-protegernos-seo-sem/)
+- [Qué es el phishing?](https://www.malwarebytes.com/es/phishing)
+- [Qué es un Exploit?](https://www.bitdefender.es/consumer/support/answer/22884/)
