@@ -1,4 +1,4 @@
-Con información se pueden tomar buenas o malas decisiones, y una solución siempre va a depender del contexto.
+Dentro de [[Operativa]], con información se pueden tomar buenas o malas decisiones, y una solución siempre va a depender del contexto.
 
 ### Ejercicio
 Propuesta logística para una empresa generadora de energía
