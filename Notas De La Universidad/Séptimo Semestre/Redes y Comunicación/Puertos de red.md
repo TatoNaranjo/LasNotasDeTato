@@ -1,3 +1,11 @@
+Cuando tenemos una aplicación y esta necesita enviar dato, hace uso de los puertos de red. Primera clase de [[Redes y Comunicación]].
+## ¿Qué es el Modelo OSI?
+
+Es el camino que tienen que seguir los datos para llegar de un lado al otro. Se representa bajo 7 capas que son las siguientes:
+
+![[ModeloOSI.png]]
+
+SSL/TLS funcionan por medio del protocolo de transporte, y son las encargadas de crear un túnel de seguridad entre un emisor y receptor.
 ## ¿Cómo funcionan los puertos?  
 
 Los puertos informáticos han existido desde los albores de la informática. La Red de Agencias de Proyectos de Investigación Avanzados (ARPANET) originó el concepto de números de puerto.

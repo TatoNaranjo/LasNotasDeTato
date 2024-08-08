@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notas De La Universidad/Sexto Semestre/Networking/Subnetting Parte I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e07c5e976d36cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,18 +191,23 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "e99afc2e697087da",
+  "active": "c1e07c5e976d36cc",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Subnetting Parte I.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
@@ -206,7 +224,6 @@
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos",
@@ -216,15 +233,12 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS",
     "Untitled.canvas",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
     "Estudio Independiente/IA Notebook/Imágenes/dispersionDiagramLinearRegression.png",
     "Pasted image 20240625092249.png",
     "Estudio Independiente/IA Notebook/Imágenes/DisperssionDiagramLinearRegression.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png",
-    "Estudio Independiente/JSON Web Token/Imágenes/SAMLVsJWT.png"
+    "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png"
   ]
 }

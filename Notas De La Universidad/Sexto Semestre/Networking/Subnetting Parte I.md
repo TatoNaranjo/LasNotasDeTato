@@ -60,6 +60,7 @@ La *Parte de host* es *10*, lo que identifica al dispositivo específico dentro 
 ### Dirección de Broadcast
 Una dirección IP especial que se utiliza para enviar mensajes a *todos* los dispositivos de una red al mismo tiempo. Es como un megáfono que se utiliza para hacer un anuncio a todos los residentes de una calle.
 
+Cuando una dirección IP se hace pasar por el dueño original de esta dirección de Broadcast, puede interceptar la información. Este tipo de ataque se conoce como Broadcast Relay o ARP Relay.
 #### Valor
 - La dirección de broadcast se calcula tomando la dirección de red y cambiando todos los bits de la parte de host a *1*
 
