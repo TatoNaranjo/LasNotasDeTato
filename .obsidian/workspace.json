@@ -11,10 +11,11 @@
             "id": "883cbb7d460d66b2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
-                "staged": false
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md"
+              }
             }
           },
           {
@@ -175,19 +180,21 @@
   },
   "active": "883cbb7d460d66b2",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
-    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Certificados.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Subnetting Parte I.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
@@ -206,8 +213,6 @@
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens1.png",
     "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico",
