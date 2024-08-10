@@ -11,5 +11,3 @@ La materia de Redes y Comunicación estudia temas como la arquitectura de redes,
 - Bash
 - Powershell
 
-#### Tarea:
-Realizar una investigación sobre los 65535 puertos que existen. En la siguiente clase se va a realizar un sondeo de puertos.

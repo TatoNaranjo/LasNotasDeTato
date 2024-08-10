@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3633433ac4e0ddd",
+        "id": "737d1bc90ea4e479",
         "type": "tabs",
         "children": [
           {
-            "id": "883cbb7d460d66b2",
+            "id": "57db543ea9a908a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md"
               }
             }
           },
@@ -178,14 +178,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "883cbb7d460d66b2",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Certificados.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Puertos de red.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
