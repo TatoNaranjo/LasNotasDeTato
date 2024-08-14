@@ -1,9 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#480f57",
   "baseFontSize": 16,
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Dekurai",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian"
 }
