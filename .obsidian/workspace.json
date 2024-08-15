@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "c84a608311342348",
+        "id": "db8587f4674bfcea",
         "type": "tabs",
         "children": [
           {
-            "id": "03690f377d2fbb92",
+            "id": "87bb4df55c0fa6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f7ba7fab6e9492a",
+            "id": "c4b6f6455046ebe1",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md"
+              }
             }
           },
           {
@@ -183,18 +186,19 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "5f7ba7fab6e9492a",
+  "active": "87bb4df55c0fa6db",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
@@ -215,7 +219,6 @@
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens2.png",
-    "Estudio Independiente/Programación Competitiva/Untitled/Untitled.md",
     "Estudio Independiente/Programación Competitiva/Untitled",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens1.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
