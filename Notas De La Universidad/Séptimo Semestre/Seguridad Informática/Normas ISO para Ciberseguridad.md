@@ -13,6 +13,14 @@ Esto se rige bajo los principios del ciclo PHVA (Planear, Hacer, Verificar, Actu
 9. Evaluación de Desempeño
 10. Mejora
 
+
+Además, para manejar este tipo de normas se utilizan 4 fases que se encargan de velar por los controles de seguridad dentro de una empresa. Las fases son:
+
+1. Fase de Planeación
+2. Fase de Ejecución
+3. Fase de Seguimiento
+4. Fase de Mejora
+
 A continuación se mencionan algunas de las normas ISO 27000 más utilizadas.
 
 ## ISO 27001
