@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "87bb4df55c0fa6db",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
@@ -199,7 +201,6 @@
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO 27000 para la ciberseguridad.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Certificados.md",
@@ -216,7 +217,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens2.png",
     "Estudio Independiente/Programación Competitiva/Untitled",

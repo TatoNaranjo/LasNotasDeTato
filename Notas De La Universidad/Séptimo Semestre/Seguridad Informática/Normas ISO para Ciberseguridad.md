@@ -1,4 +1,19 @@
-Cuando hablamos de [[Seguridad Informática]] debemos tener presentes las distintas normas bajo las que tenemos que regirnos para cumplir un estándar de seguridad en cualquier empresa. A continuación se mencionan algunas de las normas ISO 27000 más utilizadas.
+Cuando hablamos de [[Seguridad Informática]] debemos tener presentes las distintas normas bajo las que tenemos que regirnos para cumplir un estándar de seguridad en cualquier empresa, las normativas enfocadas con la ciberseguridad tienen la nomenclatura 27000.
+
+Esto se rige bajo los principios del ciclo PHVA (Planear, Hacer, Verificar, Actuar), y normalmente aborda los siguientes puntos:
+0. Introducción
+1. Alcance
+2. Referencias Normativas
+3. Términos y Definiciones
+4. Contexto de la organización
+5. Liderazgo
+6. Planificación
+7. Soporte
+8. Operación
+9. Evaluación de Desempeño
+10. Mejora
+
+A continuación se mencionan algunas de las normas ISO 27000 más utilizadas.
 
 ## ISO 27001
 
