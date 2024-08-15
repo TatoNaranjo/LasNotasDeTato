@@ -1,5 +1,16 @@
 Cuando hablamos de [[Seguridad Informática]] debemos tener presentes las distintas normas bajo las que tenemos que regirnos para cumplir un estándar de seguridad en cualquier empresa, las normativas enfocadas con la ciberseguridad tienen la nomenclatura 27000.
 
+## Clasificación general de las Auditorías
+las auditorías o revisiones que se realizan a las empresas constan de distintos tipos que se enfocan en asegurar la calidad según diferentes puntos, tales como:
+
+- Auditoría Interna
+- Auditoría Forense
+- Auditoría Administrativa
+- Auditoría Financiera
+- Auditoría de Calidad
+- Auditoría de Sistemas
+- Auditoría Externa
+## Puntos que abordan las normas ISO
 Esto se rige bajo los principios del ciclo PHVA (Planear, Hacer, Verificar, Actuar), y normalmente aborda los siguientes puntos:
 0. Introducción
 1. Alcance
@@ -13,6 +24,7 @@ Esto se rige bajo los principios del ciclo PHVA (Planear, Hacer, Verificar, Actu
 9. Evaluación de Desempeño
 10. Mejora
 
+## Fases de Planeación de las Normas ISO
 
 Además, para manejar este tipo de normas se utilizan 4 fases que se encargan de velar por los controles de seguridad dentro de una empresa. Las fases son:
 
