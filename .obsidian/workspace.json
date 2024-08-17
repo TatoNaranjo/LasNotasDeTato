@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "db8587f4674bfcea",
+        "id": "86df7552d3bc02c9",
         "type": "tabs",
         "children": [
           {
-            "id": "87bb4df55c0fa6db",
+            "id": "4a342f1c8be39c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c4b6f6455046ebe1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md"
               }
             }
           },
@@ -186,13 +178,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "87bb4df55c0fa6db",
+  "active": "4a342f1c8be39c09",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
@@ -216,7 +209,6 @@
     "PDFs y Documentos/PDFs y Documentos.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens2.png",
     "Estudio Independiente/Programación Competitiva/Untitled",
