@@ -11,11 +11,10 @@
             "id": "4a342f1c8be39c09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-                "mode": "source",
-                "source": false
+                "file": "Estudio Independiente/Astro/Primeros Pasos Con Astro.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +175,22 @@
   },
   "active": "4a342f1c8be39c09",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Desarrollo Web",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es Prop Drilling.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Creando Los Equipos.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Primeros Pasos.md",
+    "Estudio Independiente/Astro/Primeros Pasos Con Astro.md",
+    "Estudio Independiente/Astro/Dudas Sobre Astro.md",
+    "Estudio Independiente/Astro/Astro Sitemaps.md",
+    "Estudio Independiente/Astro/Astro.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
@@ -193,22 +202,9 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Certificados.md",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Subnetting Parte I.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens2.png",
     "Estudio Independiente/Programación Competitiva/Untitled",
@@ -219,7 +215,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos",
     "Notas De La Universidad/Séptimo Semestre/Operativa",
-    "Notas De La Universidad/Séptimo Semestre",
     "Untitled.canvas",
     "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
     "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
