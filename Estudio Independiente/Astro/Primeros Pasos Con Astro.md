@@ -36,7 +36,7 @@ En la parte superior del archivo nos encontraremos con una estructura parecida a
 ```astro
 ---
 En esta parte se puede ejecutar código JavaScript
-	---
+---
 ```
 
 En esta parte podremos importar los diferentes componentes de nuestra página, así como también crear **props**. En general, para escribir código en JavaScript o TypeScript
