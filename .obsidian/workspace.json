@@ -11,10 +11,11 @@
             "id": "4a342f1c8be39c09",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Astro/Primeros Pasos Con Astro.md",
-                "staged": false
+                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md"
+              }
             }
           },
           {
@@ -176,6 +182,7 @@
   "active": "4a342f1c8be39c09",
   "lastOpenFiles": [
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Desarrollo Web/Object Storage.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Desarrollo Web",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
@@ -201,7 +208,6 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
