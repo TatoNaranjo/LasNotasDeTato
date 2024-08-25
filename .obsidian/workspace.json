@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "86df7552d3bc02c9",
+        "id": "9ca867a226b008de",
         "type": "tabs",
         "children": [
           {
-            "id": "4a342f1c8be39c09",
+            "id": "cc45d4f4d187f59d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c09acf4b306e3c97",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Object Storage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,64 +176,63 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4a342f1c8be39c09",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/Desarrollo Web/Object Storage.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Desarrollo Web",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es Prop Drilling.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Creando Los Equipos.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Primeros Pasos.md",
-    "Estudio Independiente/Astro/Primeros Pasos Con Astro.md",
-    "Estudio Independiente/Astro/Dudas Sobre Astro.md",
-    "Estudio Independiente/Astro/Astro Sitemaps.md",
-    "Estudio Independiente/Astro/Astro.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "PDFs y Documentos/Problema de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
+    "PDFs y Documentos/El Manejo de Números en Código.pdf",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Pilares del Emprendimiento.md",
+    "PDFs y Documentos/Capturando datos con Wireshark.pdf",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094727.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
+    "Basics Of Obsidian/Qué es Obsidian.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094636.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094137.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093918.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093337.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822082606.png",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822082223.png",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+    "Estudio Independiente/Linux",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Modelo Canvas.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Marketing Multinivel.md",
+    "Estudio Independiente/Desarrollo Web",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
-    "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens2.png",
     "Estudio Independiente/Programación Competitiva/Untitled",
-    "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingQueens1.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos",
-    "Notas De La Universidad/Séptimo Semestre/Operativa",
-    "Untitled.canvas",
-    "Estudio Independiente/IA Notebook/Imágenes/correlationTypes.png",
-    "Estudio Independiente/IA Notebook/Imágenes/correlationCoeficients.png",
-    "Estudio Independiente/IA Notebook/Imágenes/dispersionDiagramLinearRegression.png",
-    "Pasted image 20240625092249.png",
-    "Estudio Independiente/IA Notebook/Imágenes/DisperssionDiagramLinearRegression.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/modeloProbabilísticoGDA.png"
+    "Untitled.canvas"
   ]
 }

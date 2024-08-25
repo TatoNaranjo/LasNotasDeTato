@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Estudio Independiente/Linux\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2801846
+      }
+    },
+    {
       "query": "path:\"Notas De La Universidad\"  ",
       "color": {
         "a": 1,
@@ -15,44 +22,23 @@
       }
     },
     {
-      "query": "path:\"Estudio Independiente/Programación Competitiva\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16384000
-      }
-    },
-    {
       "query": "path:\"Estudio Independiente\"  ",
       "color": {
         "a": 1,
-        "rgb": 1617829
-      }
-    },
-    {
-      "query": "path:TatoCocina  ",
-      "color": {
-        "a": 1,
-        "rgb": 11796382
-      }
-    },
-    {
-      "query": "path:\"Basics Of Obsidian\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12224228
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01767212102501,
-  "lineSizeMultiplier": 1.98587218277246,
+  "nodeSizeMultiplier": 1.01436859299313,
+  "lineSizeMultiplier": 1.2616593443731,
   "collapse-forces": false,
-  "centerStrength": 0.155665328805187,
-  "repelStrength": 11.5702377276937,
+  "centerStrength": 0.316379407457474,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 194,
-  "scale": 0.060458995801545776,
+  "linkDistance": 250,
+  "scale": 0.10036331428392857,
   "close": true
 }
