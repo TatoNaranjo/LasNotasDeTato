@@ -1,4 +1,4 @@
-La Primera actividad de [[Análisis Numérico]] consistió en crear cuatro scripts de código con el objetivo de abordar la lógica detrás de distintas operaciones y fórmulas matemáticas. En este documento se describirá el proceso detrás de la creación de los tres algoritmos mediante el lenguaje de programación escogido: `Python`.
+La Primera actividad de [[Análisis Numérico]] consistió en crear cinco scripts de código con el objetivo de abordar la lógica detrás de distintas operaciones y fórmulas matemáticas. En este documento se describirá el proceso detrás de la creación de los tres algoritmos mediante el lenguaje de programación escogido: `Python`.
 
 > Trabajo Realizado Por: **Edgar Duván Bernal Acero, David Santiago Sierra, Santiago Naranjo Herrera** 
 ## Primer Algoritmo: La Lógica Detrás De Una División
@@ -191,3 +191,30 @@ El código se divide en los siguientes tres procesos fundamentales:
 - **Solicitar los datos requeridos:** Para poder retornar la respuesta requerida, es necesario que el usuario escriba las medidas de la base superior del trapecio, la base inferior del trapecio y finalmente la altura del trapecio, mediante la consola de comandos.
 - **Construir la función de división:** Para poder calcular el área de un trapecio sin recurrir a el operador de división, se reutilizó la función de división hecha en el primer algoritmo. Su funcionamiento se describió de forma detallada anteriormente en el documento.
 - **Construir el área del Trapecio:** Finalmente, se procede a construir la respuesta solicitada mediante la fórmula descrita para calcular el área de un trapecio, devolviéndola en forma de una variable de tipo flotante.
+
+## Quinto Algoritmo: El Área del Círculo
+El quinto y último algoritmo consiste en un código que calcula el área de un círculo cuando se tiene su radio como referencia. Un detalle adicional agregado al código es la posibilidad de ir disminuyendo los números decimales luego del punto para comprender cuánto se ve afectada la precisión de la respuesta.
+
+### Código
+```python
+import math
+pi = math.pi
+# Primer Proceso: Solicitar los datos
+r = input("Ingrese el radio del circulo: ")
+
+# Segundo Proceso: Ajustar la precisión de la respuesta
+for i in range (6, 1, -1):
+  radius = round(float(r), i)
+  npi = round(pi, i)
+  # Tercer Proceso: Calcular la respuesta e imprimirla
+  a = radius * radius * npi
+  print(f"El area del circulo es: {a} con una precision de {i} decimales, pi = {npi} y radio = {radius}")
+```
+
+### Explicación
+El código se divide en tres procesos básicos que describen su funcionamiento, los cuales son:
+
+- **Solicitar los datos:** En este proceso se solicita al usuario que escriba el radio del círculo.
+- **Ajustar la precisión de la respuesta:** Este proceso es conformado por un ciclo que va disminuyendo hasta que no hayan números decimales por procesar. Lo que se busca es redondear la respuesta hasta mostrar el decimal propuesto.
+- **Calcular la respuesta e imprimirla:** Ahora que la variable de `pi` ha sido modificada, lo único que queda es calcular la respuesta en base a la fórmula $Area = radio^2*pi$. Luego, se procede a imprimir la misma, junto con los decimales a los que ha sido redondeada.
+
