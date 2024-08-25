@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐧",
       "TiWebhook",
       "RiSecurePaymentFill",
       "TiMobiledata",
-      "TiListNumbers",
-      "TiAntenna"
+      "TiListNumbers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -89,5 +89,6 @@
   "Notas De La Universidad/Séptimo Semestre/Análisis Numérico": "TiListNumbers",
   "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos": "TiMobiledata",
   "Notas De La Universidad/Séptimo Semestre/Seguridad Informática": "RiSecurePaymentFill",
-  "Estudio Independiente/Desarrollo Web": "TiWebhook"
+  "Estudio Independiente/Desarrollo Web": "TiWebhook",
+  "Estudio Independiente/Linux": "🐧"
 }
