@@ -1,7 +1,7 @@
 ---
 tags: MOCs
 ---
-Análisis numérico cobre temas como la aproximación de funciones, interpolación, integración numérica, ecuaciones diferenciales y optimización numérica. Esta materia se centra en el uso de métodos matemáticos para resolver problemas computacionales. Aquí desarrollaremos habilidades para programar soluciones computacionales a problemas científicos y de ingeniería.
+Análisis numérico cubre temas como la aproximación de funciones, interpolación, integración numérica, ecuaciones diferenciales y optimización numérica. Esta materia se centra en el uso de métodos matemáticos para resolver problemas computacionales. Aquí desarrollaremos habilidades para programar soluciones computacionales a problemas científicos y de ingeniería.
 
 Además se aprenderán distintos modelos matemáticos y el cómo implementarlos en un código, viendo las formas matemáticas desde una perspectiva diferente.
 
