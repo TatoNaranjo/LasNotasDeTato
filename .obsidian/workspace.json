@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca867a226b008de",
+        "id": "17cc65a50a4f2043",
         "type": "tabs",
         "children": [
           {
-            "id": "cc45d4f4d187f59d",
+            "id": "f3a48db5b4f1eeb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c09acf4b306e3c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md"
               }
             }
           },
@@ -191,12 +177,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c09acf4b306e3c97",
+  "active": "f3a48db5b4f1eeb9",
   "lastOpenFiles": [
-    "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+    "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
@@ -238,7 +225,6 @@
     "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Untitled",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos",
     "Untitled.canvas"
   ]
 }
