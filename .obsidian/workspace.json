@@ -23,10 +23,11 @@
             "id": "c09acf4b306e3c97",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
-                "staged": false
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -97,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md"
+              }
             }
           },
           {
@@ -185,13 +191,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "c09acf4b306e3c97",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
@@ -224,7 +231,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Linux",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Modelo Canvas.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Marketing Multinivel.md",
     "Estudio Independiente/Desarrollo Web",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
