@@ -5,3 +5,5 @@ A lo largo de todo mi 2023 y 2024 me ha interesado aprender más acerca de este 
 
 ***Distro Actual:*** **Arch Linux**
 
+## Índice
+- [[Guía Post-Instalación de Arch Linux]]
