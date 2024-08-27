@@ -11,14 +11,28 @@
             "id": "f3a48db5b4f1eeb9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-                "staged": false
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf0476b114384cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md"
+              }
             }
           },
           {
@@ -172,20 +190,26 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f3a48db5b4f1eeb9",
+  "active": "bf0476b114384cf9",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+    "Pasted image 20240827184138.png",
+    "Pasted image 20240827184035.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183933.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183701.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
     "Estudio Independiente/Linux/Linux.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
@@ -202,8 +226,6 @@
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
     "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Pilares del Emprendimiento.md",
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094727.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094636.png",
@@ -211,15 +233,11 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093918.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093337.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822082606.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822082223.png",
     "Estudio Independiente/Linux",
     "Estudio Independiente/Desarrollo Web",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/ModeloOSI.png",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
-    "Estudio Independiente/Programación Competitiva/Imágenes/backtrackingArray.png",
     "Estudio Independiente/Programación Competitiva/Untitled",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
     "Untitled.canvas"
   ]
 }

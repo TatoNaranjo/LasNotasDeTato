@@ -1,5 +1,8 @@
 Segunda actividad realizada con el fin de trasladar la lógica matemática a un lenguaje de programación escogido para la materia de [[Análisis Numérico]].
 
+Debido a que el código completo del ejercicio es muy extenso como para mostrarlo en este informe, nos permitimos entregarlo mediante el siguiente [link](https://gist.github.com/TatoNaranjo/a2499fa5f04be032bbbd7de4774480b3).
+
+
 > Por: **David Santiago Sierra, Edgar Duván Bernal Acero y Santiago Naranjo Herrera**
 # Introducción
 En el presente informe se detallan las soluciones implementadas para tres problemas planteados en la materia de Análisis Numérico. Los problemas consistieron en desarrollar códigos en Python para: 
@@ -9,6 +12,8 @@ En el presente informe se detallan las soluciones implementadas para tres proble
 
 A continuación, se describe el enfoque tomado para cada problema, así como los resultados obtenidos y las conclusiones derivadas de las implementaciones. También se realiza un análisis individual sobre la importancia de cada problema y el cómo podría ser implementado en las labores actuales de la sociedad.
 
+![[Pasted image 20240827183701.png]]
+**El código comienza preguntando al usuario por una acción que lo dirige al algoritmo solicitado**
 ## Primer Código: Hallar los números Primos Hasta n
 ### Descripción del Problema
 El objetivo de realizar el programa fue implementar un algoritmo que calcule todos los números primos hasta un valor n dado por el usuario. 
@@ -21,6 +26,8 @@ Con esta información, se procede a crear un programa que solicita un límite pa
 
 Por último, se imprime una lista que recorre toda la tabla de números e imprime solo aquellos números que no han sido marcados, es decir, todos los números que no fueron múltiplos de otras variables.
 
+![[Pasted image 20240827183933.png]]
+**Evidencia de la funcionalidad del código de números primos**
 ### Análisis del Problema
 Un algoritmo para encontrar números primos puede tener aplicaciones significativas en la seguridad informática, especialmente en el campo de la criptografía. Podemos usar números primos como un factor fundamental dentro de la generación de claves de cifrado en sistemas que requieren contraseñas complejas, debido a que allí se utilizan números primos grandes para crear claves seguras que protegen la información en internet, como las transacciones bancarias, correos electrónicos y otros datos sensibles. A su vez, también podemos ver que la velocidad con la que se hacen estas operaciones hoy en día eran impensables en la antigüedad, dando a entender una creciente evolución en la forma de calcular operaciones matemáticas para resolver problemas en la actualidad.
 
@@ -58,6 +65,9 @@ numerosPrimos()
 El segundo problema consistió en implementar un algoritmo que convierta un número arábico (teniendo la condición de ser un número entero positivo) a su representación en números romanos.
 ### Metodología
 Para la conversión se utilizó un enfoque basado en la reducción del número y la concatenación de su símbolo equivalente en romano. También se aprovechó la sintaxis de python, que permite multiplicar caracteres y cadenas para ahorrar el proceso de hacer un ciclo repetitivo por cada reducción. La idea principal del algoritmo es reducir el número verificando todos los casos especiales en los que pueden ir dos símbolos en vez de uno, dando a entender que si ningún caso se cumplía, se procedía a concatenar un único símbolo equivalente las veces que fuesen necesarias.
+
+![[Pasted image 20240827184035.png]]
+**Evidencia de la funcionalidad del código de transcripción para números arábicos a romanos**
 ### Análisis
 Los algoritmos de conversión destacan la capacidad de la programación para adaptar y transformar diferentes sistemas de numeración. Implementar un convertidor de números arábicos a romanos en un programa de computadora nos muestra cómo las matemáticas pueden ser utilizadas no solo en cálculos numéricos, sino también en la manipulación y representación de datos, lo que es crucial en la preservación y transmisión de conocimientos históricos y culturales; permitiendo dar un indicio de que la lógica matemática puede ser utilizada para realizar traducciones entre lenguajes e idiomas.
 
@@ -122,6 +132,9 @@ El tercer problema planteado fue crear una función que convierta un número ar�
 Se empleó un enfoque basado en la descomposición del número en sus unidades, decenas, centenas, etc., utilizando listas para manejar las palabras correspondientes.
 
 > Debido a que el código es extenso, se optó por publicarlo en forma de texto plano dentro de una página de gist de GitHub que tiene el siguiente link: [Código](https://gist.github.com/santorar/0d8ebe45798af74a38194fac7a7bd15c)
+
+![[Pasted image 20240827184138.png]]
+**Evidencia de la funcionalidad del código para la transcripción en texto de un número**
 
 ### Análisis
 La conversión de números a texto puede aplicarse dentro del campo de muchas utilidades como por ejemplo: el desarrollo de sistemas de voz automatizados, generación de cheques, facturación y en dispositivos de asistencia para personas con discapacidades visuales. Esto nos demuestra que el análisis matemático para problemas que en un principio se puede creer que son triviales, realmente puede ayudar a mejorar la legibilidad de un formato que se usa a diario y que es fundamental para las personas que tienen algún tipo de discapacidad.
