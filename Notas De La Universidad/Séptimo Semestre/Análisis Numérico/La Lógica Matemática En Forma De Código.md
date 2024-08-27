@@ -1,5 +1,7 @@
 La Primera actividad de [[Análisis Numérico]] consistió en crear cinco scripts de código con el objetivo de abordar la lógica detrás de distintas operaciones y fórmulas matemáticas. En este documento se describirá el proceso detrás de la creación de los tres algoritmos mediante el lenguaje de programación escogido: `Python`.
 
+Debido a que el código completo del ejercicio es muy extenso como para mostrarlo en este informe, nos permitimos entregarlo mediante el siguiente [link](https://gist.github.com/TatoNaranjo/a2501fa5f04be032bbbd7de4774480b3).
+
 > Trabajo Realizado Por: **Edgar Duván Bernal Acero, David Santiago Sierra, Santiago Naranjo Herrera** 
 ## Primer Algoritmo: La Lógica Detrás De Una División
 El primer algoritmo consiste en crear una función que pueda replicar el funcionamiento de una operación básica de división entre dos números, con la restricción de no usar el símbolo usado para realizar la operación en los dispositivos electrónicos: `/`. 

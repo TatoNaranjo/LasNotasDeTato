@@ -11,11 +11,10 @@
             "id": "f3a48db5b4f1eeb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+                "staged": false
               }
             }
           }
@@ -69,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +174,15 @@
   },
   "active": "f3a48db5b4f1eeb9",
   "lastOpenFiles": [
-    "Estudio Independiente/Linux/Linux.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
+    "Estudio Independiente/Linux/Linux.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -191,15 +192,11 @@
     "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "PDFs y Documentos/El Manejo de Números en Código.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/IA Notebook/IA Notebook.md",
     "Estudio Independiente/JSON Web Token/JSON Web Token.md",
@@ -207,11 +204,8 @@
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094727.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
-    "Basics Of Obsidian/Qué es Obsidian.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094636.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094137.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093918.png",
