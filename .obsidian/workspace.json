@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "17cc65a50a4f2043",
+        "id": "d830e6a1267e4d30",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a48db5b4f1eeb9",
+            "id": "45fec31a89b391e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "bf0476b114384cf9",
+            "id": "ca70ada73637c02c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md"
+                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md"
               }
             }
           },
@@ -190,24 +188,25 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bf0476b114384cf9",
+  "active": "45fec31a89b391e6",
   "lastOpenFiles": [
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Pasted image 20240827184138.png",
     "Pasted image 20240827184035.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183933.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183701.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
     "Estudio Independiente/Linux/Linux.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
@@ -232,7 +231,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094137.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093918.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093337.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822082606.png",
     "Estudio Independiente/Linux",
     "Estudio Independiente/Desarrollo Web",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
