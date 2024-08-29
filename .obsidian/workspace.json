@@ -4,30 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d830e6a1267e4d30",
+        "id": "35a2c9c2dcf4fc20",
         "type": "tabs",
         "children": [
           {
-            "id": "45fec31a89b391e6",
+            "id": "bded301507636c86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "ca70ada73637c02c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md"
+                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md"
               }
             }
           },
@@ -188,25 +177,35 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "45fec31a89b391e6",
+  "active": "bded301507636c86",
   "lastOpenFiles": [
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificatorExample2.png",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificator1.png",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/randomForestCon2Arboles.png",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184035.png",
+    "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184138.png",
+    "Pasted image 20240828072152.jpg",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
-    "Pasted image 20240827184138.png",
-    "Pasted image 20240827184035.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183933.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183701.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
     "Estudio Independiente/Linux/Linux.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
@@ -218,24 +217,14 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "PDFs y Documentos/El Manejo de Números en Código.pdf",
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/IA Notebook/IA Notebook.md",
-    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
-    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Pilares del Emprendimiento.md",
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094727.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094636.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094137.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093918.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822093337.png",
     "Estudio Independiente/Linux",
     "Estudio Independiente/Desarrollo Web",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
-    "Estudio Independiente/Programación Competitiva/Untitled",
     "Untitled.canvas"
   ]
 }

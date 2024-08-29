@@ -60,6 +60,15 @@ Hay que pensarlo con transformadores para modelos semánticos, LLM.
 Plantearlo como un mecanismo de apoyo en la evaluación psicológica.
 
 
+https://repository.eia.edu.co/entities/publication/a49f6007-3fcd-4236-8668-46a073a65de5
+
+https://www.sciencedirect.com/science/article/abs/pii/B9780128171332000021
+
+http://aujet.adelekeuniversity.edu.ng/index.php/aujet/article/view/352
+
+https://repositorio.urp.edu.pe/handle/20.500.14138/1674
+
+
 ### ¿Cuál es la diferencia entre un sistema de recomendación y un sistema de inteligencia artificial?
 
 Un sistema de recomendación es en sí un tipo de inteligencia artificial que se utiliza para sugerir productos, servicios o contenido a usuarios individuales. Como el campo de la inteligencia artificial es enorme, se puede definir a un sistema de recomendación como una aplicación específica de la misma.
