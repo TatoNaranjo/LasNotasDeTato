@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Estudio Independiente/Linux\"  ",
+      "query": "path:\"Notas De La Universidad/Tesis de Grado\"  ",
       "color": {
         "a": 1,
-        "rgb": 2801846
-      }
-    },
-    {
-      "query": "path:\"Notas De La Universidad\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 14496216
       }
     },
     {
       "query": "path:\"Estudio Independiente\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 708022
+      }
+    },
+    {
+      "query": "path:\"Notas De La Universidad\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15527972
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14070764830099192,
-  "close": true
+  "scale": 0.10036331428392849,
+  "close": false
 }
