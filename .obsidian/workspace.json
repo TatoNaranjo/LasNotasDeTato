@@ -4,18 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "35a2c9c2dcf4fc20",
+        "id": "8dd48128394a0e66",
         "type": "tabs",
         "children": [
           {
-            "id": "bded301507636c86",
+            "id": "81cd1e8d51b679d3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "75f80b2f74a10ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e64f07bdbfecff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eda840bfb134af8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf"
               }
             }
           }
@@ -85,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,20 +206,24 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bded301507636c86",
+  "active": "81cd1e8d51b679d3",
   "lastOpenFiles": [
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificatorExample2.png",
     "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificator1.png",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/randomForestCon2Arboles.png",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación",
     "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184035.png",
     "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184138.png",
     "Pasted image 20240828072152.jpg",
@@ -214,8 +247,6 @@
     "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
     "PDFs y Documentos/El Manejo de Números en Código.pdf",
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
@@ -223,8 +254,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
     "Estudio Independiente/Linux",
     "Estudio Independiente/Desarrollo Web",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Untitled.canvas"
   ]
 }
