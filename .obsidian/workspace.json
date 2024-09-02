@@ -4,51 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd48128394a0e66",
+        "id": "303cdfbc2cda8bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "81cd1e8d51b679d3",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "75f80b2f74a10ce4",
+            "id": "8954d6be017c846e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e2e64f07bdbfecff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eda840bfb134af8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf"
               }
             }
           }
@@ -118,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md"
+              }
             }
           },
           {
@@ -206,12 +177,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "81cd1e8d51b679d3",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Basics Of Obsidian/Markdown Cheat Sheet.md",
     "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
@@ -232,7 +207,6 @@
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183933.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183701.png",
@@ -246,14 +220,12 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
     "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
     "PDFs y Documentos/El Manejo de Números en Código.pdf",
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822094727.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240822081853.png",
     "Estudio Independiente/Linux",
-    "Estudio Independiente/Desarrollo Web",
     "Untitled.canvas"
   ]
 }

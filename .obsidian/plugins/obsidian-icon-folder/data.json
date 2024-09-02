@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiMarkdown",
       "🐧",
       "TiWebhook",
       "RiSecurePaymentFill",
-      "TiMobiledata",
-      "TiListNumbers"
+      "TiMobiledata"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,5 +90,6 @@
   "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos": "TiMobiledata",
   "Notas De La Universidad/Séptimo Semestre/Seguridad Informática": "RiSecurePaymentFill",
   "Estudio Independiente/Desarrollo Web": "TiWebhook",
-  "Estudio Independiente/Linux": "🐧"
+  "Estudio Independiente/Linux": "🐧",
+  "Basics Of Obsidian/Markdown Cheat Sheet.md": "TiMarkdown"
 }
