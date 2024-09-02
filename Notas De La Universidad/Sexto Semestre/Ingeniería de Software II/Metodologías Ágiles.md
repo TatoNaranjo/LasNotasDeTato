@@ -1,10 +1,13 @@
 Las metodologías a utilizar en [[Ingeniería de Software II]]
 
+> Por: Santiago Naranjo Herrera
+
 **Tabla de Contenido**
+
 ```table-of-contents
 ```
 
-## Agile
+# Agile
 
 Cuando escuchamos la palabra *ágil*, creemos que puede hacer referencia a algo:
 
