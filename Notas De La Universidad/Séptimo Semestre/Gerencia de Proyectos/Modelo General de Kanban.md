@@ -45,7 +45,10 @@ Se dividen en la producción y el servicio adaptando sus funcionalidades dependi
 El tiempo de desarrollo de una característica depende de una etapa que es conformada por tres fases: Selección, desarrollo y aprobación.
 
 ## Ley de Little
-Comprende una relación entre el número total de tareas en el proceso, la tasa de entrega y el tiempo en proceso. El $promedioTasaDeEntrega = TareasEnProceso/ TiempoDeEntrega$ ayuda a detectar las fisuras dentro de el desarrollo de un proceso en una empresa.
+Comprende una relación entre el número total de tareas en el proceso, la tasa de entrega y el tiempo en proceso. 
+El $promedioTasaDeEntrega = TareasEnProceso/ TiempoDeEntrega$ 
+
+ayuda a detectar las fisuras dentro de el desarrollo de un proceso en una empresa.
 
 # Prácticas generales de Kanban
 - Visualizar.
