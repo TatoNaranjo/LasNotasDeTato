@@ -16,8 +16,30 @@ Asimismo, el proyecto se alinea y relaciona a los Objetivos de Desarrollo Sosten
 
 # Trayectoria Y Capacidad En Investigación, Desarrollo Tecnológico e Innovación Del Grupo (S)
 # Resumen Ejecutivo
+
 # Planteamiento del Problema
+La salud mental es un pilar fundamental del bienestar humano que impacta significativamente en cómo piensa, siente y actúa. Una mente sana es crucial para enfrentar el estrés, tomar decisiones conscientes y mantener relaciones saludables. Sin embargo, el cuidado de la salud mental enfrenta desafíos significativos, particularmente en el diagnóstico y clasificación de trastornos mentales. 
+
+En la última década, la relevancia de la salud mental en el ámbito de la salud pública global ha aumentado considerablemente. Un informe del Ministerio de Salud en 2023 reveló un incremento en los riesgos de salud mental tras la pandemia de SARS-CoV-2, con prevalencias de depresión y ansiedad del 15.8% en adolescentes, 4.7% en adultos entre 18 y 44 años, y 8.9% en mayores de 45 años (Sánchez, 2023). Estas cifras subrayan la urgencia de abordar eficazmente los trastornos mentales.
+
+Un estudio en una escuela secundaria de Estados Unidos demostró que los problemas de salud mental son responsables de una proporción significativamente mayor de dificultades académicas en comparación con los problemas de salud física, visibilizando la necesidad urgente de intervenciones amplias para mejorar el bienestar común (Chelsey R. Wilks, Randy P. Auerbach, Jordi Alonso, Corina Benjet, Ronny Bruffaerts, Pim Cuijpers, David D. Ebert, Jennifer G. Green, Claude A. Mellins, Philippe Mortier, Ekaterina Sadikova, Nancy A. Sampson, Ronald C. Kessler, 2020).
+
+No obstante, los psicólogos y profesionales de la salud mental enfrentan un desafío crítico en la clasificación y diagnóstico de estos trastornos. Los sistemas actuales de clasificación, como el Manual Diagnóstico y Estadístico para la Clasificación de Trastornos Mentales (DSM-5), son valiosos, sin embargo presentan limitaciones. La subjetividad inherente en la evaluación de síntomas psicológicos y la variabilidad en la interpretación de criterios diagnósticos pueden conducir a imprecisiones y sesgos en el diagnóstico del profesional.
+
+Este problema se magnifica en el contexto de la formación de nuevos profesionales. Los psicólogos en prácticas, con experiencia limitada, pueden encontrar especialmente desafiante navegar por la complejidad de los sistemas de clasificación y criterios diagnósticos, lo que puede resultar en diagnósticos inexactos o tardíos.
+
+La necesidad de herramientas más precisas y objetivas para el diagnóstico y clasificación de trastornos mentales es evidente. Un sistema de apoyo basado en análisis predictivo podría proporcionar a los profesionales, especialmente a aquellos en formación, un recurso adicional para detectar patrones de comportamiento y síntomas, minimizando sesgos y mejorando la precisión diagnóstica.
+
+En este contexto, la pregunta de investigación que guía este estudio es: **¿Cómo puede un sistema de análisis predictivo y apoyo a la decisión clínica mejorar la precisión y objetividad en el diagnóstico de trastornos mentales, particularmente la depresión, y cuál sería su impacto en la práctica clínica y la formación de profesionales de la salud mental?**
+
+Esta investigación busca no solo desarrollar una herramienta tecnológica, sino también contribuir al avance del campo de la salud mental, promoviendo un enfoque más preciso y basado en evidencia para el diagnóstico y tratamiento de los trastornos mentales.
+
 # Justificación
 # Objetivos Generales y Específicos
 # Metodología Propuesta
 # Estado del Arte, de la Investigación, Desarrollo Tecnológico o Innovación
+
+# Referencias
+- [Mental Health Strategies to Combat the Psychological Impact of Coronavirus Disease 2019 (COVID-19) Beyond Paranoia and Panic](https://pubmed.ncbi.nlm.nih.gov/32200399/)
+- [Aumento de la depresión: Secuela Intangible de la Post-Pandemia](https://www.radionacional.co/actualidad/salud/depresion-una-enfermedad-en-aumento)
+- [The importance of physical and mental health in explaining health-related academic role impairment among college students](https://www.sciencedirect.com/science/article/abs/pii/S0022395619311252)
