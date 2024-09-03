@@ -11,9 +11,20 @@
             "id": "8954d6be017c846e",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "24276305e5a2f02a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,18 +184,30 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bced553c8d178d7b",
+  "active": "8954d6be017c846e",
   "lastOpenFiles": [
-    "Basics Of Obsidian/Basics Of Obsidian.md",
-    "Basics Of Obsidian/Markdown Cheat Sheet.md",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
-    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Método de Ruta Crítica.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Modelo General de Kanban.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Basics Of Obsidian/Markdown Cheat Sheet.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "LICENSE.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
@@ -203,23 +222,10 @@
     "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184138.png",
     "Pasted image 20240828072152.jpg",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183933.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240827183701.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
-    "Estudio Independiente/Linux/Linux.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
     "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "PDFs y Documentos/Problema de Optimización.pdf",
     "PDFs y Documentos/El Manejo de Números en Código.pdf",
     "PDFs y Documentos/Capturando datos con Wireshark.pdf",
