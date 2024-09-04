@@ -46,7 +46,10 @@
 		{"id":"7c471f3d0d270943","type":"text","text":"### Posibles Soluciones","x":1675,"y":888,"width":250,"height":82,"color":"4"},
 		{"id":"320a468deec3a914","type":"text","text":"Utilizando o creando un modelo de lenguaje natural que intente hacerlo","x":1886,"y":1080,"width":250,"height":140,"color":"4"},
 		{"id":"70bffa51ccb18ed5","type":"text","text":"Creando una Red neuronal que convierta las categorías en números","x":1761,"y":1260,"width":328,"height":90,"color":"4"},
-		{"id":"e774db0c03a42452","type":"text","text":"## En 10 meses, ¿Se alcanza a hacer un análisis?","x":260,"y":-2260,"width":339,"height":160,"color":"1"}
+		{"id":"e774db0c03a42452","type":"text","text":"## En 10 meses, ¿Se alcanza a hacer un análisis?","x":260,"y":-2260,"width":339,"height":160,"color":"1"},
+		{"id":"4031b781d8842b7e","x":1614,"y":-1408,"width":250,"height":60,"color":"4","type":"text","text":"## Estado del Arte"},
+		{"id":"cfd0fc66b01bf780","x":1702,"y":-1167,"width":558,"height":287,"color":"6","type":"text","text":"- #### Revisión de la Literatura Más Reciente y Relevante\n- #### Descripción de los avances más significativos en el campo\n- #### Identificación de las brechas en el conocimiento actual.\n- #### Contextualización de mi investigación\n- #### Aspectos éticos y regulatorios"},
+		{"id":"c48e87bc78bafd1c","x":1640,"y":-400,"width":250,"height":134,"type":"text","text":"# Con Base En:"}
 	],
 	"edges":[
 		{"id":"1bd576eb526314a7","fromNode":"21d117ca56ad637e","fromSide":"top","toNode":"8367ffd1a037423b","toSide":"bottom","color":"5"},
@@ -97,6 +100,10 @@
 		{"id":"7be6cd37cdb66841","fromNode":"5f0a800291e16116","fromSide":"left","toNode":"9c6c7d6dcbbf2a54","toSide":"right","color":"6"},
 		{"id":"a829f359129a025f","fromNode":"a58dcc9c292f32b5","fromSide":"top","toNode":"e774db0c03a42452","toSide":"bottom","color":"1"},
 		{"id":"8c492a527453f886","fromNode":"ddce18db9585982d","fromSide":"top","toNode":"595503928095a9c5","toSide":"bottom","color":"5"},
-		{"id":"3d72b5f2d2803ca2","fromNode":"595503928095a9c5","fromSide":"top","toNode":"e774db0c03a42452","toSide":"right","color":"1"}
+		{"id":"3d72b5f2d2803ca2","fromNode":"595503928095a9c5","fromSide":"top","toNode":"e774db0c03a42452","toSide":"right","color":"1"},
+		{"id":"42f7ba186325d71b","fromNode":"f4034a2dc0c7a5cc","fromSide":"top","toNode":"4031b781d8842b7e","toSide":"bottom","color":"4"},
+		{"id":"e3a234f491861717","fromNode":"4031b781d8842b7e","fromSide":"bottom","toNode":"cfd0fc66b01bf780","toSide":"top"},
+		{"id":"a185acbfffe2a0ed","fromNode":"c48e87bc78bafd1c","fromSide":"bottom","toNode":"8f73891bd98373a8","toSide":"top","color":"6"},
+		{"id":"b02350dff8c63d6c","fromNode":"cfd0fc66b01bf780","fromSide":"bottom","toNode":"c48e87bc78bafd1c","toSide":"top","color":"6"}
 	]
 }
