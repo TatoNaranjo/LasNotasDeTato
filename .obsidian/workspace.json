@@ -4,22 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0251b154cc0ef569",
+        "id": "1723059cf038d190",
         "type": "tabs",
         "children": [
           {
-            "id": "f804ee38a636761a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/graph.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "a73eebbd1e3c55b1",
+            "id": "14b79b7281f4674e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +18,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cae9db1f58d7a5ec",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+                "viewState": {
+                  "x": 877.1800149463795,
+                  "y": -1829.3780516140803,
+                  "zoom": -1.3333334392971423
+                }
+              }
+            }
+          },
+          {
+            "id": "631cce0d89346025",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas"
+              }
             }
           },
           {
@@ -184,20 +203,42 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f804ee38a636761a",
+  "active": "cae9db1f58d7a5ec",
   "lastOpenFiles": [
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Tesis de Grado/Lecturas/Lecturas.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Solucionando Integrales y Derivadas en Código.md",
+    "Notas De La Universidad/Tesis de Grado/Lecturas/Predicting Mental Health Illness Using Machine Learning Algorithms.pdf",
+    "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental Health Dissorders.pdf",
+    "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental And Behavioral Disorders.pdf",
+    "Notas De La Universidad/Tesis de Grado/Lecturas/Are mental health awareness efforts contributing to the rise in reported mental health problems? A call to test the prevalence inflation hypothesis.pdf",
+    "Notas De La Universidad/Tesis de Grado/Lecturas",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/IntegralCheck2.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/IntegralComprobation2.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Integration Comprobation 1.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/IntegratePython1.png",
+    "[.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/comprobationderivate1.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/derivate1.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/DerivateComprobation.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
     "Notas De La Universidad/Tesis de Grado/Imágenes/PersonasAtendidasPorDepresión2018-2022.png",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/IPShodan3.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/IPShodan2.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/IPShodan1.png",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
@@ -205,33 +246,11 @@
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Modelo General de Kanban.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Basics Of Obsidian/Markdown Cheat Sheet.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "LICENSE.md",
-    "Basics Of Obsidian/Basics Of Obsidian.md",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificatorExample2.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/RandomForestClassificator1.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/randomForestCon2Arboles.png",
     "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184035.png",
-    "Notas De La Universidad/Tesis de Grado/Imágenes/Pasted image 20240827184138.png",
-    "Pasted image 20240828072152.jpg",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
-    "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
-    "PDFs y Documentos/Problema de Optimización.pdf",
-    "PDFs y Documentos/El Manejo de Números en Código.pdf",
-    "PDFs y Documentos/Capturando datos con Wireshark.pdf",
-    "Estudio Independiente/Linux",
     "Untitled.canvas"
   ]
 }

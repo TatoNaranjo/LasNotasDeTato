@@ -43,6 +43,15 @@ Fuente: Elaboración equipo ONS a partir de Registro Individual de Prestaciones 
 
 De igual forma, el proyecto también adopta la filosofía de dos ejes estructurales del Modelo Educativo Digital Transmoderno (MEDIT), siendo el primero la búsqueda de un acto transformador que permita al profesional escoger una decisión de manera autónoma y en beneficio de la sociedad. El segundo eje estructural del proyecto se basa en el conocimiento como una construcción dialógica y formativa que contribuye en la transformación de una persona
 # Objetivos Generales y Específicos
+## Objetivo General
+Desarrollar y evaluar un sistema de análisis predictivo y apoyo a la decisión clínica para mejorar la precisión y objetividad en el diagnóstico de trastornos mentales, con énfasis en la depresión, y analizar su impacto en la práctica clínica y la formación de profesionales de la salud mental.
+## Objetivos Específicos
+- Analizar la integración del sistema con los protocolos de atención existentes en instituciones de salud mental y su impacto en los flujos de trabajo clínicos.
+- Diseñar un modelo de análisis predictivo basado en machine learning para identificar patrones y factores de riesgo asociados con la depresión.
+- Desarrollar un módulo de formación dentro del sistema para ayudar en la educación y entrenamiento de futuros profesionales de la salud mental.
+- Evaluar la precisión y eficacia del sistema desarrollado en comparación con los métodos tradicionales de diagnóstico, utilizando un conjunto de datos clínicos reales o simulados.
+- Implementar un sistema de apoyo a la decisión clínica que integre el modelo predictivo con las mejores prácticas y guías clínicas actuales para el diagnóstico de trastornos mentales.
+
 # Metodología Propuesta
 # Estado del Arte, de la Investigación, Desarrollo Tecnológico o Innovación
 
