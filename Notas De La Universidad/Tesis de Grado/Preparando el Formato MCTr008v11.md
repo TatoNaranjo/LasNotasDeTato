@@ -22,9 +22,9 @@ La salud mental es un pilar fundamental del bienestar humano que impacta signifi
 
 En la última década, la relevancia de la salud mental en el ámbito de la salud pública global ha aumentado considerablemente. Un informe del Ministerio de Salud en 2023 reveló un incremento en los riesgos de salud mental tras la pandemia de SARS-CoV-2, con prevalencias de depresión y ansiedad del 15.8% en adolescentes, 4.7% en adultos entre 18 y 44 años, y 8.9% en mayores de 45 años (Sánchez, 2023). Estas cifras subrayan la urgencia de abordar eficazmente los trastornos mentales.
 
-Un estudio en una escuela secundaria de Estados Unidos demostró que los problemas de salud mental son responsables de una proporción significativamente mayor de dificultades académicas en comparación con los problemas de salud física, visibilizando la necesidad urgente de intervenciones amplias para mejorar el bienestar común (Chelsey R. Wilks, Randy P. Auerbach, Jordi Alonso, Corina Benjet, Ronny Bruffaerts, Pim Cuijpers, David D. Ebert, Jennifer G. Green, Claude A. Mellins, Philippe Mortier, Ekaterina Sadikova, Nancy A. Sampson, Ronald C. Kessler, 2020).
+Un estudio en una escuela secundaria de Estados Unidos demostró que los problemas de salud mental son responsables de una proporción significativamente mayor de dificultades académicas en comparación con los problemas de salud física, visibilizando la necesidad urgente de intervenciones amplias para mejorar el bienestar común (Chelsey R. Wilks et al, 2020).
 
-No obstante, los psicólogos y profesionales de la salud mental enfrentan un desafío crítico en la clasificación y diagnóstico de estos trastornos. Los sistemas actuales de clasificación, como el Manual Diagnóstico y Estadístico para la Clasificación de Trastornos Mentales (DSM-5), son valiosos, sin embargo presentan limitaciones. La subjetividad inherente en la evaluación de síntomas psicológicos y la variabilidad en la interpretación de criterios diagnósticos pueden conducir a imprecisiones y sesgos en el diagnóstico del profesional.
+No obstante, los psicólogos y profesionales de la salud mental enfrentan un desafío crítico en la clasificación y diagnóstico de estos trastornos. Los sistemas actuales de clasificación, como el Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-5), son valiosos, sin embargo presentan limitaciones. La subjetividad inherente en la evaluación de síntomas psicológicos y la variabilidad en la interpretación de criterios diagnósticos pueden conducir a imprecisiones y sesgos en el diagnóstico del profesional.
 
 Este problema se magnifica en el contexto de la formación de nuevos profesionales. Los psicólogos en prácticas, con experiencia limitada, pueden encontrar especialmente desafiante navegar por la complejidad de los sistemas de clasificación y criterios diagnósticos, lo que puede resultar en diagnósticos inexactos o tardíos.
 
@@ -35,6 +35,13 @@ En este contexto, la pregunta de investigación que guía este estudio es: **¿C
 Esta investigación busca no solo desarrollar una herramienta tecnológica, sino también contribuir al avance del campo de la salud mental, promoviendo un enfoque más preciso y basado en evidencia para el diagnóstico y tratamiento de los trastornos mentales.
 
 # Justificación
+El proyecto de un sistema de análisis predictivo y apoyo a la decisión clínica para mejorar la detección de patrones asociados a la depresión presenta una oportunidad de mejora dentro del sistema de salud a nivel nacional e internacional, por medio del desarrollo de una herramienta de ayuda para los psicólogos en estado de prácticas y profesionales de la salud mental a tomar una decisión con fundamento, basada en los conceptos del Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM). Dentro de un contexto nacional en donde un 61,1% de la población Colombiana no está recibiendo atención de su sistema de salud (Zamora-Rondón, Acevedo, Suárez, & Acevedo-Bernal, 2019), por lo que no solo los profesionales han de recibir un beneficio, sino también de forma indirecta, las personas que sean atendidas por dichos profesionales. Además, al presentar una solución tecnológica que corresponde a la minimización de un sesgo dentro de la clasificación de trastornos mentales, se impulsa el uso de las tecnologías modernas para generar sistemas de clasificación más efectivos dentro del campo del tratamiento clínico.
+
+![[PersonasAtendidasPorDepresión2018-2022.png]]
+Fuente: Elaboración equipo ONS a partir de Registro Individual de Prestaciones de Servicios de Salud (RIPS), disponible a través de la Bodega de Datos de SISPRO, Ministerio de Salud y Protección Social. Noviembre 2023.
+
+
+De igual forma, el proyecto también adopta la filosofía de dos ejes estructurales del Modelo Educativo Digital Transmoderno (MEDIT), siendo el primero la búsqueda de un acto transformador que permita al profesional escoger una decisión de manera autónoma y en beneficio de la sociedad. El segundo eje estructural del proyecto se basa en el conocimiento como una construcción dialógica y formativa que contribuye en la transformación de una persona
 # Objetivos Generales y Específicos
 # Metodología Propuesta
 # Estado del Arte, de la Investigación, Desarrollo Tecnológico o Innovación
@@ -42,4 +49,9 @@ Esta investigación busca no solo desarrollar una herramienta tecnológica, sino
 # Referencias
 - [Mental Health Strategies to Combat the Psychological Impact of Coronavirus Disease 2019 (COVID-19) Beyond Paranoia and Panic](https://pubmed.ncbi.nlm.nih.gov/32200399/)
 - [Aumento de la depresión: Secuela Intangible de la Post-Pandemia](https://www.radionacional.co/actualidad/salud/depresion-una-enfermedad-en-aumento)
+- [Reportes de salud mental - Ministerio de Salud y protección Social](https://rssvr2.sispro.gov.co/ObsSaludMental/)
 - [The importance of physical and mental health in explaining health-related academic role impairment among college students](https://www.sciencedirect.com/science/article/abs/pii/S0022395619311252)
+- [Análisis de las Necesidades Y Uso de Servicios de Atención En Salud Mental En Colombia](https://www.scielosp.org/article/rsap/2019.v21n2/175-180/)
+- [Identificación de barreras de la depresión no atendida en Colombia y recomendaciones de política](https://www.ins.gov.co/Direcciones/ONS/publicaciones%20alternas/Policy%20Brief%20Identificaci%C3%B3n%20de%20barreras%20de%20la%20depresi%C3%B3n%20no%20atendida%20en%20Colombia%20y%20recomendaciones%20de%20pol%C3%ADtica.pdf)
+
+- [Carga de Enfermedad Mental - Ministerio de Salud](https://www.ins.gov.co/Direcciones/ONS/carga-de-enfermedad-mental)
