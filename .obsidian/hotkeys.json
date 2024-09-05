@@ -7,5 +7,13 @@
       ],
       "key": "P"
     }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
