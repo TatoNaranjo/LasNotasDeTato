@@ -1,6 +1,12 @@
 Laboratorio realizado para la materia de [[Comunicación de Datos]] que consiste en hacer un sondeo de puertos a 3 IPs diferentes de Shodan usando la herramienta nmap.
 
-# 113.164.27.2
+> Por: Santiago Naranjo Herrera
+
+# Introducción
+El presente informe documenta el laboratorio realizado, cuyo objetivo fue explorar y aplicar técnicas de sondeo de puertos en tres direcciones IP obtenidas a través de la plataforma Shodan. Utilizando la herramienta nmap, se realizaron diferentes tipos de escaneos para identificar puertos abiertos y servicios asociados a cada IP (113.164.27.2, 2.40.2.250 y 104.218.234.234 ). Este ejercicio busca reforzar el conocimiento práctico en la utilización de herramientas de análisis de red, comprender mejor la seguridad de los sistemas conectados a Internet y evaluar potenciales riesgos de ciberseguridad a través de la detección de servicios expuestos.
+
+# Escaneo de Puertos
+## 113.164.27.2
 La primera IP escogida tiene la denominación de octetos: 113.164.27.2 y es correspondiente a una VPN de Hanoi en Vietnam. Los puertos que muestra Shodan son los siguientes:
 
 ![[IPShodan1.png]]
@@ -48,7 +54,7 @@ PORT     STATE    SERVICE            VERSION
 25/tcp   open     smtp?
 ```
 
-# 2.40.2.250
+## 2.40.2.250
 La segunda IP escogida tiene ubicación en Turin, Italia y corresponde a una VPN utilizada por Vodafone Italia. Al inicio siguiendo los comandos correspondientes, el cliente bloqueaba los sondeos que hacía nmap. Sin embargo, luego de un par de intentos se logró hacer el sondeo de forma exitosa.
 
 Los puertos mostrados por Shodan son los siguientes:
@@ -83,7 +89,7 @@ PORT    STATE SERVICE    VERSION
 25/tcp  open  smtp?
 ```
 
-# 104.218.234.234
+## 104.218.234.234
 La tercera IP corresponde a Spartan Host, una compañía para alojar servidores de Minecraft ubicada en Seattle, USA. Los puertos que se muestran en Shodan son los siguientes:
 
 ![[IPShodan3.png]]
@@ -111,3 +117,6 @@ Scanning 104.218.234.234 [1000 ports]
 Discovered open port 25/tcp on 104.218.234.234
 Discovered open port 22/tcp on 104.218.234.234
 ```
+
+# Conclusión
+El laboratorio permitió aplicar técnicas de sondeo de puertos a tres IPs distintas obtenidas de Shodan utilizando la herramienta nmap. A través de este ejercicio, se logró identificar los puertos abiertos y los servicios asociados en cada dirección IP, lo que demuestra la utilidad de estas herramientas en el análisis y evaluación de la seguridad en redes. Además, la actividad proporcionó una comprensión más profunda de cómo se puede usar el sondeo de puertos para descubrir vulnerabilidades y posibles puntos de entrada en sistemas remotos. Esto subraya la importancia de una adecuada configuración de seguridad y de medidas preventivas para proteger la infraestructura de red ante posibles amenazas.
