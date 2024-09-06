@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4af7f7e2373a7f91",
+            "id": "aab6476bead89b80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+                "viewState": {
+                  "x": 343.62125985357267,
+                  "y": -1682.5254999930658,
+                  "zoom": -0.9036155430485144
+                }
+              }
+            }
+          },
+          {
+            "id": "11ca58a674080f13",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Pasatiempos/TatoCocina/Comidas/Comidas.md",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +188,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4af7f7e2373a7f91",
+  "active": "11ca58a674080f13",
   "lastOpenFiles": [
+    "Hobbies/Hobbies.md",
+    "Hobbies/Guitar Tabs/Guitar Tabs.md",
+    "Hobbies/Guitar Tabs",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Hobbies",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Dashboard.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906125239.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133026.png",
@@ -192,12 +212,8 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132338.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
@@ -219,12 +235,8 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Método de Ruta Crítica.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Modelo General de Kanban.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes",
     "Untitled.canvas"
   ]
 }

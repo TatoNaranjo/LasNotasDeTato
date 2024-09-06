@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📙",
       "TiGuitarPickFilled",
       "TiGuitarPick",
       "TiMarkdown",
-      "🐧",
-      "TiWebhook"
+      "🐧"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -87,11 +87,11 @@
   "Estudio Independiente/Desarrollo Web": "TiWebhook",
   "Estudio Independiente/Linux": "🐧",
   "Basics Of Obsidian/Markdown Cheat Sheet.md": "TiMarkdown",
-  "Pasatiempos": "TiGuitarPick",
-  "Pasatiempos/TatoCocina": "🧑‍🍳",
-  "Pasatiempos/TatoCocina/Salsas": "TiMedicineSyrup",
-  "Pasatiempos/TatoCocina/Comidas": "🥄",
-  "Pasatiempos/TatoCocina/Comidas/Desayunos": "🌅",
-  "Pasatiempos/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
-  "Pasatiempos/Guitar Tabs": "TiGuitarPickFilled"
+  "Hobbies": "📙",
+  "Hobbies/TatoCocina": "🧑‍🍳",
+  "Hobbies/TatoCocina/Salsas": "TiMedicineSyrup",
+  "Hobbies/TatoCocina/Comidas": "🥄",
+  "Hobbies/TatoCocina/Comidas/Desayunos": "🌅",
+  "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
+  "Hobbies/Guitar Tabs": "TiGuitarPickFilled"
 }
