@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiGuitarPickFilled",
+      "TiGuitarPick",
       "TiMarkdown",
       "🐧",
-      "TiWebhook",
-      "RiSecurePaymentFill",
-      "TiMobiledata"
+      "TiWebhook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,11 +34,6 @@
   },
   "Notas De La Universidad": "RiSingleQuotesL",
   "PDFs y Documentos": "TiPdf",
-  "TatoCocina": "🧑‍🍳",
-  "TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
-  "TatoCocina/Comidas/Desayunos": "🌅",
-  "TatoCocina/Comidas": "🥄",
-  "TatoCocina/Salsas": "TiMedicineSyrup",
   "Notas De La Universidad/Sexto Semestre/Semillero de Investigación": "TiSeeding",
   "Notas De La Universidad/Tesis de Grado": "RiGraduationCapFill",
   "Notas De La Universidad/Sexto Semestre/Networking": "RiRemoteControlLine",
@@ -91,5 +86,12 @@
   "Notas De La Universidad/Séptimo Semestre/Seguridad Informática": "RiSecurePaymentFill",
   "Estudio Independiente/Desarrollo Web": "TiWebhook",
   "Estudio Independiente/Linux": "🐧",
-  "Basics Of Obsidian/Markdown Cheat Sheet.md": "TiMarkdown"
+  "Basics Of Obsidian/Markdown Cheat Sheet.md": "TiMarkdown",
+  "Pasatiempos": "TiGuitarPick",
+  "Pasatiempos/TatoCocina": "🧑‍🍳",
+  "Pasatiempos/TatoCocina/Salsas": "TiMedicineSyrup",
+  "Pasatiempos/TatoCocina/Comidas": "🥄",
+  "Pasatiempos/TatoCocina/Comidas/Desayunos": "🌅",
+  "Pasatiempos/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
+  "Pasatiempos/Guitar Tabs": "TiGuitarPickFilled"
 }
