@@ -25,7 +25,21 @@
       "query": "path:\"Notas De La Universidad\"  ",
       "color": {
         "a": 1,
-        "rgb": 15527972
+        "rgb": 13545756
+      }
+    },
+    {
+      "query": "path:Hobbies  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Basics Of Obsidian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2691383
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08317427054213089,
+  "scale": 0.2292013286438973,
   "close": true
 }

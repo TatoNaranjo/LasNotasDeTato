@@ -11,14 +11,11 @@
             "id": "aab6476bead89b80",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-                "viewState": {
-                  "x": 343.62125985357267,
-                  "y": -1682.5254999930658,
-                  "zoom": -0.9036155430485144
-                }
+                "file": "Hobbies/Guitar Tabs/Guitar Tabs.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,11 +23,8 @@
             "id": "11ca58a674080f13",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Pasatiempos/TatoCocina/Comidas/Comidas.md",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -190,12 +184,13 @@
   },
   "active": "11ca58a674080f13",
   "lastOpenFiles": [
-    "Hobbies/Hobbies.md",
     "Hobbies/Guitar Tabs/Guitar Tabs.md",
+    "Hobbies/TatoCocina/TatoCocina.md",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Hobbies/Hobbies.md",
     "Hobbies/Guitar Tabs",
     "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
     "Hobbies",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Dashboard.md",
@@ -234,7 +229,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
     "Untitled.canvas"
