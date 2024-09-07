@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aab6476bead89b80",
+            "id": "11ca58a674080f13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Guitar Tabs/Guitar Tabs.md",
+                "file": "Hobbies/Guitar Tabs/Chords.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "11ca58a674080f13",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hobbies/Guitar Tabs/Chords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hobbies/Guitar Tabs/Chords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hobbies/Guitar Tabs/Chords.md"
+              }
             }
           },
           {
@@ -184,15 +179,29 @@
   },
   "active": "11ca58a674080f13",
   "lastOpenFiles": [
+    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
+    "Hobbies/Guitar Tabs/Chords.md",
     "Hobbies/Guitar Tabs/Guitar Tabs.md",
+    "Hobbies/Guitar Tabs/I'm Not Okay (I Promise).md",
+    "Hobbies/Hobbies.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/Programación Competitiva/Algebra.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Hobbies/TatoCocina/TatoCocina.md",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-    "Hobbies/Hobbies.md",
     "Hobbies/Guitar Tabs",
     "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
     "Hobbies",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Dashboard.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906125239.png",
@@ -207,28 +216,14 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132338.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Tesis de Grado/Lecturas/Lecturas.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Solucionando Integrales y Derivadas en Código.md",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Predicting Mental Health Illness Using Machine Learning Algorithms.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental Health Dissorders.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental And Behavioral Disorders.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Are mental health awareness efforts contributing to the rise in reported mental health problems? A call to test the prevalence inflation hypothesis.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas",
-    "[.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
     "Untitled.canvas"
