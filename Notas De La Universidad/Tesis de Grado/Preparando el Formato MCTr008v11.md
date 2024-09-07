@@ -2,8 +2,7 @@ En este documento sobre mi [[Tesis de Grado]] abordaré los diferentes puntos qu
 
 # Título
 # Palabras Clave
-Sistema de Análisis, Psicólogos, Patrones de Comportamiento, Herramienta de Apoyo.
-
+Sistema de Análisis, Psicología, Patrones de Comportamiento, Herramienta de Apoyo.
 # Población Beneficiada
 El desarrollo del sistema de análisis predictivo y apoyo a la decisión clínica beneficia en primer lugar y mayormente a los psicólogos y profesionales de la salud mental que trabajan en el diagnóstico y tratamiento de la depresión. Dicho sistema proporciona una herramienta adicional para detectar patrones de comportamiento y síntomas, apoyando así a su proceso de aprendizaje y toma de decisiones clínicas. Además, los pacientes que reciben atención por parte de los psicólogos en prácticas también se benefician de forma indirecta debido a que la herramienta facilita una evaluación más precisa y fundamentada de sus síntomas, lo que puede conducir a un diagnóstico más temprano y a intervenciones más adecuadas.
 # Impacto del Proyecto
@@ -44,16 +43,84 @@ Fuente: Elaboración equipo ONS a partir de Registro Individual de Prestaciones 
 De igual forma, el proyecto también adopta la filosofía de dos ejes estructurales del Modelo Educativo Digital Transmoderno (MEDIT), siendo el primero la búsqueda de un acto transformador que permita al profesional escoger una decisión de manera autónoma y en beneficio de la sociedad. El segundo eje estructural del proyecto se basa en el conocimiento como una construcción dialógica y formativa que contribuye en la transformación de una persona
 # Objetivos Generales y Específicos
 ## Objetivo General
-Desarrollar y evaluar un sistema de análisis predictivo y apoyo a la decisión clínica para mejorar la precisión y objetividad en el diagnóstico de trastornos mentales, con énfasis en la depresión, y analizar su impacto en la práctica clínica y la formación de profesionales de la salud mental.
+Diseñar y desarrollar una aplicación basada en modelos de clasificación de Machine Learning para el apoyo al diagnóstico de la depresión, y evaluar su potencial impacto en la precisión diagnóstica, la eficiencia clínica y la formación de profesionales de la salud mental a través de la percepción de los profesionales.
 ## Objetivos Específicos
-- Analizar la integración del sistema con los protocolos de atención existentes en instituciones de salud mental y su impacto en los flujos de trabajo clínicos.
-- Diseñar un modelo de análisis predictivo basado en machine learning para identificar patrones y factores de riesgo asociados con la depresión.
-- Desarrollar un módulo de formación dentro del sistema para ayudar en la educación y entrenamiento de futuros profesionales de la salud mental.
-- Evaluar la precisión y eficacia del sistema desarrollado en comparación con los métodos tradicionales de diagnóstico, utilizando un conjunto de datos clínicos reales o simulados.
-- Implementar un sistema de apoyo a la decisión clínica que integre el modelo predictivo con las mejores prácticas y guías clínicas actuales para el diagnóstico de trastornos mentales.
+- Recopilar y analizar un conjunto de datos relevantes para el diagnóstico de la depresión, identificando las variables clave y los patrones más significativos.
+- Desarrollar una interfaz de usuario intuitiva para la aplicación que integre el modelo de Machine Learning y las guías clínicas actuales para el diagnóstico de la depresión.
+- Diseñar y aplicar encuestas de utilidad percibida a los usuarios de la prueba piloto, evaluando aspectos como la facilidad de uso, la utilidad percibida en el diagnóstico, y el potencial impacto en la eficiencia clínica y la formación.
+- Analizar los resultados de las encuestas y elaborar un informe que evalúe el potencial impacto de la aplicación en la precisión diagnóstica, la eficiencia clínica y la formación de profesionales, incluyendo recomendaciones para futuras mejoras y desarrollos, en el último mes del proyecto.
 
 # Metodología Propuesta
+
+Para el desarrollo de esta investigación, se implementará una metodología mixta que integra elementos de la Investigación Acción-Participativa (IAP) y la Investigación Científica de Diseño (Design Science Research, DSR). Este enfoque híbrido se ha seleccionado para abordar de manera integral los objetivos del estudio, combinando la participación activa de los profesionales de la salud con un riguroso proceso de diseño y evaluación tecnológica.
+
+La metodología se fundamenta en dos pilares principales, siendo el primero la Investigación Acción-Participativa, originalmente propuesta por Kurt Lewin en 1946. La IAP se incorpora por su capacidad para integrar una retroalimentación constante de los profesionales de la salud desde el inicio de la investigación. Este enfoque permite ajustar el proyecto de manera dinámica, asegurando que responda efectivamente a las necesidades reales de los usuarios finales. El segundo pilar de la metodología de investigación es la Investigación Científica de Diseño (DSR), en la cual se incorporan elementos clave de la DSR para enfatizar la creación y evaluación sistemática de soluciones tecnológicas orientadas a resolver problemas del mundo real. Este marco metodológico se estructura en fases bien definidas: Identificación del Problema, Definición de Objetivos, Diseño y Desarrollo, Demostración, Evaluación y Comunicación.
+
+Debido al enfoque mixto de la metodología propuesta, el proyecto se desarrollará en dos etapas principales de investigación. La primera etapa consta de una recopilación y análisis sistemático de los elementos clave que constituyen y contribuyen a la evaluación diagnóstica de trastornos mentales, con énfasis en la depresión. Además, se abordará la implementación de las fases de planeación de la DSR para guiar el diseño y construcción de la herramienta tecnológica. La segunda etapa consta de una evaluación exhaustiva de la herramienta, centrada en la utilidad percibida por los profesionales de la salud y su potencial impacto en la práctica clínica. Posteriormente, se realizará una investigación iterativa basada en el feedback recibido, orientada a integrar mejoras de utilidad y calidad en la herramienta.
+
+Esta metodología mixta permite un abordaje holístico del proyecto, combinando el rigor científico con la flexibilidad necesaria para adaptar la herramienta a las necesidades cambiantes del entorno clínico. La integración de la IAP y la DSR facilita un proceso de desarrollo iterativo y centrado en el usuario, maximizando así la relevancia y aplicabilidad del producto final en el contexto real de la salud mental.
+
+En el marco de la metodología para la producción y el desarrollo del proyecto se implementará una metodología híbrida que busca integrar elementos de SCRUM, la cual se basa en un proceso de entrega de las funcionalidades de una aplicación a través de iteraciones en un corto periodo de tiempo. Así mismo se integran elementos del modelo de desarrollo en espiral propuesto por Barry W. Boehm, el cual enfatiza en la evaluación de riesgos y la validación en cada iteración, lo cual determinará un factor crucial para el proyecto de investigación.
+
+En la implementación de SCRUM, los roles se definirán de la siguiente manera: el investigador principal actuará como Scrum Master, siendo la persona encargada de facilitar el proceso y eliminar impedimentos, mientras que el equipo de desarrollo, compuesto por los estudiantes, asumirá el rol de desarrolladores. Los profesionales de la salud involucrados actuarán como Product Owners, siendo aquellos actores que estarán proporcionando retroalimentación constante sobre las funcionalidades desarrolladas.
+
 # Estado del Arte, de la Investigación, Desarrollo Tecnológico o Innovación
+
+Estructura del estado del arte:
+
+- Panorama actual del diagnóstico de trastornos mentales, especialmente la depresión
+- Uso de tecnologías de análisis predictivo en el campo de la salud mental
+- Sistemas de apoyo a la decisión clínica existentes y su impacto
+- Desafíos y limitaciones de los métodos actuales de diagnóstico
+- Aplicación de machine learning en el diagnóstico de trastornos mentales
+- Consideraciones éticas y de privacidad en el uso de IA en salud mental
+- Impacto de las nuevas tecnologías en la formación de profesionales de la salud mental
+
+Lo que normalmente se incluye en un estado del arte:
+Revisión de la literatura más reciente y relevante:
+Artículos científicos
+Libros y capítulos de libros
+Conferencias y presentaciones
+Tesis doctorales y de maestría relacionadas
+
+Descripción de los avances más significativos en el campo:
+Teorías predominantes
+Metodologías utilizadas
+Tecnologías y herramientas relevantes
+
+Identificación de las brechas en el conocimiento actual:
+Áreas poco exploradas
+Contradicciones o debates en el campo
+
+Contextualización de tu investigación:
+Cómo tu trabajo se relaciona con la investigación existente
+Qué aporta tu investigación al campo
+
+Análisis crítico de los estudios existentes:
+Fortalezas y debilidades de los enfoques actuales
+Limitaciones de los estudios previos
+
+Tendencias actuales y futuras direcciones de investigación:
+Hacia dónde se dirige el campo
+Qué preguntas quedan por responder
+
+Metodologías y enfoques utilizados en investigaciones similares:
+Técnicas de recolección de datos
+Métodos de análisis
+
+Marco conceptual o teórico relevante para tu investigación:
+Definiciones clave
+Modelos teóricos aplicables
+
+Aspectos éticos y regulatorios:
+Consideraciones éticas en investigaciones similares
+Normativas relevantes en el campo
+
+Aplicaciones prácticas de la investigación en el campo:
+Cómo se han aplicado los conocimientos en situaciones reales
+Impacto de la investigación en la práctica
+
+
 
 # Referencias
 - [Mental Health Strategies to Combat the Psychological Impact of Coronavirus Disease 2019 (COVID-19) Beyond Paranoia and Panic](https://pubmed.ncbi.nlm.nih.gov/32200399/)
@@ -62,5 +129,8 @@ Desarrollar y evaluar un sistema de análisis predictivo y apoyo a la decisión 
 - [The importance of physical and mental health in explaining health-related academic role impairment among college students](https://www.sciencedirect.com/science/article/abs/pii/S0022395619311252)
 - [Análisis de las Necesidades Y Uso de Servicios de Atención En Salud Mental En Colombia](https://www.scielosp.org/article/rsap/2019.v21n2/175-180/)
 - [Identificación de barreras de la depresión no atendida en Colombia y recomendaciones de política](https://www.ins.gov.co/Direcciones/ONS/publicaciones%20alternas/Policy%20Brief%20Identificaci%C3%B3n%20de%20barreras%20de%20la%20depresi%C3%B3n%20no%20atendida%20en%20Colombia%20y%20recomendaciones%20de%20pol%C3%ADtica.pdf)
-
 - [Carga de Enfermedad Mental - Ministerio de Salud](https://www.ins.gov.co/Direcciones/ONS/carga-de-enfermedad-mental)
+- [LA INVESTIGACIÓN - ACCIÓN PARTICIPATIVA Guía conceptual y metodológica del Instituto de Montaña](https://mountain.pe/recursos/attachments/article/168/Investigacion-Accion-Participativa-IAP-Zapata-y-Rondan.pdf)
+- [Guidelines for Conducting Design Science Research in Information Systems](https://www.cair.org.za/sites/default/files/2020-02/SACLA2019.pdf)
+- [Asana - What Is SCRUM?](https://asana.com/resources/what-is-scrum)
+- [Modelo en espiral: el modelo para la gestión de riesgos en el desarrollo de software](https://www.ionos.mx/startupguide/productividad/modelo-en-espiral/)
