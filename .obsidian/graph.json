@@ -11,35 +11,35 @@
       "query": "path:\"Notas De La Universidad/Tesis de Grado\"  ",
       "color": {
         "a": 1,
-        "rgb": 14496216
+        "rgb": 15961000
       }
     },
     {
       "query": "path:\"Estudio Independiente\"  ",
       "color": {
         "a": 1,
-        "rgb": 708022
+        "rgb": 9024762
       }
     },
     {
       "query": "path:\"Notas De La Universidad\"  ",
       "color": {
         "a": 1,
-        "rgb": 13545756
+        "rgb": 16429959
       }
     },
     {
       "query": "path:Hobbies  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10937249
       }
     },
     {
       "query": "path:\"Basics Of Obsidian\"  ",
       "color": {
         "a": 1,
-        "rgb": 2691383
+        "rgb": 13346551
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660890326942674,
-  "close": true
+  "scale": 0.11660890326942659,
+  "close": false
 }
