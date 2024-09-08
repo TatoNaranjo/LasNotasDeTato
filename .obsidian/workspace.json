@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8a488b11abcc00c8",
+        "id": "7ae215d7fc2cce9b",
         "type": "tabs",
         "children": [
           {
-            "id": "db00ef14ef1268fd",
+            "id": "b3a94aaedb3e86b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b54173a103af26f",
+            "id": "c14f908ade0bf9fd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md"
+                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md"
               }
             }
           },
@@ -187,13 +185,21 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1b54173a103af26f",
+  "active": "b3a94aaedb3e86b9",
   "lastOpenFiles": [
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Hobbies/Guitar Tabs/Chords.md",
-    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
-    "Hobbies/Guitar Tabs/Guitar Tabs.md",
     "Hobbies/Guitar Tabs/I'm Not Okay (I Promise).md",
+    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
+    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Hobbies/Guitar Tabs/Guitar Tabs.md",
     "Hobbies/Hobbies.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
@@ -202,18 +208,14 @@
     "Estudio Independiente/Programación Competitiva/Algebra.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "PDFs y Documentos/PDFs y Documentos.md",
     "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Hobbies/TatoCocina/TatoCocina.md",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Hobbies/Guitar Tabs",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
     "Hobbies",
     "Dashboard.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906125239.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133026.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133011.png",
@@ -224,10 +226,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132559.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132537.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132338.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Predicting Mental Health Illness Using Machine Learning Algorithms.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental Health Dissorders.pdf",

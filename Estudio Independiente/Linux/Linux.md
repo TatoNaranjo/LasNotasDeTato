@@ -7,3 +7,4 @@ A lo largo de todo mi 2023 y 2024 me ha interesado aprender más acerca de este 
 
 ## Índice
 - [[Guía Post-Instalación de Arch Linux]]
+- [[Cómo Usar VIM Y No Morir En El Intento]]
