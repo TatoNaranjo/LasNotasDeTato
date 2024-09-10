@@ -1,8 +1,9 @@
 En este documento sobre mi [[Tesis de Grado]] abordaré los diferentes puntos que abarca el formato MCTr sobre el proyecto.
 
 # Título
+Sistema de apoyo a la decisión clínica para mejorar la precisión en el diagnóstico de trastornos mentales, enfocado en la depresión, usando modelos de clasificación de _machine learning_ en profesionales practicantes de la Universidad de Cundinamarca.
 # Palabras Clave
-Sistema de Análisis, Psicología, Patrones de Comportamiento, Herramienta de Apoyo.
+Sistema de Apoyo, Psicología, Patrones de Comportamiento, Herramienta de Apoyo.
 # Población Beneficiada
 El desarrollo del sistema de análisis predictivo y apoyo a la decisión clínica beneficia en primer lugar y mayormente a los psicólogos y profesionales de la salud mental que trabajan en el diagnóstico y tratamiento de la depresión. Dicho sistema proporciona una herramienta adicional para detectar patrones de comportamiento y síntomas, apoyando así a su proceso de aprendizaje y toma de decisiones clínicas. Además, los pacientes que reciben atención por parte de los psicólogos en prácticas también se benefician de forma indirecta debido a que la herramienta facilita una evaluación más precisa y fundamentada de sus síntomas, lo que puede conducir a un diagnóstico más temprano y a intervenciones más adecuadas.
 # Impacto del Proyecto
@@ -66,15 +67,34 @@ En la implementación de SCRUM, los roles se definirán de la siguiente manera: 
 
 # Estado del Arte, de la Investigación, Desarrollo Tecnológico o Innovación
 
+La salud mental es un estado de bienestar mental que permite a la gente sobrellevar el estrés de la vida, resaltar sus habilidades, aprender y trabajar de mejor manera para contribuir a su comunidad. Esta es determinada por una interacción compleja entre el tensiones individuales, sociales y estructurales. El plano físico que representa el estado actual de la salud mental de un individuo es un espacio complejo multidimensional que no puede ser observado completamente de forma típica, o directamente medido y modelado. Es gracias a esto que hoy en día, la clasificación de trastornos mentales se ha vuelto un pilar fundamental dentro de los conceptos que cobijan a las carreras afines a la psiquiatría y la psicología.
+
+A lo largo de la historia y la evolución del estudio clínico, el diagnóstico para el tratamiento de datos se ha basado en la presentación de síntomas. Esto aplica únicamente al tratamiento de tests biológicos como la nosología psiquiátrica, debido a que para los desórdenes como el cancer o la diabetes se ha dado paso al campo de los tests biológicos o genómicos. Hoy en día se evidencia una discusión latente sobre las formas de presentar un diagnóstico o un resultado, esto debido a que el cerebro es la parte más difícil del cuerpo cuando se habla de su estudio y la forma en la que se comprende. Los síntomas como los trastornos mentales (en contraste con la mayoría de trastornos neurológicos) afectan a la mayoría de funciones complejas del ser humano, y son extremadamente difíciles de contextualizar o medir. Aún así, la ciencia del cerebro y el comportamiento ha llegado a un punto en el que se ha vuelto posible (y de igual forma necesario) encontrar nuevas formas de trasladar esos avances en el estudio del comportamiento del cerebro, a estudios que hagan surgir nuevos tratamientos.
+
+En cuanto al origen de los aspectos técnicos de la nosología (ciencia que se encarga de la clasificación de enfermedades), se puede destacar que los primeros intentos de clasificar aspectos de psicopatología en los Estados Unidos surgieron alrededor del siglo XIX. Inicialmente, se buscaba estandarizar las enfermedades de acuerdo con los datos aprobados por el Buró de Censos de los Estados Unidos. Sin embargo, con el tiempo, integrar diferentes opiniones provenientes exclusivamente del ámbito psiquiátrico, en lugar de una entidad u organización, se hizo más difícil. Por ello, en 1918, con el respaldo del Comité Nacional para la Higiene Mental, la Asociación Americana Médico-Psicológica (ahora llamada Asociación Americana de Psiquiatría) y el mismo Buró de Censos, se creó el primer acercamiento a una nomenclatura formal y estandarizada de las condiciones fisiopatológicas. Estos esfuerzos concluyeron con la creación de un documento denominado "El Manual Estadístico para el Uso de las Instituciones para Locos", considerado como el predecesor de la serie de libros que sirven como guía actual: el _Manual Diagnóstico y Estadístico de Trastornos Mentales (DSM)_ (Kawa & Giordano, 2012).
+
+El hecho de que el DSM contenga una gran cantidad de criterios libres de teoría, escritos en un lenguaje sencillo de entender y sea manejado por medio de una serie de reglas explícitas para asignar diagnósticos, hacen que el manual cumpla su objetivo al proveer resultados positivos y satisfactorios al momento de generar acuerdos para un diagnóstico. El resultado de crear el DSM-III marcó un precedente en la era moderna de la investigación psiquiátrica, lo que dio paso a la redacción de literatura extensa sobre la psicopatología, epidemiología y los ensayos clínicos; también fomentó diversas extensiones de diagnósticos psiquiátricos dentro del sistema legal, reembolsos del seguro y las evaluaciones de discapacidad.
+
+Con la llegada del DSM, también se formó un manual con una gran cantidad de criterios libres de teoría, escrito en un lenguaje sencillo de entender y manejado por medio de una serie de reglas explícitas para asignar diagnósticos. Es por ello que en un principio, el DSM en todas sus versiones, cumple su objetivo al proveer resultados positivos y satisfactorios al momento de generar acuerdos para un diagnóstico. El resultado de crear el DSM-III marcó un precedente en la era moderna de la investigación psiquiátrica, lo que dio paso a la redacción de literatura extensa sobre la psicopatología, epidemiología y los ensayos clínicos; también fomentó diversas extensiones de diagnósticos psiquiátricos dentro del sistema legal, reembolsos del seguro y las evaluaciones de discapacidad.
+
+Para la construcción del estado del arte, se enfatiza en la creación de una herramienta, como ayuda para la construcción continua de una propuesta dada por el Instituto Nacional de Salud Mental de Estados Unidos (NIMH) en el 2011: los Criterios de Dominio de Investigación (O RDoC por sus Siglas en Inglés de: Research Domain Criteria). Estos criterios buscan fomentar la organización esquemática de la investigación de salud mental oponiéndose a los cuadros diagnósticos tradicionales del DSM, creado por la Asociación Estadounidense de Psiquiatría (APA).
+
+El RDoC llega como la segunda iteración de un sistema de clasificación experimental. En los instantes de su creación en el año 2011, todas las investigaciones principales se enfocaron en la validez del sistema de diagnósticos actual. Las décadas posteriores a la publicación del DSM-III han demostrado significativamente que las categorías dentro de un diagnóstico no representan una entidad patológica coherente, sino, más bien, síndromes amplios. Si bien, los diagnósticos pueden ser establecidos de una forma confiable en la mayoría de los casos, no están exentos a presentar problemas tales como una heterogeneidad excesiva, comordibilidad y sobreespecificación. Estas dificultades operativas y conceptuales obstaculizan los intentos de entender la fisiopatología de los trastornos mentales y de desarrollar nuevos tratamientos, y parecen ser una gran parte del motivo por el que las compañías farmacéuticas se han alejado del desarrollo de fármacos psiquiátricos.
+
+En el uso clínico contemporáneo estos problemas parecen no tener mucha relevancia al no tener tanta diferencia. La mayoría de los tratamientos se pueden tratar de una forma eficaz en una amplia gama de poblaciones clínicas, unos cuantos ejemplos podrían ser, los inhibidores selectivos de la recaptación de la serotonina, la terapia cognitivo-conceptual, las benzodiacepinas y los protocolos de extinción para los trastornos de ansiedad. Las incertidumbres diagnósticas a menudo se resuelven simplemente probando terapias: un paciente psicótico con rangos mixtos que responde al litio debe tener un trastorno bipolar, y si no, su diagnóstico pasa a registrar una esquizofrenia. Aún así, incluso en el ámbito clínico siguen persistiendo los problemas. Aunque existen tratamientos efectivos para los trastornos mentales, solo consiguen la remisión significativa de los síntomas la mitad de las veces, y la elección de los tratamientos óptimos no puede predecirse de una forma empírica para cada paciente; esto da lugar a retrasos frustrantes (a veces incluso fatales) en la búsqueda de un alivio eficaz.
+
+En un inicio, la base de los sistemas de apoyo para decisiones clínicas constaban de realizar diagnósticos a partir de una toma de decisión sencilla por medio de algoritmos del estilo (Si A pasa, hacer B, y si no pasa A, hacer C).
+
+
+
 Estructura del estado del arte:
 
-- Panorama actual del diagnóstico de trastornos mentales, especialmente la depresión
-- Uso de tecnologías de análisis predictivo en el campo de la salud mental
-- Sistemas de apoyo a la decisión clínica existentes y su impacto
-- Desafíos y limitaciones de los métodos actuales de diagnóstico
-- Aplicación de machine learning en el diagnóstico de trastornos mentales
-- Consideraciones éticas y de privacidad en el uso de IA en salud mental
-- Impacto de las nuevas tecnologías en la formación de profesionales de la salud mental
+- [x] Recorrido de la historia a través de la clasificación de los diagnósticos de trastornos mentales.
+- [x] Desafíos y limitaciones de los métodos actuales de diagnóstico
+- [ ] Uso de tecnologías de apoyo a la toma de decisiones en el campo de la salud mental.
+- [ ] Sistemas de apoyo a la decisión clínica existentes y su impacto
+- [ ] Consideraciones éticas y de privacidad en el uso de IA en salud mental
+- [ ] Impacto de las nuevas tecnologías en la formación de profesionales de la salud mental
 
 Lo que normalmente se incluye en un estado del arte:
 Revisión de la literatura más reciente y relevante:
@@ -134,3 +154,9 @@ Impacto de la investigación en la práctica
 - [Guidelines for Conducting Design Science Research in Information Systems](https://www.cair.org.za/sites/default/files/2020-02/SACLA2019.pdf)
 - [Asana - What Is SCRUM?](https://asana.com/resources/what-is-scrum)
 - [Modelo en espiral: el modelo para la gestión de riesgos en el desarrollo de software](https://www.ionos.mx/startupguide/productividad/modelo-en-espiral/)
+- [Psiquiatría Computacional](https://es.wikipedia.org/wiki/Psiquiatr%C3%ADa_computacional)
+- [Digital twins and the future of precision mental health](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1082598/full)
+- [A probabilistic graphical model foundation for enabling predictive digital twins at scale](https://www.nature.com/articles/s43588-021-00069-0)
+- [A brief historicity of the _Diagnostic and Statistical Manual of Mental Disorders_: Issues and implications for the future of psychiatric canon and practice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3282636/)
+- [Criterios de Dominio de Investigación (RDoC): Fortalezas y debilidades de una propuesta reciente para unificar la investigación en psicopatología](https://www.researchgate.net/publication/327683079_Criterios_de_Dominio_de_Investigacion_RDoC_Fortalezas_y_debilidades_de_una_propuesta_reciente_para_unificar_la_investigacion_en_psicopatologia)
+- [Sistemas informáticos de soporte a la decisión clínica - Julio Bonis](https://www.elsevier.es/es-revista-medicina-clinica-2-articulo-sistemas-informaticos-soporte-decision-clinica-13057545)
