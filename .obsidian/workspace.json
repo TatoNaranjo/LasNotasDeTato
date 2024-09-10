@@ -4,30 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae215d7fc2cce9b",
+        "id": "e372cbc90a1407d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a94aaedb3e86b9",
+            "id": "d535828e4183ba67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
+                "file": "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e953731ca5706ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c14f908ade0bf9fd",
+            "id": "b0acbb60fb24f610",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md"
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md"
               }
             }
           },
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 428
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,37 +200,37 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b3a94aaedb3e86b9",
+  "active": "2e953731ca5706ca",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología Lean.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Basics Of Obsidian/Markdown Cheat Sheet.md",
+    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología en Cascada.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología Six Sigma.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Programación extrema.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
     "Estudio Independiente/Linux/Linux.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Hobbies/Guitar Tabs/Chords.md",
     "Hobbies/Guitar Tabs/I'm Not Okay (I Promise).md",
     "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
-    "Notas De La Universidad/Tesis de Grado/Los gemelos digitales y el futuro de la salud mental de precisión.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Hobbies/Guitar Tabs/Guitar Tabs.md",
-    "Hobbies/Hobbies.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Estudio Independiente/Programación Competitiva/Algebra.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Hobbies/TatoCocina/TatoCocina.md",
     "Hobbies/Guitar Tabs",
     "Hobbies",
-    "Dashboard.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906125239.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133026.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133011.png",
@@ -226,7 +241,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132559.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132537.png",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132338.png",
-    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Predicting Mental Health Illness Using Machine Learning Algorithms.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental Health Dissorders.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental And Behavioral Disorders.pdf",
