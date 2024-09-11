@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e372cbc90a1407d7",
+        "id": "4c01441d8507e4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d535828e4183ba67",
+            "id": "bf4f86cfcdbf28d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e953731ca5706ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0acbb60fb24f610",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +141,15 @@
             }
           },
           {
-            "id": "78ec0744b0a73d28",
+            "id": "e40f8db43fde0925",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "faeb65c23d2efceb",
             "type": "leaf",
             "state": {
               "type": "timer-view",
@@ -181,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 348
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,47 +180,48 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2e953731ca5706ca",
+  "active": "bf4f86cfcdbf28d9",
   "lastOpenFiles": [
+    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Informe del Método de iteración de punto fijo.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911080719.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Hobbies/Hobbies.md",
+    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
+    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología Lean.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología en Cascada.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073658.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073437.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/complexMenu.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/DivideComplex.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/multiplicationComplex.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/minusComplex.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/sumComplex.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/askComplexNumbers.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programa Oracle Next Education/GitHub/Comandos de GitHub.md",
+    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
+    "Hobbies/Guitar Tabs/Chords.md",
+    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
+    "Hobbies/Guitar Tabs/Guitar Tabs.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato MCTr008v11.md",
-    "Notas De La Universidad/Tesis de Grado/Research Domain Criteria.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Basics Of Obsidian/Markdown Cheat Sheet.md",
-    "Notas De La Universidad/Tesis de Grado/Consideraciones.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología en Cascada.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología Six Sigma.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Programación extrema.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
-    "Notas De La Universidad/Tesis de Grado/Preparando el Formato IEEE.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Random Forest.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Sistemas de Clasificación.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Linux/Cómo Usar VIM Y No Morir En El Intento.md",
-    "Estudio Independiente/Linux/Linux.md",
-    "Hobbies/Guitar Tabs/Chords.md",
-    "Hobbies/Guitar Tabs/I'm Not Okay (I Promise).md",
-    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
     "Hobbies/Guitar Tabs",
     "Hobbies",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906125239.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133026.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906133011.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132958.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132812.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132724.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132649.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132559.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132537.png",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Pasted image 20240906132338.png",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Predicting Mental Health Illness Using Machine Learning Algorithms.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental Health Dissorders.pdf",
     "Notas De La Universidad/Tesis de Grado/Lecturas/Classification of Mental And Behavioral Disorders.pdf",
