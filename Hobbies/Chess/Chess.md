@@ -1,6 +1,6 @@
 ---
 tags: MOCs
 ---
-Carpeta dedicada a aprender Ajedrez como uno de mis [[Hobbies]]. Pueden ser: Jugadas, Aperturas, Cierres, Finales o Tips.
+This is a folder to learn how to play Chess as one of my favorite [[Hobbies]]. Here, i can study: Appertures, Finals, Tips and More.
 ```folder-index-content
 ```
