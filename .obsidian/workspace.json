@@ -11,10 +11,11 @@
             "id": "fbc730d08b288702",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Hobbies/Languages/Portuguese/Portuguese.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hobbies/Languages/Portuguese/Portuguese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hobbies/Languages/Portuguese/Portuguese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hobbies/Languages/Portuguese/Portuguese.md"
+              }
             }
           },
           {
@@ -182,7 +187,24 @@
   },
   "active": "fbc730d08b288702",
   "lastOpenFiles": [
+    "Hobbies/Languages/Languages.md",
+    "Hobbies/Languages/Portuguese/Portuguese.md",
+    "Hobbies/Languages/Portuguese/Resources/Resources.md",
+    "Hobbies/Languages/Portuguese/Resources",
+    "Hobbies/Languages/Portuguese/Reading Comprehension/Reading Comprehension.md",
+    "Hobbies/Languages/Portuguese/Reading Comprehension",
+    "Hobbies/Languages/Portuguese/Audible Comprehension/Audible Comprehension.md",
+    "Hobbies/Languages/Portuguese/Audible Comprehension",
+    "Hobbies/Languages/Portuguese/Pronunciation/Pronunciation.md",
+    "Hobbies/Languages/Portuguese/Pronunciation",
+    "Hobbies/Languages/Portuguese/Vocabulary/Vocabulary.md",
+    "Hobbies/Languages/Portuguese/Vocabulary",
+    "Hobbies/Languages/Portuguese/Grammar/Grammar.md",
+    "Hobbies/Languages/Portuguese/Grammar",
+    "Hobbies/Languages/Portuguese",
     "Hobbies/Chess/Chess.md",
+    "Hobbies/Hobbies.md",
+    "Hobbies/Languages",
     "Pasted image 20240827184035.png.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
     "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
@@ -192,7 +214,6 @@
     "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
     "Hobbies/Guitar Tabs/Chords.md",
     "Hobbies/Guitar Tabs/Guitar Tabs.md",
-    "Hobbies/Hobbies.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Pares e Impares.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Cuadráticas.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
@@ -200,23 +221,8 @@
     "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Untitled.md",
-    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Hobbies/Chess",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
-    "PDFs y Documentos/trabajoAnalisis/Operaciones Básicas de Números Complejos en Python.pdf",
-    "PDFs y Documentos/trabajoAnalisis/Informe del Método de iteración de punto fijo.pdf",
-    "PDFs y Documentos/trabajoAnalisis",
-    "PDFs y Documentos/trabajoAnalisis.7z",
-    "PDFs y Documentos/Operaciones Básicas de Números Complejos en Python.pdf",
-    "PDFs y Documentos/Informe del Método de iteración de punto fijo.pdf",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911080719.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073658.png",
@@ -227,7 +233,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/minusComplex.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/sumComplex.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/askComplexNumbers.png",
-    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]

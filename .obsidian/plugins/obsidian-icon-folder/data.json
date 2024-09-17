@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🇧🇷",
+      "TiLanguage",
       "RaPawn",
       "📙",
-      "TiGuitarPickFilled",
-      "TiGuitarPick",
-      "TiMarkdown"
+      "TiGuitarPickFilled"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -93,5 +93,7 @@
   "Hobbies/TatoCocina/Comidas/Desayunos": "🌅",
   "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md": "RaEgg",
   "Hobbies/Guitar Tabs": "TiGuitarPickFilled",
-  "Hobbies/Chess": "RaPawn"
+  "Hobbies/Chess": "RaPawn",
+  "Hobbies/Languages": "TiLanguage",
+  "Hobbies/Languages/Portuguese": "🇧🇷"
 }

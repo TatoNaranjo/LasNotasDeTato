@@ -29,6 +29,27 @@
       }
     },
     {
+      "query": "path:Hobbies/Languages/Portuguese  ",
+      "color": {
+        "a": 1,
+        "rgb": 309595
+      }
+    },
+    {
+      "query": "path:\"Hobbies/Guitar Tabs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14112015
+      }
+    },
+    {
+      "query": "path:Hobbies/Chess  ",
+      "color": {
+        "a": 1,
+        "rgb": 5128226
+      }
+    },
+    {
       "query": "path:Hobbies  ",
       "color": {
         "a": 1,
@@ -53,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660890326942647,
+  "scale": 0.2292013286438967,
   "close": true
 }
