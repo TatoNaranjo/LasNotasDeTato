@@ -1,4 +1,5 @@
 > Informe hecho por: Santiago Naranjo Herrera, David Santiago Sierra y Edgar Duván Bernal Acero
+
 # Introducción
 
 El Método de Iteración de Punto Fijo es una técnica fundamental en el análisis numérico, utilizada para encontrar soluciones aproximadas a ecuaciones no lineales. Este método es especialmente útil cuando no se puede obtener una solución exacta de forma analítica, o cuando se trabaja con funciones complejas para las cuales los métodos tradicionales, como la factorización o el cálculo explícito, no son aplicables.

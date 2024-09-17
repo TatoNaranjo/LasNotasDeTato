@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "924b33b9e4e86872",
+        "id": "32b391db14bf7556",
         "type": "tabs",
         "children": [
           {
-            "id": "4a265cdeeed1494a",
+            "id": "fbc730d08b288702",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/chess-study/styles.css",
+                "file": ".obsidian/community-plugins.json",
                 "staged": false
               }
             }
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 422
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,43 +180,45 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4a265cdeeed1494a",
+  "active": "fbc730d08b288702",
   "lastOpenFiles": [
     "Hobbies/Chess/Chess.md",
+    "Pasted image 20240827184035.png.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
+    "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
+    "Hobbies/TatoCocina/Comidas/Desayunos/Desayunos.md",
+    "Hobbies/TatoCocina/Comidas/Comidas.md",
+    "Hobbies/TatoCocina/TatoCocina.md",
+    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
+    "Hobbies/Guitar Tabs/Chords.md",
+    "Hobbies/Guitar Tabs/Guitar Tabs.md",
     "Hobbies/Hobbies.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Pares e Impares.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Cuadráticas.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "Untitled.md",
+    "Estudio Independiente/JSON Web Token/JSON Web Token.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Hobbies/Chess",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "PDFs y Documentos/trabajoAnalisis/trabajoAnalisis.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
     "PDFs y Documentos/trabajoAnalisis/Operaciones Básicas de Números Complejos en Python.pdf",
     "PDFs y Documentos/trabajoAnalisis/Informe del Método de iteración de punto fijo.pdf",
     "PDFs y Documentos/trabajoAnalisis",
     "PDFs y Documentos/trabajoAnalisis.7z",
     "PDFs y Documentos/Operaciones Básicas de Números Complejos en Python.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Informe del Método de iteración de punto fijo.md",
     "PDFs y Documentos/Informe del Método de iteración de punto fijo.pdf",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/El Manejo de Números en Código.md",
-    "Notas De La Universidad/Tesis de Grado/Tesis de Grado.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911080719.png",
-    "Estudio Independiente/JSON Web Token/Qué es JWT.md",
-    "Notas De La Universidad/Tesis de Grado/Sistemas de Clasificación/Clasificación de un Algoritmo Random Forest.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología Lean.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Metodología en Cascada.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073658.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073437.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/complexMenu.png",
@@ -225,8 +227,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/minusComplex.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/sumComplex.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/askComplexNumbers.png",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
