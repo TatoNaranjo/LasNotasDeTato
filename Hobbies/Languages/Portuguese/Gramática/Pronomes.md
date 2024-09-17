@@ -1,4 +1,4 @@
-Part of the Portuguese [[Grammar]] where i can refer to somebody or something.
+Part of the Portuguese [[Gramática]] where i can refer to somebody or something.
 
 
 | **English**   | **Portuguese** |
