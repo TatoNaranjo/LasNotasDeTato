@@ -22,4 +22,4 @@ Part of the Portuguese [[Gramática]] where i can refer to somebody or something
 | His / Her / Its | Dele / Dela                     | Dele / Dela                           |
 | Our             | Nosso / Nossa                   | Nossos / Nossas                       |
 | Your            | De Vocês                        | De Vocês                              |
-| Their           | Deles / Delas                   | Deles / Delas                         |
+| Their           | Deles / Delas / Seu             | Deles / Delas / Seu                   |
