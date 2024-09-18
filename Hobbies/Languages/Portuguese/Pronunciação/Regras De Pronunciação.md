@@ -1,3 +1,5 @@
+Rules of [[Pronunciação]]
+
 1. Aprende el alfabeto con sus sonidos básicos. No es muy diferente del español, pero es la base para aprender a hablar el idioma.
 
 2. Cualquier letra que aparezca con la virgulilla (~) deberás pronunciarla nasalmente, como si te estuvieras presionando la nariz.
