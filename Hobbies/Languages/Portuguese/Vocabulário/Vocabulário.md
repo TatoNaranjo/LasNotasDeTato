@@ -4,6 +4,16 @@ tags: MOCs
 ```table-of-contents
 ```
 # Common Words
+## Verbs
+```vocaview-list1
+Telefone: Phone (In Spanish: Teléfono)
+Ler: Read (In Spanish: Leer)
+```
+## Questions
+```vocaview-list1
+Onde: Where? (In Spanish: Donde?)
+```
+
 
 # Common Phrases
 ## Greetings
@@ -29,7 +39,16 @@ Tudo Bem?: All Well? (In Spanish: Todo bien?)
 # Themed Vocabulary
 ## Familia
 ## Comida
+```vocaview-list1
+Leite: Milk (In Spanish: Leche)
+Salada:Salad (In Spanish: Ensalada)
+```
+
 ## Trabajo
 ## Viajes
+```vocaview-list1
+rua:Street (In Spanish: Calle)
+```
+
 ## Colores
 # Expresiones Idiomáticas
