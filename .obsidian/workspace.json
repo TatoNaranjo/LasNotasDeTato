@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "79899b9053bcbacf",
+        "id": "39822d447841c639",
         "type": "tabs",
         "children": [
           {
-            "id": "c68efc768aecd081",
+            "id": "0767876a8ad569aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
+                "file": "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c17f9a0eab33e397",
+            "id": "1d70c8308502d99b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Hobbies/Languages/Portuguese/Vocabulário/Vocabulário.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md"
+              }
             }
           },
           {
@@ -193,11 +197,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "0767876a8ad569aa",
   "lastOpenFiles": [
+    "Hobbies/Languages/Portuguese/Vocabulário/Vocabulário.md",
+    "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
+    "Hobbies/Languages/Portuguese/Portuguese.md",
+    "Hobbies/Languages/Languages.md",
+    "Hobbies/Hobbies.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md",
     "Basics Of Obsidian/Basics Of Obsidian.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Hobbies/Chess/Advices.md",
     "Hobbies/Chess/Chess.md",
     "Notas De La Universidad/Notas De La Universidad.md",
@@ -205,14 +214,11 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Hobbies/Languages/Portuguese/Pronunciação/Regras De Pronunciação.md",
-    "Hobbies/Languages/Portuguese/Vocabulário/Vocabulário.md",
     "Hobbies/Languages/Portuguese/Recursos/Recursos.md",
     "Hobbies/Languages/Portuguese/Gramática/Pronomes.md",
     "Basics Of Obsidian/Qué es Obsidian.md",
     "Hobbies/Languages/Portuguese/Pronunciação/Pronunciação.md",
     "Hobbies/Languages/Portuguese/Gramática/Gramática.md",
-    "Hobbies/Languages/Portuguese/Portuguese.md",
-    "Hobbies/Languages/Languages.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Informe del Método de iteración de punto fijo.md",
     "Hobbies/Languages/Portuguese/Recursos",
     "Hobbies/Languages/Portuguese/Compreensão Da Leitura/Compreensão Da Leitura.md",
@@ -223,12 +229,10 @@
     "Hobbies/Languages/Portuguese/Vocabulário",
     "Hobbies/Languages/Portuguese/Gramática",
     "Hobbies/Languages/Portuguese",
-    "Hobbies/Hobbies.md",
     "Hobbies/Languages",
     "Pasted image 20240827184035.png.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
     "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
-    "Hobbies/TatoCocina/Comidas/Desayunos/Desayunos.md",
     "Hobbies/Chess",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
