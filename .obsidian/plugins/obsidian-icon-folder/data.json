@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiTimelineEventText",
       "🇧🇷",
       "TiLanguage",
       "RaPawn",
-      "📙",
-      "TiGuitarPickFilled"
+      "📙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -95,5 +95,6 @@
   "Hobbies/Guitar Tabs": "TiGuitarPickFilled",
   "Hobbies/Chess": "RaPawn",
   "Hobbies/Languages": "TiLanguage",
-  "Hobbies/Languages/Portuguese": "🇧🇷"
+  "Hobbies/Languages/Portuguese": "🇧🇷",
+  "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md": "TiTimelineEventText"
 }

@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Chess/Advices.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c17f9a0eab33e397",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Chess/Advices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Chess/Advices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hobbies/Chess/Advices.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,12 +193,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c68efc768aecd081",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Hobbies/Chess/Advices.md",
     "Hobbies/Chess/Chess.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
@@ -219,8 +229,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Operaciones Básicas de Números Complejos en Python.md",
     "Hobbies/TatoCocina/Comidas/Desayunos/Huevos Benedictinos.md",
     "Hobbies/TatoCocina/Comidas/Desayunos/Desayunos.md",
-    "Hobbies/TatoCocina/Comidas/Comidas.md",
-    "Hobbies/TatoCocina/TatoCocina.md",
     "Hobbies/Chess",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
