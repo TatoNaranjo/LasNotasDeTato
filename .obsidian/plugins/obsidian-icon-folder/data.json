@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiMenuOrder",
+      "TiDeviceImacQuestion",
       "🧠",
       "TiTimelineEventText",
-      "🇧🇷",
-      "TiLanguage",
-      "RaPawn"
+      "🇧🇷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,7 @@
   "Hobbies/Languages/Portuguese": "🇧🇷",
   "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md": "TiTimelineEventText",
   "Estudio Independiente/Inteligencia Artificial": "🧠",
-  "Estudio Independiente/Inteligencia Artificial/IA Notebook": "TiBrain"
+  "Estudio Independiente/Inteligencia Artificial/IA Notebook": "TiBrain",
+  "Estudio Independiente/Inteligencia Artificial/Machine Learning": "TiDeviceImacQuestion",
+  "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación": "TiMenuOrder"
 }

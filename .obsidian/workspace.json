@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md"
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md"
               }
             }
           },
@@ -187,12 +187,34 @@
   },
   "active": "820405f0d06d1553",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Clasificación de un Algoritmo Random Forest.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación/Sistemas de Clasificación.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/randomForestCon2Arboles.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/modeloProbabilísticoGDA.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/RandomForestClassificatorExample2.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/RandomForestClassificator1.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/PersonasAtendidasPorDepresión2018-2022.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Pasted image 20240827184138.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Pasted image 20240827184035.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes/randomForestCon2Arboles.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes/modeloProbabilísticoGDA.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes/RandomForestClassificatorExample2.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes/Imágenes.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Inteligencia Artificial",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Imágenes.md",
     "Untitled/Untitled.md",
     "Untitled",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
@@ -207,32 +229,9 @@
     "Hobbies/Languages/Portuguese/Vocabulário/Vocabulário.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md",
-    "Basics Of Obsidian/Basics Of Obsidian.md",
-    "Hobbies/Chess/Advices.md",
-    "Hobbies/Chess/Chess.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Hobbies/Languages/Portuguese/Pronunciação/Regras De Pronunciação.md",
-    "Hobbies/Languages/Portuguese/Recursos/Recursos.md",
-    "Hobbies/Languages/Portuguese/Gramática/Pronomes.md",
     "Hobbies/Languages/Portuguese/Recursos",
     "Hobbies/Languages/Portuguese/Compreensão Da Leitura",
     "Hobbies/Languages/Portuguese/Compreensão audível",
-    "Hobbies/Languages/Portuguese/Pronunciação",
-    "Hobbies/Languages/Portuguese/Vocabulário",
-    "Hobbies/Languages/Portuguese/Gramática",
-    "Hobbies/Languages/Portuguese",
-    "Hobbies/Languages",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073642.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911080719.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073658.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240911073437.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/complexMenu.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/DivideComplex.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/multiplicationComplex.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/minusComplex.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/sumComplex.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/askComplexNumbers.png",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
