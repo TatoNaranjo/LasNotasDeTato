@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧠",
       "TiTimelineEventText",
       "🇧🇷",
       "TiLanguage",
-      "RaPawn",
-      "📙"
+      "RaPawn"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,7 +72,6 @@
   "Basics Of Obsidian/Qué es Obsidian.md": "FiHelpCircle",
   "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet": "TiHttpPost",
   "Estudio Independiente/Curso de Oracle One/Consumo de APIs con JavaScript": "TiApi",
-  "Estudio Independiente/IA Notebook": "TiBrain",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE": "RiReactjsFill",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Desarrollando con JavaScript": "RiJavascriptFill",
   "Estudio Independiente/Curso de Oracle One/React G6 - ONE/Como los Componentes Funcionan": "TiComponents",
@@ -96,5 +95,7 @@
   "Hobbies/Chess": "RaPawn",
   "Hobbies/Languages": "TiLanguage",
   "Hobbies/Languages/Portuguese": "🇧🇷",
-  "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md": "TiTimelineEventText"
+  "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md": "TiTimelineEventText",
+  "Estudio Independiente/Inteligencia Artificial": "🧠",
+  "Estudio Independiente/Inteligencia Artificial/IA Notebook": "TiBrain"
 }
