@@ -9,4 +9,6 @@ Tips y Consejos para mejorar tu lógica y forma de pensar al momento de practica
 5. **SIMULAR UN EJERCICIO PUEDE SER UNA FUERZA BRUTA:** Un ejemplo de este punto pueden ser algunos problemas en los que se te pide modificar un vector, no necesariamente tienes que hacer el experimento de programarlo modificándolo a fuerza bruta, sino solamente pensar en si hay una forma de reducirlo sin alterar los elementos.
 6. **LAS POSICIONES PUEDEN SER UN SET:** Pequeño recordatorio de que a veces se pueden perder ideas de implementaciones con sets únicamente por no tener en cuenta el detalle de que las posiciones nunca se repiten y pueden ser la clave para una solución. Ejemplo: [Final Boss - Codeforces](https://codeforces.com/contest/1985/problem/F). 
 7. **CONSTRUYE LAS SOLUCIONES PASO A PASO:** A veces es mejor tratar un problema como una suma de sus partes en vez de tratar de hacer un proceso complejo que haga que la lógica no funcione.
+8. **PLANTEA BIEN LOS RANGOS DE LA BINARY SEARCH:** Cuida los rangos superiores e inferiores que usas para tu búsqueda binaria. Dentro del planteamiento de tus problemas, también debes considerar el cálculo y el posible resultado que definirá el aumento o disminución de tus variables.
+
  
