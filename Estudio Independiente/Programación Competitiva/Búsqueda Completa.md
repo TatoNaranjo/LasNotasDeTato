@@ -131,7 +131,7 @@ do {
 
 Un algoritmo de Backtracking inicia con una solución vacía y extiende la solución paso a paso. La búsqueda avanza de forma recursiva a través de todas las diferentes formas en las que se puede construir una solución.
 
-Por ejemplo, considera el problema de calcular el número de formas en las que $n$ reinas pueden colocarse dentro de un tablero de $n * n$ de forma en que ninguna de las dos reinas se ataquen entre sí. Por ejemplo, cuando $n=4$, hay dos posibles soluciones:
+Por ejemplo, considera el problema de calcular el número de formas en las que $n$ reinas pueden colocarse dentro de un tablero de $n * n$ de forma en que 2 reinas no se ataquen entre sí. Por ejemplo, cuando $n=4$, hay dos posibles soluciones:
 
 ![[backtrackingQueens1.png]]
 
@@ -153,7 +153,7 @@ void search (int y){
 	}
 
 	for(int x = 0; x < n; x++){
-		if(column[x] || diag1[x+y] || diag2[xy+n-1])continue;
+		if(column[x] || diag1[x+y] || diag2[x-y+n-1])continue;
 		column[x] = diag1[x+y] = diag2[x-y+n-1] = 1;
 		search(y+1);
 		column[x] = diag1[x+y] = diag2[x-y+n-1] = 0;
