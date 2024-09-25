@@ -14,7 +14,7 @@ Debido a que GitHub no permite añadir recursos que sobrepasen las 100 MB de pes
 
 ### Guías Generales
 
-- [Introduction to Algorithms - Thomas H Cormen](https://libgen.li/ads.php?md5=FD8631D3830BFA7A3D2D305A99A011F2): Antes de saber cómo programar, es esencial aprender cómo es que funciona el pensamiento algorítmico detrás del código que escribiremos para solucionar un problema. Es por esto que introduction to algorithms llega como la guía del pensamiento lógico que todo el mundo debería leer antes de embarcarse en las competencias de programación.
+- [Introduction to Algorithms - Thomas H Cormen](https://libgen.li/ads.php?md5=ACAAA8958B27468B7286F4C577A967E2): Antes de saber cómo programar, es esencial aprender cómo es que funciona el pensamiento algorítmico detrás del código que escribiremos para solucionar un problema. Es por esto que introduction to algorithms llega como la guía del pensamiento lógico que todo el mundo debería leer antes de embarcarse en las competencias de programación.
 
 - [Competitive Programmer's Handbook - Antti Laaksonen](https://cses.fi/book/book.pdf): Este es el libro recomendado por excelencia para iniciarse en programación competitiva debido a que contiene la mayoría de temas que verás en los ejercicios, así como también sus implementaciones más básicas. ***Si vas a una competencia recomiendo encarecidamente llevar este libro impreso, te salvará en más de una ocasión por si se te olvida algo.***
 

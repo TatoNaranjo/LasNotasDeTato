@@ -18,7 +18,7 @@ El programa implementa un análisis estadístico de un conjunto de datos, utiliz
 
 ![[Pasted image 20240924110819.png]]
 
-2. **Rango y amplitud**: El código calcula el rango (diferencia entre el valor máximo y el mínimo) y la amplitud, que permite determinar el tamaño de las clases en la distribución.
+2. **Rango y amplitud**: El código calcula el rango (diferencia entre el valor máximo y el mínimo) y la amplitud, que permite determinar el tamaño de las clases en la distribución. Así mismo, se hace uso de la regla de Sturges para adquirir la amplitud de los intervalos, que es definida por la fórmula $1+3.22*\log_{10}{n}$ 
 
 ![[Pasted image 20240924110848.png]]
 

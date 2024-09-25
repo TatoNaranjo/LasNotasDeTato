@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "fef7085e60a94ac4",
+        "id": "81f276272c43f216",
         "type": "tabs",
         "children": [
           {
-            "id": "523488b84a9b11ca",
+            "id": "d7e9f44a94a469bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84044d2101c663b7",
+            "id": "7ff165f9635bf918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md"
               }
             }
           },
@@ -199,9 +198,24 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "84044d2101c663b7",
+  "active": "d7e9f44a94a469bd",
   "lastOpenFiles": [
+    "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240925083413.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",
@@ -209,40 +223,25 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110848.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110819.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110744.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920073106.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072502.png",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Linux/Linux.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Conociendo los efectos secundarios.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Clasificación de un Algoritmo Random Forest.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación/Sistemas de Clasificación.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes/Imágenes.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
     "Estudio Independiente/Inteligencia Artificial",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Imágenes.md",
-    "Untitled/Untitled.md",
     "Untitled",
     "Hobbies/Languages/Portuguese/Recursos",
     "Hobbies/Languages/Portuguese/Compreensão Da Leitura",
