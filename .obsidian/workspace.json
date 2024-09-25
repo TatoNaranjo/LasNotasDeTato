@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d9db341150c6c5",
+        "id": "fef7085e60a94ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "676426f5fec3564c",
+            "id": "523488b84a9b11ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f656147f5b4f0cb7",
+            "id": "84044d2101c663b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md"
               }
             }
           },
@@ -199,12 +199,21 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f656147f5b4f0cb7",
+  "active": "84044d2101c663b7",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110945.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110848.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110819.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110744.png",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
@@ -212,13 +221,6 @@
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920073106.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072502.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072418.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072139.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920071452.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920071427.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920070836.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920070710.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920070542.png",
     "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Linux/Linux.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
@@ -242,9 +244,6 @@
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Imágenes.md",
     "Untitled/Untitled.md",
     "Untitled",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
-    "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Hobbies/Languages/Portuguese/Recursos",
     "Hobbies/Languages/Portuguese/Compreensão Da Leitura",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
