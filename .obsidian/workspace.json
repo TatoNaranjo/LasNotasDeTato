@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81f276272c43f216",
+        "id": "8077ecf739868ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e9f44a94a469bd",
+            "id": "034f63b6701be707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ff165f9635bf918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
+                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
+                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md"
+                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md"
               }
             }
           },
@@ -198,15 +185,23 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d7e9f44a94a469bd",
+  "active": "034f63b6701be707",
   "lastOpenFiles": [
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240925083413.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
@@ -215,7 +210,6 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",
@@ -232,10 +226,6 @@
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920073106.png",
     "Estudio Independiente/Linux/Linux.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Conociendo los efectos secundarios.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
@@ -243,8 +233,6 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning",
     "Estudio Independiente/Inteligencia Artificial",
     "Untitled",
-    "Hobbies/Languages/Portuguese/Recursos",
-    "Hobbies/Languages/Portuguese/Compreensão Da Leitura",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
