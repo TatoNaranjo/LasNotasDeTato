@@ -13,22 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+                "file": "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12ada5204c248672",
+            "id": "5af71f42add33cc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+                "file": "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+                "file": "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md"
+                "file": "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md"
               }
             }
           },
@@ -199,20 +195,25 @@
   },
   "active": "034f63b6701be707",
   "lastOpenFiles": [
-    "Estudio Independiente/Desarrollo Web/JSON Web Token/Imágenes/Imágenes.md",
-    "Estudio Independiente/GitHub/GitHub.md",
-    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
-    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
+    "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
+    "Estudio Independiente/GitHub/Imagenes/Imagenes.md",
+    "Estudio Independiente/GitHub/Imagenes",
     "Estudio Independiente/GitHub/GitHub Actions/GitHub Actions.md",
+    "Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/Imágenes/Imágenes.md",
     "Estudio Independiente/GitHub/GitHub Actions",
     "Estudio Independiente/Desarrollo Web/Astro/Astro.md",
     "Estudio Independiente/GitHub",
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
     "Estudio Independiente/Desarrollo Web/Imágenes",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
@@ -228,10 +229,6 @@
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",
@@ -240,11 +237,9 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110819.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110744.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]

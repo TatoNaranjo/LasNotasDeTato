@@ -1,9 +1,9 @@
 {
   "accentColor": "#480f57",
   "baseFontSize": 16,
-  "textFontFamily": "Poppins,Inter,FiraCode Nerd Font",
-  "interfaceFontFamily": "Inter,FiraCode Nerd Font,Poppins",
-  "monospaceFontFamily": "Poppins,JetBrains Mono",
+  "textFontFamily": "Atkinson Hyperlegible,Poppins,Inter,FiraCode Nerd Font",
+  "interfaceFontFamily": "Inter,Poppins,Atkinson Hyperlegible,FiraCode Nerd Font",
+  "monospaceFontFamily": "JetBrains Mono,Poppins",
   "cssTheme": "Catppuccin",
   "theme": "obsidian"
 }
