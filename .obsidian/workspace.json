@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "12ada5204c248672",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 325.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -187,8 +196,11 @@
   },
   "active": "034f63b6701be707",
   "lastOpenFiles": [
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
+    "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
+    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
+    "Estudio Independiente/Desarrollo Web/Imágenes",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias",
@@ -221,18 +233,14 @@
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920073106.png",
-    "Estudio Independiente/Linux/Linux.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning",
     "Estudio Independiente/Inteligencia Artificial",
-    "Untitled",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
