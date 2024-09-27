@@ -23,11 +23,16 @@
             "id": "12ada5204c248672",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
+                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md"
               }
             }
           },
@@ -195,10 +200,13 @@
   },
   "active": "bced553c8d178d7b",
   "lastOpenFiles": [
+    "Estudio Independiente/GitHub/GitHub Actions/GitHub Actions.md",
+    "Estudio Independiente/GitHub/GitHub Actions",
+    "Estudio Independiente/Desarrollo Web/Astro/Astro.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/GitHub",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
@@ -232,15 +240,12 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110744.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Sistemas de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]

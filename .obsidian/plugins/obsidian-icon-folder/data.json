@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiGithub",
       "RiLandscapeFill",
       "TiMenuOrder",
       "TiDeviceImacQuestion",
-      "🧠",
-      "TiTimelineEventText"
+      "🧠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -100,5 +100,6 @@
   "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación": "TiMenuOrder",
   "Estudio Independiente/Desarrollo Web/Imágenes": "RiLandscapeFill",
   "Estudio Independiente/Desarrollo Web/Astro": "RiRocketFill",
-  "Estudio Independiente/Desarrollo Web/JSON Web Token": "TiJson"
+  "Estudio Independiente/Desarrollo Web/JSON Web Token": "TiJson",
+  "Estudio Independiente/GitHub": "FiGithub"
 }
