@@ -1,5 +1,4 @@
 ---
 tags: MOCs
 ---
-```folder-index-content
-```
+Carpeta de ilustraciones para respaldar mi aprendizaje de [[Desarrollo Web]]

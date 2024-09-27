@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,11 +191,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "034f63b6701be707",
+  "active": "12ada5204c248672",
   "lastOpenFiles": [
+    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
-    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
     "Estudio Independiente/Desarrollo Web/Imágenes",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest",
