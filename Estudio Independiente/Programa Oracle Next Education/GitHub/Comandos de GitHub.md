@@ -25,7 +25,7 @@ git clone -branch new_feature <repositorio>
 
 #### Git Log
 
-Sirve para ver el historial de nuestro proyecto en [[GitHub]].
+Sirve para ver el historial de nuestro proyecto en [[Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub]].
 
 Si deseas verificar el historial de cambios, los mensajes de commit, el nombre de la persona autora del commit y otras informaciones sobre el proyecto, hay un comando de git que te puede ayudar. Este comando es `git log`.
 

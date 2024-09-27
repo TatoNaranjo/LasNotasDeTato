@@ -58,7 +58,6 @@
   "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II": "TiBulb",
   "Basics Of Obsidian": "RaGem",
   "Basics Of Obsidian/Basics Of Obsidian.md": "TiFlagQuestion",
-  "Estudio Independiente/Astro": "RiRocketFill",
   "Estudio Independiente/Programación Competitiva": "RiBarChartFill",
   "Estudio Independiente/Programación Competitiva/Repasos con Juan": "RiFlag2Line",
   "Estudio Independiente/Curso de Oracle One": "RiCouponFill",
@@ -67,7 +66,6 @@
   "Estudio Independiente/Curso de Oracle One/Principiante en Programación G6 - ONE": "RiJavascriptLine",
   "Estudio Independiente/Curso de Oracle One/Emprendimiento, Agilidad y Protagonismo Profesional": "RaPerspectiveDiceFour",
   "Estudio Independiente": "RiPencilLine",
-  "Estudio Independiente/JSON Web Token": "TiJson",
   "Estudio Independiente/Programación Competitiva/Imágenes": "FiImage",
   "Basics Of Obsidian/Qué es Obsidian.md": "FiHelpCircle",
   "Estudio Independiente/Curso de Oracle One/HTTP, La base del Internet": "TiHttpPost",
@@ -100,5 +98,7 @@
   "Estudio Independiente/Inteligencia Artificial/IA Notebook": "TiBrain",
   "Estudio Independiente/Inteligencia Artificial/Machine Learning": "TiDeviceImacQuestion",
   "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación": "TiMenuOrder",
-  "Estudio Independiente/Desarrollo Web/Imágenes": "RiLandscapeFill"
+  "Estudio Independiente/Desarrollo Web/Imágenes": "RiLandscapeFill",
+  "Estudio Independiente/Desarrollo Web/Astro": "RiRocketFill",
+  "Estudio Independiente/Desarrollo Web/JSON Web Token": "TiJson"
 }

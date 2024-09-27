@@ -1,4 +1,4 @@
-Útiles para dividir el desarrollo por equipos o por funcionalidades a la hora de trabajar con [[GitHub]].
+Útiles para dividir el desarrollo por equipos o por funcionalidades a la hora de trabajar con [[Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub]].
 
 #### Git Branch
 

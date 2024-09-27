@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "mode": "preview",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -95,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudio Independiente/Estudio Independiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudio Independiente/Estudio Independiente.md"
+              }
             }
           },
           {
@@ -191,17 +193,19 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "12ada5204c248672",
+  "active": "bced553c8d178d7b",
   "lastOpenFiles": [
-    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/GitHub",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
+    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
     "Estudio Independiente/Desarrollo Web/Imágenes",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest",
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Conceptos de Estadística en Forma de Código.md",
@@ -237,7 +241,6 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Imágenes",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning",
-    "Estudio Independiente/Inteligencia Artificial",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]

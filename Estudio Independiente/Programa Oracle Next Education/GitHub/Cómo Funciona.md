@@ -3,7 +3,7 @@ Git nos permite tener el acceso a todas las versiones de una aplicación, lo cua
 
 #### Como crear un repositorio
 
-Loguearse en [[GitHub]] y darle en el botón new es la forma común de hacerlo, pero si ya estamos logueados, podemos escribir repo.new en una nueva pestaña del navegador.
+Loguearse en [[Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub]] y darle en el botón new es la forma común de hacerlo, pero si ya estamos logueados, podemos escribir repo.new en una nueva pestaña del navegador.
 
 Cuando se va a entrar a una empresa, lo ideal es que los repositorios estén en modo privado.
 
