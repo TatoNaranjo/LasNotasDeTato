@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
-                "mode": "preview",
+                "file": "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +197,15 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bced553c8d178d7b",
+  "active": "034f63b6701be707",
   "lastOpenFiles": [
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/Imágenes/Imágenes.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/GitHub/GitHub Actions/GitHub Actions.md",
     "Estudio Independiente/GitHub/GitHub Actions",
     "Estudio Independiente/Desarrollo Web/Astro/Astro.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/GitHub",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
@@ -238,8 +239,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110848.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110819.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924110744.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes",
