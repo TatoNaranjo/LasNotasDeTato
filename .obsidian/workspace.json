@@ -11,7 +11,7 @@
             "id": "7ead4b04cb2dc389",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -174,11 +174,13 @@
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7ead4b04cb2dc389",
   "lastOpenFiles": [
+    "2024-09-27.md",
     "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
     "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
@@ -213,7 +215,6 @@
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",

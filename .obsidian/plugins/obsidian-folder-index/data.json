@@ -17,6 +17,8 @@
   "excludeFolders": [],
   "recursionLimit": -1,
   "headlineLimit": 6,
+  "indexFileUserSpecified": false,
+  "indexFilename": "!",
   "sortIndexFilesAlphabetically": true,
   "sortHeadersAlphabetically": false
 }
