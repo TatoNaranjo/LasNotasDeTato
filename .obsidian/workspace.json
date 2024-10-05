@@ -4,26 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a34aba8e4d55939c",
+        "id": "d27beda13a869286",
         "type": "tabs",
         "children": [
           {
-            "id": "bacd0a4d0e955bfa",
+            "id": "aefc4d8161f5efd9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
-                "staged": true
+                "file": "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "4a8380688a674545",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md"
+              }
             }
           },
           {
@@ -189,21 +186,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bacd0a4d0e955bfa",
+  "active": "aefc4d8161f5efd9",
   "lastOpenFiles": [
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Bisección.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
@@ -213,11 +214,7 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Cisco Packet Tracer.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Video Script of Sidney.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/My Country's Investigation.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Podcast Script.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Preguntas para Inglés - Criogenización.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Sources/Sources.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
