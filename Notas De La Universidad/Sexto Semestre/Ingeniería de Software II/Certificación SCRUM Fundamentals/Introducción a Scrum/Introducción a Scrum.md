@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 El primer capítulo de la [[Certificación SCRUM Fundamentals]]
 

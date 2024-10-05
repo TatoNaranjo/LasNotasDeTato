@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Parte del [[Programa Oracle Next Education]] en donde se estudia el funcionamiento del protocolo HTTP para comprender como funcionan las instrucciones otorgadas a partir de los datos.
 

@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Parte de mis [[Notas De La Universidad]] que conforman el periodo de 2024-II en mi carrera de Ingeniería de Sistemas.
 

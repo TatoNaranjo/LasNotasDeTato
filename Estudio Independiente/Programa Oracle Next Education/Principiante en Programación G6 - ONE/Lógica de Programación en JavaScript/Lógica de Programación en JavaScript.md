@@ -1,4 +1,4 @@
 ---
-tags: MOCs
+tags:
 ---
 Primer módulo del curso [[Principiante en Programación G6 - ONE]]

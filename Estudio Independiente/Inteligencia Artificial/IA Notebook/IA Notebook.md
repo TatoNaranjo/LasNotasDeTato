@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Parte de mi [[Estudio Independiente]] en donde estudio los conceptos básicos de [[Inteligencia Artificial]], empezando por el mini curso ofrecido DotCSV para empezar a incursionar en el funcionamiento de las inteligencias artificiales con motivo de autoaprendizaje y aporte al [[Semillero de Investigación]]
 

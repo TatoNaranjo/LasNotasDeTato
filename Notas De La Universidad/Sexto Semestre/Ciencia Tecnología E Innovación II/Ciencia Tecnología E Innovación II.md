@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Materia que conforma el grupo de estudio para mi [[Sexto Semestre]] de la Universidad.
 

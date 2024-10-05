@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc9e08d6f3291b1",
+        "id": "f91cf8989a5ae4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "899b16e6439770f0",
+            "id": "2fcbf2b0fec8c460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d99bd5eefedadf3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,9 +49,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md"
               }
             }
           },
@@ -179,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 474
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99bd5eefedadf3d",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "index.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
@@ -219,19 +218,8 @@
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Grupos de Desafíos Finales..md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Grupo de Desafíos.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/El Punto y Coma en JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Desafío 1.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript",
-    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/Validaciones con JS.md",
-    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
-    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/Atributos Útiles en HTML.md",
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Servicios REST.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Peticiones HTTP.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Los fundamentos de HTTP.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTPS y La Web Segura.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP Versión 2.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Dominios Web.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet",
     "Estudio Independiente/Programa Oracle Next Education/GitHub/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/GitHub",

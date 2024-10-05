@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Materia que conforma el [[Sexto Semestre]]
 

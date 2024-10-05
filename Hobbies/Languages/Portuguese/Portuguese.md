@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Here, i want to store all the principal concepts of my process about learning how to speak and read Portuguese as one of my Learning [[Languages]].
 

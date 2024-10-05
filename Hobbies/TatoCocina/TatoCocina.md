@@ -1,4 +1,4 @@
 ---
-tags: MOCs
+tags:
 ---
 Las Recetas de Cocina Que Voy Aprendiendo como parte de mis [[Hobbies]].

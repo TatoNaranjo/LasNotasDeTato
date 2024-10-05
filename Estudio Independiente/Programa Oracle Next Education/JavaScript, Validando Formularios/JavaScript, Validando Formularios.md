@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Esta es una guía que hace parte del [[Programa Oracle Next Education]] en la que debemos asumir el rol de un desarrollador al que se le solicita validar un formulario de registro.
 

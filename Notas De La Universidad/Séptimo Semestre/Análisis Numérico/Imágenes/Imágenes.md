@@ -1,4 +1,4 @@
 ---
-tags: MOCs
+tags:
 ---
 Contenido de recursos para [[Análisis Numérico]].

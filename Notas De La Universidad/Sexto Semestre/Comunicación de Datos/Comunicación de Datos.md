@@ -1,8 +1,5 @@
 ---
-tags:
-  - Materias
-  - Apuntes
-  - Estudio
+tags: []
 ---
 Materia que conforma el [[Sexto Semestre]]
 # Profesor

@@ -1,5 +1,5 @@
 ---
-tags: MOCs
+tags:
 ---
 Parte del [[Programa Oracle Next Education]] en el que se enfatiza un roadmap para aprender React en la plataforma de Alura Latam.
 
