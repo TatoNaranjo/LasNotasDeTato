@@ -11,11 +11,10 @@
             "id": "bacd0a4d0e955bfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
+                "staged": true
               }
             }
           },
@@ -93,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +191,10 @@
   },
   "active": "bacd0a4d0e955bfa",
   "lastOpenFiles": [
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
@@ -220,9 +218,6 @@
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Sources/Sources.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Estructura del Proyecto.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
