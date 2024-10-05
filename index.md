@@ -37,7 +37,7 @@ Aquí encontrarás mis apuntes detallados de la carrera de Ingeniería de Sistem
 
 - [[Quinto Semestre]]: En el periodo del año **2023-II** aprendí a maquetar un proyecto incluso antes de tocar una sola línea de código (A partir de allí, las ideas sobre proyectos y el desarrollo contínuo no se han detenido). Aquí podrás encontrar una introducción a distintos conceptos que pueden ayudarte al momento de diseñar un sistema funcional y proyectado.
 
->[!Important]
+>[!Warning]
 >Actualmente, me encuentro importando las notas de **este semestre** de un formato de Samsung Notes a Markdown. Por lo que puede que te encuentres con carpetas vacías.
 
 - [[Sexto Semestre]]: En el periodo del año **2024-I** pude aprender distintos conceptos sobre redes que no solo expandieron mi conocimiento sobre cómo funcionan las redes de internet modernas, sino que también ayudaron a profundizar y afianzar mi conocimiento sobre las distintas formas en las que podemos transmitir datos a través de distintos métodos de conexión. Además, en este punto incursioné en el desarrollo de aplicaciones utilizando metodologías Ágiles, lo que permitió certificarme en el uso de la metodología SCRUM para el trabajo en equipo.

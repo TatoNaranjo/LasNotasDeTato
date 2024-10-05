@@ -15,7 +15,7 @@ Este período marcó un antes y un después en mi enfoque del desarrollo de soft
 - Técnicas de maquetación de proyectos
 - Conceptos fundamentales para proyectar sistemas escalables
 
-> [!important]
+> [!Warning]
 >  Estoy en proceso de migrar las notas de este semestre de Samsung Notes a Markdown. Es posible que encuentres algunas carpetas en construcción. ¡Gracias por tu paciencia!
 
 ### [[Sexto Semestre]] (2024-I): Redes y Metodologías Ágiles 🌐
