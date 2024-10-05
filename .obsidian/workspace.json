@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md"
+                "file": "Notas De La Universidad/Notas De La Universidad.md"
               }
             }
           },
@@ -188,13 +188,22 @@
   },
   "active": "aefc4d8161f5efd9",
   "lastOpenFiles": [
+    "index.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Hobbies/Hobbies.md",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
@@ -205,15 +214,7 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Bisección.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
-    "PDFs y Documentos/PDFs y Documentos.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
@@ -224,7 +225,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript",
-    "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
