@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:DesarrolloSoftware",
+                "query": "tag:Semestre6",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md"
+                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md"
               }
             }
           },
@@ -196,37 +196,38 @@
   },
   "active": "bacd0a4d0e955bfa",
   "lastOpenFiles": [
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
+    "Notas De La Universidad/Sexto Semestre/Networking/Cisco Packet Tracer.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Video Script of Sidney.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/My Country's Investigation.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Podcast Script.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Preguntas para Inglés - Criogenización.md",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
+    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Sources/Sources.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/El Principio Fundamental de la Electrónica.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Estructura del Proyecto.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
-    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales/Ecuaciones Diferenciales.md",
-    "Notas De La Universidad/Quinto Semestre/Bases De Datos/Bases De Datos.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/ASP.NET Con Modelo Vista Controlador.md",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
@@ -241,7 +242,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240925083413.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111141.png",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111113.png",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]

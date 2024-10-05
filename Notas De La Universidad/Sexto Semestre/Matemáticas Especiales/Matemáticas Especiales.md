@@ -1,25 +1,19 @@
 ---
-tags: []
+tags:
+  - Matemáticas
+  - Semestre6
 ---
-Materia que conforma el [[Sexto Semestre]]
+En esta materia, abarcamos distintas herramientas aplicadas a los números complejos con temas que ya hemos visto.  El temario de Matemáticas Especiales es el siguiente:
 
-# Profesor
-Jairo William Santos Gachancipá
-skaniduc@gmail.com
-Teléfono: 3142376579
+- [[El Principio Fundamental de la Electrónica]]: Exploración de los conceptos básicos que rigen el comportamiento de los circuitos electrónicos, incluyendo la ley de Ohm y las leyes de Kirchhoff.
+- [[Función Lineal]]: Estudio de las funciones de la forma $f(x) = mx + b$, sus propiedades, representación gráfica y aplicaciones en diversos campos, incluyendo la electrónica.
+- [[Funciones Cuadráticas]]: Análisis de las funciones de la forma $f(x) = ax² + bx + c$, sus características, gráficas parabólicas y su relevancia en el modelado de fenómenos físicos.
+- [[Funciones Pares e Impares]]: Exploración de las propiedades de simetría en funciones, cómo identificarlas y su importancia en el análisis de señales eléctricas.
+- [[Números Imaginarios]]: Introducción a los números complejos, su representación, operaciones básicas y su aplicación en el análisis de circuitos de corriente alterna.
+- [[Raíz Cuadrada de un Complejo]]: Técnicas para calcular la raíz cuadrada de números complejos y su relevancia en cálculos avanzados de ingeniería eléctrica.
+- [[Razones Trigonométricas]]: Estudio de las relaciones seno, coseno y tangente en el triángulo rectángulo, y su aplicación en el análisis de ondas y señales periódicas.
+- [[Sistemas Numéricos]]: Exploración de diferentes bases numéricas (binario, octal, decimal, hexadecimal) y su importancia en la representación digital de información en sistemas electrónicos.
 
-# Metodología
-
-Se realizan muchas actividades/ trabajos, que es todo lo que hay que hacer en clase y en casa.
-**Hay dos parciales.** Hechos en la semana 5 y en la semana 10.
-
-Todo trabajo que se haga en clase se sube a la actividad que mencione. Ignorar las tareas de aula virtual.
-9 de marzo -> Primer parcial. TODOS SUBEN LAS TAREAS. Las tareas deben llevar el nombre de los integrantes.
-
-**SE TRABAJAN PUROS NUMEROS COMPLEJOS/VARIABLES COMPLEJAS**. Herramientas aplicadas a los números complejos con temas que ya hemos visto. 
-
-Trabajos -> 60%
-Parcial -> 40%
 
 
 

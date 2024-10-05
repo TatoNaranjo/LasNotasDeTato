@@ -2,21 +2,13 @@
 tags:
   - IA
   - Algoritmos
+  - Documentacion
 ---
-Materia que conforma el [[Sexto Semestre]]
+En esta carpeta profundizamos en dos conceptos importantes: [[Deep Learning]] y [[Minería de Datos]] por medio de la investigación técnica.
 
+La investigación se divide en 2 posibles caminos: Cualitativa y Cuantitativa. Aquí, lo que normalmente se hace es tomar los datos, ajustarlos al modelo y hacer una prueba de hipótesis es lo común, sin embargo debemos innovar.  Un error que se comete al investigar es desear que lo que estoy investigando se acomode a la fuerza para ajustar un modelo. 
 
-
-Semillero de investigación hecho por el profesor Diego
-realizando *Investigación Técnica.*
-
-la investigación se divide en 2 posibles caminos: Cualitativa y Cuantitativa.
-
-Tomar los datos, ajustarlos al modelo y hacer una prueba de hipótesis es lo común, sin embargo debemos innovar. 
-
-Un error que se comete al investigar es desear que lo que estoy investigando se acomode a la fuerza para ajustar un modelo. 
-
-Tengo un problema y debo ver como modelarlo para usarlo en la investigación.
+La idea principal de plantear un problema es precisamente, ver como modelarlo para usarlo en la investigación.
 ## Herramientas
 Matemáticas y programación.
 # Fundamento
@@ -39,7 +31,7 @@ Los peces siempre están en un espacio pequeño, por lo que entran en un estado 
 
 
 **Algunos modelos mencionados en la reunión:**
-- Modelo de ricker
+- Modelo de Ricker
 - Modelo de administración de Portafolios.
 
 

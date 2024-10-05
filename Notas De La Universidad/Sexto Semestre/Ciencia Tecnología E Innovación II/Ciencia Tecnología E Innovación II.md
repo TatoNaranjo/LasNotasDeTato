@@ -1,11 +1,13 @@
 ---
 tags:
+  - Proyectos
+  - Documentacion
+  - Semestre6
 ---
-Materia que conforma el grupo de estudio para mi [[Sexto Semestre]] de la Universidad.
+La finalidad del núcleo de aprendizaje va dirigida hacia todos aquellos que quieren tener un artículo como elegibilidad de proyecto de grado.
 
-La finalidad del CAI es para los que quieren tener un artículo como elegibilidad de proyecto de grado.
-# Dinámica
-40 minutos para explicar el tema, y luego trabajar en grupo para hacer las actividades asignadas en aula virtual.
+El único documento que logré construir para esta materia fue:
+- [[Construcción de los Marcos Referenciales]].
 
 
 

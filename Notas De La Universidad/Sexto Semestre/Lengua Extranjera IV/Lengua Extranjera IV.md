@@ -1,29 +1,11 @@
 ---
-tags: []
+tags:
+  - Idiomas
+  - Inglés
+  - Semestre6
 ---
-Materia que conforma el [[Sexto Semestre]]
-# Professor: Daniel Arturo Quecán Castellanos
-**Correo:** dquecan@ucundinamarca.edu.co
-
-it's about cultural aspects and representation about of this topics.
-
-**I have 2 be the monitor of this subject.**
-
-1. Culture of a native speaking country: task 1 -> Select one country that we will have to take during this semester. Culture food, etc. But all related to country selected. In the class we're going to create a Canva presentation in class to upload 
-   
-   A paper that summarize this information of the country.
-   
-   # Country Chosen: Malta
-
-
-Present in oral ways, and in writing ways.
-
-Be efficient with the time, cause there are many activities during the day.
-he assign the labors, and pick the paper on the days assigned
-
-## Platforms
-Teams & Moodle
-## Build Work Teams
-Maximum 3 or 4, only one person submit the tasks.
-
-If there are virtual classes, it will be announced one day before. He'll communicate me if the class cancels or if it is on teams platform.
+El temario que puedes encontrar en esta materia es el siguiente:
+- [[My Country's Investigation]]: En esta investigación, abarqué los conceptos de un país angloparlante: Malta. El propósito de esto fue hacer una posterior exposición.
+- [[Podcast Script]]: Guión de un episodio de Podcast en el que describo diferentes herramientas que pueden ayudarte a mejorar en tu productividad.
+- [[Preguntas para Inglés - Criogenización]]: Preguntas para el examen final de inglés de acuerdo a diferentes artículos sobre Criogenización.
+- [[Video Script of Sidney]]: Guión de video en el que recreamos una situación en un Aeropuerto de Sydney junto a mis compañeros para mejorar mis habilidades de Inglés.

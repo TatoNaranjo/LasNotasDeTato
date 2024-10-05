@@ -1,4 +1,8 @@
 ---
 tags:
 ---
-Lecturas semanales que nos manda a hacer el profesor de [[Emprendimiento e Innovación I]]
+Lecturas semanales que hicimos para reforzar los conceptos sobre emprendimiento. Algunas de las siguientes son:
+- [[Investigación de Rappi]]
+- [[La cadena de valor, Una herramienta del pensamiento estratégico]]
+- [[Leyes del Emprendimiento]]
+- [[Perspectivas Económicas Para el 2024]]
