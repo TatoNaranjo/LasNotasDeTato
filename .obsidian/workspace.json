@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notas De La Universidad/Notas De La Universidad.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "aefc4d8161f5efd9",
   "lastOpenFiles": [
-    "Hobbies/Hobbies.md",
     "index.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Hobbies/Hobbies.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/Estudio Independiente.md",
@@ -197,8 +199,6 @@
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
