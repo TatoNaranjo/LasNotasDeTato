@@ -1,13 +1,15 @@
 ---
 title: Hola Mundo, Soy TatoNaranjo
 ---
+# ¿Quién es TatoNaranjo?
+
 # Bienvenido a LasNotasDeTato
 
 ## ¿Qué son LasNotasDeTato? 📖
 
 LasNotasDeTato es mi cerebro digital, un espacio donde plasmo todo lo que aprendo día a día. Nacido de mi método personal de aprendizaje a través de la escritura y la práctica, este proyecto combina mi curiosidad insaciable con el deseo de compartir conocimientos y crear un recurso al que pueda recurrir cuando lo necesite.
 
-Este repositorio de conocimiento, creado durante las vacaciones de 2023-II, utiliza Obsidian como plataforma principal y se renderiza con Quartz para una experiencia de navegación fluida y agradable. Si deseas tener esta información de forma local, puedes echarle un vistazo a mi [Repositorio de GitHub](https://github.com/TatoNaranjo/LasNotasDeTato).
+Este repositorio de conocimiento, creado durante las vacaciones de 2023-II, utiliza Obsidian como plataforma principal y se renderiza con Quartz para una experiencia de navegación fluida y agradable. Si deseas tener esta información de forma local, puedes echarle un vistazo a mi [Repositorio de GitHub](https://github.com/TatoNaranjo/LasNotasDeTato) para saber cómo puedes descargar el vault de Obsidian.
 
 ## Explora mi cerebro digital 
 
