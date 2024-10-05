@@ -3,6 +3,7 @@ tags:
   - IA
   - Algoritmos
   - Documentacion
+  - Semestre6
 ---
 En esta carpeta profundizamos en dos conceptos importantes: [[Deep Learning]] y [[Minería de Datos]] por medio de la investigación técnica.
 
