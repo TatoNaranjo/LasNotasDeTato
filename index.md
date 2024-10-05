@@ -1,3 +1,7 @@
+---
+title: Hola Mundo
+---
+
 ## ¿Quién soy?
 
 ¡Hola! Soy [TatoNaranjo](https://github.com/TatoNaranjo), un apasionado estudiante de Ingeniería de Sistemas y Computación, y un entusiasta Programador Front-End. Pero más allá de los títulos, soy un eterno curioso, un amante del aprendizaje continuo y un firme creyente en el poder de compartir el conocimiento.
