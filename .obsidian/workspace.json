@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md"
               }
             }
           },
@@ -188,6 +188,15 @@
   },
   "active": "aefc4d8161f5efd9",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
@@ -196,13 +205,8 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Bisección.md",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Rest API.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
@@ -210,10 +214,6 @@
     "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Construcción de los Marcos Referenciales.md",
     "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Algoritmo del Gradiente Descendiente.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Mapeado de Topología Mixto.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Fundamentos del Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Direccionamiento IP en IPv4 e IPv6.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Dirección MAC.md",
-    "Notas De La Universidad/Sexto Semestre/Networking/Comandos para configurar un router en Cisco.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",

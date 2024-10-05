@@ -1,14 +1,20 @@
 ---
-tags: []
+tags:
+  - Algoritmos
+  - CienciaDeDatos
+  - Matemáticas
+  - Semestre7
+  - Planeacion
 ---
 La materia de Operativa se centra en la optimización de sistemas y procesos utilizando modelos matemáticos. En esta materia estudiamos temas como la programación lineal, programación entera, teoría de grafos, simulación y métodos heurísticos. Esta materia te ayudará a desarrollar habilidades para resolver problemas complejos de manera eficiente, analizar datos y tomar decisiones informadas.
 
-**Profesor:** Luis Sandoval
+Las notas abarcadas para esta materia son:
 
-**Cada 8 días consultar una noticia de la sección de tecnología y hacer una crítica sobre la misma (Tenerla en físico).**
+- [[Empezando a planear un proceso]]: Se estudiaron los primeros pasos en la planificación de un proceso, enfocándose en la identificación de los objetivos, la recolección de datos y la definición de recursos necesarios para optimizar el flujo de trabajo dentro de un sistema.
+    
+- [[Introducción a los modelos de Optimización]]: Se introdujeron los modelos matemáticos de optimización, explicando su aplicación en la resolución de problemas donde se busca maximizar o minimizar una función objetivo bajo ciertas restricciones, utilizando técnicas como la programación lineal.
+    
+- [[Problema de Optimización]]: Se analizó el enfoque para resolver problemas de optimización, desde la formulación del problema hasta la implementación de algoritmos para encontrar soluciones eficientes, aplicando métodos numéricos y herramientas computacionales.
 
-### Banco de Noticias
-
-1. [Google fue hallado culpable de prácticas en contra de la libre competencia](https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html)
 
 
