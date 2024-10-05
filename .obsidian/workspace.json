@@ -23,11 +23,10 @@
             "id": "d99bd5eefedadf3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "d99bd5eefedadf3d",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
@@ -231,7 +227,6 @@
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP Versión 2.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Dominios Web.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Cliente-Servidor.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet",
     "Estudio Independiente/Programa Oracle Next Education/GitHub/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/GitHub",
