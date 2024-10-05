@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f91cf8989a5ae4bc",
+        "id": "a34aba8e4d55939c",
         "type": "tabs",
         "children": [
           {
-            "id": "2fcbf2b0fec8c460",
+            "id": "bacd0a4d0e955bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4a8380688a674545",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:DesarrolloSoftware",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
+                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md"
+                "file": "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md"
               }
             }
           },
@@ -187,44 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "bacd0a4d0e955bfa",
   "lastOpenFiles": [
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
+    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales/Ecuaciones Diferenciales.md",
+    "Notas De La Universidad/Quinto Semestre/Bases De Datos/Bases De Datos.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/ASP.NET Con Modelo Vista Controlador.md",
+    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
+    "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales",
+    "Notas De La Universidad/Quinto Semestre/Bases De Datos",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Deep Learning.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Minería de Datos.md",
+    "Notas De La Universidad/Sexto Semestre/Semillero de Investigación/Semillero de Investigación.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Aprender a Aprender.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
-    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "index.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Manipular contenido HTML con JS.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Eventos de JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Desafíos.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Arrays en JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Proyecto Inicial.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Necesito memorizar cada línea de código o comando.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Herramientas Útiles.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Grupos de Desafíos Finales..md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Grupo de Desafíos.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/El Punto y Coma en JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript",
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet",
-    "Estudio Independiente/Programa Oracle Next Education/GitHub/desktop.ini",
-    "Estudio Independiente/Programa Oracle Next Education/GitHub",
-    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/Transición de Carrera",
-    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/Ser protagonista de tu carrera",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
