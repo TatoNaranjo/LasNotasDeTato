@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "11163094d9be8755",
+        "id": "3fc9e08d6f3291b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7ead4b04cb2dc389",
+            "id": "899b16e6439770f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/community-plugins.json",
+                "staged": false
               }
-            }
-          },
-          {
-            "id": "0b68b384b4cde70b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,13 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ead4b04cb2dc389",
+  "active": "899b16e6439770f0",
   "lastOpenFiles": [
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
     "Notas De La Universidad/Séptimo Semestre/Método de Bisección.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
@@ -209,7 +198,6 @@
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928190950.png",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Qué es una REST API.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/ASP.NET Con Modelo Vista Controlador.md",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
@@ -236,7 +224,6 @@
     "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
-    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240925083413.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
