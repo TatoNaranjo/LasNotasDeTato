@@ -13,13 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Notas De La Universidad/Notas De La Universidad.md",
+=======
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+>>>>>>> 46b764e397c4a3dc33e01d7e21828aacad02a596
+                "mode": "source",
+                "source": false
+              }
+            }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "d99bd5eefedadf3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notas De La Universidad/Notas De La Universidad.md",
                 "mode": "source",
                 "source": false
               }
             }
+>>>>>>> 46b764e397c4a3dc33e01d7e21828aacad02a596
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,49 +207,68 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "899b16e6439770f0",
   "lastOpenFiles": [
+=======
+  "active": "d99bd5eefedadf3d",
+  "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
+    "Estudio Independiente/Programación Competitiva/Algebra.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
+    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
+    "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
+    "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Estudio Independiente/Programación Competitiva/Prácticas del CIMAT/Prácticas del CIMAT.md",
+    "Estudio Independiente/Programación Competitiva/Combinatoria/Básicos de Combinatoria.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "README.md",
+    "LICENSE.md",
+    "Dashboard.md",
+>>>>>>> 46b764e397c4a3dc33e01d7e21828aacad02a596
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
     "Notas De La Universidad/Séptimo Semestre/Método de Bisección.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Creando una API Con NodeJS.md",
+<<<<<<< HEAD
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+=======
+>>>>>>> 46b764e397c4a3dc33e01d7e21828aacad02a596
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192154.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928190950.png",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Rest API/Qué es una REST API.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/ASP.NET Con Modelo Vista Controlador.md",
-    "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I/Ingeniería de Software I.md",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales.pdf",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I.pdf",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Introducción a React.pdf",
-    "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Programación Competitiva 2023-II.md",
     "Notas De La Universidad/Quinto Semestre/ASP NET y C# con MVC.pdf",
     "Notas De La Universidad/Quinto Semestre/Ingeniería de Software I",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Notas De La Universidad/Quinto Semestre/Programación Competitiva 2023-II/Sortings.pdf",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "2024-09-27.md",
-    "Hobbies/Languages/Portuguese/Vocabulário/Expressions.md",
-    "Estudio Independiente/GitHub/GitHub Actions/Entendiendo Qué Es GitHub Actions.md",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
+<<<<<<< HEAD
     "Estudio Independiente/GitHub/Imagenes/Imagenes.md",
     "Estudio Independiente/GitHub/GitHub Actions/GitHub Actions.md",
     "Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub.md",
     "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+=======
+>>>>>>> 46b764e397c4a3dc33e01d7e21828aacad02a596
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20240926195300.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240925083413.png",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Pasted image 20240924111442.png",
