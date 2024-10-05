@@ -1,5 +1,7 @@
 ---
 tags:
+  - IA
+  - Algoritmos
 ---
 Materia que conforma el [[Sexto Semestre]]
 
