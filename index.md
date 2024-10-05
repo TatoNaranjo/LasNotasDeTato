@@ -1,15 +1,15 @@
 ---
 title: Hola Mundo, Soy TatoNaranjo
 ---
-# Bienvenido a LasNotasDeTato 🧠📚
+# Bienvenido a LasNotasDeTato
 
-## ¿Qué es LasNotasDeTato? 📖
+## ¿Qué son LasNotasDeTato? 📖
 
 LasNotasDeTato es mi cerebro digital, un espacio donde plasmo todo lo que aprendo día a día. Nacido de mi método personal de aprendizaje a través de la escritura y la práctica, este proyecto combina mi curiosidad insaciable con el deseo de compartir conocimientos y crear un recurso al que pueda recurrir cuando lo necesite.
 
-Este repositorio de conocimiento, creado durante las vacaciones de 2023-II, utiliza Obsidian como plataforma principal y se renderiza con Quartz para una experiencia de navegación fluida y agradable.
+Este repositorio de conocimiento, creado durante las vacaciones de 2023-II, utiliza Obsidian como plataforma principal y se renderiza con Quartz para una experiencia de navegación fluida y agradable. Si deseas tener esta información de forma local, puedes echarle un vistazo a mi [Repositorio de GitHub](https://github.com/TatoNaranjo/LasNotasDeTato).
 
-## Explora mi mente digital 🗺️
+## Explora mi cerebro digital 
 
 ### [[Notas De La Universidad]]
 Aquí encontrarás mis apuntes detallados de la carrera de Ingeniería de Sistemas y Computación en la Universidad de Cundinamarca. Organizado por semestres, este espacio refleja mi viaje académico y los conocimientos adquiridos en cada materia.
@@ -28,10 +28,10 @@ Porque no todo es estudio, aquí guardo mis pasiones y actividades favoritas par
 
 ## ¿Por qué LasNotasDeTato?
 
-- 📝 Aprendizaje activo a través de la escritura
-- 🧠 Organización estructurada del conocimiento
-- 🌱 Crecimiento continuo y documentado
-- 🤝 Compartir para ayudar a otros y a mí mismo
+- 📝 Es mi método para aprender activamente a través de la escritura
+- 🧠 Los grafos Me Permiten Tener Una Organización estructurada del conocimiento
+- 🌱 Estoy Actualizando el Repositorio Constantemente, Por Lo Tanto Hay Un Crecimiento continuo y documentado
+- 🤝 Me Gusta Compartir para ayudar a otros y a mí mismo
 
 Siéntete libre de explorar, aprender y crecer conmigo a través de estas notas. ¡Espero que encuentres algo útil e inspirador en cada rincón de este cerebro digital!
 
