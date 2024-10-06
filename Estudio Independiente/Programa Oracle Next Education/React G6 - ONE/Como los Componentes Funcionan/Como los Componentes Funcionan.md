@@ -1,5 +1,8 @@
 ---
 tags:
+  - React
+  - Frameworks
+  - JavaScript
 ---
 Segunda parte del curso de [[React G6 - ONE]]: [[Desarrollando con JavaScript]] para describir con mayor profundidad qué es react y como funcionan sus componentes de forma detallada mediante un proyecto de organización de personal.
 

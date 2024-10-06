@@ -1,12 +1,12 @@
 ---
-tags: []
+tags:
+  - Algoritmos
+  - Programación-Competitiva
+  - Cpp
 ---
-```table-of-contents
-```
-
 # Qué es Programación Dinámica?
 
-Es un método utilizado en [[Programación Competitiva]] como una forma de buscar todas las posibles combinaciones para hacer algo. Para entender programación competitiva es casi necesario comprender el término de Recursión.
+Es un método utilizado en [[Programación Competitiva]] como una forma de buscar todas las posibles combinaciones para hacer algo. Para entender programación competitiva es casi necesario comprender el término de [[Recursión]].
 
 ## Explicándolo con Fibonacci.
 

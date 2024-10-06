@@ -1,7 +1,13 @@
 ---
 tags:
+  - DesarrolloDeSoftware
+  - Front-End
+  - Back-End
+  - Documentacion
 ---
-Parte de mi [[Estudio Independiente]] en donde almaceno la información que no pertenece a ningún curso en específico y que estudio por mi cuenta.
-
+Sumérgete en el vasto océano del desarrollo web. Dentro de este documento podrás encontrar diferentes conceptos que te ayudarán a crear mejores aplicaciones, como por ejemplo: Aprendizaje sobre Frameworks, Pruebas Unitarias, Diseño Responsivo, Conceptos de Front-End. Además, recursos sobre HTML5, CSS3, JavaScript moderno, y el poderoso React te esperan. ¡Prepárate para llevar tus habilidades al siguiente nivel!
 ## Índice
 - [[Object Storage]]
+- [[Astro]]
+- [[JSON Web Token]]
+- [[Pruebas Unitarias]]

@@ -1,5 +1,9 @@
 ---
 tags:
+  - JavaScript
+  - React
+  - Frameworks
+  - Front-End
 ---
 Introducción Básica del curso de [[React G6 - ONE]] para describir qué es react y como funciona mediante un proyecto de organización de personal.
 

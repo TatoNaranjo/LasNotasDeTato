@@ -1,13 +1,13 @@
 ---
-tags: []
+tags:
+  - Programación-Competitiva
+  - Algoritmos
+  - Documentacion
+  - Cpp
 ---
 En este archivo resaltaré todos aquellos recursos (llámese libros, videos, cursos... etc) que me resultan útiles a la hora de aprender uno o varios temas de [[Programación Competitiva]]. Cabe resaltar que si no son todos, la mayoría de estos recursos están en inglés.
 
 >By: ***TatoNaranjo***
-
-```table-of-contents
-```
-
 ## Libros
 
 Debido a que GitHub no permite añadir recursos que sobrepasen las 100 MB de peso límite, pondré los links correspondientes al sitio en donde puedes descargar el libro.

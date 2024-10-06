@@ -1,4 +1,15 @@
 ---
 tags:
+  - Soft-Skills
+  - Productividad
+  - Emprendimiento
 ---
-Parte del [[Programa Oracle Next Education]] en el que aprendemos sobre los intereses de las empresas y las prioridades que deben tener a la hora de seleccionar a un trabajador para sumar a sus filas.
+Aquí aprendemos sobre los intereses de las empresas y las prioridades que deben tener a la hora de seleccionar a un trabajador para sumar a sus filas.
+
+## Índice
+- [[De la idea al Plan de Negocios]]
+- [[Demanda del Mercado]]
+- [[Fundamentos de Agile]]
+- [[Posición Deseada]]
+- [[Ser protagonista de tu carrera]]
+- [[Transición de Carrera]]

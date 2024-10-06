@@ -1,11 +1,14 @@
+---
+tags:
+  - Algoritmos
+  - Programación-Competitiva
+  - Cpp
+  - Python
+---
+
 **Por:** *TatoNaranjo*
 
 Tipo de Búsqueda usado en [[Programación Competitiva]] para elementos organizados.
-#### Índice.
-
-```table-of-contents
-```
-
 #### Implementación en C++
 
 ```cpp

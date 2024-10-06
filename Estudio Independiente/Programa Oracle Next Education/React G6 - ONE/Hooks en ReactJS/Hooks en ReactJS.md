@@ -1,5 +1,8 @@
 ---
 tags:
+  - React
+  - Front-End
+  - JavaScript
 ---
 Curso de la formación de [[React G6 - ONE]] para el programa de Oracle Next Education en donde nos enfocamos en entender qué son los hooks y como pueden mejorar nuestros proyectos. En esta ocasión trabajamos unas mejoras desarrolladas para el proyecto del curso de [[Styled Components y Archivos Estáticos]].
 
