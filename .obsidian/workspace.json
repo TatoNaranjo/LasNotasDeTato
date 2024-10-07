@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f167006ab05a3cc",
+        "id": "e179bd3916d489a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7992258c8b99d6",
+            "id": "5120900e4063416a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +179,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1c7992258c8b99d6",
+  "active": "5120900e4063416a",
   "lastOpenFiles": [
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Estudio Independiente.md",
