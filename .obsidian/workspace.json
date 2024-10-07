@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d27beda13a869286",
+        "id": "4f167006ab05a3cc",
         "type": "tabs",
         "children": [
           {
-            "id": "aefc4d8161f5efd9",
+            "id": "1c7992258c8b99d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eb5b2e7bb273b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
+                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md"
               }
             }
           },
@@ -195,11 +183,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "aefc4d8161f5efd9",
+  "active": "1c7992258c8b99d6",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/Una Rutina de Aprendizaje.md",
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Silabus y Metodología.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
@@ -219,13 +215,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Necesito memorizar cada línea de código o comando.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Desafío 1.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Herramientas Útiles.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub.md",
-    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/Emprendimiento, Agilidad y Protagonismo Profesional.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
