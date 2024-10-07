@@ -7,4 +7,4 @@ Carpeta de [[Inteligencia Artificial]] en donde aprendo sobre todo lo relacionad
 
 ## Índice
 - [[Algoritmos de Clasificación]]
-- [[Cómo Funciona un Modelo]]
+- [[Cómo Funciona Un Modelo]]
