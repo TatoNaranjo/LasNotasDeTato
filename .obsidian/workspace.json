@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Estudio Independiente.md"
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md"
               }
             }
           },
@@ -189,6 +189,11 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
     "Estudio Independiente/Programación Competitiva/Combinatoria/Básicos de Combinatoria.md",
@@ -211,11 +216,6 @@
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP Versión 2.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
     "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/El camino Hacia las APIs.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Síncrono y Asíncrono en JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Tratando las Promises.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Desarrollo Personal.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Foco/Foco.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",

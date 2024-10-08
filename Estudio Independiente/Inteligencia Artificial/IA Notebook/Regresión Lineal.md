@@ -1,3 +1,7 @@
+---
+date: 2024-09-19
+---
+
 >By: ***TatoNaranjo***
 
 Documento que recopila los conceptos básicos para entender qué es esta técnica estadística.
