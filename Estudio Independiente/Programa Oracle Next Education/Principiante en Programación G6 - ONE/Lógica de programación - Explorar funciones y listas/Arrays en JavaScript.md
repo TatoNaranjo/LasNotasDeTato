@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Una parte importante del curso de [[Lógica de programación - Explorar funciones y Listas]]
 # Array
 

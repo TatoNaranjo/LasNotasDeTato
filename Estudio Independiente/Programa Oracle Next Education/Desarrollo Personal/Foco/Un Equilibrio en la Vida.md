@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 #### La Frustración
 
 Normalmente solemos decir que no queda tiempo para nada, y nos agobiamos por ello. Otras veces vemos a las personas que se sienten más relajadas incluso cuando hacen más que nosotros, y deseamos ser esa persona. Sin embargo, un punto importante para mantener un [[Foco]] que no estamos considerando es la manera en la que nos organizamos.

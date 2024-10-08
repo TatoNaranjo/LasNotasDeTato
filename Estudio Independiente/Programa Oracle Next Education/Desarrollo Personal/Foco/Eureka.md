@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Muchas veces tenemos muchas ideas en mente, pero no sabemos a cual darle un [[Foco]]. Es por eso que la posibilidad de que las cosas que planeamos se ejecuten, pueden no llegar nunca o llegar repentinamente. Y a veces es importante entender como funciona este proceso.
 
 1. **El cerebro tiene dos sistemas mentales semi-independientes ampliamente separados.**

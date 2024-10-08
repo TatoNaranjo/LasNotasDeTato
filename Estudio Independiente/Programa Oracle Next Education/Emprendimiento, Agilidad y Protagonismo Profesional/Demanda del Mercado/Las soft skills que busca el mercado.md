@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Ten en cuenta estas habilidades al momento de considerar lanzarte a una oferta de trabajo dentro de un mundo lleno de [[Demanda del Mercado]].
 
 Cuando una empresa contrata, tiene expectativas:

@@ -1,6 +1,8 @@
 ---
 tags:
   - Emprendimiento
+  - Soft-Skills
+date: 2024-07-20
 ---
 Parte del curso de [[Emprendimiento, Agilidad y Protagonismo Profesional]] en donde se toca un desarrollo de carrera enfocado a la demanda en el mercado.
 

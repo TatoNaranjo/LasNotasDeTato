@@ -1,5 +1,8 @@
+---
+date: 2024-07-20
+---
 
-Desafio para desarrollar la [[Lógica de Programación en JavaScript]]
+Desafío para desarrollar la [[Lógica de Programación en JavaScript]]
 
 1. Muestra una alerta con el mensaje "¡Bienvenida y bievenido a nuestro sitio web!".
 2. Declara una variable llamada nombre y asígnale el valor "Luna".

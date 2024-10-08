@@ -1,3 +1,11 @@
+---
+date: 2024-06-29
+tags:
+  - React
+  - Diseño
+  - Herramientas
+---
+
  Normalmente cuando creamos aplicaciones en React, solíamos usar `npm create-react-app`, pero actualmente la documentación de React cambió. Con estos cambios, ahora también recomiendan crear una aplicación de react junto con un framework como Next.js o Gatsby. Sin embargo... ¿Qué pasa si yo no quiero usar un framework?.
 ## La Diferencia entre CRA y Vite
 

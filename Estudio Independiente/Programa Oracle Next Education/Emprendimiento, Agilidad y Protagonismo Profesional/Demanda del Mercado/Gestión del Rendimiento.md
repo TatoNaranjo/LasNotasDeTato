@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Soft-Skills
+---
+
 Como tener un buen rendimiento dentro de una [[Demanda del Mercado]]
 
 Hay que saber a qué tipo de rendimiento de la organización nos referimos:

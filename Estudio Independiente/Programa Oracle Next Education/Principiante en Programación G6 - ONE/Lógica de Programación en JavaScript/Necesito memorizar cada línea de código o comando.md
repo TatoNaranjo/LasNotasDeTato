@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 A veces solo se trata de desarrollar la [[Lógica de Programación en JavaScript]]
 
 Comprender cada línea de código o comando en detalle es ciertamente una aspiración loable, pero no es necesario memorizar. El desarrollo de software moderno es una tarea compleja, y los lenguajes de programación ofrecen una amplia gama de recursos y bibliotecas.

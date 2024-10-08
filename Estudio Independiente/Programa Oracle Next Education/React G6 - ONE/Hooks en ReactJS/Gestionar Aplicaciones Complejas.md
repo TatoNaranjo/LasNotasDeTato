@@ -1,3 +1,9 @@
+---
+date: 2024-07-02
+tags:
+  - React
+---
+
 Entre más cosas tengamos que compartir a través de los contextos de react, más complicado será administrar la gestión de los estados debido a que nuestra aplicación pasa a ser una aplicación compleja.
 
 Por lo tanto, debemos encargarnos de analizar el contextAPI que estamos implementando y evaluar posibles mejoras que se puedan hacer utilizando un hook llamado `useReduce`.

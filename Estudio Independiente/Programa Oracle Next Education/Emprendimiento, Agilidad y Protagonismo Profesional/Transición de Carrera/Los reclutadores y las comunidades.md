@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Aquellos que se encargan de hacer tu intención de [[Transición de Carrera]] una realidad.
 
 Los reclutadores, son aquellas personas especializadas en las entrevistas, y en general, las encargadas de determinar si una persona es apta para el puesto que ocupa o si por el contrario le hace falta práctica.

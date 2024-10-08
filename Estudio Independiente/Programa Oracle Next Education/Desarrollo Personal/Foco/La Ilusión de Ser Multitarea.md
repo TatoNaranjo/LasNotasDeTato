@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Para organizar nuestra vida, debemos tener un punto de [[Foco]] que nos ayude a visualizar como queremos hacer las cosas. Así mismo debemos evitar las distracciones que imposibilitan el proceso de aprender o realizar alguna acción esencial para nuestra vida.
 
 #### **Crear Listas**

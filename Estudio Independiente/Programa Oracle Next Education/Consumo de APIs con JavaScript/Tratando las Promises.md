@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - JavaScript
+---
+
 ## Then Y Catch
 
 Son dos métodos utilizados para manejar correctamente las respuestas dentro de una promise. El método `then` es utilizado cuando una solicitud dentro de una promise es resuelta y queremos que haga cierta acción, mientras que por el contrario, el método `catch` es utilizado cuando una solicitud dentro de una promise es rechazada y queremos que se tomen ciertas acciones al respecto.

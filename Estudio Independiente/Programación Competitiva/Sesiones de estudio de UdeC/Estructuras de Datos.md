@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Cpp
+  - Programación-Competitiva
+  - Problem-Solving
+---
+
 Segunda clase de las [[Sesiones de estudio de UdeC]].
 ***Por:*** *Santiago Naranjo Herrera ([TatoNaranjo](https://codeforces.com/profile/TatoNaranjo)) && Felipe Salamanca ([FelipeOP](https://codeforces.com/profile/FelipeOP))*
 ***Lenguaje Utilizado en los Ejemplos:*** *C++*.

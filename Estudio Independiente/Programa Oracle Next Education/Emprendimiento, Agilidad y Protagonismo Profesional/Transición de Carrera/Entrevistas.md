@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Al momento de hacer una [[Transición de Carrera]] es necesario pasar por una entrevista laboral. Por ello, para agilizar este proceso traemos unos cuantos puntos que pueden ser beneficiosos a la hora de buscar un empleo.
 
 ## Busca conocer bien la empresa a la que aplicas

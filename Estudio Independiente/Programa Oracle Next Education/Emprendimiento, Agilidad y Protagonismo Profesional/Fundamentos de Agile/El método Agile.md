@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Parte del curso de [[Fundamentos de Agile]].
 
 Cuando hablamos de agilidad, debemos de hablar de Ingeniería de Software. Esta disciplina surge de otras ingenierías y lo que busca es entregar diferentes proyectos en base a unos requerimientos. 

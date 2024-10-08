@@ -1,3 +1,10 @@
+---
+date: 2024-07-20
+tags:
+  - HTML
+  - Diseño
+---
+
 ## Tipos de Input
 
 `<input name="nombre" id="nombre" class="campo__completo" />`

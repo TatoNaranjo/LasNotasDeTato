@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-07-20
+---
+
 Tenemos constancia de que un cliente puede mandar información o un cierto tipo de peticiones a un servidor y este debe otorgar una respuesta al cliente para que una comunicación mediante el protocolo de HTTP se cumpla.
 
 Sin embargo, existe a algún problema por ejemplo, a la hora de enviar datos sensibles como un nombre de usuario y una contraseña a través de un formulario dentro de una página web, debido a que estos datos se envían en un archivo texto plano y estos mismos datos pueden ser interceptados durante el trayecto que siguen para llegar al cliente o al servidor.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-07-20
+---
+
 El protocolo HTTP no guarda ningún estado o información sobre nuestros datos o aquellos paquetes que viajan a través de la red, es por esto que entonces nos debemos preguntar: ¿Cómo es que las páginas web retienen nuestra información luego de iniciar sesión a un sitio?.
 
 HTTP es stateless, esto significa que cada petición que el cliente haga al servidor es única, por lo que no revisa la información que mandaste anteriormente. Es por esto que en cada paquete se debe especificar otra vez la información de quienes somos y hacia donde estamos apuntando.

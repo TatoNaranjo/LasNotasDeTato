@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Emprendimiento
+---
+
 La evolución del término a través de los años en el sector competitivo que requiere una [[Demanda del Mercado]].
 
 Es la capacidad de resolución de problemas, así como también la forma en la que se entrega una calidad de ejecución y los resultados del mismo.

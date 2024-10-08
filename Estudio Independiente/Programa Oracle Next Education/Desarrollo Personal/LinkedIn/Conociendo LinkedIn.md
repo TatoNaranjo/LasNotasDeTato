@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Parte del Curso de [[LinkedIn]].
 
 #### LinkedIn no es un sitio:

@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Conceptos básicos para entender como surge una [[Transición de Carrera]]
 
 Todo surge en base a suplir una necesidad. Un ejemplo personal, puede ser cuando entendí que para cumplir mi deseo de crear aplicaciones para un dispositivo, tenía que ser un desarrollador de software.

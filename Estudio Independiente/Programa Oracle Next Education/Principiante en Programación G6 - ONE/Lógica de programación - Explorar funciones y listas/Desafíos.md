@@ -1,4 +1,8 @@
-f## Primeros Desafíos del curso [[Lógica de programación - Explorar funciones y Listas]]
+---
+date: 2024-07-20
+---
+
+## Primeros Desafíos del curso [[Lógica de programación - Explorar funciones y Listas]]
 
 1. Descarga otro proyecto haciendo clic en [este enlace](https://github.com/alura-es-cursos/js-curso-2/tree/main) y ábrelo en Visual Studio Code.
 2. Cambia el contenido de la etiqueta `h1` con `document.querySelector` y asigna el siguiente texto: "Hora del Desafío".

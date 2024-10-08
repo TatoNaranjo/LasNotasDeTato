@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Redes
+---
+
 HTTP (Hypertext Transfer Protocol) es un protocolo de internet que permite la transferencia de información.
 
 ## Evolución

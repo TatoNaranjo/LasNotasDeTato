@@ -1,3 +1,10 @@
+---
+date: 2024-09-19
+tags:
+  - IA
+  - Algoritmos
+---
+
 Uno de los [[Algoritmos de Clasificación]] más básicos para construir modelos de machine learning.
 
 # ¿Qué es?

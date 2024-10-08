@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Los puntos principales a tener en cuenta a la hora de buscar un empleo o aplicar a una [[Posición Deseada]].
 
 - Busca las empresas en donde te gustaría trabajar y revisa sus requisitos técnicos y de comportamiento.

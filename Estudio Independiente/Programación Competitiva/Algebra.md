@@ -1,3 +1,12 @@
+---
+date: 2024-06-06
+tags:
+  - Problem-Solving
+  - Matemáticas
+  - Algoritmos
+  - Programación-Competitiva
+---
+
 Componentes de Algebra necesarios o utilizados para [[Programación Competitiva]]
 
 # Exponenciación Binaria

@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Problem-Solving
+  - Cpp
+  - Programación-Competitiva
+---
+
 Es una forma de utilizar un proceso para definir al mismo proceso, y a su vez un recurso vital para entender diversos algoritmos que tiene la [[Programación Dinámica]].
 
 Una función recursiva debe de tener:

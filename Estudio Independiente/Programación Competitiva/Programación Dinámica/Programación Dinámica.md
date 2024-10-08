@@ -3,6 +3,8 @@ tags:
   - Algoritmos
   - Programación-Competitiva
   - Cpp
+  - Problem-Solving
+date: 2024-05-20
 ---
 # Qué es Programación Dinámica?
 

@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Cómo una empresa puede trabajar para adaptarse a las necesidades de una [[Demanda del Mercado]].
 
 Cuando hablamos de una estructura de una organización, hacemos referencia a la estructura **Operacional**, **Táctica** y **Estratégica**.

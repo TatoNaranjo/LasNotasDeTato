@@ -1,3 +1,7 @@
+---
+date: 2024-09-27
+---
+
 Esta **[integración de Astro](https://docs.astro.build/es/guides/integrations-guide/)** genera un Sitemap basado en tus páginas al construir tu proyecto de Astro.
 
 ## ¿Por qué Astro Sitemap?

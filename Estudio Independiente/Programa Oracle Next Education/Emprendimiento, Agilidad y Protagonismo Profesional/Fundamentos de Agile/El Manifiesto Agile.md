@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Aquella filosofía que hace parte de los [[Fundamentos de Agile]].
 
 Fue creado a mediados del 2001 por desarrolladores que pensaron en las cosas que estaban haciendo bien y en las cosas que podían mejorar. 

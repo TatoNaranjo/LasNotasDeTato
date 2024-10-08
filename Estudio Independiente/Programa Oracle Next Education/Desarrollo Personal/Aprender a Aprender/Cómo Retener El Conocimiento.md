@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Productividad
+---
+
 Parte del curso [[Aprender a Aprender]]
 
 Normalmente, es normal olvidar que hemos estudiado el día anterior, o decir: **"Eso lo vi en alguna parte pero ya no recuerdo."** y es debido a que solo estudiamos el tema una vez. 

@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Cuales son las cosas que tengo para ofrecer para llegar a mi [[Posición Deseada]]
 
 Las personas pueden tener habilidades naturales o adquiridas. Sin embargo es necesario admitir que el esfuerzo supera al talento natural. Además, también se comenta el tema de las ventajas acumulativas que pueden ser factores ambientales o culturales que nos ayudan a mejorar en nuestro día a día. Podemos tener todo el talento del mundo, pero de nada nos sirve si no lo sacamos a relucir.

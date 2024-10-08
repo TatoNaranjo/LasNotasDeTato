@@ -1,3 +1,13 @@
+---
+date: 2024-05-20
+tags:
+  - Algoritmos
+  - Matemáticas
+  - Cpp
+  - Programación-Competitiva
+  - Problem-Solving
+---
+
 Los conceptos fundamentales para entender los temas de [[Combinatoria]]
 
 ## Qué es Combinatoria?

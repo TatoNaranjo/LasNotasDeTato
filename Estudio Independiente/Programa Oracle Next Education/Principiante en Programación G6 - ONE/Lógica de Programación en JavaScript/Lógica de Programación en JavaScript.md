@@ -1,6 +1,7 @@
 ---
 tags:
   - JavaScript
+date: 2024-07-20
 ---
 Primer módulo del curso [[Principiante en Programación G6 - ONE]]
 

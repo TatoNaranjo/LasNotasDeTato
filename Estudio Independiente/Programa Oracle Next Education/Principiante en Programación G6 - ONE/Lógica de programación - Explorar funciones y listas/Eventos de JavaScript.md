@@ -1,3 +1,7 @@
+---
+tags: 
+date: 2024-07-20
+---
 
 Incorporando la [[Lógica de programación - Explorar funciones y Listas]]
 Cuando hablamos de acciones que puede realizar el usuario, también hablamos de acciones. 

@@ -1,3 +1,8 @@
+---
+date: 2024-07-20
+tags:
+  - GitHub
+---
 
 Git nos permite tener el acceso a todas las versiones de una aplicación, lo cual da su nombre de Control de versiones. Mientras una persona trabaja en una versión, otra puede trabajar en una nueva versión.
 

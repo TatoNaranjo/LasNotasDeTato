@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Redes
+---
+
 Para depurar las peticiones de nuestro navegador debemos inspeccionar la página web, e ir a la sección de network en la barra lateral superior. Aquí, podremos ver todo el tráfico de red y las peticiones que está realizando nuestro navegador.
 
 Desde nuestro navegador accedemos a una página mediante el protocolo GET y el servidor nos devuelve una respuesta con un código numérico y un destino que será al que nos tenemos que dirigir después. Si todo el proceso de conexión fue exitoso, el código que nos debería de aparecer sería el código 200.

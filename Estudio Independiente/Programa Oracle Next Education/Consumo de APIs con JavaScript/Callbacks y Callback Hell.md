@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - JavaScript
+---
+
 Callback, que literalmente significa "llamada de vuelta", es una función que se pasa como argumento a otra función y se espera que sea "llamada de vuelta" en algún momento. Básicamente, cuando usas una función de retorno, estás diciendo: "Oye, no ejecutes esto ahora, espérame, y cuando termine mi trabajo, puedes continuar con el tuyo".
 ## ¿Por qué usar Callbacks?
 

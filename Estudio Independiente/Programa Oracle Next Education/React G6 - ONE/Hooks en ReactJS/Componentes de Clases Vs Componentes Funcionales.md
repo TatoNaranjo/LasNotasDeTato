@@ -1,3 +1,10 @@
+---
+date: 2024-07-03
+tags:
+  - React
+  - Diseño
+---
+
 Comparemos las características de los componentes de clases (forma antigua de trabajar en React) contra las características de los componentes funcionales y veamos algunas ventajas al trabajar con estos últimos.
 
 Componentes de Clase:

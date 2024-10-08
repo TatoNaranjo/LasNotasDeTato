@@ -10,6 +10,7 @@ tags:
   - IA
   - Linux
   - OS
+date: 2024-06-05
 ---
 Bienvenido/a a la carpeta en donde suelo almacenar todo aquello que voy estudiando y que no se considera una materia de la universidad. Aquí puedes encontrar contenido de aprendizaje sobre programación de desarrollo, programación competitiva, crecimiento personal, y formas de utilizar diferentes herramientas como GitHub, Obsidian, Figma y demás. A continuación te listaré las carpetas que podrás encontrar aquí y, por supuesto, la razón por la que puede que vayas a necesitarlas, espero que te sirvan!.
 

@@ -4,6 +4,7 @@ tags:
   - Algoritmos
   - Documentacion
   - Cpp
+date: 2024-06-05
 ---
 En este archivo resaltaré todos aquellos recursos (llámese libros, videos, cursos... etc) que me resultan útiles a la hora de aprender uno o varios temas de [[Programación Competitiva]]. Cabe resaltar que si no son todos, la mayoría de estos recursos están en inglés.
 

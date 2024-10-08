@@ -3,6 +3,7 @@ tags:
   - JavaScript
   - DesarrolloDeSoftware
   - Front-End
+date: 2024-07-20
 ---
 Esta es una guía que hace parte del [[Programa Oracle Next Education]] en la que debemos asumir el rol de un desarrollador al que se le solicita validar un formulario de registro.
 

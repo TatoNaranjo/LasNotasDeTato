@@ -1,3 +1,12 @@
+---
+date: 2024-05-20
+tags:
+  - Algoritmos
+  - Problem-Solving
+  - Programación-Competitiva
+  - Cpp
+---
+
 #### Tema extensión de la [[Búsqueda Binaria]]
 
 Imagina que tienes un arreglo de números enteros, en donde una parte de ellos son números buenos y otra parte son números malos y tenemos la siguiente propiedad.

@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Una metodología enfocada en controlar nuestros [[Hábitos]].
 Método de productividad creado por David Allen
 
