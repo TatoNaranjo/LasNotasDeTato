@@ -1,5 +1,5 @@
 ---
-date: 2024-06-06
+date: 2024-10-08
 tags:
   - Algoritmos
   - Problem-Solving
