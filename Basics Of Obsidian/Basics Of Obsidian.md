@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-06-04
 ---
 ```folder-index-content
 ```
