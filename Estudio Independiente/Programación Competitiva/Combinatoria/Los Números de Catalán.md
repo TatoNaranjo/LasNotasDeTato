@@ -1,3 +1,7 @@
+---
+date: 2024-05-06
+---
+
 Una secuencia de números utilizada en problemas de [[Combinatoria]].
 ## Definición
 Los números de catalán son una secuencia de números que son realmente útiles en problemas de combinatoria, a menudo involucrando objetos de forma recursiva.

@@ -1,3 +1,7 @@
+---
+date: 2024-07-15
+---
+
 #### Las Diferentes Fases Para crear un perfil de [[LinkedIn]]
 #### Creando Un **Perfil Básico
 

@@ -1,5 +1,6 @@
 ---
 title: Hola Mundo
+date: 2024-10-05
 ---
 
 ## ¿Quién soy?
