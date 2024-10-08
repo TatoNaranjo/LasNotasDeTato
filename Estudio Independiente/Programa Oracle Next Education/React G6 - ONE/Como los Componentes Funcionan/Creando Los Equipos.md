@@ -1,3 +1,10 @@
+---
+date: 2024-07-26
+tags:
+  - React
+  - Front-End
+---
+
 Cuando pasamos propiedades de CSS por medio de props, podemos escribir estilos dentro de las etiquetas de la siguiente manera: `style={{backgroundColor:props.background}}`.
 
 En react las convenciones de CSS que tienen un guión como por ejemplo `background-color` se cambian por una convención de Camel Case, es decir que en el ejemplo, pasa a ser `backgroundColor`.

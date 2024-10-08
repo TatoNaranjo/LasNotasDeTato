@@ -1,3 +1,7 @@
+---
+date: 2024-07-26
+---
+
 ## Filtrar elementos y mostrarlos según corresponda
 
 JavaScript tiene una función llamada `filter` que permite mostrar ciertos elementos si cumplen con una condición en específico.

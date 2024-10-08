@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
+                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md"
+                "file": "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md"
               }
             }
           },
@@ -189,32 +189,32 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Estudio Independiente/Programación Competitiva/Imágenes/Imágenes.md",
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/GitHub/Imagenes/Imagenes.md",
+    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
+    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
     "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Primeros Pasos.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Componente Formulario.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Una biblioteca declarativa.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Trabajando con Props.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Nuestro primer componente.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Controlando el Formulario.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Hooks en ReactJS.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionar Aplicaciones Complejas.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Conociendo los efectos secundarios.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Componentes de Clases Vs Componentes Funcionales.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Practicando React Con JS.md",
+    "Estudio Independiente/Desarrollo Web/Astro/Astro.md",
+    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/Imágenes/Imágenes.md",
+    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
+    "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Styled Components y Archivos Estáticos.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router y la Navegación en una SPA.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Styled Components y Archivos Estáticos/Creando El Proyecto.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué son los Styled Components.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Diferencias entre Yarn y NPM.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es Prop Drilling.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Qué es una Single Page Application (SPA).md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Virtual DOM.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Hooks en ReactJS.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Practicando React Con JS/Practicando React Con JS.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Desarrollando con JavaScript.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Versión Uno del Proyecto.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Como los Componentes Funcionan/Creando Los Equipos.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
