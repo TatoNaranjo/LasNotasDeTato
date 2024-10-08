@@ -1,3 +1,7 @@
+---
+date: 2024-02-09
+---
+
 Parte de la materia de [[Matemáticas Especiales]]
 
 ## Función Par

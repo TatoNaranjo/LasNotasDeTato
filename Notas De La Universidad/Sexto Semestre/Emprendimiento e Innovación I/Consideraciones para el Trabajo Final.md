@@ -1,3 +1,7 @@
+---
+date: 2024-04-28
+---
+
 Consideraciones para la entrega final de [[Emprendimiento e Innovación I]]
 
 - Tabla de Contenido

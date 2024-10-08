@@ -1,3 +1,7 @@
+---
+date: 2024-05-10
+---
+
 Estructura de los [[Entregables Modelo Canvas]] definidos para el emprendimiento *MARES*.
 
 ## Estructura básica

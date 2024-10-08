@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - SCRUM
+  - Metodologías
+  - Ágiles
+---
+
 Antes de sumergirnos en la [[Introducción a Scrum]] debemos saber qué beneficios vamos a obtener por utilizar este framework, no?
 
 El primer beneficio es la *adaptabilidad* de un proyecto a los cambios cuando tengan la posibilidad de ocurrir. Scrum es un framework centrado en el cliente, por lo que se hace énfasis en el valor de negocio.

@@ -1,3 +1,7 @@
+---
+date: 2024-08-05
+---
+
 Dentro de [[Operativa]], con información se pueden tomar buenas o malas decisiones, y una solución siempre va a depender del contexto.
 
 ### Ejercicio

@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - Documentacion
+date: 2024-02-01
 ---
 Entregables del proyecto de clase que realizamos durante todo el semestre en donde definimos los diferentes puntos del modelo Canvas por partes.
 

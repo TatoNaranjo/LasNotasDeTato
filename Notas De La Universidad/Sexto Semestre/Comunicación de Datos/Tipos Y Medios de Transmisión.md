@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-03-20
+---
+
 Tercera clase de [[Comunicación de Datos]]
 
 ***Tabla de Contenido***

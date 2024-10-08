@@ -1,3 +1,7 @@
+---
+date: 2024-05-02
+---
+
 # Primer Trabajo
 Documento que especifica todo lo que hay que hacer para el primer trabajo de [[Emprendimiento e Innovación I]]
 

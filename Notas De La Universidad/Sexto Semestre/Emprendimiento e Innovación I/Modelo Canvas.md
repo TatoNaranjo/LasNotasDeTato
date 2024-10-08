@@ -1,3 +1,7 @@
+---
+date: 2024-04-08
+---
+
 Investigación sobre qué es el modelo canvas para [[Emprendimiento e Innovación I]]
 `Por: Santiago Naranjo Herrera`
 ```table-of-contents

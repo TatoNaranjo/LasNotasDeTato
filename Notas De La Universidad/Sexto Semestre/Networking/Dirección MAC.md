@@ -1,3 +1,9 @@
+---
+date: 2024-02-13
+tags:
+  - Redes
+---
+
 Aprendiendo como funcionan las direcciones de dispositivos para la materia de [[Networking]]
 
 Una dirección MAC (Media Access Control) es un identificador único de 48 bits asignado a cada tarjeta de red o dispositivo de red por su fabricante. Se la conoce también como dirección física, y es única para cada dispositivo. Imagina que la dirección MAC es como un número de cédula para los dispositivos de red. Cada uno tiene uno único que lo diferencia del resto y permite identificarlo en cualquier red a la que se conecte. 

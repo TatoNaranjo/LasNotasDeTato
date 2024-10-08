@@ -1,3 +1,9 @@
+---
+date: 2024-09-02
+tags:
+  - Planeacion
+---
+
 >Presentación Hecha Por: Camilo Andres Rodriguez Reyes, Sebastian Saldaña, Ariel Sanchez.
 >
 >**Resumen de la clase de [[Gerencia de Proyectos]] hecho por: Santiago Naranjo Herrera**

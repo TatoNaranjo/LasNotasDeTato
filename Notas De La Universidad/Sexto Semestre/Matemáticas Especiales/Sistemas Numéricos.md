@@ -1,3 +1,7 @@
+---
+date: 2024-02-27
+---
+
 Como representar una secuencia de números de una forma diferente. Investigación para [[Matemáticas Especiales]].
 # Definición
 Un sistema numérico es un conjunto de símbolos y reglas que nos permiten representar un número de una forma ordenada y precisa. Hay diferentes sistemas numéricos y cada uno de ellos se caracteriza por su *base*. Lo que define a una *base* son los *símbolos* utilizados en ese sistema numérico. A su vez, estos *símbolos* se pueden combinar entre sí para formar cantidades o valores aún mayores de la representación de un número. Los sistemas de numeración actuales son *sistemas posicionales*, caracterizados por que cada *símbolo* tiene un valor diferente dependiendo de la posición en la que se encuentre.

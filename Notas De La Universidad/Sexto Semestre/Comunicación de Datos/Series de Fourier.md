@@ -1,3 +1,9 @@
+---
+date: 2024-03-15
+tags:
+  - Redes
+---
+
 Entendiendo una sucesión sobre señales para la materia de [[Comunicación de Datos]].
 
 ## Qué necesita una función para representarse mediante Series de Fourier?

@@ -1,3 +1,11 @@
+---
+date: 2024-09-04
+tags:
+  - Scripting
+  - Python
+  - Matemáticas
+  - Problem-Solving
+---
 # Introducción
 El sexto punto del parcial de [[Análisis Numérico]] consistió en realizar un programa que calcule la Derivada y la Integral en su forma básica usando puntos flotantes en la captura. En este informe se presentará el código fuente, y su ejecución, la cual trunca sus operaciones a dos cifras decimales, además de continuar con el análisis del código y sus conclusiones.
 

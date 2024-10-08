@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+da
 Estas son las preguntas básicas para presentar el proyecto de gestión de conocimiento de [[Ingeniería de Software II]]
 
 # Preguntas Generales

@@ -4,6 +4,7 @@ tags:
   - Algoritmos
   - Documentacion
   - Semestre6
+date: 2024-02-05
 ---
 En esta carpeta profundizamos en dos conceptos importantes: [[Deep Learning]] y [[Minería de Datos]] por medio de la investigación técnica.
 

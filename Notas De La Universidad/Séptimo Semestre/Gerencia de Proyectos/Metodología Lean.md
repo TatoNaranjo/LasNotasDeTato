@@ -1,3 +1,9 @@
+---
+date: 2024-09-02
+tags:
+  - Planeacion
+---
+
 Utilizada comúunmente en la [[Gerencia de Proyectos]], se originó en Japón, siendo Toyota la compañía pionera en utilizar este proyecto. Se centra en la eliminación de desperdicios y la optimización de proyectos para mejorar la eficiencia y la calidad.
 
 # Principios

@@ -1,3 +1,12 @@
+---
+date: 2024-05-20
+tags:
+  - Metodologías
+  - Ágiles
+  - SCRUM
+  - Documentacion
+---
+
 El SBOK es una guía que da los conceptos básicos del framework SCRUM, entre ellos una [[Introducción a Scrum]]. Es por ello que debemos conocer todas las herramientas que nos brinda.
 
 ## En qué se basa?

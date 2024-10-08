@@ -1,3 +1,11 @@
+---
+date: 2023-05-20
+tags:
+  - Ágiles
+  - Metodologías
+  - SCRUM
+---
+
 Una [[Introducción a Scrum]] que aborda las diferentes reuniones que se pueden hacer en estos proyectos.
 
 Las ceremonias de scrum juegan una función muy importante en la implementación efectiva del framework de Scrum.

@@ -3,6 +3,7 @@ tags:
   - Proyectos
   - Documentacion
   - Semestre6
+date: 2024-02-05
 ---
 La finalidad del núcleo de aprendizaje va dirigida hacia todos aquellos que quieren tener un artículo como elegibilidad de proyecto de grado.
 

@@ -1,3 +1,8 @@
+---
+date: 2024-09-14
+tags:
+  - Seguridad
+---
 
 Taller realizado para la materia [[Seguridad Informática]]
 

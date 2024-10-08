@@ -1,3 +1,11 @@
+---
+date: 2024-05-15
+tags:
+  - DesarrolloDeSoftware
+  - Go
+  - Aplicaciones
+---
+
 **Tabla de Contenido**
 	`Por: Santiago Naranjo Herrera`
 ```table-of-contents

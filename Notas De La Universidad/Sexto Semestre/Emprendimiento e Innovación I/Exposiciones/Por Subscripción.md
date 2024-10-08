@@ -1,3 +1,7 @@
+---
+date: 2024-02-02
+---
+
 Descripción de las [[Exposiciones]] de Emprendimiento
 ## Que es
 Consiste en vender productos, o servicios por medio de una suscripción de pago. 

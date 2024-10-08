@@ -1,3 +1,11 @@
+---
+date: 2024-02-10
+tags:
+  - Proyectos
+  - DesarrolloDeSoftware
+  - Documentacion
+---
+
 Estructura básica y pautas para el proyecto de [[Ingeniería de Software II]]
 ### Ciclo de vida del software / Estructura del Proyecto
 En el proyecto a realizar, debemos seguir las diferentes fases del ciclo de Vida del Software.

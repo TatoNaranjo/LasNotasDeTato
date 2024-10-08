@@ -1,3 +1,7 @@
+---
+date: 2024-04-10
+---
+
 Preparando la exposición de [[Emprendimiento e Innovación I]].
 
 

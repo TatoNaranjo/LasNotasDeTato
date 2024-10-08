@@ -1,3 +1,9 @@
+---
+date: 2024-05-05
+tags:
+  - Documentacion
+---
+
 En este documento definiré la estructura final del trabajo de Emprendimiento, completando los puntos que hagan falta en cuanto a descripciones y dando a entender qué es lo que nos falta para entregar la versión final del documento.
 
 Parte de los [[Entregables Modelo Canvas]]

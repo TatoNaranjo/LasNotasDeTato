@@ -1,3 +1,11 @@
+---
+date: 2024-02-05
+tags:
+  - CSharp
+  - Back-End
+  - Diseño
+---
+
 El tipo de Software que construiremos en la materia de [[Ingeniería de Software I]].
 
 ASP.NET es un framework que es utilizado a la hora de construir aplicaciones de software enfocadas a la web con C#, el cual es un lenguaje de programación multiparadigma. Esto quiere decir que dicha herramienta para construir software se puede adaptar a diferentes arquitecturas como un Modelo Vista Controlador, una arquitectura de Web Services... Etc. C# es un lenguaje basado en clases, lo que quiere decir que cada acción que desarrollemos va a estar estructurada dentro de un objeto que podremos llamar cuantas veces necesitemos.

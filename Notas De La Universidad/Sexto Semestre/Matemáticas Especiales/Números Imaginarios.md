@@ -1,3 +1,9 @@
+---
+date: 2024-02-20
+tags:
+  - Matemáticas
+---
+
 Una nueva forma de expresar resultados en [[Matemáticas Especiales]]
 
 ## Introducción

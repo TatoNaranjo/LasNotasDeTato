@@ -1,3 +1,7 @@
+---
+date: 2024-05-01
+---
+
 Parte de los [[Entregables Modelo Canvas]] que consta en las citas textuales que apoyan la idea de *MARES*.
 
 **Propuesta de Valor**

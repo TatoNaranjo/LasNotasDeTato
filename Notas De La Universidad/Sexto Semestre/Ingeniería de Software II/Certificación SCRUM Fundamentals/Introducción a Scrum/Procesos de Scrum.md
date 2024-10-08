@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Metodologías
+  - SCRUM
+  - Ágiles
+---
+
 Conociendo uno de los pilares básicos del framework como [[Introducción a Scrum]]
 
 Para entender como se priorizan las tareas dentro de un Product Backlog de un proyecto, debemos definir los procesos de Scrum en general.

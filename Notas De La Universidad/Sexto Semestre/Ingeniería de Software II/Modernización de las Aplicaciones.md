@@ -1,3 +1,9 @@
+---
+date: 2023-02-05
+tags:
+  - DesarrolloDeSoftware
+---
+
 Clase de la cuarta semana para [[Ingeniería de Software II]].
 
 # Arquitectura Monolítica

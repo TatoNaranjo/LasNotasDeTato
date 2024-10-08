@@ -1,5 +1,7 @@
 ---
 tags:
+  - Documentacion
+date: 2024-02-04
 ---
 Lecturas semanales que hicimos para reforzar los conceptos sobre emprendimiento. Algunas de las siguientes son:
 - [[Investigación de Rappi]]

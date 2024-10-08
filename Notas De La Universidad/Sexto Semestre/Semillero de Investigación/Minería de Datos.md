@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Investigación sobre el concepto de Minería de datos para el [[Semillero de Investigación]]
 
 # ¿Qué es la minería de datos?

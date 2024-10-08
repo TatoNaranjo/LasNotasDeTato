@@ -1,3 +1,7 @@
+---
+date: 2024-02-02
+---
+
 Tercera de las [[Exposiciones]] sobre Emprendimiento e Innovación
 # ¿Qué es?
 Un proceso en el cual una organización contrata a empresas externas. Tambien, una empresa delega tareas o procesos específicos a un proveedor externo.

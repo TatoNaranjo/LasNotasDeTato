@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Parte de la clase de [[Matemáticas Especiales]]
 
 

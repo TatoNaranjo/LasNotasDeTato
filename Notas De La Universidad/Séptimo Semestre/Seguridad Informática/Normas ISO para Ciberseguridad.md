@@ -1,3 +1,9 @@
+---
+date: 2024-10-08
+tags:
+  - Seguridad
+---
+
 Cuando hablamos de [[Seguridad Informática]] debemos tener presentes las distintas normas bajo las que tenemos que regirnos para cumplir un estándar de seguridad en cualquier empresa, las normativas enfocadas con la ciberseguridad tienen la nomenclatura 27000.
 
 ## Clasificación general de las Auditorías

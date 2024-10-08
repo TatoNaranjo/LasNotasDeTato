@@ -1,3 +1,12 @@
+---
+date: 2024-07-16
+tags:
+  - Scripting
+  - Python
+  - Matemáticas
+  - Problem-Solving
+---
+
 Segunda actividad realizada con el fin de trasladar la lógica matemática a un lenguaje de programación escogido para la materia de [[Análisis Numérico]].
 
 Debido a que el código completo del ejercicio es muy extenso como para mostrarlo en este informe, nos permitimos entregarlo mediante el siguiente [link](https://gist.github.com/TatoNaranjo/a2499fa5f04be032bbbd7de4774480b3).

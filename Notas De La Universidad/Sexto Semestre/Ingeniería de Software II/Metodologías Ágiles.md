@@ -1,3 +1,11 @@
+---
+tags:
+  - Documentacion
+  - Metodologías
+  - Ágiles
+date: 2024-10-05
+---
+
 Las metodologías a utilizar en [[Ingeniería de Software II]]
 
 > Por: Santiago Naranjo Herrera

@@ -1,3 +1,9 @@
+---
+date: 2024-09-02
+tags:
+  - Planeacion
+---
+
 Método de organización para proyectos que se utiliza en la [[Gerencia de Proyectos]].
 
 Es una herramienta fundamental para la gestión de proyectos, permite identificar las actividades más importantes que determinan la duración total del proyecto.

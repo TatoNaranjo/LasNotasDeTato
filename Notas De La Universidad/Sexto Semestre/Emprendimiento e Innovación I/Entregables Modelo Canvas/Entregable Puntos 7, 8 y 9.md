@@ -1,3 +1,7 @@
+---
+date: 2024-05-26
+---
+
 Últimos [[Entregables Modelo Canvas]]
 
 ## Actividades clave

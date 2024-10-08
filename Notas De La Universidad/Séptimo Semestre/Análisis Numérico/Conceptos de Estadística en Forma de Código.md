@@ -1,3 +1,12 @@
+---
+date: 2024-09-24
+tags:
+  - Scripting
+  - Python
+  - Matemáticas
+  - Problem-Solving
+---
+
 El siguiente informe presenta un [[Análisis Numérico]], destacando la implementación de un programa en Python para calcular parámetros estadísticos importantes como la media, la mediana y la moda, además de la distribución de frecuencias para un conjunto de datos. Este código fue desarrollado por **Santiago Naranjo Herrera**, **David Santiago Sierra** y **Edgar Duván Bernal Acero**.
 
 El link del código se encuentra en el siguiente enlace: [Estadísitica en Python](https://gist.github.com/santorar/155895b67ac1c6f20d3aaa962589202e)

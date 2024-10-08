@@ -1,3 +1,10 @@
+---
+date: 2024-08-05
+tags:
+  - Seguridad
+  - Planeacion
+---
+
 Un proceso de evaluación de seguridad que se debe seguir cuando hablamos de [[Redes y Comunicación]].
 
 El hacking ético consiste en la implementación de técnicas y conocimientos de un hacker para detectar las mejoras y vulnerabilidades de un sistema por medio de un acuerdo o de forma consesuada con el sujeto o empresa a ser atacados.

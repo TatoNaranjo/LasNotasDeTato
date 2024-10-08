@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Metodologías
+  - Ágiles
+  - Documentacion
+---
+
 Conociendo uno de los pilares básicos del framework como [[Introducción a Scrum]]
 
 Los aspectos de Scrum deben gestionarse y abordarse a lo largo de todo el proyecto.

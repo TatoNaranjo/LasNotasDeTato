@@ -6,6 +6,7 @@ tags:
   - DesarrolloDeSoftware
   - Diseño
   - Documentacion
+date: 2024-02-05
 ---
 En esta materia, debemos seguir el mismo proceso de desarrollo del ciclo de vida del Software con un cambio de metodologías. En este caso se tendrá una metodología ágil y se cambiará la estructura del proyecto. Al final de la materia se realizará una exposición sobre un proyecto hecho en clase que se irá complementando con los proyectos que tengamos.
 ### Ciclo de vida del software / Estructura del Proyecto

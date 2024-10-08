@@ -1,3 +1,6 @@
+---
+date: 2024-04-30
+---
 
 Tips para generar ideas. Parte de [[Emprendimiento e Innovación I]].
 El primer paso es tener una idea.

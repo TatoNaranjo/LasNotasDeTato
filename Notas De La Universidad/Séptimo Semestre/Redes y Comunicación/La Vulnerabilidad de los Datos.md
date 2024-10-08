@@ -1,3 +1,10 @@
+---
+date: 2024-08-06
+tags:
+  - Seguridad
+  - Redes
+---
+
 Cuando tenemos una aplicación y esta necesita enviar dato, hace uso de los puertos de red. Primera clase de [[Redes y Comunicación]].
 ## ¿Qué es el Modelo OSI?
 

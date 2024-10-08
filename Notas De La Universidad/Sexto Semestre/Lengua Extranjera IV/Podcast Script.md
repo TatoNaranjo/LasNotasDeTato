@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Script about my life for [[Lengua Extranjera IV]] subject.
 
 Hello and welcome everyone! I'm Santiago Naranjo, most known as Tato, and today i'm here to tell you about my life, and more specifically about my aspirations and dreams in this last year.

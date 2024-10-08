@@ -1,3 +1,7 @@
+---
+date: 2024-02-02
+---
+
 Parte de las [[Exposiciones]] de Emprendimiento e Innovación I
 
 ## Qué es?

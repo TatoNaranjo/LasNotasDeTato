@@ -1,3 +1,9 @@
+---
+date: 2024-03-07
+tags:
+  - Redes
+---
+
 Segunda parte de la clase de Subredes de [[Networking]]
 # Restando bits de host para crear subredes
 Para crear subredes, se toman bits prestados del campo de host de la máscara de subred. Al restar bits de host, se aumenta el número de subredes disponibles, pero se reduce el número de hosts por subred.

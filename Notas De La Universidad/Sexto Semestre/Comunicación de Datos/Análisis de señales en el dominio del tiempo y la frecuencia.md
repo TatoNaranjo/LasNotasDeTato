@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-03-20
+---
+
 Segunda clase de [[Comunicación de Datos]]
 	`Por: TatoNaranjo`
 

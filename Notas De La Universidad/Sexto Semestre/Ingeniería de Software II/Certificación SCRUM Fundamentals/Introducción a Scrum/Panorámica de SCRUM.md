@@ -1,3 +1,10 @@
+---
+date: 2024-05-20
+tags:
+  - Ágiles
+  - Metodologías
+---
+
 La [[Introducción a Scrum]] abarca una vista general del método de trabajo, es por ello que debemos echar un vistazo a la superficie de este framework.
 
 Un proyecto Scrum consiste en un esfuerzo de colaboración para crear un nuevo producto, servicio, u otro resultado tal y como se define en la declaración de la visión del proyecto.

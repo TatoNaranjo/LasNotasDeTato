@@ -1,3 +1,10 @@
+---
+date: 2024-09-06
+tags:
+  - Seguridad
+  - Redes
+---
+
 Este es un informe de laboratorio realizado por **David Santiago Sierra Fernandez y Santiago Naranjo Herrera** dentro de la plataforma de AWS para la materia de [[Redes y Comunicación]]. El objetivo es lograr habilitar los puertos necesarios para que el profesor pueda tener acceso a una aplicación en específico. En este caso, la aplicación elegida fue World of Warcraft, la cual tiene los puertos TCP 3724, 1119, 6112, 6113, 6114 y 4000 para jugar, y el puerto UDP 3724 para el chat de voz del videojuego.
 
 # Índice

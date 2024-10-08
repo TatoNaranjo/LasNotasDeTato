@@ -1,3 +1,12 @@
+---
+date: 2024-07-25
+tags:
+  - Matemáticas
+  - Scripting
+  - Proyectos
+  - Python
+---
+
 La Primera actividad de [[Análisis Numérico]] consistió en crear cinco scripts de código con el objetivo de abordar la lógica detrás de distintas operaciones y fórmulas matemáticas. En este documento se describirá el proceso detrás de la creación de los tres algoritmos mediante el lenguaje de programación escogido: `Python`.
 
 

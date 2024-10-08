@@ -1,5 +1,7 @@
 ---
 tags:
+  - Documentacion
+date: 2024-02-02
 ---
 Exposiciones de distintos modelos de negocios para la materia. Estos fueron trabajados a lo largo de todo el semestre y se dividen en los siguientes temas:
 

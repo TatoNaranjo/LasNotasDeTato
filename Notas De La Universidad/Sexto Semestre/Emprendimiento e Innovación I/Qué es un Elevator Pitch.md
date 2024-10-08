@@ -1,3 +1,7 @@
+---
+date: 2024-04-08
+---
+
 Investigación para la segunda actividad en grupo de [[Emprendimiento e Innovación I]]
 
 Es un discurso de presentación sobre un proyecto o emprendimiento, ante potenciales clientes o accionistas. Para este segundo cobra una mayor relevancia debido a que buscan emprendedores con ideas claras, concisas y sintéticas para tomar decisiones sobre si invertir o no.

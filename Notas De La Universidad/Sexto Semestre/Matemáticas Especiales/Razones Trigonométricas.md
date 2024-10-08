@@ -1,3 +1,6 @@
+---
+date: 2004-02-04
+---
 
 Cuarta clase de [[Matemáticas Especiales]].
 # ***En El Triángulo Rectángulo***

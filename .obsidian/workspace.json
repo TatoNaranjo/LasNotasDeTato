@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+                "file": "Hobbies/Hobbies.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:SoftSkills",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+                "file": "Hobbies/Hobbies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+                "file": "Hobbies/Hobbies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md"
+                "file": "Hobbies/Hobbies.md"
               }
             }
           },
@@ -189,35 +189,35 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
-    "Estudio Independiente/Programación Competitiva/Combinatoria/Básicos de Combinatoria.md",
-    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Programación Dinámica.md",
-    "Estudio Independiente/Programación Competitiva/Programación Dinámica/Recursión.md",
-    "Estudio Independiente/Programación Competitiva/Recursos Útiles/Recursos Útiles.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria en la Respuesta.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Repasos con Juan.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Complejidad Algorítmica.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Conceptos Fundamentales.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Estructuras de Datos.md",
-    "Estudio Independiente/Programación Competitiva/Algebra.md",
-    "Estudio Independiente/Programación Competitiva/Búsqueda Completa.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP, La base del Internet.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/HTTP Versión 2.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Consumo de APIs con JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Consumo de APIs con JavaScript/Callbacks y Callback Hell.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",

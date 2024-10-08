@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Metodologías
+  - Ágiles
+  - SCRUM
+---
+
 [[Introducción a Scrum]] en el marco de la estructura de su guía.
 
 La guía del SBOK se divide en tres areas clave, los *principios*, los *aspectos*, y los *procesos*. Todas las áreas deben trabajar en conjunto, como si de un engranaje se tratase, para una aplicación efectiva de Scrum.

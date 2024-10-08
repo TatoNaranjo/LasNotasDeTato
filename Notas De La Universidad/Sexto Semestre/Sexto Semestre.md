@@ -1,6 +1,7 @@
 ---
 tags:
   - Semestre6
+date: 2024-02-05
 ---
 Parte de mis [[Notas De La Universidad]] que conforman el periodo de estudio del 2024-I
 

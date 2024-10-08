@@ -1,3 +1,9 @@
+---
+date: 2024-04-01
+tags:
+  - Redes
+---
+
 Un pilar fundamental del [[Networking]]
 ## Qué es?
 

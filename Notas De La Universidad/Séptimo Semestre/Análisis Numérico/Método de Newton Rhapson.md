@@ -1,3 +1,7 @@
+---
+date: 2024-10-05
+---
+
 Un método de [[Análisis Numérico]] para realizar aproximaciones.
 
 ![[Pasted image 20240925083413.png]]

@@ -1,3 +1,10 @@
+---
+date: 2024-05-05
+tags:
+  - DesarrolloDeSoftware
+  - Redes
+---
+
 Herramienta primordial para crear el proyecto de [[Ingeniería de Software II]].
 
 Redactado Por: `TatoNaranjo`

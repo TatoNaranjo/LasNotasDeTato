@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Clase sobre inteligencia Artificial para el [[Semillero de Investigación]].
 
 Los dos pilares fundamentales para realizar una parte de inteligencia artificial que conlleva machine learning, son, los datos y la estadística.

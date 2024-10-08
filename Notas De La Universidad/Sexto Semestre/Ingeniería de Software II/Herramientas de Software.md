@@ -1,3 +1,10 @@
+---
+tags:
+  - Herramientas
+  - DesarrolloDeSoftware
+date: 2024-02-05
+---
+
 Herramientas útiles que da el profesor para hacer el proyecto de [[Ingeniería de Software II]].
 
 - Trello

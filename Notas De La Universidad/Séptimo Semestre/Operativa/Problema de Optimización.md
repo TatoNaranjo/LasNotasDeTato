@@ -1,10 +1,17 @@
+---
+date: 2024-08-25
+tags:
+  - Problem-Solving
+  - Algoritmos
+  - Matemáticas
+  - Planeacion
+---
+
 Problema asignado para la materia de [[Operativa]] en donde hay que entender cómo fue que se llegó a la solución planteada en el libro [Problemas de Programación Lineal de Javier Osorio Acosta](https://accedacris.ulpgc.es/bitstream/10553/1018/1/993.pdf)
 
-<<<<<<< HEAD
+
 > **Realizado Por:** Santiago Naranjo Herrera, Edgar Duván Bernal Acero y David Santiago Sierra Fernández.
 
-=======
->>>>>>> parent of cf33181 (pull Commit)
 Una empresa que realiza laminados de aceros de aleación especial produce dos tipos de láminas, que le reportan 8.000 y 6.000 pesetas netas respectivamente por cada metro producido. El proceso consta de una etapa previa de acondicionamiento del acero, otra de laminado propiamente dicho, y una tercera de pulido de la superficie resultante, disponiéndose diariamente para cada actividad de un número de horas limitado. Las horas requeridas por unidad de producto y las horas totales diarias disponibles para cada actividad se muestran en la tabla adjunta:
 
 **Horas Requeridas por Unidad de Producto**

@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-03-20
+---
+
 Tecnologías usadas en la telecomunicación para la [[Comunicación de Datos]].
 
 - Modulación Digital

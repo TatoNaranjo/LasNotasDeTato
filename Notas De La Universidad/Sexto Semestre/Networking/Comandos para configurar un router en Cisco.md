@@ -1,3 +1,9 @@
+---
+tags:
+  - Redes
+date: 2024-04-02
+---
+
 Configurando un subneteo en [[Networking]]
 
 - Al entrar en una configuración de Interfaz, aparecerá esto:

@@ -1,3 +1,9 @@
+---
+date: 2024-02-05
+tags:
+  - Redes
+---
+
 Documento referencial para saber las configuraciones IP Asignadas al laboratorio de Topologías mixtas de [[Networking]].
 
 ***Hecho Por:*** *Santiago Naranjo Herrera*

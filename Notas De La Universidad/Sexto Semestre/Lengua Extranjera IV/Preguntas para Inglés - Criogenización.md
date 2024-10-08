@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 ### Preguntas en inglés
 Preguntas para la sustentación final de [[Lengua Extranjera IV]]
 

@@ -6,6 +6,7 @@ tags:
   - Semestre5
   - Back-End
   - DesarrolloDeSoftware
+date: 2024-02-05
 ---
 Carpeta en donde almaceno toda la información relacionada a la materia de Ingeniería de Software I que fue vista en [[Quinto Semestre]].
 

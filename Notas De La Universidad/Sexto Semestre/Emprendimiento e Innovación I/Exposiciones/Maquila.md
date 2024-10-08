@@ -1,3 +1,7 @@
+---
+date: 2024-02-09
+---
+
 Parte de las [[Exposiciones]] de Emprendimiento e innovación.
 
 Forma de subcontratación en la que una empresa conocida como maquiladora realiza productos de manufactura o ensamblaje para otra empresa, ubicada en un país diferente.

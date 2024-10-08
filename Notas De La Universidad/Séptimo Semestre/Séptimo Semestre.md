@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+date: 2024-07-20
 ---
 Parte de mis [[Notas De La Universidad]] que conforman el periodo de 2024-II en mi carrera de Ingeniería de Sistemas.
 

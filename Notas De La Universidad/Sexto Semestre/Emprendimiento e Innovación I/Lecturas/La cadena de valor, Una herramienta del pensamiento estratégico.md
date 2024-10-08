@@ -1,3 +1,7 @@
+---
+date: 2024-02-02
+---
+
 Tercera de las [[Lecturas]] de Emprendimiento e Innovación I.
 
 ## ¿Qué es el pensamiento estratégico?

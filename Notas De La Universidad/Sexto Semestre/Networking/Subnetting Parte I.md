@@ -1,3 +1,9 @@
+---
+date: 2024-03-07
+tags:
+  - Redes
+---
+
 Explicación de como dividir las redes para [[Networking]]
 ## ¿Qué es el Subnetting?
 Es la técnica de dividir una red IP grande en subredes más pequeñas. Su analogía es equivalente a dividir una casa en diferentes habitaciones más pequeñas.

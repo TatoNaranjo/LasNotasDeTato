@@ -1,3 +1,6 @@
+---
+date: 2024-02-02
+---
 
 
 Investigación realizada por **Santiago Naranjo Herrera** a partir de una entrevista realizada a Simon Borrero, creador de Rappi por **PropieDATA**.

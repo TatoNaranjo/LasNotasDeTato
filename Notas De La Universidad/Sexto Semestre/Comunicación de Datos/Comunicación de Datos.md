@@ -4,6 +4,7 @@ tags:
   - Matemáticas
   - Planeacion
   - Semestre6
+date: 2024-02-05
 ---
 Los contenidos relacionados a esta materia son:
 

@@ -3,6 +3,7 @@ tags:
   - Productividad
   - Semestre6
   - Diseño
+date: 2024-02-05
 ---
 Los contenidos que puedes encontrar en esta materia son:
 

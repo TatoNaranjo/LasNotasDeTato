@@ -1,3 +1,8 @@
+---
+date: 2024-02-03
+tags:
+  - Redes
+---
 
 Conceptos básicos que se deben tener en cuenta para transformar la información y que se pueda entender en un dispositivo. Para [[Comunicación de Datos]]
 # Modulación de Amplitud

@@ -1,3 +1,9 @@
+---
+date: 2024-02-29
+tags:
+  - Redes
+---
+
 Segunda clase de [[Networking]]
 
 Direccionamiento IP: Protocolo mediante el cual nuestros dispositivos pueden conectarse para transmitir información.

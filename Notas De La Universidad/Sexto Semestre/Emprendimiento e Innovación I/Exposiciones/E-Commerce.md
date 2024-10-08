@@ -1,3 +1,7 @@
+---
+date: 2024-03-04
+---
+
 Cuarta de las [[Exposiciones]] de emprendimiento e innovación
 
 *El Mundo a tus Pies*

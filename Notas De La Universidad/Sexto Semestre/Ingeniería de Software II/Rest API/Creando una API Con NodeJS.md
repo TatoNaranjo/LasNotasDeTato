@@ -1,3 +1,13 @@
+---
+date: 2024-05-12
+tags:
+  - DesarrolloDeSoftware
+  - APIs
+  - JavaScript
+  - NodeJS
+  - Back-End
+---
+
 Documentando el proceso de creación de una [[Rest API]]
 **Escrito Por:** *Santiago Naranjo Herrera*
 ```table-of-contents

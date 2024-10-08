@@ -1,3 +1,12 @@
+---
+date: 2024-05-20
+tags:
+  - SCRUM
+  - Documentacion
+  - Ágiles
+  - Metodologías
+---
+
 Guía de [[Introducción a Scrum]] aprendiendo sobre como utilizar el libro de referencia: SBOK.
 
 El SBOK es utilizado por diferentes tipos de roles dentro de una compañía o proyecto, es por esto que el libro tiene una guía de roles en donde se encuentran los 6 principios de Scrum y 5 Aspectos de Scrum que servirán como una diferencia.

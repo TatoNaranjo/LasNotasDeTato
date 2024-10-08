@@ -1,3 +1,9 @@
+---
+date: 2024-04-26
+tags:
+  - Documentacion
+---
+
 `Por: Santiago Naranjo Herrera`
 
 Investigación hecha como preparación para la creación de trabajos por medio de un [[Informes Técnicos]].

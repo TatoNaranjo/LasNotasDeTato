@@ -1,3 +1,7 @@
+---
+date: 2024-10-05
+---
+
 Parte del campo de [[Análisis Numérico]] que consiste en encontrar un polinomio que se aproxime a la función.
 
 $$\text{sea } f(x) => f(a)$$

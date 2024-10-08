@@ -1,3 +1,12 @@
+---
+tags:
+  - Scripting
+  - Python
+  - Problem-Solving
+  - Matemáticas
+date: 2024-09-25
+---
+
 Para llevar a cabo el [[Análisis Numérico]] debemos tener en cuenta que la forma más sencilla de clasificar datos es mediante la interpretación de los mismos dentro de conjuntos.
 
 ## Método Estadístico

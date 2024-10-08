@@ -1,3 +1,9 @@
+---
+date: 2024-08-09
+tags:
+  - Seguridad
+---
+
 Es muy común confundir el término de seguridad informática con el término de seguridad de la información. La seguridad informática abarca un campo mucho más amplio dentro de una empresa.
 
 La seguridad informática como disciplina es la encargada de plantear y diseñar normas, procedimientos, métodos y técnicas con el fin de obtener un sistema de información seguro o confiable y sobre todo que tenga confidencialidad.

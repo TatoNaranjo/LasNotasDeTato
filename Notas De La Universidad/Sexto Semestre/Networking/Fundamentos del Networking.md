@@ -1,4 +1,9 @@
-[[Networking]] 
+---
+date: 2024-03-25
+tags:
+  - Redes
+---
+
 # Conversiones De Bases Rápidas
 
 ## De Decimal a Binario

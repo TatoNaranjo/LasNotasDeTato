@@ -4,6 +4,7 @@ tags:
   - Diseño
   - Semestre6
   - OS
+date: 2024-02-05
 ---
 En esta materia profundizamos sobre la configuración de redes en espacios controlados mediante la utilización del simulador Cisco Packet Tracer. El temario que puedes encontrar en esta materia es el siguiente:
 

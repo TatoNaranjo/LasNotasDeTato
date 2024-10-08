@@ -1,3 +1,12 @@
+---
+date: 2024-09-11
+tags:
+  - Scripting
+  - Python
+  - Matemáticas
+  - Proyectos
+---
+
 Informe hecho para [[Matemáticas Especiales]]
 
 > Informe hecho por: Santiago Naranjo Herrera, David Santiago Sierra y Edgar Duván Bernal Acero

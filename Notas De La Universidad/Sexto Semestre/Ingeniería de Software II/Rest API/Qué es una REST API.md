@@ -1,3 +1,13 @@
+---
+date: 2024-05-12
+tags:
+  - APIs
+  - Aplicaciones
+  - DesarrolloDeSoftware
+  - Redes
+  - Back-End
+---
+
 Entendiendo el concepto y como funciona una [[Rest API]]
 
 Para entender como funciona primero tenemos que partir del concepto de una  *aplicación tipo Servidor/Cliente*.

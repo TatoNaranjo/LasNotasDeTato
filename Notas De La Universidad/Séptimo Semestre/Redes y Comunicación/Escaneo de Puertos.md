@@ -1,3 +1,11 @@
+---
+date: 0024-09-02
+tags:
+  - Redes
+  - Planeacion
+  - Seguridad
+---
+
 Laboratorio realizado para la materia de [[Comunicación de Datos]] que consiste en hacer un sondeo de puertos a 3 IPs diferentes de Shodan usando la herramienta nmap.
 
 > Por: Santiago Naranjo Herrera

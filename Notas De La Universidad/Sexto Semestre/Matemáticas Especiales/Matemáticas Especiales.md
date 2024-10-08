@@ -2,6 +2,7 @@
 tags:
   - Matemáticas
   - Semestre6
+date: 2024-02-05
 ---
 En esta materia, abarcamos distintas herramientas aplicadas a los números complejos con temas que ya hemos visto.  El temario de Matemáticas Especiales es el siguiente:
 

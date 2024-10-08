@@ -1,3 +1,9 @@
+---
+date: 2024-09-20
+tags:
+  - Seguridad
+---
+
 Completando los puntos que faltan sobre la seguridad en los puertos de servidores para [[Seguridad Informática]]
 
 13. ¿Cuál es la diferencia entre un puerto abierto, cerrado y filtrado, y qué significan en el contexto de un análisis de seguridad?

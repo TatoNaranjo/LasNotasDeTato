@@ -1,3 +1,10 @@
+---
+tags:
+  - Redes
+  - Herramientas
+date: 2024-05-02
+---
+
 Documento de guía para la utilización de Cisco Packet Tracer en [[Networking]]
 
 Si quiero cambiar un componente de un dispositivo o aplicar una configuración en el, primero debo apagar el dispositivo.

@@ -1,5 +1,8 @@
 ---
 tags:
+  - Metodologías
+  - Ágiles
+date: 2024-05-20
 ---
 El primer capítulo de la [[Certificación SCRUM Fundamentals]]
 

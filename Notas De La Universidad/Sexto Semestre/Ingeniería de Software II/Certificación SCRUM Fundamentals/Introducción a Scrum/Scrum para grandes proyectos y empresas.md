@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - SCRUM
+  - Metodologías
+  - Ágiles
+---
+
 Parte de la [[Introducción a Scrum]] que se enfoca en como implementar el Framework en proyectos grandes.
 
 Cuando se trabaja con proyectos grandes que requieren un esfuerzo colectivo de cuatro o más equipos Scrum, con *varios Product Owners y varios Scrum Masters*,se abarcan los procesos fundamentales definidos en el SBOK desde el capítulo 8 hasta el capítulo 12. Estos capítulos siguen siendo válidos, pero se deben tener ciertas consideraciones adicionales, y actualizar ciertas entradas, herramientas y salidas para que los procesos funcionen de mejor manera.

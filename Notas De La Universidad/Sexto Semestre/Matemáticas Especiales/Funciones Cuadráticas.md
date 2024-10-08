@@ -1,3 +1,7 @@
+---
+date: 2024-02-08
+---
+
 Quinta clase de [[Matemáticas Especiales]]
 ## Ecuación de Segundo Grado
 Se puede solucionar por factorización o fórmula cuadrática.

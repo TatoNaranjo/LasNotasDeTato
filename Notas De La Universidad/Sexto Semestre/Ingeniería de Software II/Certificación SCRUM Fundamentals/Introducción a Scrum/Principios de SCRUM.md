@@ -1,3 +1,11 @@
+---
+date: 2024-05-20
+tags:
+  - Metodologías
+  - Ágiles
+  - SCRUM
+---
+
 Conociendo uno de los pilares básicos del framework como [[Introducción a Scrum]]
 
 

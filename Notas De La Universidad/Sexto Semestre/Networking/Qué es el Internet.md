@@ -1,3 +1,9 @@
+---
+date: 2024-02-05
+tags:
+  - Redes
+---
+
 Un concepto que hay que tener claro cuando hablamos de [[Networking]].
 
 Hay dos formas de definir este concepto, la primera es hablando de la capa de hardware y software que compone al sistema en su totalidad. La segunda es hablando de una infraestructura de red que distribuye un servicio a aplicaciones distribuidas.

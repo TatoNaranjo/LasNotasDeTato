@@ -1,3 +1,7 @@
+---
+date: 2024-02-04
+---
+
 Parámetros para construir la exposición final de [[Emprendimiento e Innovación I]]
 
 "El mayor peligro para la mayoría de nosotros no radica en establecer unos objetivos demasiado altos y fracasar, sino en establecer unos objetivos demasiado bajos y lograrlos"

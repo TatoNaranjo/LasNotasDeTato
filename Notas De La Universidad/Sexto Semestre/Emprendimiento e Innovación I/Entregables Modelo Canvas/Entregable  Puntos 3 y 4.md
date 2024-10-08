@@ -1,3 +1,7 @@
+---
+date: 2024-05-15
+---
+
 Parte de los [[Entregables Modelo Canvas]] para emprendimiento.
 ### Canales de Distribución
 #### ¿Con qué canales podemos llegar a nuestros clientes?

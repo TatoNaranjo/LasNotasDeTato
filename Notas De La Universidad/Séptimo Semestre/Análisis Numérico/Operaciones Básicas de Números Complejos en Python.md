@@ -1,3 +1,12 @@
+---
+date: 2024-08-27
+tags:
+  - Scripting
+  - Python
+  - Matemáticas
+  - Problem-Solving
+---
+
 Informe realizado para la materia de [[Análisis Numérico]]
 
 > Por: Santiago Naranjo Herrera, David Santiago Sierra y Edgar Duván Bernal Acero

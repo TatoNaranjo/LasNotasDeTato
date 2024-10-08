@@ -1,3 +1,10 @@
+---
+date: 2024-08-25
+tags:
+  - Redes
+  - Seguridad
+---
+
 Conociendo una forma segura de viajar por internet en la materia de [[Redes y Comunicación]]
 
 SSH son las siglas para Secure Shell, y es un protocolo de red destinado a la conexión con máquinas a las que se accede mediante linea de comandos. Esto funciona principalmente como un método de acceso a servidores remotos mediante una conexión a internet como vía de comunicación. Una de las características más importantes es que su conexión siempre se realiza de manera segura debido a que los datos viajan a través de un túnel de forma encriptada, por lo tanto no puede ser legible por terceros.

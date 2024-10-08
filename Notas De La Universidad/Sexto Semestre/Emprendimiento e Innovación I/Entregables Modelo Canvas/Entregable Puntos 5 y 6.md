@@ -1,3 +1,8 @@
+---
+tags: 
+date: 2024-05-20
+---
+
 Parte de los [[Entregables Modelo Canvas]] para Emprendimiento e innovación.
 
 ## El Flujo de Ingresos

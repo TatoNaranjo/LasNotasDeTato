@@ -1,3 +1,7 @@
+---
+date: 2024-02-02
+---
+
 Primera de las [[Exposiciones]] de emprendimiento e Innovación.
 
 Es un sector económico en donde se busca equilibrar el desarrollo sostenible, siempre siendo amable con el medio ambiente.

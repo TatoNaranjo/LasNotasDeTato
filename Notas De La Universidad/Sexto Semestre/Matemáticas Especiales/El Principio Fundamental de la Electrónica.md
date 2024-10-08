@@ -1,3 +1,7 @@
+---
+date: 2024-03-05
+---
+
 Definición de lo que veremos en [[Matemáticas Especiales]]
 
 Inicia hablando sobre el lenguaje máquina, luego pasamos a los números complejos utilizando todas las matemáticas que hemos visto antes. También se habla de transformadas como Laplace y Fourier.

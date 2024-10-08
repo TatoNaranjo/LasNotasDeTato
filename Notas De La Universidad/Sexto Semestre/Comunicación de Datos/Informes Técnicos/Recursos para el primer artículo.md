@@ -1,3 +1,9 @@
+---
+tags:
+  - Documentacion
+date: 2024-04-26
+---
+
 Recursos de investigación para la maquetación del primer trabajo que usa [[Informes Técnicos]]
 
 >Informe técnico de no menos de 4 paginas en las cuales se establezca las diferencias entre la transmisión de señales análogas y digitales de acuerdo al medio que se emplee, además de cual es el recomendado para tal fin de acuerdo los requerimientos, debe ser sustentado como tiempo empleado para tal fin 5 minutos

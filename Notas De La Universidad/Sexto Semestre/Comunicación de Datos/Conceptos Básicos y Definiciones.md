@@ -1,4 +1,11 @@
+---
+date: 2024-02-03
+tags:
+  - Redes
+---
+
 Conceptos básicos de [[Comunicación de Datos]]
+
 **Por:** *Santiago Naranjo Herrera*
 
 ```table-of-contents

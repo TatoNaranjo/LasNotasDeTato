@@ -3,6 +3,7 @@ tags:
   - Idiomas
   - Inglés
   - Semestre6
+date: 2024-02-05
 ---
 El temario que puedes encontrar en esta materia es el siguiente:
 - [[My Country's Investigation]]: En esta investigación, abarqué los conceptos de un país angloparlante: Malta. El propósito de esto fue hacer una posterior exposición.

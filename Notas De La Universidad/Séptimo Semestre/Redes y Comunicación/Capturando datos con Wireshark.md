@@ -1,3 +1,10 @@
+---
+date: 2024-08-25
+tags:
+  - Seguridad
+  - Redes
+---
+
 Informe de laboratorio para la materia de [[Redes y Comunicación]]
 > Por: Santiago Naranjo Herrera
 

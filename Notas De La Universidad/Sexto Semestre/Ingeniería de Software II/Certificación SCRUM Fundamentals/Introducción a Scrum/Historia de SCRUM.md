@@ -1,3 +1,10 @@
+---
+date: 2024-05-20
+tags:
+  - Ágiles
+  - Metodologías
+  - SCRUM
+---
 
 Parte de la [[Introducción a Scrum]] donde se cuenta cómo fue que nació el framework.
 

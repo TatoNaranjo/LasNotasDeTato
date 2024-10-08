@@ -1,3 +1,7 @@
+---
+date: 2024-02-08
+---
+
 Parte del repaso inicial de la clase de [[Matemáticas Especiales]]
 
 ***Dados esos dos puntos Graficar y Hallar la Ecuación de la Recta.***

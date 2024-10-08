@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Lineamientos para el proyecto de la materia de [[Ingeniería de Software II]]
 
 ## Tipos de Proyecto de Gestión del Conocimiento
