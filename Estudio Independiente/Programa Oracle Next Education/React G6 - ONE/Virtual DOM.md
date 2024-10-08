@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 La expresión “manipular el DOM” es muy común y muy escuchada cuando empezamos a estudiar desarrollo web. Este artículo abordará el concepto de lo qué és el Virtual DOM, sus diferencias con el DOM real y cuándo debemos usarlos. Si aún tienes dudas sobre cuál es el DOM real, tenemos un artículo que explica el tema en detalle: “[¿**_Qué és DOM?_**](https://www.aluracursos.com/blog/[https://www.aluracursos.com/blog/que-es-dom](https://www.aluracursos.com/blog/que-es-dom))”.
 
 ![IMG-CAPA](https://www.aluracursos.com/blog/assets/que-es-dom/capa.jpg)
