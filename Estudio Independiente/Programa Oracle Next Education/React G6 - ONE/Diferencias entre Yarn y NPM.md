@@ -1,3 +1,11 @@
+---
+date: 2024-06-29
+tags:
+  - Diseño
+  - Front-End
+  - Herramientas
+---
+
 ¿Sabes cuándo necesitas desarrollar un proyecto con JavaScript y reutilizar código listo para usar de paquetes y dependencias?, como esos archivos en la famosa carpeta de módulos de nodos. Entonces, NPM y Yarn son dos tecnologías encargadas de administrar y ejecutar estos paquetes y dependencias. Pero, ¿cuál será la diferencia entre cada uno de estos gerentes? ¿Hay uno mejor que el otro?
 
 ##### **¿Para qué sirven?**

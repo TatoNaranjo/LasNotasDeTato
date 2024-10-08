@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Redes
+---
+
 Para poder ver un contenido en una página web, muy probablemente accedimos a través de la ruta `https://www.paginaweb.com`, la cual se conoce como una dirección o dominio web que especifica una dirección única con la que podremos acceder a una plataforma.
 
 ## Estructura de un dominio

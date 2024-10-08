@@ -1,3 +1,11 @@
+---
+date: 2024-09-08
+tags:
+  - Productividad
+  - Linux
+  - Herramientas
+---
+
 # ¿Qué es VIM?
 
 >Recuerdo que una vez, mientras veía un Screen Cast de un programador competitivo, me di cuenta de que en ningún momento utilizaba su mouse para escribir código y lo único que hacía era recurrir a comandos para cambiar ocurrencias en su código en cuestión de segundos. Acto seguido, descubrí el mejor editor de texto que he probado nunca.

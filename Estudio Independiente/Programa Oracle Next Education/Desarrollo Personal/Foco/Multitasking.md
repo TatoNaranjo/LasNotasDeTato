@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 
 Tenemos que analizar nuestra capacidad de tener un buen [[Foco]]
 ##### **¿La multitarea significa ser más productivo?**

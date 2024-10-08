@@ -1,3 +1,9 @@
+---
+date: 2023-07-20
+tags:
+  - Productividad
+---
+
 Necesarias para Aprender. Parte del curso [[Aprender a Aprender]]
 
 Al momento de querer hacer algo tenemos que enfocarnos y preguntar:

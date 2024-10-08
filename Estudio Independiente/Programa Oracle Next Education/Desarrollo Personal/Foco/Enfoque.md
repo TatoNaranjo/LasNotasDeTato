@@ -1,4 +1,7 @@
-
+---
+date: 2024-07-20
+---
+d
 Imagina que tienes varias cosas en mente por hacer, como por ejemplo:
 
 - #### Ir a eventos.

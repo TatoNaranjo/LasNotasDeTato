@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Para realizar una [[Transición de Carrera]] de la mejor manera, es necesario saber como venderse al mercado. Es por ello que necesitamos crear una marca personal que podamos ofrecer a las distintas personas que nos vamos encontrando por el camino.
 
 ## Quien eres fuera de tu curriculum?

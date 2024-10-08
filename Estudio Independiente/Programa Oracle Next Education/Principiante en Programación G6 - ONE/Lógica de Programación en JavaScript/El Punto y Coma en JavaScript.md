@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 
 #### Para evitar errores de [[Lógica de Programación en JavaScript]]
 

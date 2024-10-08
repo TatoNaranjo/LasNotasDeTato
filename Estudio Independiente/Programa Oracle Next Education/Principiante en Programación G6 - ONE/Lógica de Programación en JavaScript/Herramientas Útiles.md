@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 
 ```table-of-contents
 ```

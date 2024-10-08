@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Algunas veces tenemos muchas cosas planeadas pero casi nunca se cumplen o se vuelven un hábito porque terminamos desechando esas ideas y no dejamos que se conviertan en [[Hábitos]], es por eso que es necesario plantearnos unos objetivos y conocer el poder de las metas que nos ayudarán a cumplirlos.
 
 ##### Objetivo

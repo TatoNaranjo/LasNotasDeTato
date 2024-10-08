@@ -1,3 +1,7 @@
+---
+date: 2024-09-27
+---
+
 Preguntas frecuentes que me hago sobre [[Astro]]
 ## ¿Cómo sé que debo agregar un framework como VueJS o ReactJS?
 

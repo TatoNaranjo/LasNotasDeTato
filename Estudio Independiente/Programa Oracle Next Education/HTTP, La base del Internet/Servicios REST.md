@@ -1,3 +1,11 @@
+---
+tags:
+  - Redes
+  - Aplicaciones
+  - APIs
+date: 2024-07-20
+---
+
 Ya conocemos el flujo tradicional de cómo funciona un modelo cliente-servidor cuando se trabajan con distintos datos, y sabemos que este cliente es ajeno a la plataforma que se utilice. Sin embargo, debemos de tener en cuenta de que cuando realizamos una petición como lo puede ser una petición `GET`, no siempre nos arrojará los datos dentro de un HTML debido a que hay múltiples formas de manejar y devolver esta información. 
 
 Uno de estos formatos es el XML (Extended Markup Language), el cual se parece demasiado a HTML debido a que funciona con el mismo sistema de etiquetas.

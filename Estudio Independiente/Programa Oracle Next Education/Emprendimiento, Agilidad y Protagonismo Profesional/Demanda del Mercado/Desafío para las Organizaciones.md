@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Retos a los que se debe enfrentar una empresa dentro de una [[Demanda del Mercado]]
 
 Establece objetivos cuidadosamente para ofrecer incentivos intrínsecos y extrínsecos. Existe una combinación de diferentes factores, como por ejemplo las cosas por las que otras empresas se destacan en el mundo laboral. Aparte hay que tener en cuenta que el factor que motiva a una persona puede ser el factor que desmotiva a la otra.

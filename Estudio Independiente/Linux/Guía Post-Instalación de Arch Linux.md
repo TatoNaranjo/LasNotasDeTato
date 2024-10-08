@@ -1,3 +1,10 @@
+---
+date: 2024-08-26
+tags:
+  - Linux
+  - Arch
+---
+
 Bueno, parece que ya has completado la instalación de tu nueva distribución de Linux, eso significa que has dado el primer paso y has completado una hazaña dentro del mundo de las distribuciones de [[Linux]]. Ahora que tu sistema está en marcha es hora de que conozcas los pequeños componentes sobre los cuales se encuentra construido para facilitar tu acceso y personalizarlo para que se ajuste a tus necesidades. 
 
 En este post exploraremos una serie de pasos y herramientas recomendadas para sacarle provecho a tu nueva instalación de Arch, desde configuraciones básicas hasta ajustes avanzados basados en mi experiencia para que tu experiencia con Linux sea más poderosa y fluida. ¿Qué te parece?

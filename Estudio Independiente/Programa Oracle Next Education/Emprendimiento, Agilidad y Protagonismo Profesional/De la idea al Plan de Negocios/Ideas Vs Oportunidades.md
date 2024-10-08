@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Emprendimiento
+---
+
 Parte [[De la idea al Plan de Negocios]] radica en comprender la diferencia entre una idea y una oportunidad.
 
 Para analizar una idea y pensar en si realmente tiene un aprovechamiento rentable, debemos pensar en el valor potencial de la idea. Nuestra idea debe solucionar un problema que incomode a la gente por medio de una diferencia ante el mercado. Los emprendedores deben tener algo de experiencia relacionada al problema que desean solucionar.

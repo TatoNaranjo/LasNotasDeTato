@@ -1,4 +1,10 @@
-	## APIs y CRUD
+---
+date: 2024-07-20
+tags:
+  - JavaScript
+---
+
+## APIs y CRUD
 
 El Término API es una abreviación de Application Programming Interface, y permite la comunicación entre un cliente y un servidor. Esto significa que para comunicar un cliente con un servidor, normalmente las solicitudes y las respuestas deben pasar a través de la API. Una API es esencial debido a que ayuda a comunicar a dos herramientas que no están escritas en el mismo lenguaje, estandarizando el proceso en el que se recibe la información.
 

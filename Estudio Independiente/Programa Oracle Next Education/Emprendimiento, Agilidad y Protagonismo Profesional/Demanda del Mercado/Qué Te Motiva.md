@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Para desenvolverse en un mercado donde existe una [[Demanda del Mercado]] competitiva, es necesario saber qué nos motiva para hacer las cosas de mejor manera.
 
 ## Qué es lo que te motiva?

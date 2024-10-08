@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Qué es lo que hace que un objetivo cobre más relevancia en relación a otro? Totalmente fundamental para [[Ser protagonista de tu carrera]]
 
 La primera pregunta que te debes de hacer es, A donde quiero llegar? Muchas personas buscan dejar su marca en el mundo, pero muchas otras no saben qué quieren hacer al momento de realizar una tarea.

@@ -1,3 +1,12 @@
+---
+tags:
+  - Programación-Competitiva
+  - Problem-Solving
+  - Algoritmos
+  - Cpp
+date: 2024-05-20
+---
+
 Primera clase de las [[Sesiones de estudio de UdeC]].
 ***Por:*** *TatoNaranjo*
 

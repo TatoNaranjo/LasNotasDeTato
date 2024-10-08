@@ -4,6 +4,7 @@ tags:
   - Front-End
   - JavaScript
   - DesarrolloDeSoftware
+date: 2024-07-20
 ---
 Aquí se desarrolla todo lo relacionado a como consumir información traída por una API de forma correcta en JavaScript.
 

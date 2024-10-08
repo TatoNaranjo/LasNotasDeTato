@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 [[Ser protagonista de tu carrera]] implica conocer cuál es el motivo detrás de lo que haces a diario, muchas personas dirán que es el dinero, sin embargo, siempre existe algo más.
 
 Muchas empresas trabajan bajo el concepto de un propósito, y muchas personas se han preguntado si es posible llevar ese mismo concepto de propósito a la vida personal. La respuesta que se da normalmente es que si se puede, sin embargo, la dificultad en esto radica en cuánto nos conocemos a nosotros mismos.

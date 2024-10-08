@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Productividad
+---
+
 Parte del curso [[Aprender a Aprender]]
 
 Todos los formatos de aprendizaje son buenos, pero son muy efectivos cuando se mezclan.

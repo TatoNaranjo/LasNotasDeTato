@@ -1,5 +1,7 @@
 ---
 tags:
+  - JavaScript
+date: 2024-07-20
 ---
 Primer curso de programación que tomé en el [[Programa Oracle Next Education]]
 

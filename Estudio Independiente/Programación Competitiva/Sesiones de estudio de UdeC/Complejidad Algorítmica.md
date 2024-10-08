@@ -1,3 +1,12 @@
+---
+date: 2024-05-20
+tags:
+  - Algoritmos
+  - Cpp
+  - Programación-Competitiva
+  - Problem-Solving
+---
+
 Segunda clase de las [[Sesiones de estudio de UdeC]].
 ***Hecho Por:*** *TatoNaranjo*
 

@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Redes
+---
+
 El proceso detrás de una petición y una respuesta dentro de un modelo Cliente-Servidor usando el protocolo HTTP 1.1 enfatiza el recibimiento de los datos por medio de un formato de texto, sin embargo, uno de los muchos problemas que se presentan con esto, es que los datos que se tienen que enviar son demasiados y con la llegada de nuevos dispositivos y nuevas conexiones de internet lo que se desea es que se envíe la menor cantidad de datos pero obteniendo los mismos resultados.
 
 Gracias a esto, una de las primeras implementaciones en el protocolo HTTP versión 2 es el algoritmo ***GZIP***, el cual comprime el cuerpo de la respuesta para que la cantidad de información que tiene que recibir el usuario sea menor. Otra de las mejoras es que los encabezados de la petición y de la respuesta ya no se mandan como un texto plano sino como un formato binario, y se implementa un nuevo algoritmo llamado ***HPACK*** que lo que busca es comprimir dichos encabezados para que pesen menos de lo que ya pesaban en el formato binario. Además, TLS se implementa por defecto en la versión 2.

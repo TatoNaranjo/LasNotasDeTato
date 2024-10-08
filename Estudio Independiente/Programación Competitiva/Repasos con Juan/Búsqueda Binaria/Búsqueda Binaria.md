@@ -4,6 +4,8 @@ tags:
   - Programación-Competitiva
   - Cpp
   - Python
+  - Problem-Solving
+date: 2024-05-20
 ---
 
 **Por:** *TatoNaranjo*

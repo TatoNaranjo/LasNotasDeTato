@@ -1,3 +1,12 @@
+---
+date: 2024-06-06
+tags:
+  - Algoritmos
+  - Problem-Solving
+  - Cpp
+  - Programación-Competitiva
+---
+
 Enfoque de [[Programación Competitiva]] utilizado comúnmente como la primera idea que tenemos para resolver problemas.
 
 >***Nota de Tato:*** Es como usar un enfoque de Programación Dinámica pero sin optimizar, así que puedes verlo como que... si el ejercicio te da el tiempo suficiente solo tienes que intentar hacer todas las combinaciones posibles y agarrar la mejor solución sobre la marcha.

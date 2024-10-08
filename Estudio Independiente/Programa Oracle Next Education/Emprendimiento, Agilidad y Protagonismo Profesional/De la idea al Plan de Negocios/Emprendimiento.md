@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Emprendimiento
+---
+
 Pilar fundamental para llevar nuestro proyecto d [[De la idea al Plan de Negocios]]
 
 Según Robert Hirsh, El emprendimiento es el proceso de crear algo nuevo asumiendo los riesgos y las recompensas por ello. Además, no solo basta con tener una idea y querer hacerla realidad, pues el emprendedor deberá tener compromiso con su idea, también desarrollar cierta determinación y perseverancia ante los obstáculos que se atraviesen por el camino.

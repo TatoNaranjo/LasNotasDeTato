@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Productividad
+---
+
 Mi técnica preferida para crear nuevos [[Hábitos]] de programación.
 
 En este momento vamos a conocer la técnica Pomodoro, que fue hecha por Francesco Cirillo en Italia a finales de los años 80. Vamos a ver lo que se puede hacer para mejorar nuestra técnica de utilizar las listas.

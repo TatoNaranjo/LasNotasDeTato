@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - JavaScript
+---
+
 ```table-of-contents
 ```
 

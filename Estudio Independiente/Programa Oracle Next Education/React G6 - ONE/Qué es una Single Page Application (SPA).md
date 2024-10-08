@@ -1,3 +1,11 @@
+---
+date: 2024-06-29
+tags:
+  - Diseño
+  - Front-End
+  - Aplicaciones
+---
+
 Es un modelo de aplicación que ha sido muy utilizado en el mercado. Fue creado como una solución al modelo de construcción de Software Front-End Convencional que se denomina MPA (Multi Page Application).
 
 ## Procesamiento y Solicitud de Información

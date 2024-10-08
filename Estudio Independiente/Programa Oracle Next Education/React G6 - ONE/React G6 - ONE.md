@@ -3,6 +3,7 @@ tags:
   - Frameworks
   - React
   - Front-End
+date: 2024-06-29
 ---
 Parte del [[Programa Oracle Next Education]] en el que se enfatiza un roadmap para aprender React en la plataforma de Alura Latam.
 

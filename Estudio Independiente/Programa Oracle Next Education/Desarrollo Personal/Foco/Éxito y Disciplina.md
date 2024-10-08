@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 #### El hecho de levantarse temprano solo por hecho de que: **"Al Que Madruga Dios Lo Ayuda"** me va a hacer exitoso?
 
 La verdad, es que muchas veces solemos priorizar el trabajo por encima de muchas cosas que pasan en nuestra vida diaria, pensando en que estamos perdiendo tiempo al no ser productivos, y llevamos a cabo un aprendizaje como estilo de vida. Sin embargo, hay que analizar si esas decisiones que estamos tomando nos están llevando por un buen camino, y,¿Qué es un buen camino? Ser efectivo pero a su misma vez, cuidar nuestro mindset.

@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 También conocido como cascada, es la razón principal por la que nacen los primeros [[Fundamentos de Agile]].
 
 # Razones por las que no es efectivo

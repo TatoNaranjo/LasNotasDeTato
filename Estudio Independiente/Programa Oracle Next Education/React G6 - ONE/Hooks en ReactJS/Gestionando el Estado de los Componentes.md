@@ -1,3 +1,10 @@
+---
+date: 2024-07-02
+tags:
+  - React
+  - JavaScript
+---
+
 Empecemos por definir y entender que son los Hooks, expresemos la definición en los términos más simples, un hook es una función, partiendo de esa premisa entonces podemos indicar que no es cualquier función, está claro ello, en ese caso podemos decir:
 
 Un hook es una función especial con un objetivo específico, simplificar algún proceso que hasta el momento se realizaba de otra forma.

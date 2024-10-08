@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 - [[LinkedIn]] tiene 740 millones de usuarios mensuales, y cada segundo se registran dos nuevos miembros.
 - 30 millones de compañías utilizan LinkedIn
 - El 97% de los mercadólogos B2B utilizan LinkedIn para hacer marketing de su contenido de calidad.

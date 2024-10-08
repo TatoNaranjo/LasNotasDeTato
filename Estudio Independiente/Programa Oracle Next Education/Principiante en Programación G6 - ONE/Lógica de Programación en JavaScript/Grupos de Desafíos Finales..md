@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 
 Desafíos finales del curso de [[Lógica de Programación en JavaScript]]:
 

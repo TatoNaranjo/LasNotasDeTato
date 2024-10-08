@@ -1,3 +1,10 @@
+---
+date: 2024-07-02
+tags:
+  - React
+  - Diseño
+---
+
 El **Prop Drilling** es una paso del desarrollo que ocurre cuando necesitamos obtener datos que están en varias capas en el **árbol de componentes React**. Veamos este concepto en funcionamiento en la práctica, pasando **props** de un componente a otro.
 
 ### Pasando props

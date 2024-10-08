@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Todo aquello que nos identifica y nos hace únicos en una empresa que se encuentra en una [[Demanda del Mercado]].
 
 ## Cuáles son tus valores?

@@ -1,3 +1,9 @@
+---
+tags:
+  - Emprendimiento
+date: 2024-07-20
+---
+
 Parte de llevar un plan [[De la idea al Plan de Negocios]] radica en convertirlo un negocio, para esto, debemos tener en cuenta tres pilares fundamentales.
 
 El primer pilar que se debe tener en cuenta al momento de hacer un negocio es el de un *fundador* o *emprendedor*, que pudo haber sido contratado o no por un equipo de fundación para llevar a cabo la idea propuesta, y que puede tener experiencia o conocimiento previo. También es fundamental que el fundador pueda ser una autoridad capaz de construir y gestionar distintas habilidades y competencias.

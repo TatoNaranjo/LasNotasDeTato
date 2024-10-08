@@ -1,3 +1,10 @@
+---
+date: 2024-07-02
+tags:
+  - React
+  - Diseño
+---
+
 Podemos implementar nuestros propios Hooks en react utilizando la herramienta de react llamada Custom Hooks. Un custom Hook permite mejorar la lógica de programación de nuestras aplicaciones encapsulando lo que queremos implementar dentro de un Hook personalizado de react que es reutilizable.
 
 

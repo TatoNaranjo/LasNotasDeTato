@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Desafíos para desarrollar nuestra [[Lógica de Programación en JavaScript]]:
 
 1. Pregunta al usuario qué día de la semana es. Si la respuesta es "Sábado" o "Domingo", muestra "¡Buen fin de semana!". De lo contrario, muestra "¡Buena semana!".

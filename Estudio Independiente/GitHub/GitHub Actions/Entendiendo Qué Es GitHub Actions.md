@@ -1,3 +1,7 @@
+---
+date: 2024-09-27
+---
+
 [[GitHub Actions]] es una plataforma de integración contínua y entrega continua (Continuous Deployment y Continuous Integrations o CI/CD) que te permite actualizar tus espacios de construcción, pruebas y despliegue de un proyecto. Puedes crear **flujos de trabajo (Workflows)** que construyan y prueben las distintas pull requests que envíes a tu repositorio. Además GitHub Actions va más allá de los aspectos de DevOps, permitiéndote ejecutar workflows cuando ocurran otros eventos en tu repositorio. Por ejemplo: puedes correr un flujo de trabajo de forma automática para añadir etiquetas apropiadas a las pull requests o cuando una persona vaya a publicar una revisión de errores en tu repositorio.
 
 GitHub proporciona máquinas virtuales de Linux, Windows y MacOS para ejecutar tus flujos de trabajo, aunque si también lo deseas, también puedes hostear tus propios ejecutables en tu propio data center o infraestructura cloud.

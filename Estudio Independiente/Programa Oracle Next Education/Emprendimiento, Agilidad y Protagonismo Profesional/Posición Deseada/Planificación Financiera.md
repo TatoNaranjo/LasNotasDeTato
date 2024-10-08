@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Una [[Posición Deseada]] requiere de tiempo y esfuerzo, por lo que es necesario saber cuánto será remunerado.
 
 Es un proceso crucial para establecer metas financieras, tomar decisiones informadas  o prudentes, y garantizar la estabilidad económica a corto y largo plazo.

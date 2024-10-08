@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Como podemos ser buenos en nuestro campo y a su vez desenvolvernos bien en un trabajo en equipo? Ser un líder puede llegar a ser una [[Posición Deseada]].
 
 ## Líder que boicotea:

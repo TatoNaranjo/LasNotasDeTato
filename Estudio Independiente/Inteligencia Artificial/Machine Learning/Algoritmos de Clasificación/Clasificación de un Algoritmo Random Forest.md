@@ -1,3 +1,11 @@
+---
+date: 2024-09-19
+tags:
+  - IA
+  - Random-Forest
+  - Algoritmos
+---
+
 # ¿Qué es un clasificador de Random Forest?
 Un clasificador de un algoritmo [[Random Forest]], es, un algoritmo de machine learning automatizado que se basa en la construcción de árboles conjuntos. También se describe como un conjunto de árboles de decisión que parten de un subconjunto del modelo de entrenamiento seleccionado de forma aleatoria. Al final, este algoritmo agrega las opciones registradas de los diferentes árboles de decisión para decidir la clase final del objeto de prueba.
 

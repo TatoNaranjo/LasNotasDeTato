@@ -1,3 +1,9 @@
+---
+tags:
+  - Productividad
+date: 2024-07-20
+---
+
 Parte del curso [[Aprender a Aprender]]
 
 Lifelong Learning:

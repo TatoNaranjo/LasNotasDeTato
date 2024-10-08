@@ -1,3 +1,9 @@
+---
+date: 2024-07-20
+tags:
+  - Soft-Skills
+---
+
 Parte del curso [[Demanda del Mercado]]
 
 Con nuevas posibilidades como nuevas tecnologías y mercados, hay demasiados caminos para escoger. Nunca antes ha habido tanta incertidumbre sobre qué camino elegir. Por consiguiente debemos hacernos la pregunta de hacia adonde queremos orientar nuestra carrera.

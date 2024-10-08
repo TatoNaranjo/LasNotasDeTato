@@ -1,3 +1,7 @@
+---
+date: 2024-08-18
+---
+
 Un Object Storage es una tecnología que almacena y maneja datos en un formato no estructurado llamado objetos. Las organizaciones modernas crean y analizan grandes volúmenes de datos no estructurados como fotos, videos, correos, páginas, datos de sensores y archivos de audio. Los sistemas de almacenamiento de objetos en la nube distribuyen estos datos a través de múltiples dispositivos físicos, pero permiten a los usuarios acceder al contenido de forma eficiente desde un solo repositorio de almacenamiento virtual. Las soluciones de Object Storage son ideales para construir aplicaciones nativas en la nube que requieren escalabilidad y flexibilidad, y también pueden ser usadas para importar almacenes de datos para analítica, copias de seguridad o archivos normales.
 
 Los metadatos son fundamentales para la tecnología del object storage. Con Object Storage, los objetos se mantienen en un solo contenedor y no son archivos dentro de carpetas. En lugar de ello, object storage combina las partes de datos que conforman a un archivo, añaden todos los metadatos creados por el usuario a ese archivo y añaden un identificador personalizado. Esto crea una estructura plana, llamada **Bucket (Cubo)**, que es lo opuesto a un almacenamiento jerárquico. Esto permite traer y analizar cualquier objeto en el cubo, sin importar el tipo de archivo, basándose en su función y características.

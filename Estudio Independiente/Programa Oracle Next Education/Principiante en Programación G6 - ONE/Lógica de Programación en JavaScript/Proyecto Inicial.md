@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 #### Editor que usaré: VSCode
 
 #### ¿En qué consiste?

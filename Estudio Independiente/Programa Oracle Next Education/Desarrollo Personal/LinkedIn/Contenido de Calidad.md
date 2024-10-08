@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 #### **¿Qué Escribir?**
 
 ##### **Técnicas para crear publicaciones y destacarte en tu red de LinkedIn**

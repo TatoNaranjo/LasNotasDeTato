@@ -1,3 +1,9 @@
+---
+date: 2024-07-02
+tags:
+  - React
+---
+
 Ahora necesitamos solucionar la parte técnica sobre los problemas de prop drilling (Explicados de manera teórica en el documento sobre [[Qué es Prop Drilling]]) dentro de nuestras aplicaciones. Como sabemos, el problema reside en que entre tantas referencias y parámetros que se pasan dentro de nuestra aplicación, podemos confundirnos en saber cuál es el componente padre que ha enviado esos parámetros originalmente.
 
 Para solucionar el problema del prop drilling, podemos usar el hook de `contextAPI`
