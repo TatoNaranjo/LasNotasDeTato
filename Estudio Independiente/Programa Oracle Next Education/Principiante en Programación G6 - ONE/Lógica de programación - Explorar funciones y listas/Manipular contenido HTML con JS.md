@@ -1,3 +1,7 @@
+---
+date: 2024-07-26
+---
+
 Parte del curso de [[Lógica de programación - Explorar funciones y Listas]].
 
 ```table-of-contents
