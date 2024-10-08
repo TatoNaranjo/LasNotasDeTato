@@ -1,3 +1,12 @@
+---
+date: 2024-10-07
+tags:
+  - IA
+  - Algoritmos
+  - CienciaDeDatos
+  - Automatización
+---
+
 ## Introducción
 Empezaremos con un vistazo sobre cómo funcionan los modelos de machine learning y cómo se usan. Esto tal vez pueda sonar sencillo y básico si has realizado modelados estadísticos o machine learning antes. No te preocupes, vamos a avanzar para construir modelos muy pronto.
 
