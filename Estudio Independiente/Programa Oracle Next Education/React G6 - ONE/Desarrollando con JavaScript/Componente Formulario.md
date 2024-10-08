@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 A la hora de hacer un componente de un formulario, no nos damos cuenta de que hay varias cosas que podemos reutilizar, por ejemplo unos inputs de texto, algunos iconos o botones. La idea es reutilizar los componentes lo más que se pueda.
 
 Al momento de crear un componente, podemos crearlo dándole el nombre al archivo (Por ejemplo: `Header.js`) o simplemente nombrando el archivo de JavaScript como `index.js`. La diferencia entre ambos es que cuando llamemos al componente dentro de otros archivos, si no se encuentra el componente por defecto, react siempre va a apuntar a algún archivo que se llame `index` dentro de la carpeta del componente.

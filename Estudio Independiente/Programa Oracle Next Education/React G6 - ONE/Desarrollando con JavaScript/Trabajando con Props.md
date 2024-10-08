@@ -1,3 +1,7 @@
+---
+date: 2024-07-24
+---
+
 ## Props
 
 Imagina que tenemos un componente en el que queremos pasar el input en formato texto de cualquier cosa, pero no queremos repetir las mismas lineas de código para no extender demasiado el archivo en cuestión. Como la labor de react es dividir el trabajo en componentes, hemos decidido crear un componente que contiene tanto el label como el input de nuestro formulario y se ve así:

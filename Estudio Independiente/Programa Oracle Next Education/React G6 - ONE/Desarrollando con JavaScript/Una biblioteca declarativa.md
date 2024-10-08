@@ -1,3 +1,7 @@
+---
+date: 2024-07-24
+---
+
 ## Inspeccionar los elementos
 
 Muchas veces, la labor de un desarrollador Front-End no se basa en diseñar, sino en recibir un diseño y adaptarlo a una página web. Por lo tanto, en nuestro trabajo de desarrolladores Front-End, lo único que debemos de saber si o si, es como interpretar aquellos gráficos que se nos pasan para poder convertirlos a una página web o una aplicación.

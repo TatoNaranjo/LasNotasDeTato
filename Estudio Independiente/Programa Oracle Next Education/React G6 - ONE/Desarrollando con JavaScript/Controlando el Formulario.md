@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Debemos tener en cuenta de que hay dos tipos de componentes: los componentes con estado y los componentes sin estado. Todo va a depender del escenario en el que nos encontremos.
 
 Nosotros trabajamos previamente con inputs dentro del formulario, sin embargo necesitamos que esos valores se almacenen dentro de un estado para que puedan ser recopilados en un futuro.

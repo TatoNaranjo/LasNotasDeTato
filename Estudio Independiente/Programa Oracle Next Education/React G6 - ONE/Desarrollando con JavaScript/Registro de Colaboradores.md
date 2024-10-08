@@ -1,3 +1,7 @@
+---
+date: 2024-07-24
+---
+
 Imagina que tenemos un componente de inputs y necesitamos que uno de ellos tenga el atributo de `required`. Agregar el atributo a todo el componente no es óptimo ni una buena opción, debido a que todos los inputs del componente se modificarían, es por eso que también podemos pasar atributos a través de props. En caso de que no enviemos el atributo por medio de props, el componente lo tomará como no requerido.
 
 `componente.js`

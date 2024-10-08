@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Normalmente, cuando tenemos que agregar imágenes información a nuestra página lo hacemos insertando el contenido dentro de nuestro archivo `index.html`, sin embargo, esta vez toda la responsabilidad del desarrollo va a recaer en React. Esto significa que aunque podamos tener toda la información dentro de un archivo `.html`, ya no lo vamos a hacer porque precisamente, la intención de react es ayudarnos a dividir esa información en diferentes elementos llamados componentes para juntar todo y dejar que react lo renderice en un solo lugar.
 
 ## Creando el Componente

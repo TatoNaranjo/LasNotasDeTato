@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 ## Modularización con CSS
 
 Durante la creación de los archivos del proyecto, te habrás encontrado con archivos con nombres como CabeceraLink.module.css y Cabecera.module.css. Pero, ¿qué significa este "module"?
