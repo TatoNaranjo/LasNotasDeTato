@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md"
               }
             }
           },
@@ -189,6 +189,14 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Bisección.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Manipular contenido HTML con JS.md",
@@ -207,14 +215,6 @@
     "Estudio Independiente/GitHub/GitHub.md",
     "Estudio Independiente/GitHub/Imagenes/Imagenes.md",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
-    "Estudio Independiente/Desarrollo Web/Astro/Astro.md",
-    "Estudio Independiente/Desarrollo Web/Imágenes/Imágenes.md",
-    "Estudio Independiente/Desarrollo Web/JSON Web Token/Imágenes/Imágenes.md",
-    "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
-    "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
