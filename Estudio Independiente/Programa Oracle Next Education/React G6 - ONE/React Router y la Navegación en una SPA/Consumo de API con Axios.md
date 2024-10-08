@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Para consumir una API usando JavaScript podemos usar el método fetch, tal y como he estudiado en varias ocasiones como por ejemplo en: [[Consumo de APIs con JavaScript]]. Sin embargo, hay otra forma de consumirlas y es usando una librería llamada axios.
 
 ```table-of-contents

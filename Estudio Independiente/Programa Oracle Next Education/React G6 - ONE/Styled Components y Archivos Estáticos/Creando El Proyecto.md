@@ -1,3 +1,7 @@
+---
+date: 2024-08-05
+---
+
 Para crear la base inicial de la formación sobre [[Styled Components y Archivos Estáticos]] debemos crear un proyecto de vite e instalar la librería clave del proyecto, Styled Components.
 
 Styled Components es una librería popular de JavaScript para React y React Native que permite escribir estilos CSS directamente dentro del código JavaScript utilizando una técnica conocida como "CSS-in-JS". Fue creada para resolver problemas comunes en la gestión de estilos en aplicaciones modernas de front-end, tales como el alcance global de los estilos y la dificultad de mantener CSS en grandes proyectos.

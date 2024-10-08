@@ -1,3 +1,7 @@
+---
+date: 2024-07-20
+---
+
 Al momento de acceder a una página nosotros estamos posicionados sobre una URL específica. Si queremos controlar en qué página estamos utilizando únicamente JavaScript, podemos hacerlo utilizando la función `window.location`. la finalidad de esto es controlar lo que nos aparece en función de las interacciones que vayamos haciendo en pantalla como presionar un botón y que nos redirija a una ruta nueva.
 
 Sin embargo, entre más rutas se vayan haciendo, la labor de controlar cada una de las rutas usando JavaScript Vanilla se hace cada vez más difícil, es por esto que llega React Router como una solución ofrecida por React.
