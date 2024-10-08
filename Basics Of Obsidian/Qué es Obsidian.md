@@ -1,5 +1,5 @@
 ---
-date: 2004-06-04
+date: 2024-06-04
 ---
 
 Parte de los [[Basics Of Obsidian]] en donde tienes una definición básica de esta herramienta de trabajo.
