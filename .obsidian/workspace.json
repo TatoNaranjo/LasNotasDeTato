@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md"
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Manipular contenido HTML con JS.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
@@ -214,7 +215,6 @@
     "Estudio Independiente/Desarrollo Web/JSON Web Token/JSON Web Token.md",
     "Estudio Independiente/Programación Competitiva/Combinatoria/Combinatoria.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React G6 - ONE.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
