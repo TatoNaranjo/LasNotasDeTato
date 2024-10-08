@@ -1,3 +1,7 @@
+---
+date: 2024-09-01
+---
+
 Guía de Markdown considerada como un elemento clave en los [[Basics Of Obsidian]]
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!

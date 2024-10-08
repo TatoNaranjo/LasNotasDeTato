@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md"
+                "file": "Basics Of Obsidian/Markdown Cheat Sheet.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
     "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Estudio Independiente.md",
@@ -214,7 +215,6 @@
     "Estudio Independiente/Programa Oracle Next Education/JavaScript, Validando Formularios/JavaScript, Validando Formularios.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Principiante en Programación G6 - ONE.md",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Necesito memorizar cada línea de código o comando.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
