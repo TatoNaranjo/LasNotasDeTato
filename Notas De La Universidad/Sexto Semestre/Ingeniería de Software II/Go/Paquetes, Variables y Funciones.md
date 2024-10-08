@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Entendiendo las diferentes herramientas básicas que conforman [[Go]].
 **Tabla de Contenido**
 	`Por: Santiago Naranjo Herrera`

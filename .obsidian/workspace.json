@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Hobbies.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Paquetes, Variables y Funciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Hobbies.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Paquetes, Variables y Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Hobbies.md",
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Paquetes, Variables y Funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Hobbies.md"
+                "file": "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Paquetes, Variables y Funciones.md"
               }
             }
           },
@@ -189,6 +189,11 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Lecturas/Leyes del Emprendimiento.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
+    "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Herramientas de Software.md",
+    "Hobbies/Hobbies.md",
     "Basics Of Obsidian/Basics Of Obsidian.md",
     "Estudio Independiente/Estudio Independiente.md",
     "PDFs y Documentos/PDFs y Documentos.md",
@@ -196,7 +201,6 @@
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
@@ -211,10 +215,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Imágenes/Imágenes.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
