@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Enfatizando [[Ciencia Tecnología E Innovación II]] a construir un marco referencial a lo largo del semestre.
 
 Un marco referencial es la columna vertebral de cualquier proyecto de investigación se apoya en tres partes

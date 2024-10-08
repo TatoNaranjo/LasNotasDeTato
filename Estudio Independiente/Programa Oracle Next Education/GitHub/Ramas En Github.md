@@ -1,3 +1,7 @@
+---
+date: 2024-05-20
+---
+
 Útiles para dividir el desarrollo por equipos o por funcionalidades a la hora de trabajar con [[Estudio Independiente/Programa Oracle Next Education/GitHub/GitHub]].
 
 #### Git Branch
