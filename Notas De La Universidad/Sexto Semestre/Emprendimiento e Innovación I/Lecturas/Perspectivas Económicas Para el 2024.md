@@ -1,3 +1,7 @@
+---
+date: 2024-05-02
+---
+
 Segunda de las [[Lecturas]] hechas en la materia de Emprendimiento e Innovación I
 ***Por:*** *Santiago Naranjo Herrera*
 

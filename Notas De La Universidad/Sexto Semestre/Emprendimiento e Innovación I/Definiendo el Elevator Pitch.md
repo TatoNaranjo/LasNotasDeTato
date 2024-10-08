@@ -1,3 +1,7 @@
+---
+date: 2024-04-10
+---
+
 Definiendo la estructura del video del Elevator Pitch para la materia de [[Emprendimiento e Innovación I]].
 ```table-of-contents
 ```
