@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
+                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "02dfcf44c7199b32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
+                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
+                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md"
+                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md"
               }
             }
           },
@@ -189,6 +197,12 @@
   },
   "active": "5120900e4063416a",
   "lastOpenFiles": [
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
@@ -209,12 +223,6 @@
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
     "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Metodologías Ágiles.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Manipular contenido HTML con JS.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y listas.md",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/Lógica de Programación en JavaScript.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
