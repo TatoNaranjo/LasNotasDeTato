@@ -17,3 +17,6 @@ La clase se va a basar en el scripting utilizando distintas habilidades como SQL
 Se va a trabajar en un entorno de análisis de datos, por medio de AWS.
 
 Aquí, no se hayan tantas notas debido a que las clases han sido de aplicación pura y scripting. Sin embargo, en un futuro planeo expandir los conceptos aprendidos en los laboratorios de práctica.
+
+## Índice
+- [[Fase de Limpieza y Reestructuración de Datos]]: Un informe sobre una de las fases más importantes para realizar una validación de ataques en la red.
