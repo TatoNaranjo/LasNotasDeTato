@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5120900e4063416a",
+            "id": "02dfcf44c7199b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "02dfcf44c7199b32",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md"
               }
             }
           },
@@ -185,22 +177,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
       "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "5120900e4063416a",
+  "active": "02dfcf44c7199b32",
   "lastOpenFiles": [
-    "Estudio Independiente/Linux/Linux.md",
-    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
-    "Estudio Independiente/GitHub/GitHub.md",
+    "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/GitHub/GitHub.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
@@ -219,10 +216,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Manejo de la Estadística.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Bisección.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Estudio Independiente/Programación Competitiva/Sesiones de estudio de UdeC/Sesiones de estudio de UdeC.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
@@ -234,7 +227,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript/desktop.ini",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de Programación en JavaScript",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
