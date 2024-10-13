@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md"
+                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "6f84b67c1e5342a7",
   "lastOpenFiles": [
-    "Pasted image 20241011103416.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+    "Pasted image 20241011103416.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011101645.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102218.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102207.png",
@@ -234,7 +234,6 @@
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192154.png",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
