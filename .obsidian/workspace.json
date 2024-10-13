@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e179bd3916d489a1",
+        "id": "2809ca7d9149c0fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6f84b67c1e5342a7",
+            "id": "028bb5bcfe6153d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Examinar tus Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Examinar tus Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Examinar tus Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md"
+                "file": "Estudio Independiente/Inteligencia Artificial/Examinar tus Datos.md"
               }
             }
           },
@@ -187,9 +187,27 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "6f84b67c1e5342a7",
+  "active": "028bb5bcfe6153d1",
   "lastOpenFiles": [
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/Inteligencia Artificial/Examinar tus Datos.md",
     "Pasted image 20241011103416.png",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Pasted image 20241012190419.png",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Matemáticas Especiales.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Sistemas Numéricos.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Razones Trigonométricas.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Raíz Cuadrada de un Complejo.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Números Imaginarios.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Pares e Impares.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Funciones Cuadráticas.md",
+    "Notas De La Universidad/Sexto Semestre/Matemáticas Especiales/Función Lineal.md",
+    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
+    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Fase de Limpieza y Reestructuración de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011101645.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102218.png",
@@ -197,30 +215,14 @@
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102154.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Imágenes.md",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "Notas De La Universidad/Séptimo Semestre/Gerencia de Proyectos/Gerencia de Proyectos.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Linux/Guía Post-Instalación de Arch Linux.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
-    "Estudio Independiente/Linux/Linux.md",
-    "Estudio Independiente/GitHub/GitHub.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Series de Taylor.md",
-    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
-    "Estudio Independiente/Inteligencia Artificial/Cómo Funciona Un Modelo.md",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Vitest/Vitest.md",
-    "Estudio Independiente/Desarrollo Web/Pruebas Unitarias/Pruebas Unitarias.md",
-    "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
@@ -233,8 +235,6 @@
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/desktop.ini",
     "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192154.png",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
