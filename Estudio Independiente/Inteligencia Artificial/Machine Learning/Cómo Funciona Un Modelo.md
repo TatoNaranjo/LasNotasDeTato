@@ -97,3 +97,5 @@ q3 --> a4:Si
 Por lo tanto, podemos decir que tu forma de predecir el precio de cada casa se basará en navegar a través del árbol de decisión, siempre escogiendo el camino correspondiente a las características del hogar. El precio predicho para las casas estará en la parte más baja del árbol. El punto más bajo en donde hacemos una predicción es llamado *Hoja*.
 
 Las divisiones y los valores en las hojas serán determinados por los datos, así que es hora de que revises con qué datos estarás trabajando. 
+
+Siendo más específicos, llegó la hora de ver cómo [[Examinar tus Datos]].

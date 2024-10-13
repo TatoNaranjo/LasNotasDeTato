@@ -9,3 +9,4 @@ Carpeta de [[Inteligencia Artificial]] en donde aprendo sobre todo lo relacionad
 ## Índice
 - [[Algoritmos de Clasificación]]
 - [[Cómo Funciona Un Modelo]]
+- [[Examinar tus Datos]]
