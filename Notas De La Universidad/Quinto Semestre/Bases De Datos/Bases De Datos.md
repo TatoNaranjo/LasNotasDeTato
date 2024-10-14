@@ -10,4 +10,4 @@ date: 2024-02-05
 ---
 ## Índice
 - [[Fundamentos de Bases de Datos]]
-- 
+- [[Buenas Prácticas en Bases de Datos]]
