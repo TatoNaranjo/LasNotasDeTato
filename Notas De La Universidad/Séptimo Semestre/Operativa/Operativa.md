@@ -17,5 +17,7 @@ Las notas abarcadas para esta materia son:
     
 - [[Problema de Optimización]]: Se analizó el enfoque para resolver problemas de optimización, desde la formulación del problema hasta la implementación de algoritmos para encontrar soluciones eficientes, aplicando métodos numéricos y herramientas computacionales.
 
+- [[Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales]]: Planteamiento de un problema creado por mi para la optimización de un almacenamiento basado en un contexto especificado. En este archivo se creó la formulación del problema inicial y el planteamiento de una solución para el mismo.
+
 
 
