@@ -1,3 +1,9 @@
+---
+date: 2024-10-20
+tags:
+  - Emprendimiento
+  - Planeacion
+---
 
 > **Realizado Por:** Santiago Naranjo Herrera
 ## Planteamiento del Problema
