@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b3db854dae06c526",
+        "id": "97f0a3954acbc8ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f3138ef2a4744f2c",
+            "id": "f447e32cf123b263",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/code-emitter/styles.css",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales"
+              "icon": "git-pull-request",
+              "title": "Diff View (styles.css)"
             }
           }
         ]
@@ -77,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -208,20 +206,27 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f3138ef2a4744f2c",
+  "active": "f447e32cf123b263",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Tu Primer Modelo de Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método De Simpson Para Integración.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Introducción a Bash y el Scripting.md",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos/Buenas Prácticas en Bases de Datos.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
@@ -229,14 +234,7 @@
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
     "Hobbies/Chess/Advices.md",
     "Hobbies/Chess/Chess.md",
-    "Hobbies/Guitar Tabs/Chords.md",
-    "Hobbies/Guitar Tabs/Don't Look Back In Anger.md",
-    "Hobbies/Guitar Tabs/Guitar Tabs.md",
-    "Hobbies/Hobbies.md",
-    "Notas De La Universidad/Sexto Semestre/Sexto Semestre.md",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/Lengua Extranjera IV.md",
     "Maqueta Del Proyecto.canvas",
-    "Notas De La Universidad/Sexto Semestre/Ciencia Tecnología E Innovación II/Ciencia Tecnología E Innovación II.md",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Pasted image 20241011103416.png",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Pasted image 20241012190419.png",
