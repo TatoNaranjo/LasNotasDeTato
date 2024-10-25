@@ -1,3 +1,13 @@
+---
+date: 2024-10-25
+tags:
+  - Automatización
+  - Algoritmos
+  - CienciaDeDatos
+  - IA
+  - Python
+---
+
 Tu dataset tiene muchas variables como para enfocarte en todas, o al menos tratar de imprimirlas de forma correcta.. Cómo puedes transmitir esta cantidad absurdamente grande de datos en algo que puedes entender?.
 
 Primero, empezaremos agarrando algunas variables usando únicamente nuestra intuición. Con el paso del tiempo puedes aprender diferentes técnicas estadísticas que te ayudarán a priorizar variables de manera automática.
