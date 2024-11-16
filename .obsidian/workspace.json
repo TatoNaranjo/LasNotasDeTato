@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "97f0a3954acbc8ea",
+        "id": "2acb1ac2d9ba3843",
         "type": "tabs",
         "children": [
           {
-            "id": "f447e32cf123b263",
+            "id": "08b9b30b23cdc89a",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/code-emitter/styles.css",
+                "file": ".DS_Store",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (styles.css)"
+              "title": "Diff View (.DS_Store)"
             }
           }
         ]
@@ -156,8 +156,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -166,8 +166,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -176,8 +176,18 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dbb6fab5990c3b99",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -200,40 +210,45 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f447e32cf123b263",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Validación de un Modelo.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Tu Primer Modelo de Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
+    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+    "Untitled.md",
+    "n.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/ComputoDeVectoresEnAutoAtención.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Computos de Vectores en la AutoAtención.png",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Proceso de AutoAtención en un Transformer.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Ilustración de un Modelo Transformer Original.png",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método De Simpson Para Integración.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
     "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método De Simpson Para Integración.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Introducción a Bash y el Scripting.md",
-    "Notas De La Universidad/Quinto Semestre/Bases De Datos/Buenas Prácticas en Bases de Datos.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Introducción a los modelos de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Empezando a planear un proceso.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Hobbies/Chess/Advices.md",
-    "Hobbies/Chess/Chess.md",
     "Maqueta Del Proyecto.canvas",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Pasted image 20241011103416.png",
@@ -242,19 +257,14 @@
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011101645.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102218.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102207.png",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102154.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
-    "Notas De La Universidad/Sexto Semestre/Lengua Extranjera IV/representaciónFormaPolar.jpeg",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/BusquedaBinariaEnRespuesta.png",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales",
     "Notas De La Universidad/Quinto Semestre/Bases De Datos",
-    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/desktop.ini",
-    "Estudio Independiente/GitHub/GitHub Actions/Workflow Example.png",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
