@@ -11,13 +11,14 @@
             "id": "08b9b30b23cdc89a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": false
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.DS_Store)"
+              "icon": "lucide-file",
+              "title": "Creación de Modelos"
             }
           }
         ]
@@ -216,11 +217,15 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "08b9b30b23cdc89a",
   "lastOpenFiles": [
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Validación de un Modelo.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Tu Primer Modelo de Machine Learning.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Validación de un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos",
+    "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Tu Primer Modelo de Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
     "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
     "Untitled.md",
@@ -229,7 +234,6 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Computos de Vectores en la AutoAtención.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Proceso de AutoAtención en un Transformer.png",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Ilustración de un Modelo Transformer Original.png",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
@@ -247,8 +251,6 @@
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
     "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Introducción a Bash y el Scripting.md",
     "Maqueta Del Proyecto.canvas",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Pasted image 20241011103416.png",
@@ -264,7 +266,6 @@
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
     "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
     "Notas De La Universidad/Quinto Semestre/Ecuaciones Diferenciales",
-    "Notas De La Universidad/Quinto Semestre/Bases De Datos",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
