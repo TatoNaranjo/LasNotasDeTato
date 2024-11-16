@@ -10,3 +10,4 @@ Carpeta de [[Machine Learning]] enfocada al aprendizaje de la creación de un mo
 - [[Cómo Funciona Un Modelo]]
 - [[Examinar tus Datos]]
 - [[Tu Primer Modelo de Machine Learning]]
+- [[Validación de un Modelo]]
