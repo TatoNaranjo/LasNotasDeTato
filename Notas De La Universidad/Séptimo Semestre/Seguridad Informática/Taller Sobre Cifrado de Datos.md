@@ -1,3 +1,9 @@
+---
+date: 2024-10-10
+tags:
+  - Seguridad
+---
+
 > **Presentado Por:** Santiago Naranjo Herrera, Edgar Duván Bernal Acero y David Santiago Sierra Fernández.
 
 1. **¿Cuál es la ventaja de utilizar una máquina virtual para probar técnicas de cifrado en comparación con un sistema físico?** Explica los beneficios en términos de seguridad y aislamiento de pruebas.  Analiza cómo una VM (máquina virtual) puede facilitar la creación de entornos de prueba sin afectar otros sistemas.

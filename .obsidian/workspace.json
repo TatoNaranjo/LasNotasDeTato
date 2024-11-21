@@ -11,13 +11,14 @@
             "id": "029a6d9825024899",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
-                "staged": false
+                "file": "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Creación de Modelos)"
+              "icon": "lucide-file",
+              "title": "Taller Práctico Introducción a Bash y Scripting"
             }
           },
           {
@@ -228,6 +229,8 @@
   },
   "active": "029a6d9825024899",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
@@ -240,7 +243,6 @@
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Manipulando el estado global de nuestra aplicación.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/equilibrioEnModelos.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Cómo Funciona Un Modelo.md",
@@ -260,7 +262,6 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Ilustración de un Modelo Transformer Original.png",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
     "Maqueta Del Proyecto.canvas",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Pasted image 20241011103416.png",

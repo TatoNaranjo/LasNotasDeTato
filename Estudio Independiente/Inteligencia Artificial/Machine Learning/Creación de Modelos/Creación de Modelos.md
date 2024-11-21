@@ -1,7 +1,7 @@
 ---
 tags:
   - MOCs
-date: 2024-12-12
+date: 2024-11-12
 ---
 Carpeta de [[Machine Learning]] enfocada al aprendizaje de la creación de un modelo de Machine Learning.
 
