@@ -8,34 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08b9b30b23cdc89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Creación de Modelos"
-            }
-          },
-          {
-            "id": "27b73577a2b5b5f2",
+            "id": "029a6d9825024899",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Validación de un Modelo.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Validación de un Modelo)"
+              "title": "Diff View (Creación de Modelos)"
+            }
+          },
+          {
+            "id": "a586cf62a68726d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957,
-    "collapsed": true
+    "width": 325.0086555480957
   },
   "right": {
     "id": "6ad513e539ef50ff",
@@ -232,16 +226,30 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "029a6d9825024899",
   "lastOpenFiles": [
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Validación de un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/IA Notebook.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router y la Navegación en una SPA.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Conociendo los efectos secundarios.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Desarrollando con JavaScript/Registro de Colaboradores.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Gestionando el Estado de los Componentes.md",
+    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/Hooks en ReactJS/Manipulando el estado global de nuestra aplicación.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/equilibrioEnModelos.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Tu Primer Modelo de Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Examinar tus Datos.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Validación de un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos",
     "Estudio Independiente/Programa Oracle Next Education/Principiante en Programación G6 - ONE/Lógica de programación - Explorar funciones y listas/Lógica de programación - Explorar funciones y Listas.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Tu Primer Modelo de Machine Learning.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
     "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
     "Untitled.md",
     "n.md",
@@ -251,21 +259,8 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Proceso de AutoAtención en un Transformer.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Ilustración de un Modelo Transformer Original.png",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs",
-    "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Programación Competitiva/Cómo Entrenar Programación Competitiva.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método De Simpson Para Integración.md",
-    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Estudio Independiente/Programación Competitiva/Repasos con Juan/Búsqueda Binaria/Búsqueda Binaria.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
     "Maqueta Del Proyecto.canvas",
     "Notas De La Universidad/Quinto Semestre/Bases de Datos.pdf",
     "Pasted image 20241011103416.png",
@@ -273,7 +268,6 @@
     "Pasted image 20241011103416.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011101645.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102218.png",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102207.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes",
     "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
