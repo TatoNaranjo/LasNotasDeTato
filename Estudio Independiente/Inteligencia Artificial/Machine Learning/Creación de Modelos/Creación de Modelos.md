@@ -12,3 +12,4 @@ Carpeta de [[Machine Learning]] enfocada al aprendizaje de la creación de un mo
 - [[Tu Primer Modelo de Machine Learning]]
 - [[Validación de un Modelo]]
 - [[La Insuficiencia y el Sobreajuste]]
+- [[Random Forests]]
