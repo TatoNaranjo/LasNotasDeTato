@@ -16,3 +16,4 @@ Parte de mi [[Estudio Independiente]] en donde me enfoco en aprender algoritmos 
 - [[Algebra]]: Conceptos algebraicos avanzados relevantes para programación competitiva, como teoría de números, ecuaciones modulares y estructuras algebraicas.
 - [[Búsqueda Completa]]: Técnicas de búsqueda exhaustiva y backtracking para resolver problemas que requieren explorar todas las posibles soluciones.
 - [[Cómo Entrenar Programación Competitiva]]: Consejos Basados en Mi Experiencia que sirven como guía personal con estrategias y métodos efectivos para mejorar en programación competitiva, basados en mi experiencia propia a la hora de aprender los temas.
+- [[Codeforces Blogs]]: Blogs Originales de Codeforces que me parecieron interesantes y vienen con sus respectivos Links.
