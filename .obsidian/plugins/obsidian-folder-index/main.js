@@ -768,12 +768,12 @@ var FolderNoteModule = class {
     }
     return null;
   }
-  indexFilePathOnClick(dataPath) {
+  indexFilePath(path) {
     if (this.plugin.settings.indexFileUserSpecified) {
-      return dataPath + "/" + this.plugin.settings.indexFilename + ".md";
+      return path + "/" + this.plugin.settings.indexFilename + ".md";
     } else {
-      const folderName = dataPath.split("/").pop();
-      return dataPath + "/" + folderName + ".md";
+      const folderName = path.split("/").pop();
+      return path + "/" + folderName + ".md";
     }
   }
   onClick(event) {
@@ -788,7 +788,7 @@ var FolderNoteModule = class {
       } else {
         dataPath = dataPathAttribute.value;
       }
-      let indexFilePath = this.indexFilePathOnClick(dataPath);
+      let indexFilePath = this.indexFilePath(dataPath);
       if (indexFilePath == "//.md") {
         indexFilePath = this.plugin.settings.rootIndexFile;
       }
@@ -904,7 +904,8 @@ var FolderNoteModule = class {
   onCreate(file) {
     return __async(this, null, function* () {
       if (file instanceof import_obsidian5.TFolder) {
-        yield this.createIndexFile(`${file.path}/${file.name}.md`);
+        const indexFilePath = this.indexFilePath(file.path);
+        yield this.createIndexFile(indexFilePath);
       }
     });
   }
@@ -1022,3 +1023,5 @@ var FolderIndexPlugin = class extends import_obsidian7.Plugin {
     });
   }
 };
+
+/* nosourcemap */
