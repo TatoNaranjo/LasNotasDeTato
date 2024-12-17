@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1661a3a7534920b",
+        "id": "8c0123822787c611",
         "type": "tabs",
         "children": [
           {
-            "id": "2e020c64f6bf3871",
+            "id": "fc9469edcb492c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitectura Transformer"
+              "title": "La Insuficiencia y el Sobreajuste"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md"
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arquitectura Transformer"
+              "title": "Outline of La Insuficiencia y el Sobreajuste"
             }
           },
           {
@@ -209,35 +209,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e020c64f6bf3871",
+  "active": "fc9469edcb492c1c",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Examinar tus Datos.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Cómo Funciona Un Modelo.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
+    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica.pdf",
+    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica/Planeación Estratégica.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/RLHF.png",
+    "Estudio Independiente/Programa Oracle Next Education/Programa Oracle Next Education.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Codeforces Blogs.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Codeforces.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Newton Rhapson.md",
     "Basics Of Obsidian/Basics Of Obsidian.md",
     "Basics Of Obsidian/Sintaxis Avanzada de Formato con Obsidian.md",
     "Hobbies/Hobbies.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/La Lógica Matemática En Forma De Código.md",
     "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Basics Of Obsidian/Markdown Cheat Sheet.md",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Ciencia de Datos.md",
-    "Estudio Independiente/Programa Oracle Next Education/Desarrollo Personal/Aprender a Aprender/MindSet.md",
-    "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Random Forests.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/Imágenes.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/equilibrioEnModelos.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/ComputoDeVectoresEnAutoAtención.png",
@@ -251,13 +254,10 @@
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Imágenes/Pasted image 20241012190419.png",
     "Pasted image 20241011103416.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011101645.png",
-    "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes/Pasted image 20241011102218.png",
     "Notas De La Universidad/Séptimo Semestre/Ciencia de Datos/Imágenes",
-    "Notas De La Universidad/Quinto Semestre/Sistemas de Información.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos.pdf",
     "Notas De La Universidad/Quinto Semestre/Sistemas De Información",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos",
-    "Notas De La Universidad/Quinto Semestre/Planeación Estratégica",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
   ]
