@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FiGithub",
-      "RiLandscapeFill",
-      "TiMenuOrder",
-      "TiDeviceImacQuestion",
-      "🧠"
+      "TiPaperclip",
+      "TiZeppelinOff",
+      "RaMiningDiamonds",
+      "TiDeviceAnalytics",
+      "TiBusinessplan"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,5 +102,12 @@
   "Estudio Independiente/Desarrollo Web/Imágenes": "RiLandscapeFill",
   "Estudio Independiente/Desarrollo Web/Astro": "RiRocketFill",
   "Estudio Independiente/Desarrollo Web/JSON Web Token": "TiJson",
-  "Estudio Independiente/GitHub": "FiGithub"
+  "Estudio Independiente/GitHub": "FiGithub",
+  "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas": "LiMicrochip",
+  "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial": "RaMonsterSkull",
+  "Notas De La Universidad/Octavo Semestre/Emprendimiento II": "TiBusinessplan",
+  "Notas De La Universidad/Octavo Semestre/Business Analytics": "TiDeviceAnalytics",
+  "Notas De La Universidad/Octavo Semestre/Minería de Datos": "RaMiningDiamonds",
+  "Notas De La Universidad/Octavo Semestre": "TiZeppelinOff",
+  "Clippings": "TiPaperclip"
 }
