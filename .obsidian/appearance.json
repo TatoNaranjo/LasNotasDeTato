@@ -1,9 +1,12 @@
 {
   "accentColor": "",
   "baseFontSize": 16,
-  "textFontFamily": "Atkinson Hyperlegible,Poppins,Inter,FiraCode Nerd Font",
-  "interfaceFontFamily": "Inter,Poppins,Atkinson Hyperlegible,FiraCode Nerd Font",
-  "monospaceFontFamily": "JetBrains Mono,Poppins",
+  "textFontFamily": "Rubik,Atkinson Hyperlegible,Poppins,Inter,FiraCode Nerd Font",
+  "interfaceFontFamily": "Overpass,Inter,Poppins,Atkinson Hyperlegible,FiraCode Nerd Font",
+  "monospaceFontFamily": "Noto Serif,JetBrains Mono,Poppins",
   "cssTheme": "AnuPpuccin",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
