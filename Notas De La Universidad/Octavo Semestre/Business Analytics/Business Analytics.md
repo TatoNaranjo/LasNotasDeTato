@@ -3,6 +3,9 @@ tags:
   - OctavoSemestre
 date: 2025-02-06
 ---
+# Índice
+- [[Clasificación de Datos]]
+
 ## **Nombre:** 
 Santiago Naranjo Herrera
 
