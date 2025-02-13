@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La evolución de los modelos transformers"
+              "title": "Clasificación de Datos"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a Machine Learning"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción a Machine Learning"
+              "title": "Outline of Clasificación de Datos"
             }
           },
           {
@@ -218,20 +217,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7561841ea855dd17",
+  "active": "520178b9e8f24b86",
   "lastOpenFiles": [
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "README.md",
+    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
@@ -243,16 +249,9 @@
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Programación en PLC.md",
     "Clippings",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos",
-    "Untitled.md",
-    "Untitled 1.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics",
-    "Notas De La Universidad/Octavo Semestre/Modelación/Modelación.md",
     "Notas De La Universidad/Octavo Semestre/Big Data",
-    "Hobbies/Chess/Advices.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial",
     "Notas De La Universidad/Octavo Semestre/Modelación",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II",
