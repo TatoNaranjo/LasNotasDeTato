@@ -21,3 +21,6 @@ Aparte de las materias de siempre, toca ver unas especializaciones, que en reali
 - **[[Business Analytics]]**: Se abordaron métodos analíticos para la toma de decisiones en entornos empresariales, incluyendo modelado predictivo, visualización de datos y técnicas de optimización. Se aplicaron herramientas como Power BI y Python para extraer conocimientos valiosos de los datos y mejorar la gestión organizacional.
 
 - **[[Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos|Minería de Datos]]**: Se enfocó en la extracción de patrones y conocimientos a partir de grandes conjuntos de datos. Se exploraron técnicas de clustering, clasificación, reglas de asociación y análisis de series temporales, utilizando herramientas como Weka, Scikit-learn y SQL para la aplicación práctica.
+
+- [[Gestión en Proyectos Enfocada en Datos]]
+- [[Introducción a Machine Learning]]

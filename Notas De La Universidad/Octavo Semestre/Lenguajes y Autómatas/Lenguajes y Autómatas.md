@@ -10,6 +10,10 @@ date: 2025-01-28
 
 # Materiales para hacer el PLC
 
+**Programa Para Hacer la Programación:** Ladder Maker.
+
+Logo Comfort.
+
 ## El Inicio
 
 >[!Danger] Tener En Cuenta
@@ -31,3 +35,17 @@ El ácido se le aplica al agua, NO AL REVÉS, SI NO EXPLOTA.
 	- Para cuidarlo, podemos comprar un portacautín.
 - Flux (Pasta amarilla para el cautín).
 - Soldadura de Estaño 60/40 (60% Estaño, 40% Plomo).
+- Arduino Nano.
+- Sensores Digitales y Análogos.
+- Actuadores.
+- Fuente de 12V, 2 Amperios. (Corriente por encima puede servir, por debajo no.)
+
+
+# Futuros Proyectos
+## Segundo Corte
+
+- Automatizar un ascensor programandolo con los PLC. De Mínimo 3 pisos.
+
+## Tercer Corte
+
+- Cinta Transportadora de paquetes (Debe censar la temperatura del paquete para saber si está en T.Ambiente para que pueda avanzar | En caso de que no, hay que calentar el paquete | En caso de que esté muy caliente debe haber un ventilador que lo enfrie). Bombillo de 110 Vatios.

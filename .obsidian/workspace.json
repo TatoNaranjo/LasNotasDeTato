@@ -8,30 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8502020f9f2001bf",
+            "id": "520178b9e8f24b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
+                "file": "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lenguajes y Autómatas"
+              "title": "La evolución de los modelos transformers"
             }
           },
           {
-            "id": "520178b9e8f24b86",
+            "id": "7561841ea855dd17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción a Machine Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lenguajes y Autómatas"
+              "title": "Backlinks for Gestión en Proyectos Enfocada en Datos"
             }
           },
           {
@@ -160,23 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lenguajes y Autómatas"
-            }
-          },
-          {
-            "id": "ba3bb3d24e3c29ef",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Introducción a Machine Learning"
             }
           },
           {
@@ -223,44 +218,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8502020f9f2001bf",
+  "active": "7561841ea855dd17",
   "lastOpenFiles": [
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
+    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
+    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
+    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Recursos.md",
+    "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/PLC Programming Ladder Logic - GeeksforGeeks.md",
     "Clippings/Clippings.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Recursos.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Programación en PLC.md",
     "Clippings",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos",
     "Untitled.md",
     "Untitled 1.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics",
     "Notas De La Universidad/Octavo Semestre/Modelación/Modelación.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Octavo Semestre/Big Data",
     "Hobbies/Chess/Advices.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial",
     "Notas De La Universidad/Octavo Semestre/Modelación",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas",
-    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
-    "Notas De La Universidad/Octavo Semestre",
-    "Hobbies/Chess/Curso GM GascónChess/Curso GM GascónChess.md",
-    "Hobbies/Chess/Chess.md",
-    "Hobbies/Hobbies.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Examinar tus Datos.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Cómo Funciona Un Modelo.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/Creación de Modelos.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/RLHF.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/equilibrioEnModelos.png",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Imágenes/ComputoDeVectoresEnAutoAtención.png",
