@@ -24,3 +24,7 @@ Aparte de las materias de siempre, toca ver unas especializaciones, que en reali
 
 - [[Gestión en Proyectos Enfocada en Datos]]
 - [[Introducción a Machine Learning]]
+
+
+
+- [[Notas De La Universidad/Octavo Semestre/Recursos/Recursos|Recursos]]
