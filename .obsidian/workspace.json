@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minería de Datos"
-            }
-          },
-          {
-            "id": "7561841ea855dd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Inteligencia Artificial"
             }
           }
         ]
@@ -164,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Minería de Datos"
+              "title": "Outline of Inteligencia Artificial"
             }
           },
           {
@@ -219,10 +205,13 @@
   },
   "active": "520178b9e8f24b86",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
+    "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
+    "README.md",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
     "Notas De La Universidad/Octavo Semestre/Recursos",
@@ -232,14 +221,12 @@
     "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "README.md",
     "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
@@ -247,7 +234,6 @@
     "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Recursos.md",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos",
     "Clippings",
