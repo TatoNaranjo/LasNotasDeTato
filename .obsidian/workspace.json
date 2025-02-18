@@ -34,6 +34,32 @@
               "icon": "lucide-file",
               "title": "Que es un Perceptron? - WIkipedia"
             }
+          },
+          {
+            "id": "173b612b5f6c72ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "47b892e31e26d84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Insuficiencia y el Sobreajuste"
+            }
           }
         ]
       }
@@ -213,14 +239,17 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "520178b9e8f24b86",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
+    "LICENSE.md",
+    "index.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
+    "n.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
     "README.md",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
@@ -243,10 +272,6 @@
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
     "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Quinto Semestre/Quinto Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos",
