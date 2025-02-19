@@ -32,3 +32,5 @@ Las notas que manejé para esta materia fueron:
 - [[Series de Taylor]]: Se estudiaron e implementaron las series de Taylor para la aproximación de funciones, desarrollando código para generar expansiones de funciones matemáticas en series de potencias.
     
 - [[Solucionando Integrales y Derivadas en Código]]: Se resolvieron integrales y derivadas de funciones matemáticas mediante código, utilizando funciones de derivación e integración hechas desde cero para la automatización de cálculos simbólicos.
+
+- [[Método de Integración Numérica]]

@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Tipos de Aprendizaje en Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a Machine Learning"
+              "title": "Tipos de Aprendizaje en Machine Learning"
+            }
+          },
+          {
+            "id": "f5bd0948d08d9d8f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/graph.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (graph.json)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción a Machine Learning"
+              "title": "Outline"
             }
           },
           {
@@ -203,36 +216,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ca9bb6d0ccb5959",
+  "active": "f5bd0948d08d9d8f",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Análisis Numérico.md",
+    "Notas De La Universidad/Séptimo Semestre/Análisis Numérico/Método de Integración Numérica.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Tipos de Aprendizaje en Machine Learning.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Solución Optimización de Almacenamiento.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
+    "Estudio Independiente/Linux/Linux.md",
+    "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
+    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
+    "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
     "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Imagenes/Imagenes.md",
     "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/Ideas Vs Oportunidades.md",
     "LICENSE.md",
     "index.md",
     "n.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
-    "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
-    "README.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
     "Notas De La Universidad/Octavo Semestre/Recursos",
     "Notas De La Universidad/Octavo Semestre/Recursos/KDD.png",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
-    "Estudio Independiente/Programación Competitiva/Programación Competitiva.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Machine Learning.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos",

@@ -19,5 +19,6 @@ Las notas abarcadas para esta materia son:
 
 - [[Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales]]: Planteamiento de un problema creado por mi para la optimización de un almacenamiento basado en un contexto especificado. En este archivo se creó la formulación del problema inicial y el planteamiento de una solución para el mismo.
 
+- [[Solución Optimización de Almacenamiento]]
 
 

@@ -14,3 +14,5 @@ Un Modelo de Lenguaje Largo es una predicción de una secuencia de palabras. Por
 
 ## Índice
 - [[Arquitectura Transformer]]
+- [[Fine-Tuning de LLMs]]
+- [[La evolución de los modelos transformers]]

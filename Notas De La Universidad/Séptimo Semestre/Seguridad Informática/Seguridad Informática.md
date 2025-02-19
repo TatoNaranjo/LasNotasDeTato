@@ -21,3 +21,4 @@ Las notas que abarca este documento son:
 - [[Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable]]: Durante este taller, se realizó una simulación de ataque a una red vulnerable, identificando brechas de seguridad y practicando técnicas defensivas para mitigar ataques comunes como el escaneo de puertos y la inyección de código.
     
 - [[Taller Sobre Subdominios]]: Se impartió un taller práctico sobre la enumeración y gestión de subdominios, cubriendo técnicas de búsqueda de subdominios ocultos y su importancia en la seguridad de aplicaciones web, junto con la evaluación de posibles vulnerabilidades en estos.
+- [[Taller Sobre Cifrado de Datos]]
