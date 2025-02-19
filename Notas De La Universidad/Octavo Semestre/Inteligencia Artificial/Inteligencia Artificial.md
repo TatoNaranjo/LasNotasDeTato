@@ -9,7 +9,7 @@ Correo Electrónico: jeandrade@ucundinamarca.edu.co
 
 **Índice**
 
-```table-of-contents
+``` table-of-contents
 ```
 
 ## Expectativas de la Materia
@@ -87,3 +87,4 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 ### Prueba Final: Semana 15.
 # Recursos y Artículos
 - [[Que es un Perceptron? - WIkipedia]]
+- [[Fundamentos de la Inteligencia Artificial]]
