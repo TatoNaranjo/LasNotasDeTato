@@ -3,6 +3,11 @@ tags:
   - OctavoSemestre
 date: 2025-02-12
 ---
+**Índice**
+- [[Tipos de Aprendizaje en Machine Learning]]
+- [[Algoritmos]]
+
+
 # Conceptos Generales
 
 ## Inteligencia Artificial

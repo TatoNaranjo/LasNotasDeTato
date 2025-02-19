@@ -5,7 +5,7 @@ tags:
   - Algoritmos
 ---
 
-Uno de los [[Algoritmos de Clasificación]] más básicos para construir modelos de machine learning.
+Uno de los [[Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Algoritmos de Clasificación]] más básicos para construir modelos de machine learning.
 
 # ¿Qué es?
 Es un algoritmo de aprendizaje supervisado que es conformado por múltiples árboles de decisión que normalmente son entrenados con la técnica conocida como [Bagging Method](https://blog.paperspace.com/bagging-ensemble-methods/). La idea general de la técnica bagging method es que una combinación de modelos de aprendizaje aumente el éxito del resultado final.
