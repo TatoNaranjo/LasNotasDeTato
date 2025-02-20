@@ -4,52 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cf2aed4e4d268c2e",
+        "id": "850c102d6eb74e24",
         "type": "tabs",
         "children": [
           {
-            "id": "f5bd0948d08d9d8f",
+            "id": "219174652bcd1841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a Machine Learning"
-            }
-          },
-          {
-            "id": "21b58075cc862ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algoritmos"
-            }
-          },
-          {
-            "id": "edad217032bfa372",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Estudio Independiente/Inteligencia Artificial/Machine Learning/Algoritmos de Clasificación/Random Forest.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Random Forest)"
+              "title": "Taller Sobre Entidades Primitivas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Taller Sobre Entidades Primitivas"
             }
           },
           {
@@ -230,8 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edad217032bfa372",
+  "active": "219174652bcd1841",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
@@ -254,11 +232,6 @@
     "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Recursos",
     "Notas De La Universidad/Octavo Semestre/Recursos/KDD.png",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
