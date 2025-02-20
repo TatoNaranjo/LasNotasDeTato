@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taller Sobre Entidades Primitivas"
+              "title": "Knowledge Discovery In Databases KDD"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Taller Sobre Entidades Primitivas"
+              "title": "Outline of Knowledge Discovery In Databases KDD"
             }
           },
           {
@@ -205,9 +205,12 @@
   },
   "active": "219174652bcd1841",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
@@ -229,9 +232,6 @@
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
     "Estudio Independiente/Linux/Linux.md",
     "Estudio Independiente/Linux/Como Almacenar tus Dotfiles.md",
-    "Estudio Independiente/Inteligencia Artificial/Machine Learning/Creación de Modelos/La Insuficiencia y el Sobreajuste.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas Operativos/Taller Práctico Introducción a Bash y Scripting.md",
     "Notas De La Universidad/Octavo Semestre/Recursos",
     "Notas De La Universidad/Octavo Semestre/Recursos/KDD.png",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning",
