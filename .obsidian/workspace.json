@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
+                "file": ".obsidian/community-plugins.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Knowledge Discovery In Databases KDD)"
+              "title": "Diff View (community-plugins.json)"
             }
           }
         ]
@@ -198,11 +198,13 @@
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "219174652bcd1841",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Comparación entre Metodologías.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Programación en Ladder.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220160801.png",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220155131.png",
