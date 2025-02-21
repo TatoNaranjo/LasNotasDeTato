@@ -8,6 +8,7 @@ Se utiliza la Metodología CRISP y se tiene que entregar un proyecto final.
 # Índice
 
 - [[Taller Metodología CRISP]]
+- [[Taller Comparación entre Metodologías]]
 
 # Qué es?
 
