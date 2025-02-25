@@ -87,4 +87,7 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 ### Prueba Final: Semana 15.
 # Recursos y Artículos
 - [[Que es un Perceptron? - WIkipedia]]
+- [[Talleres]]
 - [[Fundamentos de la Inteligencia Artificial]]
+- [[Lectura Redes Neuronales Artificiales]]
+- [[Introducción a las Redes Neuronales Artificiales]]
