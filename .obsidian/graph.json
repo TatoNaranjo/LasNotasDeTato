@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Hobbies  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "path:\"Estudio Independiente\"  ",
       "color": {
         "a": 1,
@@ -22,10 +29,10 @@
       }
     },
     {
-      "query": "",
+      "query": "file:index",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 43775
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2114379114560341,
+  "scale": 0.2265067128072596,
   "close": true
 }
