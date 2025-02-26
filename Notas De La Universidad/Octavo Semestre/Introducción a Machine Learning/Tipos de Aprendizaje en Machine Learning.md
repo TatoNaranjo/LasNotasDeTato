@@ -1,3 +1,9 @@
+---
+date: 2025-02-19
+tags:
+  - OctavoSemestre
+---
+
 
 ## Aprendizaje Supervisado
 Requiere que los datos de entrada de los que se va a extraer un conocimiento sean:

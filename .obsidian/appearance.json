@@ -4,8 +4,8 @@
   "textFontFamily": "Rubik,Atkinson Hyperlegible,Poppins,Inter,FiraCode Nerd Font",
   "interfaceFontFamily": "Overpass,Inter,Poppins,Atkinson Hyperlegible,FiraCode Nerd Font",
   "monospaceFontFamily": "Noto Serif,JetBrains Mono,Poppins",
-  "cssTheme": "Material Gruvbox",
-  "theme": "moonstone",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "extended-colorschemes"
   ]

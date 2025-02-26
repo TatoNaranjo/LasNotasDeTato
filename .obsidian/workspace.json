@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "62cf6ff00cd24887",
+        "id": "e3b1588d0e0ea880",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e1c985bd07c0d2",
+            "id": "fa01e0ab6980d810",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/themes/obsidian_ia/manifest.json",
+                "file": ".obsidian/graph.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (manifest.json)"
+              "title": "Diff View (graph.json)"
             }
           }
         ]
@@ -202,9 +202,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5e1c985bd07c0d2",
+  "active": "fa01e0ab6980d810",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
+    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
+    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Recursos.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Tipos de Aprendizaje en Machine Learning.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
+    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250226093548.png",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
+    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250226083356.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250226081633.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250226081608.png",
@@ -220,12 +229,9 @@
     "Ink/Ink.md",
     "Ink",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250225120901.png",
     "Estudio Independiente/Estudio Independiente.md",
     "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
     "Excalidraw/Drawing 2025-02-25 10.11.31.excalidraw.md",
     "Excalidraw/Excalidraw.md",
@@ -239,16 +245,11 @@
     "Untitled.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Comparación entre Metodologías.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Programación en Ladder.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220160801.png",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220155131.png",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220154654.png",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos",
     "Notas De La Universidad/Octavo Semestre/Recursos",
-    "Notas De La Universidad/Octavo Semestre/Recursos/KDD.png",
     "Maqueta Del Proyecto.canvas",
     "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
     "Untitled.canvas"
