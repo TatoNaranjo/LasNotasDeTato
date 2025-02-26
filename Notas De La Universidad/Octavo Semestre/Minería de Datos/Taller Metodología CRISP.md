@@ -1,3 +1,9 @@
+---
+date: 2025-02-21
+tags:
+  - OctavoSemestre
+---
+
 > [!Note] Integrantes
 > - Santiago Naranjo Herrera
 > - Daniel Steven Hincapié Cetina

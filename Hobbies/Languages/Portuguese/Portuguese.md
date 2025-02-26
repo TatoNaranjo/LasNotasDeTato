@@ -8,5 +8,5 @@ This folder divides the info between:
 - [[Gramática]]
 - [[Pronunciação]]
 - [[Compreensão Da Leitura]]
-- [[Recursos]]
+- [[Hobbies/Languages/Portuguese/Recursos/Recursos]]
 - [[Vocabulário]]
