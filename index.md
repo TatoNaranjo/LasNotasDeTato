@@ -3,6 +3,7 @@ title: Hola Mundo
 date: 2024-10-05
 ---
 
+*"El conocimiento es poder, pero compartirlo es sabiduría." - Anónimo*
 ## ¿Quién soy?
 
 ¡Hola! Soy [TatoNaranjo](https://github.com/TatoNaranjo), un apasionado estudiante de Ingeniería de Sistemas y Computación, y un entusiasta Programador Front-End. Pero más allá de los títulos, soy un eterno curioso, un amante del aprendizaje continuo y un firme creyente en el poder de compartir el conocimiento.
@@ -31,7 +32,7 @@ Te invito a navegar por estas notas con la misma curiosidad y entusiasmo con las
 
 Y recuerda, este espacio no es solo mío, es nuestro. Tus ideas, preguntas y perspectivas son bienvenidas y valoradas. ¡Juntos podemos crear algo aún más grande!
 
-Así que, ¿listo para sumergirte en este océano de conocimiento? ¡Empecemos esta aventura!
+Explora, aprende y crezcamos juntos. ¡Bienvenido a LasNotasDeTato!
 ### [[Notas De La Universidad]]
 Aquí encontrarás mis apuntes detallados de la carrera de Ingeniería de Sistemas y Computación en la Universidad de Cundinamarca. Organizado por semestres, este espacio refleja mi viaje académico y los conocimientos adquiridos en cada materia.
 
@@ -45,6 +46,8 @@ Aquí encontrarás mis apuntes detallados de la carrera de Ingeniería de Sistem
 - [[Sexto Semestre]]: En el periodo del año **2024-I** pude aprender distintos conceptos sobre redes que no solo expandieron mi conocimiento sobre cómo funcionan las redes de internet modernas, sino que también ayudaron a profundizar y afianzar mi conocimiento sobre las distintas formas en las que podemos transmitir datos a través de distintos métodos de conexión. Además, en este punto incursioné en el desarrollo de aplicaciones utilizando metodologías Ágiles, lo que permitió certificarme en el uso de la metodología SCRUM para el trabajo en equipo.
 
 - [[Séptimo Semestre]]: En el periodo del año **2024-II** pude aprender distintos conceptos de ciberseguridad que me hicieron ver lo expuestos que solemos estar cuando navegamos a través de internet. Es por ello que el núcleo principal de este semestre no reside en la creación de un nuevo proyecto sino en la planeación de una estructura de seguridad sólida a nivel empresarial. Además, logré enfatizar en la creación de herramientas en forma de **CLI** (Command Line Interface) y Scripts para automatizar la solución a diferentes problemas de la vida real.
+
+- [[Octavo Semestre]]: Comprende el periodo **2025-II**, en el que pude experimentar uno de los semestres más pesados pero a su vez más fascinantes dentro de mi carrera. En este punto de la carrera, empezamos a fundamentarnos sobre la recopilación y muestreo de datos a partir de las especializaciones de la carrera. Aparte, aprendimos a construir un autómata programable a partir de un PLC dentro de una de las materias más complicadas pero fascinantes del semestre. Por último, mencionar a una de las materias más especiales dentro de toda la universidad: Inteligencia Artificial, en donde exploramos el funcionamiento del cerebro humano tanto biológicamente como artificialmente.
 
 ### [[Estudio Independiente]]
 Esta sección es un tesoro de aprendizaje autodidacta. Desde programación y desarrollo hasta crecimiento personal, aquí almaceno todo lo que estudio fuera del ámbito universitario. Incluye recursos sobre:
@@ -70,6 +73,3 @@ Esta sección es un tesoro de aprendizaje autodidacta. Desde programación y des
 
 Siéntete libre de explorar, aprender y crecer conmigo a través de estas notas. ¡Espero que encuentres algo útil e inspirador en cada rincón de este cerebro digital!
 
----
-
-*"El conocimiento es poder, pero compartirlo es sabiduría." - Anónimo*
