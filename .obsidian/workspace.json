@@ -11,13 +11,14 @@
             "id": "fa01e0ab6980d810",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/graph.json",
-                "staged": false
+                "file": "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (graph.json)"
+              "icon": "lucide-file",
+              "title": "Qué es JSON"
             }
           }
         ]
@@ -149,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Qué es JSON"
             }
           },
           {
@@ -202,10 +204,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa01e0ab6980d810",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Estudio Independiente/Estudio Independiente.md",
+    "Clippings/Clippings.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Servicios REST.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
+    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
+    "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Recursos.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
@@ -230,20 +241,11 @@
     "Ink",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250225120901.png",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
     "Excalidraw/Drawing 2025-02-25 10.11.31.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lecturas/Lecturas.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lecturas",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Taller sobre Fundamentos de IA.md",
-    "Untitled 1.md",
-    "n.md",
-    "Untitled.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220160801.png",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Recursos/Pasted image 20250220155131.png",
