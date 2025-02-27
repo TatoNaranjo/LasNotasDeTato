@@ -78,7 +78,12 @@ En el contexto del desarrollo, los tipos de dato son los diferentes tipos de val
 JSON funciona mediante la representación de datos de forma jerárquica, mediante pares clave-valor para almacenar información. Los datos JSON se incluyen entre llaves ({}), con cada par clave-valor separado por una coma (,). Por ejemplo, el siguiente JSON representa la información de contacto de una persona:
 
 ```json
-\`\`\` { "name": "Jane Smith", "age": 35, "city": "San Francisco", "phone": "014158889275", "email": "janesmith@sample.com" } \`\`\`
+{     "name": "Jane Smith", 
+	"age": 35, 
+	"city": "San Francisco", 
+	"phone": "014158889275", 
+	"email": "janesmith@sample.com" 
+}
 ```
 
 En este ejemplo, "name", "age", "city", "phone" y "email" son las claves, y "Jane Smith", "35", "San Francisco", "014158889275" y "janesmith@sample.com" son los valores correspondientes.
