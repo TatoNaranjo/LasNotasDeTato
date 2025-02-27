@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es JSON"
+              "title": "index"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Qué es JSON"
+              "title": "Outline of index"
             }
           },
           {
@@ -201,13 +201,16 @@
       "obsidian-projects:Open projects": false,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "fa01e0ab6980d810",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
+    "index.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
@@ -243,7 +246,6 @@
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250225120901.png",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
     "Excalidraw/Drawing 2025-02-25 10.11.31.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lecturas",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres",
