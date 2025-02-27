@@ -31,7 +31,8 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Notas De La Universidad": "RiSingleQuotesL",
   "PDFs y Documentos": "TiPdf",

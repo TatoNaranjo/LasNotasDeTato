@@ -11,13 +11,14 @@
             "id": "fa01e0ab6980d810",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": false
+                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.DS_Store)"
+              "icon": "lucide-file",
+              "title": "Minería de Datos"
             }
           }
         ]
@@ -149,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Minería de Datos"
             }
           },
           {
@@ -168,7 +170,7 @@
             }
           },
           {
-            "id": "8754a9afba49f02b",
+            "id": "77bad365b07d41e9",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -201,12 +203,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "426d48b304b3bab2",
+  "active": "fa01e0ab6980d810",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics/Informe de Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
     "Pasted image 20250227095042.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095521.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095511.png",
@@ -218,14 +227,12 @@
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095431.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095402.png",
     "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "index.md",
     "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Estudio Independiente/Estudio Independiente.md",
     "Clippings/Clippings.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
     "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Servicios REST.md",
     "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
     "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
@@ -234,7 +241,6 @@
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
     "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Tipos de Aprendizaje en Machine Learning.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
     "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Imágenes.md",
@@ -243,9 +249,7 @@
     "Ink/Drawing/2025.2.26 - 7.42am.drawing",
     "Ink/Drawing/Drawing.md",
     "Ink/Drawing",
-    "Ink/Ink.md",
     "Ink",
-    "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
     "Excalidraw",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lecturas",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres",
