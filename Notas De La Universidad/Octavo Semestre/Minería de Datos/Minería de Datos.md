@@ -21,3 +21,10 @@ La extracción de información se genera de forma iterativa e interactiva.
 
 ![[KDD.png]]
 
+## Métodos Usados en la Minería de Datos
+- Clasificación
+- Clustering
+- Descubrimiento de reglas de asociación
+- Descubrimiento de patrones secuenciales.
+- Regresión
+- Detección de desviación.
