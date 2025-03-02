@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "266439dda7324532",
+        "id": "419f57c64316ef1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9edb3f7824712fd",
+            "id": "d3ca1d31e735df6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Que es un Perceptron? - WIkipedia"
             }
           }
         ]
@@ -201,16 +205,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a9edb3f7824712fd",
+  "active": "d3ca1d31e735df6b",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Taller sobre Fundamentos de IA.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
-    "index.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Taller sobre Fundamentos de IA.md",
+    "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
+    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Informe de Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
+    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
+    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
+    "index.md",
     "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Notas De La Universidad.md",
     "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
@@ -218,15 +233,9 @@
     "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Desarrollo Web/Desarrollo Web.md",
     "Estudio Independiente/Desarrollo Web/Qué es XAML.md",
-    "Estudio Independiente/Desarrollo Web/Introducción a UNO Platform.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228182826.png",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228190657.png",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228184212.png",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Knowledge Discovery In Databases KDD.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Informe de Taller Sobre Entidades Primitivas.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
     "Pasted image 20250227095042.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095521.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095511.png",
@@ -234,11 +243,6 @@
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095459.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095454.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095446.png",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Qué es JSON.md",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
-    "Estudio Independiente/Programa Oracle Next Education/HTTP, La base del Internet/Servicios REST.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Conceptos Básicos y Definiciones.md",
-    "Estudio Independiente/Inteligencia Artificial/IA Notebook/Regresión Lineal.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes",
     "Ink/Drawing/2025.2.26 - 7.43am.drawing",
     "Ink/Drawing/2025.2.26 - 7.42am.drawing",

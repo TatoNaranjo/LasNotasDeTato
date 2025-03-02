@@ -1,3 +1,7 @@
+---
+date: 2025-03-01
+---
+
 # Qué es un Plan de Negocios?
 Un plan de negocios (**también conocido como proyecto de negocio o plan de empresa**) es un documento en donde se describe y explica un negocio que se va a realizar, así como diferentes aspectos relacionados con este.
 
