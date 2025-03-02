@@ -1,5 +1,7 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+date: 2024-11-28
 ---
 En esta carpeta almaceno los blogs de Codeforces que me parecieron interesantes y decidí guardar para un estudio o consideración posterior.
 

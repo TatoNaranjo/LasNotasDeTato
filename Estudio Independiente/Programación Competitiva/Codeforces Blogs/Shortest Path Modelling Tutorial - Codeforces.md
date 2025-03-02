@@ -8,6 +8,7 @@ created: 2024-11-28
 description: Codeforces. Programming competitions and contests, programming community
 tags:
   - Programación-Competitiva
+date: 2024-11-28
 ---
 Shortest path problems are really common. There are uncountable problems that can be reduced to some shortest path problem on graph. In this post i will show some different problems that require some extra thinking because they are not the usual shortest path problems (there are additional constraints to the problem). For most high rated coders this is still common stuff but i hope i can help some newcomers out there.
 
