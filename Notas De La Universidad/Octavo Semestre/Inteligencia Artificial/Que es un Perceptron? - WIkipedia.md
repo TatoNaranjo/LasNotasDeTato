@@ -1,3 +1,9 @@
+---
+date: 2025-02-18
+tags:
+  - IA
+---
+
 De Wikipedia, la enciclopedia libre
 
 

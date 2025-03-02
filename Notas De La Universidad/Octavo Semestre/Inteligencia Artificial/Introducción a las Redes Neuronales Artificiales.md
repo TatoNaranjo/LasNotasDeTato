@@ -103,6 +103,18 @@ Cuando el error alcanza el mínimo permitido podemos decir que entra en **Conver
 
 Para cada patrón de entrada debe existir una única neurona, y estos patrones que se reciben se arquitectan por capas.  Esto funciona como un modelo de caja negra en el que siempre debemos abogar por optimizar el modelamiento de la red neuronal. 
 
+
+```mermaid
+graph TD;
+    A[**INTELIGENCIA ARTIFICIAL**] --> B[REDES DE AUTOPROCESO];
+    B --> C[PROCESAMIENTO NUMÉRICO];
+    B --> D[PROCESAMIENTO SIMBÓLICO];
+    C --> E[SISTEMAS ASOCIATIVOS];
+    C --> F[SISTEMAS DISTRIBUIDOS];
+    F --> G[**REDES NEURONALES**];
+    F --> H[REDES SUBSIMBÓLICAS];
+```
+
 ![[Pasted image 20250226081633.png]]
 
 ![[Pasted image 20250226083356.png]]

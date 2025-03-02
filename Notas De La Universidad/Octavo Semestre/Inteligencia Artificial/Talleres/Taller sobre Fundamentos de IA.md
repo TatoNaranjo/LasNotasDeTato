@@ -1,3 +1,7 @@
+---
+date: 2025-02-18
+---
+
 >[!Success] Realizado Por:
 > - Santiago Naranjo Herrera
 # Institutos de IA
