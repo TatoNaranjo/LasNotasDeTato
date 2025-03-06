@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "640884e941ec3c76",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ce53904c0f3e887a",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-style-settings/manifest.json",
+                "bFile": ".obsidian/plugins/obsidian-style-settings/manifest.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: manifest.json"
+            }
+          },
+          {
+            "id": "82af802a4de93d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 Taking Notes - College Success  OpenStax"
+              "title": "Que es un Perceptron? - WIkipedia"
+            }
+          },
+          {
+            "id": "c6552bb62bc91f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Que es un Perceptron? - WIkipedia"
             }
           }
         ]
@@ -205,44 +233,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce53904c0f3e887a",
+  "active": "426d48b304b3bab2",
   "lastOpenFiles": [
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Metodología CRISP.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Taller Comparación entre Metodologías.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
+    "Notas De La Universidad/Octavo Semestre/Recursos/Recursos.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Guia de Estudio para Big Data.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Perceptrón.md",
+    "Pasted image 20250305073101.png",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Pasted image 20250304124017.png",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Pasted image 20250304122456.png",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Pasted image 20250304122258.png",
+    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
+    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "index.md",
+    "Untitled.md",
+    "n.md",
+    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
+    "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
     "Clippings/Clippings.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Codeforces Blogs.md",
     "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Taller sobre Fundamentos de IA.md",
     "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Informe de Taller Sobre Entidades Primitivas.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Imágenes.md",
-    "index.md",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228182826.png",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228190657.png",
     "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228184212.png",
     "Pasted image 20250227095042.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095521.png",
     "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095511.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095503.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095459.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095454.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095446.png",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes",
     "Ink/Drawing/2025.2.26 - 7.43am.drawing",
     "Ink/Drawing/2025.2.26 - 7.42am.drawing",

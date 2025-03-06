@@ -27,5 +27,6 @@
   "deepl",
   "templater-obsidian",
   "obsidian-citation-plugin",
-  "homepage"
+  "homepage",
+  "obsidian-style-settings"
 ]
