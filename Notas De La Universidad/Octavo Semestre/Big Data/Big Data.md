@@ -77,3 +77,6 @@ Es una solución ideal cuando todos los datos necesitan ser analizados versus un
 - Oracle 2020 Chris Anderson How to Give a Clear Presentation
 - MongoDB 2022 MongoDB Compass
 - [[Qué es JSON]]
+
+## Preparaciones para Parciales
+- [[Guia de Estudio para Big Data]]

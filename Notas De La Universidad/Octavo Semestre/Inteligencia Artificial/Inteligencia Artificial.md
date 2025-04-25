@@ -12,7 +12,7 @@ Correo Electrónico: jeandrade@ucundinamarca.edu.co
 ``` table-of-contents
 ```
 
-## Expectativas de la Materia
+# Expectativas de la Materia
 
 Buscamos emular el cómo el cerebro humano aprende a través del aprendizaje máquina, por medio del diseño de Redes Neuronales clásicas y sin librerías, para entender el por qué y el cómo funcionan estas redes neuronales clásicas. La parte final, que consta de Deep Learning, no consta del diseño de redes neuronales sino del estudio de las mismas.
 
@@ -40,22 +40,22 @@ Siempre creímos que el conocimiento estaba en las neuronas pero resulta que no 
 >[!QUOTE] Prof. Jaime Andrade
 >Las Emociones siempre van a afectar la base del conocimiento, por lo tanto lo que debemos hacer en esos casos es controlar o *Entrenar*.
 
-## Temario
-### REA 1
-#### Semana 1 a la Semana 6:
+# Temario
+## REA 1
+### Semana 1 a la Semana 6:
 - Fundamentos y Generalidades de IA
 - Introducción a Redes Neuronales Artificiales.
 - Arquitecturas RNA (Perceptrón, Adaline, Back-Propagation).
 - Introducción al Tratamiento de Imagen.
-### REA 2
-#### Semana 8 a la Semana 16
+## REA 2
+### Semana 8 a la Semana 16
 - Redes Neuronales Profundas
-## Libros Guía
+# Libros Guía
 - Inteligencia Artificial: Un enfoque moderno
 - Redes Neuronales Artificiales, Aplicaciones - Jose Ramón Hilera Gonzales
 - Redes Neuronales Profundas: Un Enfoque en Patrones
 
-## Software de Utilización
+# Software de Utilización
 
 >[!Success] Lenguajes de Programación y Programas
 Normalmente vamos a programar en Matlab y Labview, pero al momento de enviar el código debemos hacer un ejecutable. Algunas veces debemos entregar un archivo en formato `.txt`  (Conocimiento Base) que consta de conexiones sinápticas, que deben funcionar independientemente del Front-End en el que se ejecuten.
@@ -81,8 +81,8 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 >  - Cuestionarse: Los Animales son racionales? o son Inteligentes?
 >    **PARA MAÑANA EN PDF: Un Ensayo sobre Intensamente, Robot y Frank, Ex Machina**
 
-## Fechas de Evaluaciones
-### Primera Prueba Escrita: Semana 6
+# Fechas de Evaluaciones
+## Primera Prueba Escrita: Semana 6
 ### Semana 11
 ### Prueba Final: Semana 15.
 # Recursos y Artículos
@@ -91,3 +91,5 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 - [[Fundamentos de la Inteligencia Artificial]]
 - [[Lectura Redes Neuronales Artificiales]]
 - [[Introducción a las Redes Neuronales Artificiales]]
+- [[Perceptrón]]
+

@@ -112,6 +112,8 @@ En lo que sigue, los pesos finales de una iteración se convierten en los pesos 
 
 Este ejemplo se puede implementar en [Python](https://es.wikipedia.org/wiki/Python "Python") con el siguiente código.
 
+
+```python
 umbral = 0.5
 tasa_de_aprendizaje = 0.1
 pesos = [0, 0, 0]
@@ -133,6 +135,8 @@ while True:
                 pesos[indice] += tasa_de_aprendizaje * error * valor
     if contador_de_errores == 0:
         break
+
+```
 
 - [Perceptrón multicapa](https://es.wikipedia.org/wiki/Perceptr%C3%B3n_multicapa "Perceptrón multicapa")
 

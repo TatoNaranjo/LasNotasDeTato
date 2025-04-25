@@ -1,8 +1,7 @@
 ---
-tags:
-  - OctavoSemestre
-date: 2025-02-06
+date: 2025-03-22
 ---
+
 # Índice
 - [[Clasificación de Datos]]
 - [[Taller Sobre Entidades Primitivas]]
@@ -18,7 +17,7 @@ Programa Oracle Next Education en el 2024 con especialidad en Front-End.
 
 ## **Hobbies:**
 Tocar Guitarra, Escribir, Arte Personal, escuchar música la mayoría del tiempo.
-
+ de
 ## **Expectativas del Curso:**
  Aprender nuevas técnicas para la recolección e identificación de datos de interés. En sí, espero que sea una materia que pueda ayudar a mejorar mi desempeño dentro del campo de la Ciencia de Datos.
 

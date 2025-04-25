@@ -1,41 +1,54 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "71abfb67af4a5bcc",
     "type": "split",
     "children": [
       {
-        "id": "640884e941ec3c76",
+        "id": "4ab88e79dd60cb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce53904c0f3e887a",
+            "id": "70022b931b6dcdfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 Taking Notes - College Success  OpenStax"
+              "title": "Respuestas Lectura The Data Innovation"
+            }
+          },
+          {
+            "id": "a12f806ccc32985f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b4bd2773aa8a0ae0",
+    "id": "6da54247744723c6",
     "type": "split",
     "children": [
       {
-        "id": "c7ccb219b016c3f5",
+        "id": "b2011706b323db92",
         "type": "tabs",
         "children": [
           {
-            "id": "bced553c8d178d7b",
+            "id": "7248b85950ef1e91",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +61,12 @@
             }
           },
           {
-            "id": "7d7af5abfcf92a79",
+            "id": "6b2e727902679018",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,7 @@
             }
           },
           {
-            "id": "a1b3eafb559c3579",
+            "id": "a9e8fcd6d011c4a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,33 +91,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.0086555480957
+    "width": 300
   },
   "right": {
-    "id": "6ad513e539ef50ff",
+    "id": "d8faefb81c2e90ad",
     "type": "split",
     "children": [
       {
-        "id": "7a78da6d2e287ccf",
+        "id": "eb406c4944709e14",
         "type": "tabs",
         "children": [
           {
-            "id": "426d48b304b3bab2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "3027c64ad6a6caeb",
+            "id": "9f599abb46a90d55",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,63 +117,64 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gestión en Proyectos Enfocada en Datos"
+              "title": "Backlinks for Introducción al Tratamiento de Imágenes"
             }
           },
           {
-            "id": "580e55dd3e99a478",
+            "id": "63d0ca29e13b23a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "45e93b7578705c6e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "41cbd6a3a8d48f27",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Shortest Path Modelling Tutorial - Codeforces"
-            }
-          },
-          {
-            "id": "b71aa01294745fff",
+            "id": "682360d3dd7e35f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
-                "followCursor": false,
+                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Minería de Datos"
+              "title": "Outline of Introducción al Tratamiento de Imágenes"
             }
           },
           {
-            "id": "faeb65c23d2efceb",
+            "id": "753eec98c19b1e76",
             "type": "leaf",
             "state": {
-              "type": "timer-view",
+              "type": "git-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "77bad365b07d41e9",
+            "id": "5724e496defcb398",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -179,82 +183,42 @@
               "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 474
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ce53904c0f3e887a",
+  "active": "753eec98c19b1e76",
   "lastOpenFiles": [
-    "Clippings/Clippings.md",
-    "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Codeforces Blogs.md",
-    "Estudio Independiente/Programación Competitiva/Codeforces Blogs/Shortest Path Modelling Tutorial - Codeforces.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Que es un Perceptron? - WIkipedia.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lectura Redes Neuronales Artificiales.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Artificiales.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Fundamentos de la Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Talleres.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres/Taller sobre Fundamentos de IA.md",
-    "Notas De La Universidad/Octavo Semestre/Gestión en Proyectos Enfocada en Datos/Gestión en Proyectos Enfocada en Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Integración de Componentes del Proyecto.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Taller Sobre Entidades Primitivas.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Informe de Taller Sobre Entidades Primitivas.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Go.md",
+    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Entendiendo un proyecto de Go.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
     "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Clasificación de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Big Data/Big Data.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos/Algoritmos.md",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Introducción a Machine Learning.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes/Imágenes.md",
-    "index.md",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
-    "Estudio Independiente/Estudio Independiente.md",
-    "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228182826.png",
-    "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228190657.png",
-    "Estudio Independiente/Desarrollo Web/Imágenes/Pasted image 20250228184212.png",
-    "Pasted image 20250227095042.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095521.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095511.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095503.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095459.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095454.png",
-    "Notas De La Universidad/Octavo Semestre/Recursos/Pasted image 20250227095446.png",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Imágenes",
-    "Ink/Drawing/2025.2.26 - 7.43am.drawing",
-    "Ink/Drawing/2025.2.26 - 7.42am.drawing",
-    "Ink/Drawing",
-    "Ink",
-    "Excalidraw",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Lecturas",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Talleres",
-    "Notas De La Universidad/Octavo Semestre/Introducción a Machine Learning/Algoritmos",
-    "Notas De La Universidad/Octavo Semestre/Recursos",
-    "Maqueta Del Proyecto.canvas",
-    "Notas De La Universidad/Tesis de Grado/Maqueta del Proyecto.canvas",
-    "Untitled.canvas"
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Convolucionales (RNC, CNN).md",
+    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md"
   ]
 }
