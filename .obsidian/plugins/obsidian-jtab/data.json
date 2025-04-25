@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "colors": {
+    "className": "jtab-colors-themed",
+    "customColors": {
+      "background": "white",
+      "lines": "black",
+      "text": "black",
+      "chordDot": "black",
+      "chordDotText": "white"
+    }
+  }
+}
