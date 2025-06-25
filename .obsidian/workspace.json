@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS"
             }
           }
         ]
@@ -170,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +196,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "index.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
     "Estudio Independiente/Inteligencia Artificial/Mentoría en Inteligencia Artificial aplicada a la Investigación Médica.md",
     "piecesdb.json",
-    "index.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "PDFs y Documentos/Recursos Útiles.pdf",
@@ -236,7 +241,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Solución Optimización de Almacenamiento.md",
     "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md"
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md"
   ]
 }
