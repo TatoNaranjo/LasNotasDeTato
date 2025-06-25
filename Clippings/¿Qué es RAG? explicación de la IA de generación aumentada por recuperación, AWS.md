@@ -1,14 +1,15 @@
 ---
-title: "¿Qué es el procesamiento de lenguaje natural? - Explicación del procesamiento de lenguaje natural - AWS"
-source: "https://aws.amazon.com/what-is/nlp/"
+title: ¿Qué es el procesamiento de lenguaje natural? - Explicación del procesamiento de lenguaje natural - AWS
+source: https://aws.amazon.com/what-is/nlp/
 author:
   - "[[Amazon Web Services]]"
   - "[[Inc.]]"
-published:
+published: 
 created: 2025-04-02
-description: "¿Qué es el Procesamiento del lenguaje natural, cómo y por qué las empresas utilizan el Procesamiento del lenguaje natural y cómo utilizar el Procesamiento del lenguaje natural con AWS?"
+description: ¿Qué es el Procesamiento del lenguaje natural, cómo y por qué las empresas utilizan el Procesamiento del lenguaje natural y cómo utilizar el Procesamiento del lenguaje natural con AWS?
 tags:
-  - "clippings"
+  - clippings
+date: 2025-04-02
 ---
 ## ¿Qué es el Procesamiento de lenguaje natural (NLP)?
 

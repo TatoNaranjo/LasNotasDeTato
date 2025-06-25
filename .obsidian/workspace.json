@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS"
             }
           }
         ]
@@ -194,11 +194,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "442767271a9d568f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
-    "index.md",
+    "Clippings/Clippings.md",
+    "Clippings/5.3 Taking Notes - College Success  OpenStax.md",
+    "Clippings/¿Qué es RAG? explicación de la IA de generación aumentada por recuperación, AWS.md",
     "Clippings/Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS.md",
+    "index.md",
+    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
     "Estudio Independiente/Inteligencia Artificial/Mentoría en Inteligencia Artificial aplicada a la Investigación Médica.md",
     "piecesdb.json",
     "conflict-files-obsidian-git.md",
@@ -238,9 +241,6 @@
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
     "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
-    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Solución Optimización de Almacenamiento.md",
-    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md"
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md"
   ]
 }
