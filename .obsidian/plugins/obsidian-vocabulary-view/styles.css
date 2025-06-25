@@ -1,0 +1,163 @@
+.vocaview-block {
+  display: block;
+  margin: 1em;
+  padding: 0.5em;
+  box-shadow: 0 0.25em 0.625em var(--background-modifier-box-shadow);
+  user-select: none;
+  overflow-wrap: anywhere;
+}
+.vocaview-block ul {
+  padding: 1vw;
+}
+.vocaview-block .selectable-item {
+  display: block;
+  border: 1px solid var(--background-modifier-border);
+  border-left: 4px solid var(--background-modifier-border);
+  color: var(--text-normal);
+  font-size: var(--editor-font-size);
+  padding: 0.5em 1em;
+  cursor: pointer;
+  transition: background-color 0.2s ease-out, border 0.2s ease-out;
+}
+.vocaview-block .selectable-item:hover {
+  border-color: var(--text-normal);
+}
+.vocaview-block input {
+  background: var(--background-modifier-form-field);
+  border: 1px solid var(--background-modifier-border);
+  color: var(--text-normal);
+  font-family: "Inter", sans-serif;
+  padding: 5px 14px;
+  font-size: 16px;
+  border-radius: 4px;
+  outline: none;
+  height: 2em;
+}
+
+.vocaview-block .vocbook-button-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 100%;
+}
+.vocaview-block .vocbook-button-list .vocbook-button {
+  margin: 0.3em;
+  padding: 0.3em;
+  height: auto;
+  flex: 0 1 auto;
+  line-height: normal;
+}
+.vocaview-block .vocbook-button-list .vocbook-button.added {
+  background-color: var(--text-faint);
+}
+
+.vocaview-block .word-list {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.vocaview-block .word-list li .upper {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.vocaview-block .word-list li .lower {
+  display: inline;
+}
+.vocaview-block .word-list li .lower span {
+  visibility: visible;
+}
+.vocaview-block .word-list li .hidden {
+  display: inline;
+  background-color: var(--background-modifier-border);
+}
+.vocaview-block .word-list li .hidden span {
+  visibility: hidden;
+}
+.vocaview-block .bottom-bar {
+  display: flex;
+  justify-content: flex-end;
+}
+.vocaview-block .bottom-bar .show-hide-button {
+  height: 3em;
+}
+
+.vocaview-block .question-and-accuracy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.vocaview-block .question-and-accuracy .question {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: 0.5em 1em 0 1em;
+  text-align: left;
+}
+.vocaview-block .question-and-accuracy .accuracy {
+  text-align: right;
+}
+.vocaview-block .options {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.vocaview-block .correct {
+  background-color: var(--background-modifier-success);
+}
+.vocaview-block .wrong {
+  background-color: var(--background-modifier-error-hover);
+}
+
+.vocaview-block .question-and-answer {
+  cursor: pointer;
+}
+.vocaview-block .question-and-answer .question {
+  font-weight: bold;
+  font-size: 3em;
+  padding: 0.5em 1em 0 1em;
+  text-align: center;
+}
+.vocaview-block .question-and-answer .answer {
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  margin: 1em 0;
+}
+.vocaview-block .question-and-answer .answer .answer-text {
+  display: inline;
+}
+.vocaview-block .question-and-answer .answer .answer-text span {
+  display: inline;
+  visibility: visible;
+}
+.vocaview-block .question-and-answer .answer .hidden {
+  display: inline;
+  background-color: var(--background-modifier-border);
+}
+.vocaview-block .question-and-answer .answer .hidden span {
+  display: inline;
+  visibility: hidden;
+}
+.vocaview-block .bottom-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vocaview-block .bottom-bar .next-button {
+  height: 3em;
+  margin-left: auto;
+}
+.vocaview-block .bottom-bar .placeholder-button {
+  visibility: hidden;
+  margin-right: auto;
+}
+.vocaview-block .bottom-bar .spell {
+  transition: background-color 0.2s ease-out, border 0.2s ease-out;
+  font-size: var(--editor-font-size);
+}
+.vocaview-block .bottom-bar .correct {
+  background-color: var(--background-modifier-success);
+}
+.vocaview-block .bottom-bar .wrong {
+  background-color: var(--background-modifier-error-hover);
+}
+
+/*# sourceMappingURL=styles.css.map */
