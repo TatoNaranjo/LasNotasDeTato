@@ -12,4 +12,3 @@ Esta es una carpeta enfocada a explorar un concepto que hoy en día se está vol
 ## Índice
 - [[IA Notebook]]
 - [[Machine Learning]]
-- [[Mentoría en Inteligencia Artificial aplicada a la Investigación Médica]]

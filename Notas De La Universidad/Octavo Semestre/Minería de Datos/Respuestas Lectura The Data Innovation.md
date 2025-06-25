@@ -1,9 +1,3 @@
----
-date: 2025-04-24
-tags:
-  - OctavoSemestre
----
-
 > Presentado Por: **Santiago Naranjo Herrera** y **Daniel Steven Hincapié Cetina** y **Edgar Duván Bernal Acero**
 
 ## Preguntas
