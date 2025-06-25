@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6da54247744723c6",
+    "id": "7cb15c0b44f5d2ea",
     "type": "split",
     "children": [
       {
-        "id": "b2011706b323db92",
+        "id": "ec32db82481afe8a",
         "type": "tabs",
         "children": [
           {
-            "id": "7248b85950ef1e91",
+            "id": "372bda1ba1c6fefa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "6b2e727902679018",
+            "id": "76d9d7f0e3b69d5f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "a9e8fcd6d011c4a0",
+            "id": "3c817cb8ec506b27",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "d8faefb81c2e90ad",
+    "id": "9bda445e25d8aa94",
     "type": "split",
     "children": [
       {
-        "id": "eb406c4944709e14",
+        "id": "d281d0b553f590d9",
         "type": "tabs",
         "children": [
           {
-            "id": "9f599abb46a90d55",
+            "id": "a3e91dcdb4ab8a1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +100,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Inteligencia Artificial"
             }
           },
           {
-            "id": "63d0ca29e13b23a5",
+            "id": "ee5ae807cc10a3fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +117,7 @@
             }
           },
           {
-            "id": "45e93b7578705c6e",
+            "id": "a35b4af96cd0f179",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,22 +132,31 @@
             }
           },
           {
-            "id": "682360d3dd7e35f9",
+            "id": "741bc13e8721a715",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción al Tratamiento de Imágenes"
+              "title": "Outline"
             }
           },
           {
-            "id": "753eec98c19b1e76",
+            "id": "db2378ccb0751652",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "442767271a9d568f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -159,28 +164,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5724e496defcb398",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,17 +192,51 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "piecesdb.json",
     "index.md",
     "conflict-files-obsidian-git.md",
-    "Clippings/¿Qué es el procesamiento de lenguaje natural? - Explicación del procesamiento de lenguaje natural - AWS.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Certificación SCRUM Fundamentals/Certificación SCRUM Fundamentals.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Ingeniería de Software II.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Go.md",
-    "Notas De La Universidad/Sexto Semestre/Ingeniería de Software II/Go/Entendiendo un proyecto de Go.md",
-    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Business Analytics/Business Analytics.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Convolucionales (RNC, CNN).md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md"
+    "README.md",
+    "PDFs y Documentos/Recursos Útiles.pdf",
+    "PDFs y Documentos/Problema de Optimización.pdf",
+    "PDFs y Documentos/PDFs y Documentos.md",
+    "PDFs y Documentos/Operaciones Básicas de Números Complejos en Python.pdf",
+    "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
+    "PDFs y Documentos/El Manejo de Números en Código.pdf",
+    "PDFs y Documentos/Capturando datos con Wireshark.pdf",
+    "PDFs y Documentos",
+    "Notas De La Universidad/desktop.ini",
+    "Notas De La Universidad/Séptimo Semestre/Séptimo Semestre.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192154.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928190950.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920074048.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920073106.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072502.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072418.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920072139.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240920071452.png",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Imagenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller de Seguridad Informática - Simulación de Ataque a una Red Vulnerable.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Subdominios.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Taller Sobre Cifrado de Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Sistema de Gestión de Seguridad de la Información.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Seguridad Informática.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Normas ISO para Ciberseguridad.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Auditorías de Seguridad con Nessus.md",
+    "Notas De La Universidad/Séptimo Semestre/Seguridad Informática",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Imágenes/Imágenes.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Redes y Comunicación.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Protocolo SSH.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Las 5 fases del Hacking Etico.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/La Vulnerabilidad de los Datos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Habilitación de Accesos Basados en Reglas.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Escaneo de Puertos.md",
+    "Notas De La Universidad/Séptimo Semestre/Redes y Comunicación/Capturando datos con Wireshark.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Solución Optimización de Almacenamiento.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Problema de Optimización.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Optimización del Almacenamiento y Distribución en una Red de Centros Comerciales.md",
+    "Notas De La Universidad/Séptimo Semestre/Operativa/Operativa.md"
   ]
 }
