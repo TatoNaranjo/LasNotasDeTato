@@ -4,7 +4,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "better-word-count",
   "chord-lyrics",
-  "code-emitter",
   "chess-study",
   "obsidian-discordrpc",
   "homepage",
@@ -28,5 +27,8 @@
   "obsidian-vocabulary-view",
   "obsidian-wordnet-plugin",
   "omnisearch",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "code-emitter",
+  "execute-code",
+  "obsidian-zotero-desktop-connector"
 ]

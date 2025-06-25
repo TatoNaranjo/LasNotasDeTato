@@ -13552,15 +13552,17 @@ var R_PLOT_REGEX = /^plot\(.*\)/gm;
 var OCTAVE_PLOT_REGEX = /^plot\s*\(.*\);/gm;
 var MAXIMA_PLOT_REGEX = /^plot2d\s*\(.*\[.+\]\)\s*[$;]/gm;
 function expandVaultPath(source, vaultPath) {
+  let vaultPathClean = vaultPath.replace(/\\/g, "/").replace(/^\//, "");
   source = source.replace(VAULT_PATH_REGEX, `"${vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
+  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + vaultPathClean}"`);
+  source = source.replace(VAULT_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + vaultPathClean}"`);
   return source;
 }
 function expandNotePath(source, notePath) {
+  let notePathClean = notePath.replace(/\\/g, "/").replace(/^\//, "");
   source = source.replace(CURRENT_NOTE_PATH_REGEX, `"${notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
+  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + notePathClean}"`);
+  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian43.Platform.resourcePathPrefix + notePathClean}"`);
   return source;
 }
 function expandNoteTitle(source, noteTitle) {
@@ -13596,7 +13598,7 @@ function expandPythonPlots(source, toggleHtmlSigil) {
 function expandRPlots(source) {
   const matches = source.matchAll(R_PLOT_REGEX);
   for (const match of matches) {
-    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
+    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/").replace(/^\//, "");
     const substitute = `png("${tempFile}"); ${match[0]}; dev.off(); cat('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian43.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}')`;
     source = source.replace(match[0], substitute);
   }
@@ -13630,7 +13632,7 @@ function expandJsShowImage(source) {
     const width = match.groups.width;
     const height = match.groups.height;
     const alignment = match.groups.align;
-    const image = expandShowImage(imagePath.replace(/\\/g, "\\\\"), width, height, alignment);
+    const image = expandShowImage(imagePath.replace(/\\/g, "\\\\").replace(/^\//, ""), width, height, alignment);
     source = source.replace(match[0], "console.log('" + TOGGLE_HTML_SIGIL + image + TOGGLE_HTML_SIGIL + "')");
     console.log(source);
   }
@@ -13658,7 +13660,7 @@ function expandShowImage(imagePath, width = "0", height = "0", alignment = "cent
 function expandOctavePlot(source) {
   const matches = source.matchAll(OCTAVE_PLOT_REGEX);
   for (const match of matches) {
-    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
+    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/").replace(/^\//, "");
     const substitute = `${match[0]}; print -dpng ${tempFile}; disp('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian43.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
   }
@@ -13667,7 +13669,7 @@ function expandOctavePlot(source) {
 function expandMaximaPlot(source) {
   const matches = source.matchAll(MAXIMA_PLOT_REGEX);
   for (const match of matches) {
-    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
+    const tempFile = `${os3.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/").replace(/^\//, "");
     const updated_plot_call = match[0].substring(0, match[0].lastIndexOf(")")) + `, [png_file, "${tempFile}"])`;
     const substitute = `${updated_plot_call}; print ('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian43.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
