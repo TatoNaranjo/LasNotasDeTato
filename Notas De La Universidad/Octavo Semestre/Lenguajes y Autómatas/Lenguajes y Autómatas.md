@@ -5,7 +5,7 @@ date: 2025-01-28
 ---
 # Index
 - [[PLC Programming Ladder Logic - GeeksforGeeks]]
-- 
+- [[Programación en Ladder]]
 
 
 # Materiales para hacer el PLC

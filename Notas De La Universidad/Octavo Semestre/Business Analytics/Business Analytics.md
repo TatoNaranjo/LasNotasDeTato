@@ -5,6 +5,7 @@ date: 2025-03-22
 # Índice
 - [[Clasificación de Datos]]
 - [[Taller Sobre Entidades Primitivas]]
+- [[Informe de Taller Sobre Entidades Primitivas]]
 
 ## **Nombre:** 
 Santiago Naranjo Herrera

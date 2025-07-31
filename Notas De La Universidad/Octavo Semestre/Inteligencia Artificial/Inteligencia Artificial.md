@@ -92,4 +92,7 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 - [[Lectura Redes Neuronales Artificiales]]
 - [[Introducción a las Redes Neuronales Artificiales]]
 - [[Perceptrón]]
+- [[BackPropagation]]
+- [[Introducción al Tratamiento de Imágenes]]
+- [[Introducción a las Redes Neuronales Convolucionales (RNC, CNN)]]
 

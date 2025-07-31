@@ -9,6 +9,8 @@ Se utiliza la Metodología CRISP y se tiene que entregar un proyecto final.
 
 - [[Taller Metodología CRISP]]
 - [[Taller Comparación entre Metodologías]]
+- [[Respuestas Lectura The Data Innovation]]
+- [[Knowledge Discovery In Databases KDD]]
 
 # Qué es?
 
