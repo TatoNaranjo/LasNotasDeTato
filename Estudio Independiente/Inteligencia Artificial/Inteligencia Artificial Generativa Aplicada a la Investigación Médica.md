@@ -1,3 +1,7 @@
+---
+date: 2025-06-29
+---
+
 **Guía Complementaria a la Mentoría | Junio 2025**
 Por *Santiago Naranjo Herrera*
 

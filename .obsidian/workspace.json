@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-                "bFile": "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-                "aRef": ""
+                "file": "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial Generativa Aplicada a la Investigación Médica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Emprendimiento II"
+              "icon": "lucide-file",
+              "title": "Inteligencia Artificial Generativa Aplicada a la Investigación Médica"
             }
           }
         ]
@@ -194,13 +194,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "372bda1ba1c6fefa",
   "lastOpenFiles": [
+    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Estudio Independiente/Estudio Independiente.md",
     "index.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
     "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Estudio Técnico.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
     "Estudio Independiente/Inteligencia Artificial/Mentoría en Inteligencia Artificial aplicada a la Investigación Médica.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Convolucionales (RNC, CNN).md",
@@ -219,7 +220,6 @@
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Entregables Modelo Canvas/Entregables Modelo Canvas.md",
     "Notas De La Universidad/Sexto Semestre/Emprendimiento e Innovación I/Emprendimiento e Innovación I.md",
     "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial Generativa Aplicada a la Investigación Médica.md",
-    "Estudio Independiente/Estudio Independiente.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/React Router.md",
     "Estudio Independiente/Programa Oracle Next Education/React G6 - ONE/React Router y la Navegación en una SPA/Consumo de API con Axios.md",
     "piecesdb.json",
