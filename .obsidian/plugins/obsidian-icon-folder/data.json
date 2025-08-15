@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDna",
+      "TiBrandAlgolia",
       "TiPaperclip",
       "TiZeppelinOff",
-      "RaMiningDiamonds",
-      "TiDeviceAnalytics",
-      "TiBusinessplan"
+      "RaMiningDiamonds"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,5 +110,7 @@
   "Notas De La Universidad/Octavo Semestre/Business Analytics": "TiDeviceAnalytics",
   "Notas De La Universidad/Octavo Semestre/Minería de Datos": "RaMiningDiamonds",
   "Notas De La Universidad/Octavo Semestre": "TiZeppelinOff",
-  "Clippings": "TiPaperclip"
+  "Clippings": "TiPaperclip",
+  "Notas De La Universidad/Noveno Semestre": "TiBrandAlgolia",
+  "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos": "LiDna"
 }
