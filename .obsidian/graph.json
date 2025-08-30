@@ -25,7 +25,7 @@
       "query": "path:\"Notas De La Universidad\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 1297686
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3419484219670831,
+  "scale": 1.0300495570340427,
   "close": true
 }

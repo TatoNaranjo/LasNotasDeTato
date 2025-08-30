@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e5e5881a8b4cfea",
+        "id": "84c35fafbd0127f1",
         "type": "tabs",
         "children": [
           {
-            "id": "03af228d47e24ec0",
+            "id": "b36c2248356e61b6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Algoritmos Geneticos.md",
-                "bFile": "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Algoritmos Geneticos.md",
-                "aRef": ""
+                "file": "Notas De La Universidad/Primer Semestre/Electrónica/Fundamentos Clave para Resolver Circuitos Eléctricos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Algoritmos Geneticos"
+              "icon": "lucide-file",
+              "title": "Fundamentos Clave para Resolver Circuitos Eléctricos"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De La Universidad/Noveno Semestre/Deep Learning/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Deep Learning"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas De La Universidad/Noveno Semestre/Deep Learning/Deep Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Deep Learning"
             }
           },
           {
@@ -174,10 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,44 +197,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "03af228d47e24ec0",
+  "active": "b36c2248356e61b6",
   "lastOpenFiles": [
-    "Notas De La Universidad/Notas De La Universidad.md",
-    "Notas De La Universidad/Noveno Semestre/Noveno Semestre.md",
-    "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Algoritmos Geneticos.md",
-    "Notas De La Universidad/Noveno Semestre/Deep Learning/Deep Learning.md",
-    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA/Fundamentos de IA.md",
-    "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural/Procesamiento de Lenguaje Natural.md",
-    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/La evolución de los modelos transformers.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Arquitectura Transformer.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/LLMs.md",
-    "Estudio Independiente/Inteligencia Artificial/LLMs/Fine-Tuning de LLMs.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial Generativa Aplicada a la Investigación Médica.md",
-    "Estudio Independiente/Inteligencia Artificial/Inteligencia Artificial.md",
+    "Notas De La Universidad/Primer Semestre/Electrónica/Electrónica.md",
+    "Notas De La Universidad/Primer Semestre/Electrónica/Fundamentos Clave para Resolver Circuitos Eléctricos.md",
     "Estudio Independiente/Estudio Independiente.md",
-    "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural",
+    "Notas De La Universidad/Primer Semestre/Electrónica",
+    "Notas De La Universidad/Primer Semestre/Primer Semestre.md",
+    "Notas De La Universidad/Primer Semestre",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "index.md",
+    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA/Introducción a los Sistemas Automáticos.md",
+    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA/Fundamentos de IA.md",
+    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA/Sistemas Dinámicos y Fuzzy.md",
+    "Notas De La Universidad/Noveno Semestre/Deep Learning/Deep Learning.md",
+    "Notas De La Universidad/Noveno Semestre/Noveno Semestre.md",
+    "Notas De La Universidad/Notas De La Universidad.md",
+    "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural/Tokenización y Lematización.md",
+    "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural/Procesamiento de Lenguaje Natural.md",
+    "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Algoritmos Geneticos.md",
+    "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Untitled.md",
+    "Clippings/Calidad de las historias clínicas de los practicantes de un consultorio psicológico de una universidad colombiana.md",
+    "Clippings/Qué es el procesamiento de lenguaje natural - Explicación del procesamiento de lenguaje natural - AWS.md",
+    "Clippings/Untitled.md",
+    "Clippings/Clippings.md",
+    "Basics Of Obsidian/Basics Of Obsidian.md",
+    "Basics Of Obsidian/Markdown Cheat Sheet.md",
+    "Estudio Independiente/Programa Oracle Next Education/Emprendimiento, Agilidad y Protagonismo Profesional/De la idea al Plan de Negocios/De la idea al Plan de Negocios.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Cómo Redactar Un Informe Técnico.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Informes Técnicos/Informes Técnicos.md",
+    "Notas De La Universidad/Sexto Semestre/Comunicación de Datos/Comunicación de Datos.md",
+    "Notas De La Universidad/Noveno Semestre/Fundamentos de IA",
+    "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural",
     "Notas De La Universidad/Noveno Semestre/Deep Learning",
     "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos",
-    "Notas De La Universidad/Octavo Semestre/Octavo Semestre.md",
     "Notas De La Universidad/Noveno Semestre",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Minería de Datos.md",
-    "Notas De La Universidad/Octavo Semestre/Minería de Datos/Respuestas Lectura The Data Innovation.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Estudio Técnico.md",
-    "Notas De La Universidad/Octavo Semestre/Emprendimiento II/Emprendimiento II.md",
-    "Estudio Independiente/Inteligencia Artificial/Mentoría en Inteligencia Artificial aplicada a la Investigación Médica.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción a las Redes Neuronales Convolucionales (RNC, CNN).md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
-    "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/BackPropagation.md",
-    "Notas De La Universidad/Quinto Semestre/Sistemas De Información/Sistemas De Información.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Programación en Ladder.md",
-    "Notas De La Universidad/Octavo Semestre/Lenguajes y Autómatas/Lenguajes y Autómatas.md",
     "piecesdb.json",
-    "PDFs y Documentos/Recursos Útiles.pdf",
-    "PDFs y Documentos/Problema de Optimización.pdf",
-    "PDFs y Documentos/Operaciones Básicas de Números Complejos en Python.pdf",
-    "PDFs y Documentos/Introducción a los modelos de Optimización.pdf",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192641.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192620.png",
     "Notas De La Universidad/Séptimo Semestre/Seguridad Informática/Imagenes/Pasted image 20240928192154.png",
