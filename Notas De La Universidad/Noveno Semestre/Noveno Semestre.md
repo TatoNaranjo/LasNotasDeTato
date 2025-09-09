@@ -12,3 +12,5 @@ Parte de mis [[Notas De La Universidad]] que conforman el periodo de 2025-II en 
 - [[Procesamiento de Lenguaje Natural]]:
 
 - [[Fundamentos de IA]]: Comprende los sistemas difusos (o fuzzy) aplicados a problemas reales. En este caso vamos a tener que estimar cuál es la calidad de la información dada mediante la medición de incertidumbre.
+
+- [[Modelacion]]: 

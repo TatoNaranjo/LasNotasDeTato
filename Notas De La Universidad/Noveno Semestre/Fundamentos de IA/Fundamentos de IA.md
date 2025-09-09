@@ -6,12 +6,15 @@ date: 2025-08-15
 ## Glosario
 
 - Introducción a los Sistemas Dinámicos Básicos.
+	- [[Sistemas Dinámicos y Fuzzy]]
+	- [[Introducción a los Sistemas Automáticos]]
 - Introducción a los Sistemas de Control Básicos.
 - Lógica Difusa.
 - Aplicaciones de Lógica Difusa.
 - Controladores Difusos.
 - Desarrollo Proyecto LESTOMA.
 
+Se presentarán 3 talleres manuscritos en hojas examen y de forma individual. Los talleres están denominados como:
 
 - Laboratorio 1: Sistemas dinámicos: Entender el sistema físico para entregar una ecuación diferencial/transformadas de Laplace.
 - Laboratorio 2: Sistemas Fuzzy: Teoría de Conjuntos (MATLAB & LabView).
@@ -20,7 +23,9 @@ date: 2025-08-15
 **Programas Utilizadas:** MATLAB y LabView.
 ## Rúbrica de Evaluación
 
-Se tendrán 7 calificaciones que al promediarlas se da una definitiva: **3 Laboratorios, 3 pruebas escritas, 1 proyecto final.**  Hay una nota adicional para los que presenten el Proyecto de Gestión del Conocimiento.
+Se tendrán 6 calificaciones que al promediarlas se da una definitiva: **3 talleres a mano, 3 pruebas escritas**  Hay una nota adicional para los que presenten el Proyecto de Gestión del Conocimiento. El promedio será la definitiva.
+
+Se propone realizar un curso extracurricular sobre Inteligencia Artificial Fuzzy.
 
 Cada laboratorio va acompañado de un informe en IEEE, Aplicación + Hardware y Sustentación.
 
