@@ -6,6 +6,7 @@ Bienvenido/a a la carpeta en donde suelo almacenar mi conocimiento adquirido en 
 
 ## Resumen de Semestres
 
+### [[Primer Semestre]] (2021-II): EN CONSTRUCCIÓN (Vacío)
 ### [[Quinto Semestre]] (2023-II): Diseño y Maquetación 🖌️
 
 Este período marcó un antes y un después en mi enfoque del desarrollo de software. Aprendí la importancia crucial de la planificación y el diseño antes de escribir código. Descubre cómo este semestre sentó las bases para una avalancha continua de ideas y proyectos.

@@ -13,3 +13,4 @@ Actualmente, estoy en el proceso de convertir todas las notas. Sin embargo, aqu�
 - [[Ecuaciones Diferenciales]] (Por Migrar): En esta materia se estudian métodos para resolver y aplicar ecuaciones diferenciales ordinarias y parciales, con énfasis en su uso en problemas de ingeniería.
 - [[Planeación Estratégica]] (Por Migrar): Esta materia aborda técnicas y herramientas para desarrollar planes estratégicos en organizaciones, incluyendo análisis FODA, definición de objetivos y formulación de estrategias.
 - [[Sistemas Operativos]] (Por Migrar): En esta asignatura exploramos los conceptos fundamentales de los sistemas operativos, incluyendo gestión de procesos, memoria, almacenamiento y seguridad.
+- [[Sistemas De Información]]

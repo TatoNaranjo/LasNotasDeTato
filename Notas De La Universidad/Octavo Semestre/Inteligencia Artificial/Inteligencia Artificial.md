@@ -88,6 +88,7 @@ Hay una presentación de un proyecto final para vender una aplicación o un desa
 # Recursos y Artículos
 - [[Que es un Perceptron? - WIkipedia]]
 - [[Talleres]]
+- [[Adaline]]
 - [[Fundamentos de la Inteligencia Artificial]]
 - [[Lectura Redes Neuronales Artificiales]]
 - [[Introducción a las Redes Neuronales Artificiales]]
