@@ -10,9 +10,9 @@ date: 2025-08-15
 	- [[Introducción a los Sistemas Automáticos]]
 - Introducción a los Sistemas de Control Básicos.
 - Lógica Difusa.
+	- [[Fundamentos de Lógica Fuzzy]]
 - Aplicaciones de Lógica Difusa.
 - Controladores Difusos.
-- Desarrollo Proyecto LESTOMA.
 
 Se presentarán 3 talleres manuscritos en hojas examen y de forma individual. Los talleres están denominados como:
 
