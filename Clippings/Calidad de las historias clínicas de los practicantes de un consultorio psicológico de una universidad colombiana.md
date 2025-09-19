@@ -1,6 +1,6 @@
 ---
-title: "Calidad de las historias clínicas de los practicantes de un consultorio psicológico de una universidad colombiana"
-source: "https://www.sciencedirect.com/science/article/pii/S1575181318300044?ref=pdf_download&fr=RR-2&rr=970d513daa855929"
+title: Calidad de las historias clínicas de los practicantes de un consultorio psicológico de una universidad colombiana
+source: https://www.sciencedirect.com/science/article/pii/S1575181318300044?ref=pdf_download&fr=RR-2&rr=970d513daa855929
 author:
   - "[[ResumenIntroducciónLas prácticas académicas en los programas de psicología en Colombia constituyen una parte fundamental del currículo. Los consultorios psicológicos universitarios son un escenario en el cual se desarrolla esta actividad en el campo de la psicología clínica]]"
   - "[[por lo que se hace necesario revisar la información que se recauda allí]]"
@@ -14,9 +14,10 @@ author:
   - "[[de forma que se brinde una atención a los usuarios que tenga bases científicas]]"
 published:
 created: 2025-08-19
-description: "Las prácticas académicas en los programas de psicología en Colombia constituyen una parte fundamental del currículo. Los consultorios psicológicos uni…"
+description: Las prácticas académicas en los programas de psicología en Colombia constituyen una parte fundamental del currículo. Los consultorios psicológicos uni…
 tags:
-  - "clippings"
+  - clippings
+date: 2025-08-19
 ---
 - [View **PDF**](https://www.sciencedirect.com/science/article/pii/S1575181318300044/pdfft?md5=bbd14c08261f721725352942875f3c89&pid=1-s2.0-S1575181318300044-main.pdf)
 

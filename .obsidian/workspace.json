@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "682c41d6e8aef438",
+            "id": "ef2033deb4ccd994",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Calidad de las historias clínicas de los practicantes de un consultorio psicológico de una universidad colombiana.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Calidad de las historias clínicas de los practicantes de un consultorio psicológico de una universidad colombiana"
             }
           }
         ]
@@ -193,8 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "682c41d6e8aef438",
+  "active": "ef2033deb4ccd994",
   "lastOpenFiles": [
+    "Notas De La Universidad/Noveno Semestre/Modelacion/Diagrama de Flujo Creación del Café.md",
+    "Notas De La Universidad/Noveno Semestre/Deep Learning/Dropouts.md",
     "Notas De La Universidad/Primer Semestre/Primer Semestre.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Inteligencia Artificial.md",
     "Notas De La Universidad/Octavo Semestre/Inteligencia Artificial/Introducción al Tratamiento de Imágenes.md",
@@ -219,8 +225,6 @@
     "Notas De La Universidad/Sexto Semestre/Networking/Networking.md",
     "Notas De La Universidad/Sexto Semestre/Networking/Cisco Packet Tracer.md",
     "Notas De La Universidad/Noveno Semestre/Deep Learning/Deep Learning.md",
-    "Estudio Independiente/Linux/Linux.md",
-    "Notas De La Universidad/Noveno Semestre/Deep Learning/Dropouts.md",
     "Notas De La Universidad/Noveno Semestre/Modelacion",
     "Untitled 1.base",
     "Notas De La Universidad/Sexto Semestre/Networking/Imagenes/Pasted image 20250905100118.png",

@@ -1,3 +1,6 @@
+---
+date: 2025-09-13
+---
 
 ```mermaid
 graph TD
