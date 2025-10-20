@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Retro Windows",
-  "theme": "system"
+  "cssTheme": "Retroma",
+  "theme": "system",
+  "accentColor": "#12072c"
 }

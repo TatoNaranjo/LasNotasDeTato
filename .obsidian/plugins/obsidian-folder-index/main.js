@@ -541,7 +541,7 @@ var GraphManipulatorModule = class {
   }
   onLayoutChange() {
     this.graphsLeafs = this.app.workspace.getLeavesOfType("graph");
-    this.plugin.eventManager.emit("graphLeafUpdate", this.graphsLeafs);
+    this.onLeafUpdate(this.graphsLeafs);
   }
   onLeafUpdate(leaves) {
     leaves.forEach((value) => {
