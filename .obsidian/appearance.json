@@ -1,5 +1,8 @@
 {
-  "cssTheme": "Retroma",
+  "cssTheme": "Material Gruvbox",
   "theme": "system",
-  "accentColor": "#12072c"
+  "accentColor": "#12072c",
+  "translucency": false,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrains Mono"
 }
