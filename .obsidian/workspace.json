@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Optimizacion de Areas con Algoritmos Geneticos.md",
+                "bFile": "Notas De La Universidad/Noveno Semestre/Algoritmos Geneticos/Optimizacion de Areas con Algoritmos Geneticos.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: Optimizacion de Areas con Algoritmos Geneticos"
             }
           }
         ]
@@ -198,14 +198,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notas De La Universidad/Noveno Semestre/Deep Learning/PGC - Preparacion y Analisis del Dataset.md",
+    "index.md",
     "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural/Informe Asistente Clinico RAG.md",
     "Notas De La Universidad/Noveno Semestre/Imágenes/Pasted image 20251111073420.png",
     "Notas De La Universidad/Noveno Semestre/Imágenes/Pasted image 20251111073328.png",
     "Notas De La Universidad/Noveno Semestre/Procesamiento de Lenguaje Natural/Procesamiento de Lenguaje Natural.md",
-    "index.md",
     "Indicaciones BurgerAlley.md",
     "Notas De La Universidad/Noveno Semestre/Deep Learning/Preparación del PGC.md",
-    "Notas De La Universidad/Noveno Semestre/Deep Learning/PGC - Preparacion y Analisis del Dataset.md",
     "Notas De La Universidad/Noveno Semestre/Modelacion/Análisis de Viabilidad Técnica y Financiera de una Planta de Procesamiento de Café mediante Simulación en FlexSim.md",
     "Notas De La Universidad/Noveno Semestre/Modelacion/Investigación y Trabajo Simulation Modeling and Analisys..md",
     "Notas De La Universidad/Noveno Semestre/Modelacion/Diagrama de Flujo Creación del Café.md",
