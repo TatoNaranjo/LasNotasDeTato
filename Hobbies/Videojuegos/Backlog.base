@@ -1,0 +1,55 @@
+filters:
+  and:
+    - file.folder == "Hobbies/Videojuegos"
+    - file.hasProperty("englishTitle")
+views:
+  - type: cards
+    name: Todos
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.5
+    cardSize: 300
+  - type: cards
+    name: Platinados
+    filters:
+      and:
+        - and:
+            - file.hasProperty("played")
+            - played == true
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.55
+    cardSize: 300
+  - type: cards
+    name: Jugando
+    filters:
+      and:
+        - and:
+            - file.hasProperty("playing")
+            - playing == true
+    image: note.image
+    imageAspectRatio: 0.5
+    cardSize: 300
+    imageFit: contain
+  - type: cards
+    name: Por Jugar
+    filters:
+      and:
+        - and:
+            - file.hasProperty("toPlay")
+            - toPlay == true
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.5
+    cardSize: 300
+  - type: cards
+    name: Por Platinar
+    filters:
+      and:
+        - and:
+            - file.hasProperty("toComplete")
+            - toComplete == true
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.55
+    cardSize: 300
