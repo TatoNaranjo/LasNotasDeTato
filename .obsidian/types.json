@@ -25,6 +25,9 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "autoscroll-speed": "number",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "toPlay": "checkbox",
+    "playing": "checkbox",
+    "toComplete": "checkbox"
   }
 }
